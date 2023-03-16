@@ -1,4 +1,4 @@
-# Natural language processing course 2022/23: `Put name of your project here`
+# Natural language processing course 2022/23: `Project 3: Paraphrasing sentences`
 
 Team members:
  * `Gregor Zadnik`, `63170313`, `gz4131@student.uni-lj.si`
