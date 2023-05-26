@@ -17,7 +17,7 @@ def main():
     
     # Load models
     print(f'Loading model...')
-    tokenizer, model= load_models("models/small")
+    tokenizer, model= load_models("models/t5_small")
     print('Model loaded!')
 
     device = "cpu"
@@ -126,7 +126,7 @@ def main():
         validation_loss_values.append(eval_loss)
         print("Validation loss: {}".format(eval_loss))
         
-    torch.save(model, 'test_01_t5.pt')
+    torch.save(model, 'models/t5_final.pt')
 
 
 def preprocess_data(data):
