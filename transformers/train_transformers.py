@@ -7,13 +7,12 @@ from tqdm import tqdm
 from utils import tensor_datasets, convert_to_input, load_data, load_models
 import numpy as np
 
-max_length = 150
+MAX_LENGTH = 150
 BATCH_SIZE = 16
-
 
 def main():
     # Load data
-    data = pd.read_csv('data/paraphrases_30k_filtered.csv')
+    data = pd.read_csv('data/bigger dataset/paraphrases_30k_filtered.csv')
     xy_train, xy_val, xy_test = preprocess_data(data)
     
     # Load models
