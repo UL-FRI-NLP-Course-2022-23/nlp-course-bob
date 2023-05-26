@@ -44,19 +44,19 @@ For training new models via a pre-trained `t5_small` from [cjvt](https://hugging
 
 ## Thesaurus - synonyms method usage
 
-In order to use our synonym method - Thesaurus for paraphrasing, you first need to create a new environment using `requirements_mt.txt` file by running:
+In order to use our synonym method - Thesaurus for paraphrasing, you first need to create a new environment using `requirements_mt.yaml` file by running:
 
 ```
-$ conda create --name <environment_name> --file requirements_mt.txt
+$ conda create --name <environment_name> --file requirements_mt.yaml
 ```
 Afterwards, run the `thesaurus/main.py` script. The results will be visible in file `thesaurus/manual_data_results/results.csv`
 
 ## Metrics usage
 
-In order to use our metrics, you first need to create a new environment using `requirements_mt.txt` file by running:
+In order to use our metrics, you first need to create a new environment using `requirements_mt.yaml` file by running:
 
 ```
-$ conda create --name <environment_name> --file requirements_mt.txt
+$ conda create --name <environment_name> --file requirements_mt.yaml
 ```
 
 You can also use the environment from the thesaurus method.
