@@ -16,6 +16,12 @@ The report is available in the `submission 3` folder.
 
 ## Data preparation
 
+To use the following scripts, you need to first install the necessary packages using pip:
+
+```
+$ pip install -r requirements_data.txt
+```
+
 The initial unfiltered dataset (ccGigafida) is available in the `data/ccGigafida` folder. To filter out the non-sentences, simply run the `data/filter_data.py` script.
 This will produce the data present in the `data/gigafidaCleaned` folder.
 
