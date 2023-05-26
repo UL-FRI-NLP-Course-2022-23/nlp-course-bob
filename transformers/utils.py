@@ -6,7 +6,7 @@ from keras.utils import pad_sequences
 import pandas as pd
 import os
 
-MAX_LENGTH = 128
+MAX_LENGTH = 150
 def tensor_datasets(x, y, mask, batch_size):
     data = TensorDataset(x, mask, y)
     sampler = RandomSampler(data)
