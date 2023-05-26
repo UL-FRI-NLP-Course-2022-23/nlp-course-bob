@@ -1,0 +1,398 @@
+Več kot je razvidno je, da so zunanji stroški tako pri scenariju 1, kot pri scenariju 2 nižji pri OpenOfficu.
+Tehnologija CD-R omogoča uporabniku, da si ustvari lasten podatkovni ali glasbeni CD, in tako predstavlja izjemno priložnost za delitev, distribucijo in izmenjavo velike količine podatkov.
+Pomembno področje uporabe je tudi glasbena industrija, kjer je ta tehnologija poenostavila postopke testiranja, vzorčenja, promocije ipd.
+Polikarbonat, potreben za izdelavo CD-R plošč je shranjen v posebnem silosu v obliki majhnih kroglic.
+Pred uporabo ga je potrebno 2 uri sušiti pri temperaturi okoli 120 C. Oblikovalna naprava je sestavljena iz več delov.
+V rezervoarju se nahaja polikarbonat, pod njim pa poseben vijak, ki poda polikarbonat v model.
+Grelci segrejejo plastiko in dvignejo njeno temperaturo na 320 stopinj Celzija.
+Model ima dva dela, enega premičnega, v katerega se vstavi polikarbonat in drugega fiksnega.
+Potem, ko se model stisne in oblikuje plošček se ga ohladi z stisnjeno vodo, ki ima približno 120 stopinj Celzija.V fiksnem delu modela, se nahaja neke vrste matrika, katere naloga je ustvariti spirale na plošči.
+Morebitni odvečni del polikarbonata se odstrani, nato pa se CD-R medij mehanično izstavi iz modela.
+Oblikovanje je izjemno pomemben in zahteven proces.
+Obstaja možnost napak kot so npr. napačne mere spiral, popačena oblika samega ploščka ipd, zato je v tem koraku treba opraviti tudi določene preizkuse ustreznosti.
+Ta preizkus vsebuje vizualni pregled (praske,nepravilna oblika...),geometrijski pregled (globina spiral,radij...), birefringenčni pregled (lasersko preverjanje) in pregled mehaničnih lastnosti (prožnost...).
+Zaključna faza celotnega postopka je pakiranje.
+CDji so pakirani v škatlice s pomočjo avtomatskega stroja, zavite v celofan in zložene v škatle.
+Naprava avtomatsko vzame škatlico, jo odpre in s tem pripravi na vložitev plošče.
+Robotska roka zagrabi posamezen cd iz stojala in ga položi v škatlo.
+Sledi vstavljanje tiskovine v škatlice.
+Naprava za pakiranje operira s hitrostjo približno 100 CDjev na minuto.
+CDji tako preko proizvajalcev in nato trgovcev končajo v našem ljubljenem »pekaču«, ki neumorno dela iz dneva v dan.
+V roke nam je prišla HP Compaq Tabletka PC TC1000.
+Posodilo nam jo je podjetje Zupo d.o.o.
+Direktorju podjetja je »ta mala stvarca« postala tako všeč, da je prenesel vse svoje dokumente in s tem tudi poslovanje na TC1000.
+V to smo se lahko tudi sami prepričali.
+Cela kopica različnih priključkov od mreže, USB 2, tipkovnice itd. dejansko omogoča uporabo tabletke v resne namene.
+Nikakršnih problemov ni s priključitvijo v mrežo, deluje povezava z banko preko pametnih kartic, modri zob za tiskanje in podobno.
+Enota ima praktično vse, kar nekdo potrebuje za poslovanje.
+Iz slike pa vidimo, da je TC1000 uporaben tudi za navigacijo v avtomobilu, kar pritegne tudi širši krog uporabnikov.
+Kartico GPS smo vstavili v Compact Flash režo.
+10.4 palčni zaslon z ločljivostjo 1024x768 pik je dovolj velik, da vidimo vse podrobnosti, pa še nekaj prostora ostane.
+Čas sejmov je tu.
+CES, PMA, CeBIT, na vseh teh bodo proizvajalci predstavljali nove modele.
+Nižje cene, višja ločljivost, na veliko pa se govori tudi o bolj resnih digitalnih fotoaparatih z možnostjo menjave objektivov za sprejemljivo ceno.
+Tokratna zbirka fotoaparatov spada v zahtevnejši razred, še posebno zanimiv pa je »dvoboj«, lahko bi rekli med klasiko in zabavno elektroniko.
+Rezultat bo marsikoga osupnil.
+Kako pa se lahko takšne geoskrivalnice igramo tudi mi?
+V širnem svetu so geoskrivalnice znane že nekaj časa.
+Podrobno so pravila igre opisana na spletnem naslovu www.geocaching.com.
+Tam je tudi navedenih kar nekaj takšnih skritih predmetov oz. skrivalnic, razpršenih po celem svetu.
+Nekatere so dostopne s težavo, nekatere so pa na zelo obljudenih mestih.
+Osnovna funkcija sprejemnika GPS je, da nam pove točno lego v prostoru, točno uro ter hitrost in smer gibanja.
+In to je vse.
+Čeprav se to sliši tako malo, iz tega "skromnega" nabora rezultatov lahko ugotovimo še celo vrsto dodatnih parametrov, za katere je skupno to, da jih izračunavamo bodisi iz enega kompleta odčitkov ali pa iz več zaporednih odčitkov.
+Pri tem je v veliko pomoč procesorska moč, združena s sprejemnikom v enem ohišju ali pa v "zunanji" procesorski enoti, npr. dlančniku, prenosnem ali namiznem računalniku.
+Odčitek lege v prostoru lahko povežemo tudi z alarmom.
+Če se npr. zasidrana ladja prestavi za več kot predvideno dolžino, to lahko pomeni, da sidro slabo drži in zato grozi nevarnost, da ladja trči v drugo ladjo ali obalo, da nasede...
+Očitno je, da za brezhibno uporabo sprejemnika GPS v prostoru potrebujemo tudi brezhiben zemljevid.
+Izdelava natančnega zemljevida zahteva mnogo dela, zato ne sme presenetiti, da pogosto en sam zemljevid stane več kot sprejemnik GPS.
+Iz istega razloga so zemljevidi običajno narejeni tako, da so močno in na vse mogoče načine zaščiteni pred kopiranjem.
+Zemljevidi so shranjeni v obliki datotek, na diskih CD, pomnilniških modulih ipd.
+Za amatersko uporabo je na voljo množica ročnih modelov.
+Za druge izvedbe (npr. mobilne, za v avtomobile ali plovila, za spremljanje, v geodetske namene...) so na voljo izdelki tudi drugih proizvajalcev.
+Od ročnih sprejemnikov, na našem trgu najbolj pogosto srečamo izdelke proizvajalcev Garmin in Magellan.
+V sodobnih elektronskih merilnih in drugih elektronskih sistemih je zelo pomembno natančno poznavanje časa in/ali frekvence.
+V takšnih primerih je pogosto uporabljen sprejemnik, katerega edina naloga je, da zelo točno poda čas oz. frekvenco.
+Takšen način pridobivanja podatka o točnem času oz. frekvenci je neprimerno cenejši od zelo natančnih elektronskih ur, npr. cezijeve ure.
+Signali, ki iz oddaljenih satelitov prihajajo do nas, so zelo šibki.
+Njihovo delovanje lahko zmoti že na prvi pogled nepomembna ovira.
+Sprejemnik GPS bo s težavo deloval v notranjosti stavbe ali predora, kamor radijski valovi ne morejo prodreti.
+Enako velja, če skušamo uporabiti sprejemnik v avtomobilu, ki ima metalizirana stekla ali vgrajeno ogrevanje stekel.
+Če smo v okolju, kjer radijski valovi pridejo do sprejemnika po odbojih (npr. v strugah kanjonov ali rek, v mestih z velikimi stavbami ipd.) bo sprejemnik pri določanju lege lahko imel nekaj težav.
+Pri sodobnejših sprejemnikih, ki imajo zmogljivo procesiranje signala, so takšne motnje manj opazne.
+Seveda videu pripada tudi vhod za zvok.
+Možno je priključiti tudi dva računalnika (2 x RGB in) in zaslon (RGB out).
+Vsakemu pripada svoj vhod za zvok.
+Naprava pa se lahko še krmili preko RS-232 ali USB vmesnika.
+Zanimivo je, da dobimo zraven kar tri napajalne kable in sicer za Evropo, Ameriko, in Veliko Britanijo.
+To nekako dokazuje, da je projektor prirejen za prenašanje.
+Priložena je tudi posebna knjižica, ki se imenuje Varnostne inštrukcije.
+Notri piše, da v projektor ne smemo nič vtikati, da ga ne smemo sami »šraufati«, da ne smemo zastreti vantilacijskih odprtin, ker lahko močno »zašvica«, da ne smemo po njem polivati tekočin, da ne smemo vanj gledati, da ga ne smemo premikati med delovanjem, ne uporabljati v prašnih in zelo vlažnih prostorih in z občutkom ravnati z zvokom, da ne bi slučajno motili sosedov.
+Res to piše.
+Na zgornji strani sta simetrično vgrajena dva enovatna zvočnika, ki v prostor oddajata pohvale vreden stereo zvok.
+Za enostavnejše upravljanje projektorja je na voljo pregleden in »razumljiv« daljinski upravljalec, pregledno in grafično prijazno pa so oblikovani tudi meniji, ki se odzivajo hitro.
+Daljinec ima vgrajeno tudi lasersko kazalo.
+Projektor ima digitalni popravek trapezne slike, sliko v sliki, digitalni zum in zamrznitev slike, vse kar mora pač imeti.
+Contra: brez DVI-I priključka, nima vgrajenih najnaprednejših tehnologij sRGB, DCDi …, trajanje žarnice
+Prvi dlančniki so se povezovali z osebnimi računalniki preko serijskega vmesnika (RS-232), čez čas pa so se pojavili tudi modeli z možnostjo brezvrvičnega povezovanja (IrDA).
+Se še spomnite, kako smo vsi čakali na prve modele, ki so napovedovali možnost sinhronizacije podatkov preko vmesnika USB?
+Hitrost in preprostost, skratka vse kar si lahko le želimo.
+Žal pa se velikokrat zgodi, da z eno pridobitvijo drugje izgubimo.
+Če se proizvajalcu zazdi, da je trg potencialnih kupcev dovolj velik in tržno zanimiv, ponudijo tudi podporo določeni kompatibilnosti “za nazaj”, ki marsikdaj ni vedno prav poceni.
+Če gre za izdelek, ki povrhu uporablja “proizvajalčev” standard, je lov na kupce odprt.
+Ena izmed prednosti DP-450 je možnost programske nadgradnje.
+Tako smo iz podpornih spletnih strani sneli zadnjo različico krmilnega programa enote, ter enoto nadgradili.
+Postopek je na moč enostaven in je potekal brez zapletov.
+Nov program, naj bi odpravil nekatere znane težave, prav tako pa je dodal podporo za predvajanje glasbe v formatu Ogg Vorbis, vendar pa predvajanje filmov, kjer je zvok zakodiran v tem formatu, še ne dela.
+Podjetje Pretec je predstavilo pomnilniške kartice tipa CF (CompactFlash) s kapacitetami pomnilnika 1,5, 2 oziroma 3 GB.
+Kartice bodo na prodajnih policah kasneje letošnjega leta, možno pa jih je bilo videti na sejmu Comdex.
+Infotehna je razvila spletni aplikaciji za likvidacijo računov LIRA in elektronski arhiv, ki omogočata obvladovanje računov in spremne dokumentacije ter arhiviranje dokumentov.
+Aplikativna rešitev LIRA je v celoti skladna z Zakonom o elektronskem poslovanju in elektronskem podpisu ter je revizijsko preverljiva.
+S sprejemom Zakona o elektronskem poslovanju in elektronskem podpisu je elektronsko upravljanje dokumentov v Sloveniji dobilo novo dimenzijo.
+Zakon, ta predstavlja temelj za pravno veljavnost elektronskih dokumentov, je tako odprl široke možnosti za uporabo sistemov za upravljanje dokumentov v podjetjih..
+Piše: Esad Jakupović@guest.arnes.si
+Kvantna mehanika - sodobna teorija, ki pojasnjuje tako obnašanje atomov, molekul in trdnega (kristalnega) stanja kot tudi polja med njimi (kvantna teorija polja).
+Vse spremembe se dogajajo skokovito (kvantno) v določenih, nedeljivih količinah energije (v kvantih).
+Velikosti kvantnih skokov določa temeljna konstanta - Planckova kvanta nedoločenosti.
+Princip nedoločenosti - pravilo, ki ga je ustanovil eden utemeljiteljev kvantne mehanike, Werner Heisenberg, po katerem ni mogoče istočasno določiti položaj in količino gibanja (zmnožek hitrosti in mase) elementarnih delcev
+Okvirček: Samo ena resna varnostna luknja v Microsoftovi programski opremi lahko običajnim uporabnikom naredi več škodi kot vse luknje skupaj v kakšnem konkurenčnem izdelku!
+Glavobolov pa tako ali tako nikdar ne zmanjka, kar dokazujejo tudi številke.
+V celotnem lanskem letu je Microsoft izdal 72 varnostnih popravkov za svoje izdelke.
+To je za 12 več kot predlani, ter 28 manj kot leta 2000 ko jih je bilo največ.
+Vsi ti popravki so bili izdani samo za krpanje varnostnih lukenj.
+Okvirček: V celotnem lanskem letu je Microsoft izdal 72 varnostnih popravkov za svoje izdelke.
+Tako se lahko zgodi, da so zaradi ene varnostne luknje izpostavljeni prav vsi uporabniki operacijskih sistemov Windows.
+Nekatere napake celo posežejo po računalnikih Macintosh.
+Najlepši primer kakšne razsežnosti imajo lahko napake je napaka v komponenti imenovani Office Web Component.
+Napaka v tej komponenti povzroči težave v kar 13 (!)
+Zanimiv je tudi pregled števila popravkov glede na posamezen operacijski sistem.
+Windows XP so si zaslužili 19 popravkov, Windows 2000 še 5 več (skupno torej 24), Windows NT 4 samo 14, Windows 9x sistemi pa le 9.
+Spletni filtri niso popolna rešitev za prav vse varnostni luknje v spletnem brskalniku, ampak lahko le preprečijo izvajanje potencialno škodljivih ukazov v brskalniku.
+Ker zahtevajo tudi nekaj znanja pri nastavitvah filtrov so namenjeni bolj izkušenim uporabnikom.
+Med boljše filtre sodita WebWasher Classic (http://www.webwasher.com) in Proxomitron (http://www.proxomitron.org).
+Slika Sub2ssa.bmp: Program Sub2ssa omogoča pretvorbo datotek SUB v format SSA, s katerim se VirtualDub bolje razume.
+To pomeni, da se bo prvi podnapis pojavil v dvajseti sekundi filma.
+Sedaj zaženemo film in preverimo, če je res tako.
+Če prvi podnapis deluje, potem za vsak slučaj preverimo še kakšnega na sredini filma.
+Če je vse v redu, potem je zadeva pripravljena za nadaljevanje.
+Kaj pa če ni?
+Uporabimo lahko kak program, ki omogoča prilagoditev časovnih zamikov podnapisov.
+Eden od njih je SubAdjust.
+Ta za delo z datotekami SSA ni najbolj primeren, zato je najbolje, če pretvorbo izvršimo najprej v datoteko SUB in šele nato pretvorimo.
+Časovni zamik poteka tako, da izberemo datoteko SUB, nato izberemo ime izhodne datoteke in hitrost filma v okvirju Frame Rates.
+To je zelo pomembno, saj če bo ta hitrost napačna, ne bomo dobili pravega zamika.
+Nato pritisnemo gumb File reference Time in prikazal se bo čas prikaza prvega podnapisa.
+Če ugotovimo, da ta čas ni enak kot tisti v filmu, ga lahko v okvirju Reference Time popravimo tako, da bo pravi.
+Nato izberemo Adjust mDVDP in pritisnemo gumb Go. Nato to novo datoteko pretvorimo v SSA in ugotovimo, če je vse v redu.
+Obstaja pa še ena zanimiva metoda kodiranja, kjer je mogoče postopek vstavljanja podnapisov in kodiranja v format MPEG izvesti na en mah.
+Pri tem je potrebno uporabiti program VirtualDub in kodirnik TMPGEnc.
+Slednji je bil že na prejšnjem MikroCD-ju, a smo ga tokrat uvrstili še enkrat.
+Trik je v tem, da program VirtualDub uporabimo kot »podajalnik« za program TMPGEnc.
+VirtualDub namreč pozna funkcijo imenovano Frame Serving, ki omogoča posredovanje video in zvočnih podatkov drugemu programu, če ta seveda to omogoča.
+In TMPGEnc je eden takšnih.
+Najprej pa moramo podporo podajanja vključiti.
+To naredimo tako, da na disku poiščemo imenik, v katerem imamo program VirtualDub in zaženemo datoteko AuxSetup.
+To je potrebno narediti le enkrat in ne vsakič, ko bi radi uporabili to funkcijo.
+Nato je postopek do samega shranjevanja datoteke popolnoma enak kot če bi hoteli podnapise vstaviti neposredno v datoteko AVI.
+Podnapise torej pripravimo, aktiviramo filter Subtitler in izberemo način kompresije.
+Sedaj pa namesto da bi izbrali shranjevanje datoteke izberemo File/Start frame server.
+Računalnik nas bo najprej vprašal za ime, kjer lahko potrdimo kar njegovo izbiro.
+Nato se bo odprlo okno, kjer bo VirtualDub od nas zahteval določitev datoteke VDR.
+To naj vas ne zmede in v vrstico z imenom vpišite ime filma in mu dajte končnico AVI.
+Ko boste pritisnili gumb Save se bo odprlo majhno okence, kjer vas VirtualDub obvešča, da je pripravljen.
+Sedaj zaženite TMPGEnc in za vhodno datoteko izberite datoteko AVI, ki ste jo določili v programu VirtualDub namesto datoteke VDR.
+Če boste pogledali na disk boste videli, da ima datoteka dolžino 0, kar je popolnoma pravilno, saj VirtualDub vanjo ni še ničesar zapisal.
+In tudi ne bo, saj datoteka služi le kot vmesni člen med obema programoma.
+Če sedaj nastavite še vse ostale parametre kodiranja MPEG in ga zaženete, boste po nekaj urah dobili film v formatu MPEG, v katerem bodo tudi podnapisi.
+Ta nam omogoča pregledovanje sporočil, ne da bi jih predhodno odprli.
+V primeru, da je k sporočilu pripet dokument oz. datoteka, pa se v glavi podokna za predogled prikaže priponka.
+S klikom na omenjeno sponko lahko dostopamo do pripetih dokumentov, torej jih lahko odpremo ali shranimo.
+Po zagonu Microsoft Outlook Expressa bo v oknu za predogled pri sporočilih, ki vsebujejo pripete datoteke, tako vidna priponka, kot bo tudi aktivna orodna vrstica za oblikovanje HTML sporočil.
+V času, odkar bolj resno uporabljam digitalni fotoaparat se mi je nabralo skoraj 40 CDjev s fotografijami.
+Številka raste tako rekoč iz tedna v teden, število fotografij pa se je povzpelo preko 14000.
+Kaj to pomeni pri iskanju določenih posnetkov čez čas, vam je verjetno jasno.
+Kaos še najlepše opiše to stanje.
+ACDSee ima za take primere zelo dobro rešitev, pravzaprav kar dve.
+Prva je "Albums", druga pa "Photo Discs".
+Obe najdete na levi strani v delu okna, ki je namenjen tudi brskanju med mapami in iskanju slik.
+Možnost "Albums" je namenjena predvsem združevanju slik v skupine, medtem ko s "Photo Discs" naredimo bazo celotnega CDja.
+V obeh primerih program v svojo bazo prepiše le pomanjšano sličico ("Thumbnail") in ne cele fotografije, da ne bo pomote.
+Računalnik na sliki nosi kodno ime Mini PC in je po dimenzijah malce večji od klasičnih dlančnikov, po zmogljivostih pa se lahko kosa z prenosnimi računalniki.
+V njem je, no kaj pa lahko drugega pričakujemo, operacijski sistem Windows XP, Intelov procesor, barvni zaslon velikosti 5,8 palcev in ločljivosti 800 x 480 pik, trdi disk 20 GB in integriran vmesnik za brezžično omrežje.
+Kot je razvidno iz slike ima računalnik tudi majhno a popolnoma funkcionalno tipkovnico, preko vmesnika USB pa je nanj moč priključiti različne zunanje enote, kot sta na primer miška in optični pogon.
+Kljub majhnim dimenzijah naj bi vgrajene baterije zadoščale za med 3 in 4 urami dela.
+Podjetje Vulcan tega prenosnika ne bo izdelovalo, je pa pripravljeno idejo zanj (specifikacijo) prodati zainteresiranim proizvajalcem računalniške opreme.
+Ti pa naj bi potem napravo izdelovali in tržili po ceni med 300 in 400 tisočaki.
+Dlančnik ima vgrajen barvni zaslon ločljivosti 320 x 480 pik, katerega je mogoče vrteti okoli vzdolžne osi, operacijski sistem Palm OS 5, funkcije digitalnega diktafona in predvajalnika MP3 datotek in 200 MHz procesor tehnologije ARM.
+Če naštejemo le nekaj najosnovnejših podatkov.
+Zanimivo je tudi, da so v dlančnik integrirani vmesnik Bluetooth, vmesnik za priklop na brezžično omrežje WLAN (IEEE 802.11b) pa je mogoče dokupiti posebej.
+Dodan je še vmesnik AV s pomočjo katerega lahko slike v formatu jpeg gledamo tudi na tv sprejemniku.
+Priključna postaja skrbi za polnjenje vgrajenih baterij in za povezavo z računalnikom preko vmesnika USB in vgrajene programske opreme za sinhronizacijo.
+Dodana je še programska oprema, ki omogoča pregledovanje različnih tipov datotek (.doc, .exe, .pdf) in sonyeva programska oprema za pregledovanje digitalnih fotografij in videa.
+Dlančnik bo mogoče v tujini kupiti za preračunano okoli 200 tisočakov.
+V eni polovici naprave so tako leče in senzor za kamkoder, dočim je v drugi polovici ves mehenizem za digitalni fotoaparat pri čemer je omogočano tudi preprosto preklapljanje med enim in drugim.
+Kot digitalni fotoaparat omogoča naprava ločljivost fotografije 4,13 milijona pik (ali če hočete 2272 x 1704 pik), trikratno optično povečavo, vgrajen pa je tudi flesh.
+Fotografije shranimo na pomnilniško kartico MemoryStick, za prenos slik na računalnik pa poskrbi vmesnik USB.
+Drugo tipalo CCD ločljivosti 640 tisoč pik je namenjeno zajemanju videa.
+Prav tako so tu tudi drugačne zmogljivosti povečav, saj je omogočena desetkratna optična povečava in vsaj po podatkih proizvajalca do 800 kratna digitalna povezava.
+Video je mogoče shraniti v obliki MiniDV ali MPEG4, za prenos videa na računalnik pa poskrbi vmesnik FireWire.
+Drugi novosti projektorja LV-X2 in LV-S2, pa sta manjša (dimenzije B5) in predvsem lažja saj sta namenjena mobilnim uporabnikom.
+Vgrajeni sistem Optical Box vsebuje 3P-barvno kombinacijsko prizmo z visokim indeksom loma svetlobe, ki zagotavlja visoko kakovosten video izhod in zmanjšuje zabrisanost robov.
+Specialne fluoritne leče zmanjšujejo toplotno obremenitev na polarizajoči plošči, zaradi tega pa so deli projektorja hladnejši, kar zmanjšuje število potrebnih gradnikov.
+Projektor LV-X2 podpira ločljivost true-XGA in dosega svetilnost 1.100 ANSI-lumnov, medtem ko LV-S2 uporablja ločljivost SVGA ter svetilnost 1.100 ANSI-lumnov.
+Bistvo sistema je ploska satelitska antena vgrajena neposredno za »grbo« letala.
+Mehanizem usmerjanje antene je povezan z letalovim navigacijskim računalnikom, tako da je le ta vedno usmerjana na komercialni komunikacijski satelit.
+Ta služi za povezavo letala z zemeljsko postajo, ki predstavlja prehod (gateway) v internet.
+Antena deluje na frekvenčnem področju med 12,5 in 18 GHz.
+Drug podsistem sistema pa je ožičeno in brezžično računalniško omrežje na krovu letala, oziroma bolje rečeno v potniški kabini.
+Sestavljata ga omrežni strežnik in internet strežnik z največkrat uporabljeno vsebino, ki je tako že na krovu letala.
+Potniki prvega in poslovnega razreda bodo imeli Ethernet priključek, ostali pa se bodo morali zadovoljiti z brezžičnim WLAN omrežjem.
+Testno dosežene hitrosti so do 3 Mb v smeri do uporabnika in 128 kb (kasneje bodo to hitrost dvignili na 750 kb) v smeri od uporabnika.
+Storitev je do 15. aprila brezplačna, kasneje pa naj bi veljal med 30 do 35 evrov na polet.
+Vljudno vas vabimo na našo spletno stran www.mojmikro.si, kjer se nahaja naša anketa.
+Izmed vseh udeležencev bomo v mesecu Marcu izžrebali tri, ki bodo dobili matično ploščo podjetja Epox.
+Vaše odgovore in nasveta pa bomo uporabili tako, da bo revija še boljša in bo predvsem bolj upoštevala vaše želje in potrebe.
+Euro Plus je računalniško podjetje, ki se že od leta 1991 ukvarja z razvojem zahtevne industrijske programske opreme, predvsem na področju avtomatske identifikacije in uporabe črtne kode.
+V zadnjem desetletju je podjetje razvilo sodobno programsko opremo NiceLabel, ki pokriva vse potrebe modernega oblikovanja in tiskanja etiket.
+Programska oprema NiceLabel velja za izdelek, ki je v svetu zelo poznan.
+Preveden je v 20 jezikov in ga podjetje Euro Plus trži po celem svetu s pomočjo partnerjev in preko lastne distribucijske mreže.
+Družino izdelkov Nice Label smo si ogledali tudi mi in se prepričali, da si podjetje Euro Plus zasluži pridobljeni status »Microsoft Certified Partner«.
+NiceMemMaster je program za prenos pisav TrueType in slik v pomnilnik tiskalnika.
+Rabo interneta v privatne namene nima finančnih posledic le zato, ker zaposleni ne delajo tega, kar naj bi, pač pa lahko ima zadeva tudi povsem druge dimenzije.
+Če so podatki, ki so na računalnikih podjetja, last podjetja, kaj bi se zgodilo, če bi prišla inšpekcija in na računalnikih našla kup datotek MP3 ali filmov Divx?
+Bi za to odgovarjalo podjetje?
+Bi podjetje plačalo kazen?
+Kako je zadeva (če sploh je) zakonsko rešena, ne vemoVerjetno bi veljalo enako, kot če bi delavec storil prometni prekršek s službenim avtomobilom.
+Kazni podjetje verjetno ne bi plačalo.
+Kakor koli že, vse skupaj bi bila precejšnja nešečnost tako za podjetje kot tudi za delavca.
+Ta vrstica nakazuje, da lahko na strežniku teče aplikacija Microsoft SQL Server, zato je priporočljivo, da se namesti ustrezni popravek, ki je dostopen na: http://www.microsoft.com/technet/security/bulletin/MS02-039.asp.
+Glavni cilj črva SQLSlammer je napad, poimenovan >zavrnitev storitev< (DoS - Denial of Service), na omrežne strežnike v podjetjih, kar naredi s pošiljanjem številnih paketov s kodo črva na komunikacijska vrata 1434.
+Njegovo funkcioniranje in značilnosti so podobne črvu Code Red, ki je izkoriščal ranljivost v spletnih strežnikih IIS in se je lahko hitro širil, ne da bi pustil sledi v tradicionalnih pomnilniških napravah.
+Po podatkih raziskovalnega podjetja Computer Economics je škoda črva Code Red v letu 2001 dosegla 2.970 milijonov evrov.
+Pri tem ko pride v računalnik virus in je ta odkrit, imate na voljo tri možnosti, poleg seveda odpravljanja težave.
+Da se izpiše obvestilo, ali pošlje email ali pa se obvesti drug računalnik preko mrežnih protokolov.
+Kaj bo Si.mobil ponudil svojim uporabnikom, je odvisno le od njega samega.
+Na razpolago ima izredno veliko paleto storitev, ki jih lahko dokaj enostavno ponudi svojim uporabnikom.
+Ali bo sposoben to storiti pravočasno in predvsem zadovoljivo, pa bo pokazal čas.
+Konkurenca ne bo stala križem rok in nedejavno opazovala, kaj počne Si.
+Si.mobil je bil že sedaj član večje grupacije, a razen redkih izjem, njegovi uporabniki niso bili deležnih konkretnejših prednosti.
+Naprava sama je tako po videzu od zunaj in od znotraj živa preproščina.
+Pod nosilec praznih medijev je vdelan zapisovalnik, pod njim pa je poseben tekoči trak izdelan iz nekaj jermenčkov.
+Zapisovalnik odpre vratca, prazen medij pade vanj, vrata se zaprejo in že je v teku zapisovanje.
+Ko se to konča, se vrata odprejo, posebna jezička dvigneta medij, vrata se zaprejo in medij pade na trak, ki ga odpelje do posebnega odložišča.
+To ne, saj navadno so najboljše ravno najpreprostejše rešitve, vsaj kar se tiče vzdržljivosti in zahtevnosti vzdrževanja.
+Prav gotovo pa je zadeva veliko prepočasna za sedanje čase.
+Hitrost zapisa 6 polnih (650 MB) CD-jev na uro, pač ni ne vem kaj.
+Posebej če vas čaka zapis serije nekaj sto CD-jev.
+Če pomislimo, da je mogoče v nosilec vtakniti 50 CD-jev, da je vse popolnoma samodejno in da zadeva lahko dela tudi ponoči, ko nas ne moti kaj se z njo dogaja pa je vse skupaj že bolj privlačno.
+Navadno pa takšni reklamni CD-ji niso ravno do zadnjega popisani, kar pomeni da bo delo končano veliko hitreje.
+Če se nameravate odpraviti po nakupih, je potrebno imeti kar precejšnjo zalogo.
+Cene plazemskih zaslonov so za povprečnega državljana naravnost astronomske.
+Za najmanjšega, ki po diagonali meri dobrih 81 cm (32 palcev), boste morali odšteti preko milijon in pol tolarjev.
+Verjetno bomo za enkrat ostali še kar pri klasičnih TV sprejemnikih, saj podobne dimenzije stanejo vsaj desetkrat manj.
+Nekoč pa se bo tudi to spremenilo.
+Vse to je le okvir v katerega je vpeto bistvo delo, poslovanje, izobraževanje, zabava, življenje skratka, ki je podprto z vsemi dobrinami informacijske tehnologije sedanjost in prihodnosti.
+Bill Gates je vendar že pred časom zagotovil, da se bo »poslovanje v naslednjih letih spremenilo bolj, kot se je v minulih petdesetih letih«.
+Se informacijsko razviti svet veliko bolj razlikuje od Slovenije, kot bi lahko mislili?
+Letošnja prva konferenca o e oz. i-uspešnosti je ponovno odprla tudi osnovno vprašanje, ali je ta uspeh odvisen le in samo od posameznih gospodarskih subjektov, ali gre za veliko širše iskanje odgovorov.
+Vendar pa pri IBMu mislijo na majhne detajle, ki so povsem funkcionalnega značaja in nas vedno znova pozitivno presenetijo.
+Tako ima denimo preizkušeni model ThinkPad T30 na zgornjem robu zaslona majhno lučko, ki je namenjena dodatni osvetlitvi tipkovnice.
+Ste že poskusili kdaj delati s prenosnim računalnikom ponoči, ne da bi prižgali luč?
+Svetloba iz zaslona je preslaba, da bi lahko uporabljali tipkovnico brez težav.
+V praksi obstajajo različni algoritmi za izločanje značilk, kot na primer »kepstralna analiza«, ki iz govora izločijo tiste parametre, ki so najbolj povezani z vsebino izgovorjenega.
+Te algoritme, ki pogosto izhajajo iz FFT algoritma, običajno izvajamo na krajših prekrivajočih se odsekih govora, vendar običajno na enem odseku izvedemo kombinacijo različnih algoritmov ter rezultate, zaporedje števil, združimo v skupen vektor, ki mu pravimo vektor značilk.
+Med postopkom izločanja značilk dano izgovarjavo pretvorimo v zaporedje vektorjev značilk razpoznavanje posameznih izgovarjav tako predstavlja ugotavljanje podobnosti med zaporedji vektorjev značilk.
+Poleg modeliranja besed uporabimo prikrite modele Markova pogosto tudi za modeliranje govornih enot manjših od besede.
+Takšen pristop temelji na predpostavki, da lahko poljubni besedni model sestavimo iz modelov manjših govornih enot.
+V splošnem lahko kot gradnike uporabimo modele jezikovnih enot kot so zlogi, polzlogi, fonemi ali pa akustično določene enote kot so foni in njihove različice.
+Glavne prednosti takšnega modeliranja so, da količina učnih podatkov ne narašča sorazmerno z velikostjo slovarja razpoznanih besed in da lahko po končanem učenju gradnikov poljubno dodajamo nove besede brez gradnje dodatnih modelov.
+S takšnim načinom modeliranja uspešno rešujemo problem razpoznavanja govora z velikim slovarjem, ter razpoznavanje vezanega in tekočega govora.
+Najpogosteje s prikritimi modeli Markova modeliramo fone in njihove različice.
+Število fonov je sicer lahko zelo veliko vendar v sistemih za razpoznavanje govora celoten nabor fonov omejimo na določeno število skupin (med 30 in 100) glede na njihove akustične lastnosti..
+Kot model fona običajno uporabimo levo-desni model s tremi stanji
+Uspešnost razpoznavanja, izmerjena na bazi testnih posnetkov, posnetih v okolju identičnem dejanskem okolju med uporabo storitve, znaša 94%.
+To je sicer visoka vrednost, ki pa se v praksi zmanjša; pri dejanski uporabi je namreč govor, ki ga sliši razpoznavalnik pogosto opremljen z različnimi motnjami (motnje iz okolice, govor v ozadju, nepredvideni odgovori, ...).
+To je povsem običajen pojav pri uporabi tehnologije razpoznavanja govora v praksi, ki ga ne moremo preprečiti, lahko pa zmanjšamo njegov vpliv s pozornejšim načrtovanjem samega poteka pogovora med uporabnikom in sistemom (jasna in kratka vprašanja, sugeriranje odgovorov, implicitno potrjevanje, predvajanje navodil, ...).
+Celotna uspešnost delovanja sistema, ki vključuje razpoznavanje govora, je v praksi vedno odvisna tako od uspešnosti razpoznavanja razpoznavalnika kot tudi od strukture in učinkovitosti poteka dialoga.
+Druga možnost reševanja problema raznolikosti vektorjev značilk pa predstavlja določanje porazdelitvenih verjetnostnih funkcij za vsak element vektorjev značilk .
+Namesto da bi za vsak vektor značilk določili eksplicitno vrednost verjetnosti pojava v stanju določenega modela (), lahko določimo porazdelitveno verjetnostno funkcijo , s pomočjo katere lahko izračunamo za katerikoli vektor značilk .
+Na ta način lahko izračunavamo brez uporabe vektorske kvantizacije.
+Modelom, ki temeljijo na tem principu pravimo Zvezni prikriti modeli Markova.
+Takšni modeli so sicer računsko neprimero bolj zahtevni kot diskretni, vendar omogočajo doseganje bistveno večje uspešnosti razpoznavanja govora, zaradi česar so v praksi najpogosteje uporabljeni v sistemih za avtomatsko razpoznavanje govora.
+V nadaljevanju se bomo osredotočili predvsem na Zvezne prikrite modele Markova
+Na začetku pa si osvežimo spomin o tem, kaj nam pravzaprav Reason ponuja.
+Program je nekakšen MIDI sekvenčnik z vrsto različnih glasbenih inštrumentov (samplerji, sintetizatorji, ritem mašina, zvočni učinki, mešalna miza, ipd), ki jih poljubno dodajamo v (navidezno) zvočno omarico (navidezna 19-palčna omarica) in jih med seboj povezujemo.
+Ta omarica je pravzaprav edinstven primerek v svetu sekvenčnikov, kjer vlada vsaj v tem smislu na tem področju neka konzervativnost.
+Poleg teh je v verziji 2.0 še nekaj drugih novosti oz. izboljšav.
+Najbrž bo nekaterim bralcem naredilo veselje dejstvo, da Reason sedaj podpira tudi zelo razširjene Sound fonte.
+Vendar pa vam zagotavljam, da jih vsaj v primeru uporabe zvokov godal ne boste potrebovali prav pogosto.
+Kako smo testirali (okvirček)
+Že običajna tržna poteza mnogih programskih hiš, ki se ukvarjajo z razvojem komercialnih programov za množice je, da pred Novim letom izdajo novo verzijo.
+Tako je tudi pri nemški firmi ChessBase.
+Decembra lani je namreč zagledal luč sveta novi Fritz 8.
+- Predlagal sem ji, naj greva v moje stanovanje na kavo in je pristala.
+Zgoraj omenjeni tehnologiji CIS in LIDE za sedaj (nikoli ne reci za vedno) nista primerni za zajemanje informacij iz prosojnih negativov predvsem zaradi majhnih moči, kar ima za posledico majhno maksimalno gostoto imenovano Dmax.
+Včasih se maksimalna gostota preprosto zamenjuje s kontrastnim razponom ÄD (razliko med maksimalno gostoto in minimalno gostoto) ali gamo, razmerjem med kontrastnim razponom originala in kopije.
+D ali density (gostota) je vrednost, ki nam pove, kolikšen del svetlobe, ki se odbije od ali gre skozi motiv, lahko pri zajemanju uporabimo.
+Density je logaritemska vrednost razmerja med vpadno in izhodno količino svetlobe (D=log(Io/I)).
+Vsako povečanje vrednosti D za 0,3 pomeni enkrat temnejšo površino.
+Gostota je lahko reflektivna (odbita od papirja) ali transparentna (prepuščena skozi film).
+Pri refleksiji je razmeroma enostavno.
+Dmax ne bo nikoli presegel 1,7 niti pri najkvalitetnejših črno-belih fotografijah ne.
+Običajno se bomo srečevali z ÄD razponom kontrasta okoli 1,2 1,5 ali še manj, če je fotografija natisnjena na polmat ali mat papir.
+Pri slabih fotografijah bomo lahko našli ÄD tudi izpod 0,8.
+Kontrastni razpon je vedno manjši od maksimalne gostote, kajti
+Za razliko od CCD polj, ki so v glavnem ali monokromatska ali z RGB (CMY) vzorcem filtrov, poznamo dve vrsti linearnih CCD senzorjev, ki se uporabljata v večini vrhunskih namiznih bralnikov.
+Enostavnejši so z le eno vrstico in imajo na njej vzorec R-G-B filtrov (no, ti so prihranjeni za bralnike nižjega razreda), običajno pa imamo tri-linearne CCD senzorje s po npr. 10.200 elementi v vsaki 72 mm široki vrstici (Kodak KLI-10203 - 3 x 10.200 točk) in z vsako vrstico s svojo barvo filtrov.
+Gostota elementov na tem senzorju je 3600 točk na en palec (inch) širine, kar nam poda tudi horizontalno ločljivost takega optičnega bralnika 3600 točk na inč ali DPI (dots per inch) oziroma bolj natančno SPI (samples per inch) v primeru zgoraj omenjenega senzorja.
+V tem primeru gre za optično ločljivost, ki se giblje do 3200 SPI pri namiznih optičnih bralnikih (najnovejši Epson Perfection 3200P), do 4800 SPI pri specializiranih bralnikih za filme (Minolta Scan Multi Pro a le za format Leica filma) in več točk na palec pri specializiranih toda pregrešno dragih bobnastih in »navidezno« bobnastih »virtual« drum bralnikih.
+LPI označuje linijsko ločljivost, kajti če ima tisk ločljivost 300 DPI in to natisnemo, lahko dobimo črno ploskev, ki izgleda enak pri 60 DPI ali 1200 DPI.
+Ločljivost LPI označuje linije in je sestavljena iz vrstice belih točk in vrstice temnih točk.
+Število ločljivosti točk je dvakrat večje od števila ločljivosti linij.
+Število SPI mora biti vsaj 2,2 krat večje od DPI oziroma 4,4 krat večje od LPI tiska, za katerega optično prebiramo predlogo.
+To je sicer malce poenostavljena shema, toda za začetek dovolj.
+Ločljivost 2400 x 4800 SPI
+Podjetje HIT d.d. izvaja igralniško in hotelirsko dejavnost v Sloveniji, Bosni in Hercegovini, Črni Gori in na Nizozemskih Antilih.
+HIT, v katerem je več kot 1.600 zaposlenih, je v letu 2001 zabeležil 37,2 milijarde SIT bruto prihodkov, s čimer se je uvrstil med največje slovenska izvoznike in na prvo mesto med izvozniki storitev.
+Ker gre pri trženje s SMS sporočili za obliko direktnega marketinga, ki je zelo podobna trženju z e-pošto, velja upoštevati podobna pravila kot veljajo pri pošiljanju e-pošte.
+SMS sporočilih nikakor ni dovoljeno pošiljati »vsepovprek« in komurkoli.
+Na listi prejemnikov SMS sporočil so lahko samo tiste osebe, ki so dale privoljenje oz. izrazile izrecno željo po prejemanju sporočil.
+Pri pošiljanju je za razliko od e-pošte potrebno nujno upoštevati časovno komponentno.
+Medtem, ko lahko e-pošto pošljete kadarkoli, bi bilo pošiljanje SMS-jev ob 3h zjutraj, ko bi iz spanca pregnali večino uporabnikov, prava katastrofa.
+Sporočila je priporočeno pošiljati takrat, ko obstaja največja verjetnost odziva.
+V Sloveniji je v zadnjem času opaziti porast SMS anket in nagradnih iger, ki so med oglaševalci najbolj uporabljeno sredstvo za pridobivanje podatkov o uporabnikih in njihovih privoljenj za pošiljanje oglasnih SMS sporočil.
+Običajno morajo namreč uporabniki v zameno za udeležbo v nagradni igri, podati dovoljenje, da bodo sprejemal oglasna sporočila.
+Pred dobrim letom dni smo lahko celo na televiziji videli reklamo za Twixovo nagradno igro, ki se je izvajala striktno preko SMS sporočil.
+V času lanskoletnih zimskih olimpijskih iger so v podjetju Eon pripravil SMS aplikacijo - nagradni olimpijski kviz, ki je bil namenjen vsem ljubiteljem športa in tistim, ki so se želeli preizkusiti v poznavanju zimskih olimpijskih športov.
+Vsak igralec je moral poslati SMS sporočilo z besedo »ZOI« in odgovoriti na tri zastavljena vprašanja.
+V podjetju BTC, ki je bil sponzor SMS olimpijskega kviza so bili izredno zadovoljni z odzivom, saj je bilo v dobrih štirinajstih dneh odigranih več kot 10.500 iger, sodelovalo pa je že več kot 3.500 različnih igralcev.
+Poleg visoke stopnje odzivnosti, ki rezultira v številu pridobljenih privoljenj, lahko podjetje s tovrstnimi akcijami znatno poveča zanimanje za lastne izdelke in storitve, kar se v končni fazi odraža v povečanih nakupih njihovih produktov.
+Singapurska mornarica vas potrebuje!
+Digitalna tehnologija nam je postregla še z nekaj vrstami povezave, v glavnem pa vsi izvirajo iz SDI, serijskega digitalnega vmesnika, ki omogoča prenos 270 Mb/s in lahko preko njega prenašamo kompleten digitalni video in audio zapis.
+Ker tako sposoben in zahteven prenosni protokol ni povsod potreben, se je pri stisnjenih zapisih video signala uveljavil SDTI vmesnik, ki omogoča tudi prepisovanje signala z večkratno hitrostjo in kot uporabniška oblika DV vmesnik, razvit iz Firewire protokola, ki omogoča dvosmerni prenos komponentnega DV signala med dvema napravama skupaj z še nekaterimi tehničnimi signali skratka velik napredek od najbolj enostavne povezave preko antenskega kabla.
+Zelo je važna tudi velikost senzorja.
+Profesionalne kamere imajo senzorje velike 2/3 inča, ki imajo diagonalo 11 mm.
+To predstavlja tudi žariščno dolžino objektiva z vidnim kotom približno 45 stopinj oziroma normalnim vidnim kotom.
+Profesionalne in amaterske uporabljajo senzorje velikosti ” inča, v amaterskem razredu pa je veliko kamkorderjev z velikostjo senzorjev 1/3 inča in diagonalo 6mm.
+Manjši kot je senzor, slabša je slika.
+Toda večji kot je senzor, večja je kamera, še posebej če ima še prizmo.
+Mere bo lahko zmanjšala uporaba Foveon X3 tehnologije v video industriji, še posebej ker arhitektura X3 senzorja tudi podpira četrtinsko ločljivost namenjeno prenosu video signala preko UMTS omrežja.
+Seveda se takoj pojavi vprašanje, če se agencijam sploh splača vključevati internet v medijske plane.
+Zaradi nizkih provizij in premajhnega zaslužka se namreč agencije do interneta obnašajo precej indiferentno.
+Tako kot pri podjetjih je tudi pri agencijah opazen primanjkljaj e-marketinškega znanja, ki je potrebno za uspešno poslovanje na internetu.
+V agencijah se bodo morali začeti ukvarjati z e-marketinško pismenostjo, saj bodo le z obogatenim znanjem lahko spoznali prednosti, ki jih internet kot medij ponuja, ter snovali učinkovite marketinške strategije.
+Lažje bodo tudi prepričali podjetja, da je oglaševanje na internetu, seveda pod določenimi pogoji in za določene proizvode/storitve smiselno.
+Agencije bodo morala dejstva podkrepiti z ustreznimi raziskavami in praktičnimi primeri s katerimi bodo lahko podjetjem nazorno pokazale, da se vlaganja v spletno oglaševanje obrestujejo.
+Poglobiti se bodo morale v analizo spletnih strani in njihovih uporabnikov, spoznati možnosti in načine zakupa oglasnega postora in se eventuelno povezati z eno od spletnih oglaševalskih mrež, saj bi le tako lahko uspešno planirali in izvajali oglaševalske akcije na internetu.
+Povezava s spletno mrežo lahko agenciji prihrani ogromno časa in stroškov, ker ji zaradi zakupa oglasnega prostora, ni potrebno več imeti na desetine sestankov in dogovorov s posameznimi spletnimi mediji.
+Dejstvo je, da dokler agencije ne bodo začele vključevati interneta kot obvezni del komunikacijskega spleta, ne moremo pričakovati hitrejšega razvoja interneta.
+Uporabniki vse bolj negodujejo ob pojavu naprednih pasic, saj le-te velikokrat povzročajo motnje pri pregledovanju spletnih strani.
+Če se malce bolj poglobimo v odnos med spletnimi mediji, oglaševalci in uporabniki, kaj hitro pridemo do navzkrižja interesov, saj uporabniki želijo, da jih pri prebiranju spletnih vsebin nič ne moti, oglaševalci pa po drugi strani želijo pritegniti njihovo pozornost na vse mogoče načine.
+Spletni mediji se nahajajo med obema poloma oglaševalci in uporabniki.
+Mediji morajo po eni strani poskrbeti za zadovoljstvo uporabnikov in njihovo nemoteno pregledovanje vsebin, po drugi strani pa se zavedajo, da lahko brez oglaševalskega tolarja ugasnejo svojo dejavnost.
+Ni še dolgo tega, ko so na tržišče prišli mobilni telefoni, ki so imeli vgrajen digitalni fotoaparat.
+Ta omogoča snemanje in pošiljanje fotografij iz enega aparata na drugega.
+Vendar se razvoj tu seveda ni ustavil, saj bodo veliko več lahko počeli mobilniki za tretjo generacijo mobilne telefonije.
+Podjetje Samsung naj bi še ta mesec na trg poslal mobilnik SCH-V310, ki bo poleg običajnega telefoniranja omogočal tudi dvosmerne video-pogovore, podpiral bo video na zahtevo (video on demand) ter seveda omogočal shranjevanje videoposnetkov skupaj z zvokom.
+Telefon sestavljata dva zaslona večji, ki podpira 262.000 barv in je namenjen delu s kamero in manjši, ki podpira 256 barv in se nahaja na zunanjem delu aparata.
+Senzor v kameri je velikosti 300.000 točk, leča omogoča dvakaratno približevanje.
+Čeprav je aparat šele ugledal luč sveta, pa pri samsungu že napovedujejo dva nova modela, ki bosta nosila oznako SCH-V330 in SCH-V-3000, ki bosta tehnološko še naprednejša, vendar za zadaj o njima še ni podrobnejših podatkov.
+V začetku letošnjega leta je Microsoft le predstavil drugo razvojno različico (beta 2) najnovejšega strežnika Exchange, s kodnim imenom Titanium.
+Kaj nam prinaša Exchange 20003?
+Exchange 2003 predstavlja manjša nadgradnjo glede na prejšnjo različico.
+Celotna infrastruktura je že znana, le določena funkcionalnost je izpiljena.
+Exchange 2003 tudi ne bo uporabljal SQL baze, kot je veliko ljudi predvidevalo kakšno leto ali dve nazaj.
+Za takšen korak se pri Microsoftu pripravljajo za naslednjo različico, s kodnim imenom Kodiak.
+Tako kot pri vseh pomembnejših strežnikih tako tudi za Exchange 2003 velja, da ga sam Microsoft že uporablja v produkcijskem okolju.
+Tako približno 30.000 od nekaj več kot 50.000 uporabnikov v Microsoftu že uporablja Exchange 2003.
+Če se je pred nekaj leti že sama uporaba medijev CD-R za splošno rabo zdela nekam preveč futuristična in nemogoča, je nizka cena teh medijev dvignila njihovo priljubljenost in uporabo do neslutenih meja.
+Če slučajno stopite v kakšno izmed naših vsaj malenkost specializiranih trgovin, boste na policah videli desetine različnih blagovnih znamk medijev CD-R.
+Uporabnost je le del obsežnejše panoge na področju računalništva, človeško-računalniške interakcije, oziroma HCI (Human-Computer Interaction), ki se ukvarja z vsemi vidiki komunikacije med človekom in strojem.
+Poznamo jo sicer še pod drugimi imeni, vendar je prav kratica HCI med vsemi nabolj pogosta.
+Nastala je na podlagi združenih znanj iz različnih znanstvenih in tehnoloških področij.
+Nanjo so vplivale izkušnje pri načrtovanju in uporabi računalniške grafike, operacijskih sistemov, ergonomije, industrijskega inženirstva, kognitivne psihologije in sploh vseh sistemov, ki so povezani z računalništvom.
+Uporabniški vmesniki so se razvijali neposredno z razvojem samih računalniških sistemov, od stikalnih plošč z vtiči in vtičnicami v petdesetih letih prejšnjega stoletja, preko stikal, tiskalnikov, tipkovnice in zaslona z ukaznimi vrsticami, do grafičnih vmesnikov, elektronskih pisal, miške in oken, kot jih poznamo danes.
+Generacije uporabniških vmesnikov so se le poredkoma izključevale na tak način, da bi nova generacija nemudoma zamenjala prejšnjo, tako, da so se izkušnje iz generacije v generacijo dopolnjevale.
+Če je moral uporabnik še pred nekaj desetletji za zadovoljivo obvladovanje računalniškega sistema poznati njegov celoten ustroj in večino ukazov, je danes učenje in uporaba že na intuitivni stopnji, kjer uporabnik sproti spoznava sistem skozi grafični vmesnik.
+Slovenija se približuje razviti Evropi.
+Uspelo nam je postati podobni Švici in Irski in dosegli svoj življenjski cilj.
+Za prvo smo dolga leta govorili, kako frajerska da je, ker je nevtralna, da ima denarja kot mlečne čokolade in ur s kukavico in da jim gre prav fino.
+Sicer se tam v zgodovini ni zgodili čisto in popolnoma nič, a prav to je bilo tisto, kar nas je privlačilo.
+Druga, Irska, je zanimiva sedaj, saj je bila pred leti še v dosti večjem golažu kot mi, pa se je izvlekla in sedaj kaže, da jim gre res čudovito.
+Sicer je res, da so prodali vse, kar imajo, a jim je vseeno lepo.
+No, sedaj smo se tema dvema približali tudi mi.
+Še malo, pa jih bomo prehiteli.
+Najprej seveda potrebujete video kamero za snemanje.
+Več o tem si lahko preberete v mali šoli video snemanja, ki smo jo začeli pred nekaj številkami.
+Osredotočili pa se bomo na računalniški oziroma na tisti del, ki omogoča zajemanje ter obdelavo posnetkov.
+Poleg kartic za zajemanje video posnetkov in obdelavo le teh ponavadi dobimo priložene še več ali manj uporabne programe za urejanje video posnetkov.
+Tako recimo podjetje Pinnacle svojim video karticam prilaga program Pinnacle Studio 8.
+Ta ponuja tako urejanje video posnetkov kot tudi snemanje le teh na DVD ali CD medije.
+Tako imamo v enem programu celotno rešitev od zajema prek urejanja do snemanja.
+Posebnost Pinnacle Studia 8 je to, da v paketu DVmobile podpira tudi prenos podatkov prek PCMCIA kartice in urejanje video posnetkov kar na prenosniku.
+Tako se je video urejanje preselilo tudi na mobilno področje.
+Podjetje Canopus poleg različnih prej naštetih dodatkov ponuja še programski dodatek Explode Professional, ki nam poleg strojno podprtih video učinkov ponuja dodatne programske učinke.
+Nekateri proizvajalci ponujajo priložen program Ulead Media Studio Pro, ki je seveda povsem spodoben program za domačo uporabo in za enostavno urejanje, še posebej če ste začetnik na tem področju, saj vam program z napotki pomaga pri delu.
+Nesporni kralj pri urejanju video posnetkov pa je Adobe Premiere.
+Zadnja različica nosi oznako 6.5 in ponuja tako urejanje v realnem času kot tudi podnaslavljanje in zapisovanje DVD in DC plošč.
+Prav tako podpira stiskanje video posnetkov v MPEG-2 standardu.
+Adobe prav tako ponuja kot dodatek še paket After Effects, ki še razširaj že tako širok nabor video učinkov, ki so že vgrajeni v Premiere.
+Program Adobe Premiere šele zasije v polni meri šele takrat, ko ga uporabimo s katero izmed boljših kartic za zajemanje in urejanje video posnetkov, ki imajo vgrajeno strojno podporo za video učinke.
+Nova različica WME je tako dosti bolj uporabna kot predhodna.
+Windows Media Encoder paket je prav tako kot ostali prosto dostopen na Microsoftovih spletnih straneh.
+Zadnjih nekaj let se predvsem pri izmenjavi dokumentov ogromno govori o formatu XML.
+Ta naj bi s svojo strukturo prinesel med drugim tudi možnost izmenjave dokumentov ne glede na platformo, na kateri so nastali.
+Je res tako?
+Netware 6 je prvi Netware z multiprocesorsko podporo v samem jedru: podpira do 32 strežnikov v gruči, vsak z do 32 procesorji.
+Povezava strežnikov v gručo je možna brez dodatnega softvera, osnovna licenca dopušča postavitev gruče z dvema strežnikoma.
+Vpeljuje novi Netware Storage System (NSS), ki omogoča priključitev (mount) diskovnih sistemov ogromnih kapacitet (do 8TB) v neprimerljivo krajšem času kot doslej.
+Omogoča tudi brez-klientno podporo delovnih postaj, tiskanje preko omrežja z orodjem iPrint, orodji Portal Services in iChain pa zagotavljata enako funkcionalnost in poosebljen pristop pri dostopanju do mrežnih virov, ne glede na to, od kod se priključujete v omrežje.
+Prinaša tudi nov način licenciranja, ki se ne opira na število strežnikov temveč na število objektov »uporabnik«; to se pokaže kot ugodnejše pri omrežjih z več strežniki.
+V poslovnih okoljih je internet že dlje časa uveljavljen kot koristno orodje.
+Pravzaprav se že težko spomnimo časov, ko pri vsakdanjem delu nismo uporabljali tega vseprisotnega medija.
+In medtem, ko boste danes zelo težko naleteli na »nepriključeno« podjetje, vse bolj iztopa problem, ki marsikateremu podjetniku predstavlja najhujšo nočno moro: zloraba interneta na delovnem mestu.
+Težava je stara tako dolgo kot poslovna uporaba interneta sama, saj predstavlja internet s svojimi številnimi servisi, še posebej pa z raznolikostjo svetovnega spleta pravo pandorino skrinjico za uslužbence.
+Vsa stvar se zaplete, ko na težavo pogledamo še z druge strani.
+Ali je menedžment v podjetju, ki beleži visoko stopnjo zlorabe interneta v zasebne namene, zadovoljivo opravil nalogo upravljanja s človeškimi resursi?
+Ali zaposleni, ki tratijo delovni čas na ta način, čutijo pripadnost podjetju in ali so v njem zadovoljni?
+In če tudi odpišemo zadovoljstvo in občutek pripadnosti - ali je organizacijski sistem, ki dopušča, da zaposleni ne nosijo odgovornosti in zaslug za pravočasno izvajanje delovnih nalog, dovolj učinkovit?

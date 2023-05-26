@@ -1,0 +1,740 @@
+V poletni številki smo preizkusili novi Lexmarkov tiskalnik Z65. 
+Zaradi novosti tiskalnika nam zastopnik ni uspel pravočasno zagotoviti dodatnih barvnih kartuš in pri preizkusu je tako manjkala pika na i cena natisnjene strani. 
+Čez poletje smo tiskalnik dobili nazaj in z novimi kartušami opravili preizkus, ki je manjkal.
+
+6 dražjih
+
+Trenutno je na lestvici 77 tiskalnikov, od tega:
+
+21 cenejših
+
+Ali so uporabniki Macov res pametnejši od tistih, ki prisegajo na PC? 
+Raziskava družbe Nielsen/Net Ratings je pokazala, da so prvi z več vidikov naprednejši od svojih kolegov a peceji. 
+Med drugim imajo v 58 % pogosteje lastne spletne strani, bolj redno kupujejo v internetnih trgovinah in več zapravijo, pa tudi bolj so izobraženi. 
+70,2 % anketiranih ima vsaj srednješolsko izobrazbo, pri uporabnikih računalnikov PC pa je ta stopnja 54,2 %. 
+Zato so tudi pogosteje tarča oglaševalcev, saj večkrat kupujejo nove (in dražje) izdelke, uporabniki pecejev pa menda kupujejo predvsem tisto, kar je poceni. 
+Mar res?
+
+Pocket Universe 2000
+
+Izdeluje: Stellarmetrics, www.stellarmetrics.com.
+
+Cena: 30 dolarjev.
+
+Izdeluje: TomTom, www.tomtom.com.
+
+Izdeluje: Nyditot, www.nyditot.com.
+
+Cena: 20 dolarjev.
+
+UREJEVALNIKI BESEDIL
+
+Cena: Brezplačen program. 
+
+Proti: Ne pozna tabel, nima slovenskega črkovalnika.
+
+aw_okras.tif 
+
+Gradnja sodobnih podatkovnih programov
+
+Sodobni namenski programi so večnivojski in porazdeljeni, pri njihovem načrtovanju pa je poudarek predvsem na povezljivosti s preostalimi namenskimi programi in na medsebojni komunikaciji programskih gradnikov, ki vse bolj temelji na spletnih standardih, kot je HTTP. 
+Za zapis in prenos podatkov med namenskimi programi pa se vse bolj uporablja in uveljavlja standard XML, ki preprosto omogoča poleg zapisa tudi opis strukture poljubnega nabora podatkov.
+
+Kot je razvidno s slike 2, so podatki shranjeni v nizu predmetov vrste DataTable (DataTableCollection), ki logično zajemajo funkcionalnosti tabel v zbirkah podatkov. 
+Vsak predmet DataTable je sestavljen iz nizov predmetov vrste DataRow in DataColumn (DataRowCollection in DataColumnCollection), ki predstavljajo vrstice in stolpce tabele. 
+Ti predmeti so osnova za obdelavo in dostop do podatkov znotraj predmeta DataSet. 
+Pri vsakem stolpcu v navidezni tabeli je mogoče določiti tudi ustrezne omejitve, kot so primarni ključi (primary key), tuji ključi (foreign key) ter unikatne omejitve (unique constraints). 
+Nabor vseh omejitev je shranjen v nizu predmetov z oznako ConstraintCollection. 
+Dodatna funkcionalnost, ki jo prinaša predmet DataSet, je možnost relacijskega povezovanja podatkov v različnih tabelah oziroma predmetih vrste DataTable. 
+Pri načrtovanju relacij je treba upoštevati skladnost podatkovnih tipov stolpcev, ki jih relacija povezuje, vse izdelane relacije s tabelami pa so shranjene v nizu relacij z oznako DataRelationCollection.
+
+Gradnja podatkovne strukture
+
+Sledi prikaz izgradnje predmeta DataSet ter njegove podatkovne strukture v programskem jeziku C# za ogrodje .NET. 
+Podatkovna struktura bo imela dve tabeli, ki bosta med seboj relacijsko povezani. 
+Zgrajeni predmet DataSet ne bo povezan s konkretno zbirko podatkov, kljub temu pa bo imel nekaj programsko dodanih podatkov, katere se lahko uporablja med drugim tudi za prikaz v uporabniškem vmesniku.
+
+DataSet myDS = new DataSet("MojDataSet");
+
+strQuery = "SELECT * FROM Employees";
+
+myDA = new SqlDataAdapter(strQuery, strConn);
+
+Predmetni model ADO.
+NET podpira številne lastnosti sodobnih porazdeljenih namenskih programov, kar precej olajšuje njihovo gradnjo. 
+Osnovni gradnik modela je predmet DataSet, ki je univerzalno skladišče podatkov z logično strukturo relacijske zbirke podatkov, pri tem pa je popolnoma neodvisen od dejanske zbirke podatkov. 
+Predmet je na eni strani povezljiv s poljubno zbirko podatkov, na drugi strani pa s podatki v obliki XML. 
+Tako je med drugim tudi idealna infrastruktura za povezljivost namenskih programov ali posameznih stopenj namenskih programov. 
+Zaradi take celovite smiselne zgradbe ter širokega nabora funkcionalnosti bo tako predmetni model ADO.
+NET najverjetneje velikokrat pripomogel k preprosti in učinkoviti izgradnji povezljivih porazdeljenih namenskih programov za ogrodje .NET.
+
+Omreženi bralnik
+
+Matjaž Klančar
+
+Canon Powershot A30 in A40
+
+Canon Powershot A30
+
+VABIMO
+
+slovenska podjetja, da nas obvestijo o svojih vrhunskih, doma razvitih izdelkih in storitvah!
+
+Swellable.tif
+
+Vpliv obrabe in vlage na kakovost tiskanja
+
+Prvi 19-palčnik, ki smo ga preizkusili, je Iiyamin monitor AU4831D in ob veliki diagonali se lahko pohvali tudi s tem, da gre za prvi monitor LCD z ločljivostjo 1600 × 1200. 
+Kot zanimivost omenimo, da to ločljivost pri nekaterih prenosnikih najdemo že pri 15-palčnih zaslonih. 
+S takimi zasloni lahko izdelovalci monitorjev LCD konkurirajo tudi največjim monitorjem s katodno cevjo, ki jih najdemo predvsem pri oblikovalcih in kjer doslej monitorjev z zasloni LCD nismo našli. 
+
+Okvir trajnost Z65.doc
+
+In če napovemo še nekoliko prihodnosti septembra pričakujemo tudi nove Canonove tiskalnike. 
+Kot kaže, nič drastičnega, le obnovljene modele. 
+Nekoliko izboljšan bo model S200 (model S200ex), S300 (S330 Photo), nova bosta foto tiskalnika S530D in S830D (ta bo nadomestil S820D), napovedani pa sta še dve novosti, ki sta do 17. septembra pod embargom.
+
+Cena fotografije: 175 tolarjev.
+
+Photosmart 7150 je, kratko in jedrnato, model 7350 brez bralnika kartic in zaslončka LCD in z nekoliko upočasnjenim mehanizmom. 
+Še vedno ima vtičnico za fotoaparate HP, v paketu pa dobimo barvno in foto glavo, črno pa moramo dokupiti. 
+Tudi tu je na voljo poseben podajalnik za fotografije. 
+
+Prodaja: Alstore, www.alstore.si, (01) 585 35 50.
+
+Kar nekako nepričakovano se je med novostmi iz programa podjetja HP znašel tudi tiskalnik, ki pravzaprav ne prinaša nič novega in bo le nadomestil sedanji model Deskjet 845c. 
+To bo po novem najmanj zmogljiv tiskalnik s tekočih trakov podjetja HP in bo hkrati tudi nekoliko dvignil raven najnižjega razreda tiskalnikov HP. 
+Tiskalnik z zdaj dvema rodovoma starimi tiskalnimi glavami (Deskjet 845c) bo upokojen, Deskjet 3820 pa ima enake tiskalne glave, kot jih imata zdajšnja modela 920c in 940c. 
+Ali, če smo natančnejši, barvna glava je celo enaka, kot jo imata doslej najmočnejša modela, 960c in 990CXi. 
+Opozoriti pa velja, da je cenovna politika HP pri modelu 3820 spet nekoliko nenavadna kljub temu da tiskalnik nadomešča model 845c, je od njega kar za 17 % dražji in sodi med najdražje tiskalnike nižjega razreda (dražji je le model HP 920c).
+
+Kakovost tiskanja je sicer, pričakovano, enaka kakor pri starem modelu 920c, ki premore enake tiskalne glave. 
+To pomeni, da je tiskalnik odličen pri tiskanju na navaden papir; črke so tam zelo ostre, dovolj dobro pa je tudi barvno tiskanje in celo tiskanje fotografij ni za odmet (kot to velja za večino tiskalnikov nižjega razreda). 
+Tudi drobne podrobnosti so zelo dobro vidne, tiskanje na poseben papir pa prekašata samo Epsonova tiskalnika C20 in C40. 
+Tiskalnik je za svoj razred tudi zelo hiter, saj mu ob boku stoji le še drugi tiskalnik HP, 920c, vsi drugi pa so bistveno počasnejši. 
+Za pet strani besedila porabi minuto in 35 sekund (pri še vedno uporabni kakovosti le minuto), za devet strani poslovnega poročila 4 minute in pol, za celostransko bitno sliko na poseben papir 4 minute in 48 sekund, za fotografijo pa le minuto in 52 sekund. 
+Zanimivo, da gonilnik natančneje tiska vektorske slike iz programa CorelDRAW, saj za celostranski izdelke porabi 3 minute in 29 sekund, njegovemu predhodniku 845c pa je to vzelo 2 minuti in 36 sekund. 
+
+Vmesniki: USB, vzporedni.
+
+HP web nadzor.tif; V omrežni HP 2600dn je vgrajen spletni strežnik, prek katerega lahko tiskalnik povprašamo po nekaterih informacijah in nastavimo omrežne nastavitve.
+
+V praksi smo ugotovili, da je tiskalnik v resnici nekoliko počasnejši od svojega cenejšega sorodnika, vendar ne vedno. 
+Tiskanje besedila je enako hitro (1:38 za pet strani), tiskanje devet strani dolgega poslovnega poročila pa za pol minute hitrejše (2:23). 
+Nekoliko počasnejše je tudi tiskanje vektorskega izdelka velikosti A4, vendar je to še vedno precej hitrejše od konkurenčnih tiskalnikov drugih izdelovalcev.
+
+Cena: 484.350 tolarjev (omrežna različica 2600dn 658.230 tolarjev).
+
+Za: Postscript, enostavnost rabe, hitrost, možnost omrežne različice, nizka cena odtisa.
+
+Posebna pozornost je posvečena sektorju zabavne elektronike, kjer se prav tako obetajo velike spremembe. 
+Tehnologija bo namreč kmalu dozorela za dostavo avdio in video vsebin uporabniku. 
+Več sto televizijskih in radijskih programov se bo pretakalo po internetu z zelo velikimi prenosnimi zahtevami. 
+Tem zahtevam se bo pridružila še neskončna zaloga sprejemnikov, ki so celo pogostejši v gospodinjstvu kakor računalniki, priključeni v internet. 
+Tudi ta tržni segment bo za nemoteno delovanje zahteval protokol z obsežno zalogo naslovov, izpopolnjenim naslavljanjem in usmerjanjem ter majhno količino nadzorno-upravljavskih bitov. 
+Omeniti je treba tudi, da bodo bodoči odjemalci večpredstavnih vsebin zahtevali tudi ustrezno kakovost storitev, ki bo zagotavljala nemoteno predvajanje zvoka ali videa. 
+Med drugim se odgovornost za pravočasno dostavo podatkov seli tudi na raven samega protokola.
+
+Novi protokol poleg razširjenega naslovnega prostora določa tudi tri različne vrste naslovov. 
+Vsaka izmed vrst je namenjena drugačnemu scenariju komunikacije elementov v omrežju. 
+Nekatere vrste sicer že poznamo tudi v četrti različici, toda IPv6 jih določa kot privzete.
+
+Tretja vrsta naslovov je namenjena skupini uporabnikov v omrežju. 
+Tehniko oddajanja več prejemnikom hkrati (multicast) poznamo sicer že dlje časa in omogoča, da isti paket pošljemo na več naslovov hkrati. 
+Da bi zmanjšali obremenjenost omrežja, potuje od izvira paket z naslovom za oddajanje več prejemnikom hkrati do vozlišča najbližjega cilju in se šele tam multiplicira ter razpošlje prejemnikom.
+
+Dodana nova atributa zaglavja predstavljata razred prometa (Traffic Class) in pa oznako pretoka (Flow Label). 
+S tema dvema lahko učinkoviteje nadziramo pretok paketov po omrežju, saj je možno paketom dodeljevati različne prioritete. 
+255 različnih razredov omogoča klasificiranje prometa glede na zahteve uporabnikov ali aplikacij. 
+Tak pristop bolje poznamo kot kakovost storitev (Quality of Service, QoS). 
+Kljub temu da so torej naslovi protokola IPv6 štirikrat daljši, je zaglavje paketov za polovico manjše. 
+S tem je zagotovljena hitrejša obdelava v vozliščih in s tem posledično povezana večja pretočnost prometa.
+
+Razred prometa določa prioriteto paketa glede na preostale pakete istega izvora. 
+Vrednost razrednega atributa so razdeljene na dva niza. 
+Vrednosti od 0 do 7 so namenjene prioriteti prometa, za katere pošiljatelj zagotavlja nadzor nad preobremenjenostjo prometa oziroma prometnimi zamaški. 
+Pri preobremenjenosti so lahko taki paketi zadržani oziroma umaknjeni.
+
+Tranzicijski mehanizmi nove različice predstavljajo skupek protokolov, uporabljenih v usmerjevalnikih, delovnih postajah in strežnikih. 
+Minimalna medsebojna odvisnost zahteva nadgradnjo z zares preprostimi prvinami, ki omogočajo hitro in poceni razvijanje ali nadgrajevanje sodobnih spletnih omrežij.
+
+Okvirček 2
+
+Slika 5. 
+IPv6 nam omogoča tudi povsem poljubno izbrati pot (oziroma ponudnika spletnih storitev), po kateri si izmenjavamo podatke.
+
+Povezava: http://java.sun.com/j2se/1.3/
+
+S 64-bitno podporo lahko zdaj naslavljamo velikanske količine pomnilnika, kar omogoča shranjevanje večjih podatkovnih struktur v pomnilnik, ne da bi morali izvajati dodatna pisanja in branja na disk. 
+Seveda uporaba 64-bitnega navideznega stroja ni primerna za vse namenske programe, vendar pa se lahko v določenih primerih zmogljivosti takih programov drastično povečajo.
+
+Z novimi razredi in vmesniki, ki so del novega paketa java.nio.* (New I/O API) oz. njegovih podpaketov, je delo z datotekami in omrežji zelo pohitreno in bolj učinkovito. 
+Programi ali samo deli kode, ki so jih bili programerji včasih zaradi intenzivnih vhodno/izhodnih operacij prisiljeni pisati v drugih programskih jezikih, kot sta npr. C ali C++, se lahko zdaj napišejo tudi v javi in so prav tako učinkoviti kakor tisti v jezikih brez tolmačenja.
+
+Kot smo v Monitorju že pisali v članku o javi in XML, je del paketa JAX zdaj postal tudi sestavni del J2SE 1.4. 
+Pri Sunu so se odločili, da bodo v ta del jave dodali samo osnovne knjižnice za delo z dokumenti XML. 
+Gre za vmesnik JAXP, torej za razčlenjevanje dokumentov XML in transformacije XSL. 
+Druge vmesnike, kot so JAXM ali JAXR, pa je treba prenesti posebej v okviru Java XML Pack. 
+Precej verjetno pa je, da se bodo pojavili v naslednji izdaji poslovne (enterprise) različice (J2EE).
+
+Druga orodja, kot so appletviewer, jar, jdb, javah, javap, extcheck in unregbean, niso doživela sprememb funkcionalnosti, temveč so bili v njih odpravljeni manjši hrošči.
+
+Matjaž Trtnik
+
+assert x == 1 : "NAPAKA: x ima lahko vrednost le -1 ali 1, vrednost pa je "+x;
+
+t le -1 ali 1, vrednost pa je 11
+
+Verižna izjema (chained exception) je izjema, ki nosi v sebi tudi informacijo o izjemi, ki se je sprožila pred njo. 
+Še bolj zanimivo pa je, da lahko tudi predhodna izjema nosi informacijo o predhodno predhodni izjemi. 
+Tako pravzaprav ustvarjamo verigo izjem.
+
+- Throwable() 
+
+- Throwable(Throwable cause) 
+
+super(message, throwable);
+
+Za začetek povejmo, kaj sploh je klicni sklad. 
+Klicni sklad je zaporedje metod, v katere je izvajalni sistem že vstopil, vendar se njihovo izvajanje še ni končalo.
+
+Doslej smo imeli na voljo le metodo printStackTrace(), ki nam je izpisala podatke o klicnem skladu, in to v naprej določenem formatu. 
+Če smo želeli drugačen format izpisa, smo to lahko dosegli le z razčlenjevanjem. 
+Po novem lahko uporabimo metodo getStackTrace(), ki nam vrne polje elementov vrste StackTraceElement. 
+Ta razred zajema spodaj naštete metode, ki nam vrnejo podatke o posameznem elementu klicnega sklada, kot so ime datoteke, ime razreda, ime metode, številka vrstice v izvirni kodi:
+
+URL url = new URL("http://10.0.0.1:8080/examples/servlet/XMLServlet");
+
+Argument metodi split ne predstavlja ločila, kot smo vajeni pri razredu StringTokenizer, temveč gre tu za regularni izraz. 
+Poznamo dve preobloženi metodi split(), in sicer eni podamo samo regularni izraz, drugi pa regularni izraz in celoštevilsko vrednost, ki predstavlja mejo. 
+Meja nadzira, kolikokrat se vzorec (regularni izraz) uporabi, in s tem posredno določi tudi število členov v tabeli. 
+Vrednost je lahko pozitivna, negativna ali 0. 
+Preobložena metoda z enim argumentom deluje tako, kot če bi metodi z dvema argumentoma določili, da je drugi argument (meja) 0.
+
+Efektivna ločljivost tipala: 3,87 milijona pik.
+
+eXtra Problemi
+
+Opisi računalnikov 50
+
+Tabela osnovnih podatkov 68
+
+Za: Opremljenost, zanimiva in praktična oblika.
+
+Proti: Visoka cena, majhna ločljivost izpisa.
+
+Kogar je zamikalo, se je lahko v sklopu Lan Party z vrstniki pomeril v omrežnih igrah. 
+Kljub temu da je tudi za Linux na voljo iz dneva v dan več impresivnih iger, sta še vedno zanimivi starejši BZFlag in Unreal Tournament.
+
+ScanMaker 3800 se s svojo hitrostjo uvršča med boljše modele v svojem razredu. 
+Predvsem pohvalna je hitrost ogleda dokumenta, saj za to porabi le 9 sekund. 
+Za branje barvne strani A4 pri ločljivosti 300 dpi porabi 44 sekund, stran besedila pri isti ločljivosti pa prebere v 24 sekundah. 
+Kakovost prebranih predlog je nadpovprečna. 
+Branje barvno zahtevnih predlog je med najboljšimi v tem razredu. 
+Z dodatkom, ki pa ga moramo dokupiti, lahko beremo tudi negative in diapozitive, vendar se pri tem bralnik ne izkaže najbolje, tako da bodo z rezultati zadovoljni predvsem manj zahtevni uporabniki. 
+
+Drugi bralnik iz Microtekove hiše, ScanMaker 4800, ima od šibkejšega modela dvakrat večjo optično ločljivosti tipala 1200 pik na palec. 
+Druge lastnosti so enake, enak je tudi paket priložene programske opreme, gonilniki in vmesnik TWAIN. 
+Pri branju tudi pri tem modelu pride do izraza zelo hiter ogled, za katerega porabi le devet sekund. 
+Zaradi natančnejše mehanike je branje počasnejše kakor pri šibkejšem modelu, za barvno stran A4 je porabil točno minuto, za branje strani besedila pa 33 sekund. 
+Zanimivo, da so rezultati branja barvno zahtevnejših predlog slabši kakor pri šibkejšem modelu. 
+Na slikah so odtenki sicer razločni, vendar je dobljeni izdelek precej manj kontrasten. 
+Bolje se odreže pri branju podrobnosti, saj dokaj čitljivo prebere tudi besedilo velikosti dveh pik. 
+
+Na hrbtni strani ohišja je zaslonček LCD, ki je dobre kakovosti, z ostro in stabilno sliko, pa tudi svetlobe ne odbija preveč. 
+Nad tem je tipka za izbiranje načina delovanja (pregledovanje, slikanje, snemanje kratkega videa), pod zaslonom pa štiri tipke, ki omogočajo nadzor na možnostmi naprave. 
+Večino nastavitev je treba opraviti na menujih, a seznam možnosti ni ravno obsežen, brez uporabe menujev lahko zgolj popravljamo osvetlitev (v korakih 0,3 EV med 2 EV in +2 EV) in določimo način delovanja bliskavice. 
+Na menujih tako najdemo le vrste snemanja (lahko izberemo med posameznimi in zaporednimi posnetki, snemanjem kratkih filmčkov ter snemanjem zvoka), določimo velikost slike in izberemo vrsto beline izmed štirih prednastavitev. 
+Menuji so lepo narejeni in odzivni, moti le, da jih uporabljamo s smernimi tipkami, tipka za potrditev pa je postavljena pod zaslon in je od teh precej oddaljena. 
+Na vrhu ohišja sta dvostopenjski sprožilec ter tipka za vklop. 
+Ta je dovolj oddaljena od sprožilca in ni preveč občutljiva, tako da se aparat v žepu le težko vklopi »sam od sebe«. 
+Pri zasnovi ohišja moramo pograjati plastični pokrov akumulatorja, ki se zelo hitro odpre in bi se lahko v žepu zlomil. 
+Moteč je tudi preveč na stran postavljen objektiv, ki ga nehote prekrijemo s prstom, še posebej, če namesto zaslona LCD uporabljamo optično kukalo in prsta ne opazimo.
+
+Tehnične lastnosti: Objektiv 37111 mm (ekvivalent); svetlobna jakost 2,83,6; ostrenje 0,25 mneskončno (13 cmneskončno makro); čas 1/10002 s; doseg bliskavice 0,252,9 m; razpon ISO od 100 do 200 (samodejno).
+
+Protivirusna spletišča
+
+Slika 1: Podobno kot pri navadnih protivirusnih programih tudi pri Trend Microvem HouseCall označimo diske in mape, ki bi jih radi pregledali.
+
+Sledita prenos in namestitev programa, ta je povsem samodejna. 
+Čas prenosa je odvisen od hitrosti naše internetne povezave, pri počasnejših pa se bo pretočil v dobrih petih minutah nekoliko počasneje kakor Trend Microv HouseCall. 
+Ob naslednjih obiskih bo šlo vse skupaj hitreje, saj bo program že v računalniku, prenesli se bodo le opisi novih virusov.
+
+Nekakšno kombinacijo klasičnega in omrežnega protivirusnega programa ponuja tudi McAfee. 
+Njegov VirusScanOnline se obnaša kot vsak običajen protivirusni program, saj deluje ves čas v ozadju, tudi kadar nismo priključeni v internet, po drugi strani pa, ko smo v internetu, ves čas samodejno skrbi za posodobitve. 
+Vendar ni brezplačen. 
+Letna naročnina vas bo olajšala za 30 zelencev oziroma okroglo 7 tolarskih tisočakov. 
+To je sicer čisto zmerna cena, a marsikoga bo odvrnilo od nakupa neprijetno dejstvo, da nimamo na voljo vsaj teden ali dva brezplačnega preizkušanja. 
+Saj ne, da bi kupovali mačka v žaklju, a marsikaterega uporabnika bo verjetno skrbelo, ali je taka »omrežna« zaščita res boljša in uporabnejša od klasičnega protivirusnega programa.
+
+E Mare Libertas
+
+Slika 1: Neodvisna kneževina Sealand na betonski ploščadi v Severnem morju.
+
+Pod pritiskom glasbene industrije se je vdal tudi AudioGalaxy (www.audiogalaxy.com). 
+Spletišče in z njim povezana menjava datotek sicer še vedno delujeta, a ker si je dovoljeno izmenjevati le tiste skladbe, za katere ima AudioGalaxy dovoljenje, teh pa je malo, pravzaprav le še životari. 
+Ker tudi nič ne kaže, da bi jih bilo v bližnji prihodnosti kaj več, je samo še vprašanje časa, kdaj bo AudioGalaxy dokončno izdihnil.
+
+Nikolaj Pečenko
+
+NOVA RUBRIKA: ODPRTA SCENA
+
+Ob strani:
+
+• Nesmisel, imenovan »strani na minuto«
+
+Ne nazadnje je zdaj tudi laže pošiljati fotografije prek elektronske pošte neposredno iz programa, pri tem pa jih zna tudi optimizirati za prenos prek počasnejših povezav. 
+Žal program nima nekaterih naprednejših funkcij, kot je zdravilni čopič (Healing Brush), ena pomembnejših v Photoshopu 7. 
+Adobe pričakuje, da ga bo prodajal pretežno prek izdelovalcev digitalnih fotoaparatov, samostojna različica pa stane sto dolarjev. 
+Na voljo je za okolji Windows XP in MacOS X.
+
+Ni še dolgo tega, kar so izdelovalci kupce zavajali z velikostmi monitorjev, pri katerih, denimo, 17-palčna diagonala nikoli ni res merila 17 palcev (43 cm), temveč precej manj (ponavadi okoli 40 cm). 
+Nato se je nekdo v ZDA spomnil tožiti zaradi zavajanja kupcev, tožbo dobil in od takrat izdelovalci na vsako škatlo z monitorjem pripišejo še podatek, kolikšna je dejanska »vidna« diagonala zaslona.
+
+Morda pa bo za razbistritev stanja spet potrebna kakšna tožba. 
+Pri nas se uporabniki zaradi zavajajočih vrednosti obračajo le na urad za zaščito potrošnikov, včasih pa tudi (telefonsko) na nas.
+
+S preizkušanjem telefonov GSM se v našem laboratoriju ne ukvarjamo pretirano, tu in tam pa se vendarle poglobimo v kakega posebneža. 
+Nazadnje je bil to Handspringov Treo, še malo nazaj pa Nokiin Communicator. 
+Zelo podobna slednjemu, le da v »ročni« obliki, je naprava, ki smo jo obdelali tokrat Nokia 7650. 
+Skorajda bi prehod iz vodoravnega ročnega računalnika/telefona s tipkovnico (Communicatorja) v pokončni telefon lahko primerjali z ročnimi računalniki Windows CE, ki so skoraj vsi (razen ene HP Jornade) izgubili tipkovnice in postali navpični »dlančniki«.
+
+Nokia 7650 je nekoliko debelejši telefon, ki na prvi pogled deluje malce okorno in neugledno, vendar se ga zelo hitro navadimo. 
+Predvsem zato, ker nima antene, še dovolj dobro sede v hlačni žep. 
+Krasi ga odličen barvni zaslon (TFT, ločljivost 176 × 208 pik, 4096 barv), ki lahko prikaže devet programskih ikon in do devet vrstic besedila v brskalniku WAP. 
+Uporabnik ročnih računalnikov bo najprej opazil, da zaslon ni občutljiv za dotik, in to označil kot veliko slabost. 
+Vendar pa za razliko od Communicatorja operacijski sistem v kombinaciji s krmilno paličico deluje tako enostavno in zanesljivo, da »tapkanja« po zaslonu že po nekaj minutah ne pogrešamo. 
+Uporabniškemu vmesniku je še dodatno v prid hitrost, s katero se izrisujejo zasloni in menuji, ne nazadnje pa tudi zelo intuitivna razporeditev le-teh. 
+
+Izdeluje: Nokia, www.nokia.com.
+
+Mere: 32,9 × 27,2 × 4 cm, teža 3,2 kg.
+
+Skupna ocena: 7,93.
+
+IBM ThinkPad T30 2366-92G
+
+Cena: 1.216.706 tolarjev.
+
+Proti: Teža in debelina.
+
+14,1-palčni zaslon je soliden, predvsem ga odlikuje enakomerno osvetljena slika. 
+Manj smo bili zadovoljni s tipkovnico. 
+Ta je sicer dobro vpeta, tudi tipke imajo pravšnji hod, a so za spoznanje preširoke. 
+Preslednica in vnosna tipka bi lahko bili malo večji, najbolj pa sta moteča nestandardna lega nekaterih tipk in nemški nabor črk. 
+Nad tipkovnico je dodatna tipka, ki zažene spletni brskalnik. 
+Sledilna ploščica je solidna, enako velja za njeni tipki.
+
+Trajanje delovanja: 2 h 33 min (2 h 55 min z zmanjšano frekvenco delovanja).
+
+Hitrostni preizkus s programom Winstone Business 2001 je popolnoma razočaral, saj je enak rezultat na njem dosegel prenosnik s procesorjem Celeron 1 GHz, resda z 256 MB pomnilnikom. 
+Očitno je, da Intel s prehodom na nove procesorje za prenosnike z 0,13-mikronsko tehnologijo ni dosegel pričakovane pohitritve delovanja glede na prejšnji rod procesorjev. 
+V Intelu sicer zatrjujejo, da je Pentium 4 varčnejši, vendar L3800 tega ne dokazuje. 
+Dve uri in pol delovanja ni nič posebnega. 
+Za varčnejšega se prenosnik izkaže ob uporabi programa PowerGear, ki vključi napredne načine varčevanja z energijo. 
+Frekvenco delovanja lahko zmanjšamo na 433 MHz, s čimer podaljšamo trajanje delovanja za slabe pol ure. 
+
+Cena: 478.333 tolarjev.
+
+Za merjenje hitrosti uporabljamo Winstone Business 2001 (1.0.2), za merjenje zmogljivosti akumulatorja pa BatteryMark 4.0.
+
+Kot so uporabniki distribucije že vajeni, nova izdaja omogoča tudi gladko nadgraditev, ne da bi bilo treba sistem vnovič zagnati.
+
+24. in 25. junija so se v Ottawi srečali razvijalci jedra operacijskega sistema Linux in se pogovarjali o težavah, s katerimi se spopadajo, in nadaljnjih načrtih. 
+Odločili so se, da bodo po 31. oktobru v razvojno vejo jedra 2.5 sprejemali le še popravke zdajšnje kode, nova funkcionalnost pa bo morala počakati na izid jedra 2.6.
+
+Napaka v strežniku Apache je omogočala napade okolja DOS (na nekaterih platformah, kot je Linux, pa tudi vdor) in kmalu po njenem odkritju se je razširil internetni črv, ki jo je izkoriščal, a na srečo še ni napravil večje škode.
+
+Microsoft je napovedal uradno ime za novo izvedbo sistema Windows XP, namenjeno računalnikom za rabo doma in hibridnim napravam, ki združujejo domačo zabavno elektroniko in računalnik. 
+Projekt, ki je nastajal pod delovnim imenom Freestyle, se bo uradno imenoval Windows XP Media Center Edition, predvsem pa bo imel nov uporabniški vmesnik kot dodatek zdajšnjemu, tako da ga bo laže uporabljati kot krmilni modul za domačo zabavo. 
+
+Nova različica bo stala 550 dolarjev, nadgradnje pa 150 dolarjev.
+
+http://www.toshiba-europe.com
+
+http://www.gartner.com
+
+Corel Ventura 10
+
+Toshiba je predstavila nov predvajalnik digitalne glasbe, ki shranjuje podatke na miniaturni disk. 
+Toshiba Gigabeat, kot se imenuje, uporablja izdelovalčeve miniaturne 1,8-palčne diske PC Card, ki zmorejo shraniti do 5 GB podatkov. 
+S tem izdelkom postaja Toshiba poglavitni tekmec nekaterim znanim prenosnim predvajalnikom z diski, predvsem Applovemu iPodu, ki so ga nedavno prenovili in ima zdaj 10 GB disk. 
+Toda Gigabeat ima to prednost, da je vgrajeni disk v obliki kartice in s tem izmenljiv z drugimi diski, laže pa ga je tudi priključiti na računalnik, zlasti prenosnik z enotami PC Card. 
+
+Prvi tablični PC
+
+http://www.microsoft.com
+
+http://www.bluetooth.com
+
+V kratkem bo izšla sedma različica brskalnika Netscape. 
+V času od izida prejšnje različice se je v Netscapu marsikaj spremenilo in snovalci programa so si očitno dokaj pozorno ogledali tudi konkurenčne izdelke ter dodali najboljše lastnosti. 
+Tako spletni brskalnik ponuja enookenski pogled, ki odpre vse spletne strani v enem oknu, med njimi pa se uporabnik premika z jezičkom na vrhu okna. 
+To je še posebej pripravno za primerjanje cen v različnih spletnih trgovinah, med priljubljene strani pa je mogoče shraniti povezave celotnih skupin spletnih strani. 
+Dodana je tudi možnost poslušanja spletnih radijskih postaj z brskalnikom, vnovič pa tudi funkcija za ogled tiskanja, ki so jo v šesti različici izpustili.
+
+http://www.adobe.com
+
+Že med razvojem si je pridobil številne privržence, predvsem med uporabniki Linuxa in drugih rešitev, ki temeljijo na odprti kodi. 
+Kljub temu ima zapis MP3, predvsem ker je že dolgo na trgu in je pri prenašanju datotek po spletu zelo razširjen, bistveno več uporabnikov. 
+Projekt Ogg Vorbis je financirala fondacija Xiph, ki finančno podpira precej projektov odprte kode.
+
+Nvidia programira
+
+Dell tudi z ročnimi računalniki
+
+http://www.acer.com
+
+http://www.real.com
+
+Viewsonic za oblikovalce na Macih
+
+http://www.intel.com
+
+Microsoft je objavil, da bo v prvem paketu posodobitev za okolje Windows XP tudi navidezni stroj za poganjanje javanskih programov. 
+K temu ga je prisililo podjetje Sun, ki je na sodišču dokazovalo, da je Microsoft s tem, ko podpora javi ni bila sestavni del operacijskega sistema, kršil kar nekaj pogodb med podjetjema. 
+
+Service pack 3 na led
+
+Lastniki spletnega iskalnika AlltheWeb.com so objavili, da imajo v svoji zbirki 2,1 milijarde spletnih strani, s čimer naj bi za 30 milijonov strani prehiteli Google, ki je doslej držal ta rekord. 
+Google je ob objavi te novice brž razglasil, da je s svojim iskalnikom že presegel 3 milijarde indeksiranih strani, tako da ohranja vodilno mesto med spletnimi iskalniki. 
+
+AMD je predstavil nekoliko hitrejši strežniški Athlon. 
+Po novem je najhitrejši MP 2100+, ki deluje s frekvenco 1,73 GHz. 
+Najhitrejši »navaden« Athlon XP pa je zdaj 2200+ s taktom 1,8 GHz (procesorja Athlon XP in Athlon MP pa se med seboj pravzaprav le minimalno razlikujeta). 
+
+cena fotografije.xls grafikon s ceno odtisa ene fotografije
+
+15 zmogljivih
+
+Dodatkov (galerije slik, pisave) Open Office praktično nima (so pa že nastala spletišča, namenjena temu), kar ne bo razveselilo uporabnikov Linuxa, saj je prostih pisav v Linuxu manj. 
+Drugače pa Open Office podpira tudi glajenje (antialiasing) pisav TrueType (za kar v Linuxu potrebujemo XFree 4.x). 
+Za boljše rezultate lahko določimo, od katere velikosti naprej bodo glajene (smiselna velikost je na primer 14 pik).
+
+OpenOffice.org 1.0
+
+Poseben okvir: 
+
+Prva prevedena različica bo predvidoma gotova pozno jeseni.
+
+Pripisi k slikam Draw, Impress in Writer pa niso potrebni, saj predstavljajo istoimenske programe…
+
+Proti: Napake na zahtevnih bitnih izpisih, slaba prekrivnost črne.
+
+Skupna ocena: 7,70.
+
+Xerox Phaser 8200N
+
+Mala novinca iz Sonyja
+
+Macromedia Flash Communication Server MX
+
+V Ericssonu napovedujejo, da bodo prvi izdelki, ki bodo omogočali Bluetooth 2.0, na voljo konec leta 2003, splošno rabo standarda pa je moč pričakovati šele leta 2004 ali celo pozneje. 
+Odziv bo zelo odvisen od uspešnosti zdajšnjega standarda 1.1. 
+
+Netcape 7 bo na voljo v treh različicah – datoteki velikosti 9 MB, v kateri je samo brskalnik, 12 MB datoteki, v kateri so zajeti še Mail in programa za takojšnje sporočanje ter novičarske skupine, in polni različici, veliki 30 MB, ki zajema tudi Sunov paket Java 2 ter dodatke za avdio in video. 
+
+Hekerji niso prizanesli najnovejši Microsoftovi igralni konzoli Xbox. 
+Na trgu so namreč že na voljo prvi tako imenovani mod čipi za Xbox, ki omogočajo igranje presnetih iger in uporabo programske opreme, ki je ni predvidel in odobril Microsoft. 
+Eden prvih programov, ki so jih izdelali hackerji, je predvajalnik večpredstavnih datotek, ki podpira tudi zapise mp3 in divx.
+
+http://www.sharp.com
+
+Prodaja monitorjev LCD vse večja
+
+http://www.amd.com
+
+Trg pomnilniških kartic se nenehno veča, tako kakor tudi zmogljivost teh izdelkov. 
+Pomnilniške kartice CompactFlash trenutno dosegajo 1 GB, glede na dosedanji razvoj trga pa analitiki sklepajo, da se bo njihova zmogljivost podvojila vsakih 12–18 mesecev; cene se bodo seveda zniževale.
+
+http://www.amd.com
+
+Mira je Windows CE for Smart Displays
+
+http://www.microsoft.com
+
+Na kongresu Bluetooth Congress v Amsterdamu so prišle na dan nekatere podrobnosti o standardu Bluetooth 2.0, ki nastaja pod okriljem organizacije Bluetooth SIG. Razkrili so jih Ericssonovi strokovnjaki, ki pravijo, da imajo v laboratorijih že delujoče prototipe ustreznih vezij.
+
+http://www.bluetooth.com
+
+http://www.microsoft.com
+
+Acer je predstavil novo serijo prenosnih računalnikov, TravelMate 270. 
+Prenosniki iz nje so vrste »vse v enem«, saj imajo tako disketno enoto kakor tudi optične pomnilne enote (CD-ROM, CD-R/W ali DVD). 
+Poganja jih mobilni Intelov Pentium 4 Processor M s taktom 1,6 GHz, odlikujeta pa jih tudi velik zaslon in zmogljiv litijev akumulator. 
+Pomnilnik je 256 MB, disk 20 GB, zaslon ima diagonalo 14,1 palca in ločljivost 1024 × 768 pik, vse različice pa imajo omrežno kartico, modem in operacijski sistem Windows XP. 
+Ena izmed udarnih lastnosti novega prenosnika naj bi bila tudi nizka cena, ob tem pa zgradba jamči tudi za visoko zmogljivost prenosnika.
+
+http://www.acer.com
+
+http://www.toshiba.co.jp
+
+PowerOn Graph 3.0
+
+Kaj: Grafično računalo z možnostjo programiranja.
+
+Proti:. 
+V začetku precej zapleten. 
+Nekoliko nerodno in nezmogljivo risanje funkcij.
+
+JBuilder je po besedah predavatelja najboljše razvojno okolje, saj celo Sun priznava, da ga uporablja kar 70 % razvijalcev jave. 
+Java hoče prodreti v vse naprave, predvsem pa v majhne pametne kartice in raznovrstne specializirane naprave.
+
+http://info.borland.com/conf2002/
+
+Oracle ima drugačno mnenje, saj priznava hitrejše delovanje, vendar hkrati zatrjuje, da Microsoftov dodatek omejuje programerje, saj ti nimajo dostopa do analitičnih sposobnosti strežnika (OLAP). 
+Zato so pri Oraclu napovedali lastno rešitev, ki jo trenutno preizkušajo, nared pa naj bi bila novembra. 
+Microsoft medtem pripravlja podoben dodatek tudi za strežnik IBM DB2.
+
+Roman Rutar, Uroš Mesojedec
+
+OS/2 sega v leto 1987 kot posledica ugotovitve, da DOS v prihodnosti ne bo zadostoval. 
+IBM in Microsoft sta skupno razvila izdelek, ki v svoji prvi inkarnaciji ni nikoli resnično zaživel. 
+Imel je le nekaj redkih, a zvestih privržencev. 
+Na začetku je bil precej nestabilen, saj je lahko slab program sesul cel sistem. 
+Združljivost z DOS-om je bila slaba, podpora perifernim napravam pa nikakršna.
+
+Kdor je imel priložnost instalirati in uporabljati še kak operacijski sistem razen DOSa, ve, da ti ne prihajajo na petih disketah. 
+Tudi dokumentacija je obsežna, tako vsebinsko kot težnostno. 
+OS/2 2.0 v tem pogledu predstavlja presenečenje. 
+Škatla ni nič večja od tiste za MSDOS, disket je 21 in navodil je, milo rečno, malo. 
+Premalo. 
+Najdebelejša je namenjena instalaciji, ostale pa so kratek vodič po grafičnemu vmesniku Workplace Shell in pomožnih programih. 
+Če hočete najti referenco ukazov, morate ponovno poseči v žep ali pa uporabiti pomoč, ki je na voljo med samim delom. 
+Menim, da bi dobra referenčna knjiga sodila v osnovni paket, čeprav je treba priznati, da je pomoč med delom zelo dobro realizirana, saj obsega praktično vse informacije, ki jih uporabnik potrebuje.
+
+Skupna ocena: 7,63.
+
+Med podjetja, ki sledijo osnovi Palm, lahko prištejemo nekatere izdelovalce hibridnih sistemov, kot sta Samsung in Kyocera, vendar so ti izdelki na voljo zgolj na izbranih trgih in v precej manjših količinah kakor navadni ročni računalniki. 
+Še naprej ostajajo uganka tajvanski izdelovalci, ki na domala vsakem sejmu pokažejo tudi sisteme z okoljem PalmOS, vendar se potem največkrat izgubi vsaka sled za njimi. 
+Najbrž se bo to v prihodnje spremenilo, če ne zaradi drugega, pa zaradi konkurence Microsofta, saj je ta pri novačenju očitno precej uspešnejši.
+
+Čeprav je po rezultatih prodaje moč sklepati, da gre pri ročnih računalnikih zgolj za dvoboj med Palmom in Microsoftom, v resnici ni čisto tako. 
+Upoštevati moramo vsaj še dve skupini, in sicer izdelovalca Symbian ter podpornike Linuxa. 
+
+Prav pri teh karticah je trenutno dogajanje nadvse burno. 
+Več vrst jih je (Compact Flash, MMC, SD Card, Memory Stick) in vsako podpira različna skupina izdelovalcev. 
+Kljub temu postaja jasno, da je prihodnost v karticah in enotah SD Card, saj so najmanjše med vsemi, podprli pa so jih domala vsi izdelovalci sistemov. 
+A večina ponuja tudi prostor za kartice CompactFlash. 
+Razlog je preprost enoto SD uporabimo za pomnilnik, Compact Flash pa za V/I kartice, kot so komunikacijski in omrežni vmesniki, kamere, sprejemniki GPS … 
+Vse dotlej, dokler ne bodo izdelovalci tudi v kartice SD uspeli spraviti istih funkcij. 
+Menda bo to že v kratkem. 
+Čas za posebne rešitve, kot je na primer Handspringov Springboard, pa je, kot kaže, dokončno minil.
+
+Fujitsu Siemens Pocket Loox 600
+
+Fujitsu Siemens je novo ime med ročnimi računalniki, na prizorišče pa stopa v velikem slogu. 
+Svoj najnovejši model Pocket Loox 600 je prvič javno predstavil že na letošnjem CeBitu in z izdelkom pritegnil veliko pozornost, vendar je potem nekoliko »zaspal«. 
+Zaradi tehničnih težav ob začetku proizvodnje so ga namreč tekmeci dohiteli z novim sistemom, kar je nekoliko zmanjšalo vidnost, ki bi jo imel kot prvi v prodaji. 
+A to po drugi strani ne zmanjšuje dejstva, da je Pocket Loox zelo zanimiv ročni računalnik.
+
+Kljub vsem tem dodatkom je ohišje razmeroma skromnih mer. 
+Te so približno take kot pri iPaqu in Toshibinem PocketPC e740, obenem pa je za spoznanje lažje. 
+Oblika ohišja je izvirna, samosvoja, kar je dobro zaradi prepoznavnosti sistema. 
+Kljub temu bi lahko morda izbrali boljše snovi ohišje kljub zaključku z metalizirano barvo namreč deluje nekoliko »plastično«, zlasti v primerjavi z računalniki HP in Toshibami. 
+Težko mu sicer očitamo, da ni dovolj trdno, toda tudi videz nekaj šteje. 
+Škoda, saj je oblikovno zagotovo lep dosežek, s skrbno premišljenimi barvnimi kombinacijami (v slogu druge hišne ponudbe) in prijetno zaobljenimi robovi, zato ga je prijetno držati v roki.
+
+Pocket Loox je tako nov in močan tekmec HP iPaqu. 
+Za prvenec je nadvse zanimiv izdelek, ki daje slutiti, da lahko od nemško-japonskega podjetja pričakujemo še marsikaj zanimivega. 
+Izdelovalec je namreč že napovedal, da je Pocket Loox 600 le prvi v družini izdelkov, ki so v pripravi. 
+Hkrati pa lahko pričakujemo, da bo za ta sistem na voljo vse več dodatkov, tako od samega izdelovalca (na primer zložljiva tipkovnica) kakor tudi neodvisnih ponudnikov. 
+
+V primerjavi z modelom Treo 180 je novi model doživel le malo sprememb, so pa te zato toliko bolj koristne. 
+Predvsem barvni zaslon, ki ponuja prikaz 4096 različnih barv in je zelo svetel ter dobro čitljiv tudi pri dnevni (zunanji) svetlobi, čeprav ga morda nekateri tekmeci iz tabora PocketPC prekašajo. 
+Skromna je predvsem ločljivost 160 × 160 pik, kar se odraža zlasti pri zobatih robovih pri črkah in grafičnih elementih.
+
+Čeprav ima Treo 270 številne prednosti in je z barvnim zaslonom samo še pridobil, nekatere pomanjkljivosti ostajajo. 
+Če odmislimo vmesnik USB, celotni sistem ne ponuja nobenih drugih možnosti za priključitev ali razširitev. 
+Handspring je pri tem modelu opustil razširitveno mesto SpringBoard (zaradi telefonskega dela), vendar pri tem ni pomislil na majhne kartice MMC/SD Card, ki bi bile brez dvoma lahko koristne. 
+Pomnilnika torej ne moremo razširiti čez mejo 16 MB.
+
+Inženirji pa niso spremenili le videza, temveč tudi vmesnike in razširitvene reže. 
+Na dnu je namesto priključka za napajanje in komunikacijskega vmesnika enotna reža, ki združuje oboje. 
+Tak pristop poenostavlja in izboljšuje priključitev na priklopno postajo, vendar moramo zato za napajanje neposredno z napajalnikom (brez priklopne postaje) uporabljati poseben vmesnik. 
+Opustili so stikalo za izklop računalnika, ki so ga nekateri uporabniki radi pomotoma uporabili in pri tem zbrisali vso vsebino računalnika. 
+Za razširitve je še naprej vgrajen poseben vmesnik, na katerega priključimo zunanje module (srajčke), s katerimi lahko dodamo vse, od dodatnih vmesnikov (Compact Flash, PC Card) do dodatnih akumulatorjev in posebnih dodatkov (GPS, VGA izhod, čitalnik črtne kode …). 
+
+HP iPaq H3950
+
+Ostanek sistema je domala povsem enak kakor pri modelu Palm m125. 
+To pomeni, da računalnik poganja Motorolin procesor Dragonball s taktom 33 MHz, pomnilnik je 8 MB, na voljo pa je tudi enota za kartice SD Card/MMC. 
+Tudi tu je za povezavo z namiznim računalnikom vmesnik USB, vgrajen pa je operacijski sistem PalmOS 4.1. 
+Ohišje računalnika je enake oblike kakor pri modelu PalmOS, prednjo masko pa lahko zamenjamo s plastičnimi vložki različnih barv, a to je zgolj modni dodatek, za katerega je treba posebej seči v žep. 
+Najbrž je denar bolj smotrno naložiti kam drugam, na primer v pomnilniške kartice SD Card.
+
+Približno leto dni po predstavitvi prvega ultra lahkega in tankega ročnega računalnika Palm m505 so pri Palmu predstavili njegovega naslednika, Palm m515, a ta se od prvotnega modela razlikuje le v podrobnostih. 
+Računalnik je še vedno domala povsem enake oblike, a to je pravzaprav dobro. 
+Palm m515 ostaja najmanjši ročni računalnik z barvnim zaslonom na trgu. 
+Zaslon sam po sebi sodi med najboljše na trgu, čeprav ponuja še vedno razmeroma nizko ločljivost 160 × 160 pik, a ga nekateri tekmeci (Sony) pri tem že krepko prehitevajo.
+
+Siemens SX45
+
+Po drugih lastnostih je PocketPC e570 bolj ali manj podoben tekmecem, saj je vanj vgrajen procesor StrongARM SA-1110 s taktom 206 MHz, pomnilnik pa je 64 MB. 
+Podobno kakor drugod so tudi pri Toshibi PocketPC e570 izbrali polimerni litijev akumulator, ki ni izmenljiv. 
+Za povezavo z računalnikom sta na voljo vmesnik USB in infrardeči vmesnik. 
+Tipk je na računalniku razmeroma malo, razporejene pa so tako, kot je značilno za računalnike PocketPC. 
+
+Toshiba pa je prva, ki je v svoj ročni računalnik vgradila brezžični omrežni vmesnik ethernet, skladen s standardom IEEE 802.11b, ki torej omogoča hitrost prenosa podatkov 11 Mb/s. 
+Doslej so bili brezžični omrežni vmesniki pri ročnih računalnikih na voljo zgolj kot dodatne kartice, a to je slabo za velikost celote, porabo energije pa tudi za ceno. 
+Ker pa potrebujemo za izkoristek takega vmesnika primerno infrastrukturo (omrežne brezžične priklopne točke), je jasno, zakaj Toshiba svoj najnovejši ročni računalnik PocketPC e740 namenja predvsem poslovnežem. 
+Infrastrukturo, kakršna je potrebna, danes najdemo pretežno v podjetjih. 
+Napovedi kažejo, da lahko v prihodnje pričakujemo tudi javna brezžična omrežja 802.11b (nekatera letališča, tudi evropska, tako storitev že ponujajo), vse cenejši vmesniki pa tehnologijo hitro peljejo tudi v domačo rabo, toda za zdaj je to le marginalni del rabe teh komunikacij.
+
+V ZDA so poleg tega nedavno predstavili model Clie PEG-SL10, namenjen spodnjemu razredu ročnih računalnikov. 
+V ZDA namreč stane le 150 dolarjev, kljub temu pa ima sivinski zaslon z veliko ločljivostjo 8 MB RAM in enoto Memory Stick. 
+Od sorodnikov in tekmecev se razlikuje po nekoliko debelejšem ohišju, vendar še vedno prijetno oblikovanem in s sprejemljivo težo.
+
+PocketPC in Tajvanci
+
+Poleg številnih modelov, ki so že napovedani, lahko jeseni pričakujemo še niz predstavitev novih modelov tako že uveljavljenih kakor tudi povsem novih izdelovalcev. 
+Največ novosti bo najbrž v isti napravi združevalo ročni računalnik in mobilni telefon, po zgledu Handspringovega Trea. 
+Zlasti lahko take naprave pričakujemo v kombinaciji z okoljem PocketPC 2002. 
+Eden prvih bo računalnik izdelovalca XDA, ki prav zdaj prihaja v prodajo. 
+Toda kmalu se bodo zganili tudi drugi, na čelu s HP. 
+Slednji za zadnje četrtletje načrtuje povsem novo družino z delovnim imenom iPaq 55xx, ki bo delno nadomestila spomladi predstavljeni, a kmalu ukinjeni model Jornada 928 (z vgrajenim telefonom GSM). 
+V najmočnejši model naj bi bili vgrajeni telefon GSM/GPRS, vmesnik bluetooth, kar 128 MB RAM, izmenljivi akumulator in, kot kaže, celo sprejemnik GPS. 
+Pričakovati pa je mogoče skromneje opremljene različice. 
+HP poleg tega načrtuje tudi cenejšo različico iPaqa, ki bo nekako nadomestila današnje modele H3600/H3700. 
+Njeno delovno ime je iPaq 33xx, v zvezi z njo pa omenjajo procesor PXA250 s taktom 200 MHz, 32 MB RAM, vmesnik SD Card in izmenljivi akumulator.
+
+Čeprav nekateri tržni analitiki opozarjajo, da se rast prodaje ročnih računalnikov zmanjšuje, teh naprav kljub temu prodajo precej več kakor večine drugih računalniških izdelkov. 
+To pa je dovolj dober razlog, da je na trgu vse več ponudnikov in izdelkov. 
+V prihodnje lahko pričakujemo še pestrejšo izbiro.
+
+Kar nekaj časa je že naprodaj tudi Sony DSC-S85, digitalni fotoaparat s tipalom efektivne ločljivosti 3,87 milijona pik, ki je nasledil »trimilijonski« model DSC-S75, predstavljen tudi na januarskem velikem preizkusu in dokaj ugodno ocenjen. 
+Z izboljšavami, ki se dotikajo predvsem kakovosti slike, je ta model še boljši od predhodnika. 
+Ohišje se ni dosti spremenilo, razen barvno zdaj je črno, ker je to menda bolj všeč »resnim« uporabnikom. 
+Tipke so pregledno razporejene, moteča pa je nenatančna smerna tipka, ki deluje na pritisk precej »plastično«, in kratek hod med obema stopnjama sprožilne tipke. 
+Na hrbtni strani je dober barvni zaslon LCD, nad njim pa še majhen enobarvni zaslon z dovolj informacijami, da lahko DSC-S85 uporabimo tudi brez barvnega zaslona le z uporabo optičnega kukala, s čimer privarčujemo precej energije. 
+
+Prodaja: Tehnounion, (01) 510 83 81, www.tehnounion.si.
+
+Po vstavitvi kartice namestimo gonilnike in potem še tri priložene programe. 
+Osrednji je Cinergy 400 TV, s katerim gledamo televizijo ter nastavljamo funkcije in programe. 
+Pomemben program je tudi InterVideo WinDvr, ki je namenjen predvsem snemanju tv programa. 
+Lahko nastavimo kanal, čas začetka snemanja, dolžino in tudi konec, podobno kot pri videorekorderju. 
+Cinergy 400 podpira vse znane glasbene in video kodeke, vendar takoj lahko snemamo le v MPEG-1 in MPEG-2, za druge formate, recimo DivX, pa moramo najprej iz interneta presneti kodek. 
+Snemati je mogoče pri ločljivosti od 160 × 120 do 720 × 576. 
+
+Ali lahko še kakšna zatemnitev KPNQwestovega omrežja in morebitni mrk UUNeta ogrozita tudi slovenske povezave v tujino, smo povprašali pri nekaterih slovenskih ponudnikih dostopa do interneta in dobili odgovor, da glede tega ni treba skrbeti, saj imajo vsi ponudniki dostopa, ki so se odzvali na naše vprašanje, urejene redundančne povezave z operaterji hrbteničnih omrežij. 
+
+www.worldcom.com
+
+Kljub veliki volji za spremembe pa predstavniki podjetij opozarjajo, da bo trajalo nekaj let, preden se bodo usmeritve, ki jih bo sprejelo združenje, dejansko začele uresničevati v praksi. 
+Ne nazadnje je za kaj takega treba radikalno spremeniti način delovanja nekaterih naprav, rešiti pa je treba tudi številne pravne težave. 
+
+http://www.openmobilealliance.org
+
+Leto dni po tem, ko je Telekom ponudnikom dostopa do interneta omogočil priklop na ADSL, se je oglasil še drugi ponudnik, mariborsko podjetje Medinet, bolj znano po blagovni znamki Amis.net.
+
+Raziskava podjetja Morgan Stanley je pokazala, da je standard tretjega rodu mobilne telefonije CDMA2000 poslovno uspešnejši kot UMTS. 
+Študija je bila opravljena na dejanskih omrežjih tretjega rodu na Japonskem in v Koreji.
+
+www.nokia.com
+
+Show list of matching results prikazuje seznam ustreznih naslovov URL.
+
+Match only websites you've typed previously na seznamu bodo zgolj naslovi, ki smo jih ročno vnesli prej. 
+Sicer so na seznamu vsi obiskani naslovi iz zgodovine brskanja.
+
+Change status bar text izpis besedila v vrstico stanja (npr. zavajajoče spletne povezave).
+
+Omenjene nastavitve vplivajo zgolj na delovanje skriptne kode spletnih strani. 
+Spletni strežniki lahko uporabljajo piškotke tudi drugače. 
+A tudi te lahko ukrotimo (naslednja zvijača).
+
+Dolgotrajni piškotki se shranijo na disk in nas lahko »označujejo« mesece in mesece dolgo. 
+Spletni brskalnik sicer ne sme zaupati vsebine piškotka nikomur drugemu kakor spletišču, ki ga je ustvarilo, vendar je bilo zlorab piškotkov (zaradi napak v programih ali z uporabo posebnih, nadomestnih strežnikov za piškotke) že zelo veliko.
+
+Urejanje e-pošte
+
+4 - To Do (opravilo)
+
+5 - Later (pozneje)
+
+Posebni znaki
+
+Dodatki
+
+za deljeno knjižnico in 
+
+Raziskovalec v Oknih XP ponuja nove poglede na vsebino map, ki jih najdemo na menuju Pogled/View. 
+Pri pogledu vrste Sličice/Thumbnails lahko skrijemo imena datotek in tako pridobimo prostor za sličice. 
+To dosežemo tako, da držimo dvigalko (tipko Shift), ko kliknemo ime mape.
+
+ThumbnailQuality , 
+
+(winXP.tif) Stanje diska
+
+oShell=new ActiveXObject("WScript.
+Shell")
+
+var IZKLOPI= 3, VKLOPI= 0;
+
+0, "Skriptna koda IE", 35
+
+sName = "HKCU\\Software\\Microsoft"+
+
+...
+Windows\\CurrentVersion"+
+
+(winXP.tif) Prenova Oken XP
+
+Še bolj zoprna težava je vnovična namestitev, če prejšnja spodleti. 
+Namestitveni program se zna do pritoževati, da moramo najprej končati že davno neuspešen poizkus (»The program must close to allow a previous installation attempt to complete. 
+Please restart.«). 
+Noben vnovični zagon ne bo pomagal, treba bo ročno počistiti datoteko .xpi, ki ostane kot sled prejšnje namestitve.
+
+Kot nas večina zelo dobro ve, so standardi zelo koristna reč. 
+Včasih celo razmik med železniškimi tiri ni bil natančno določen in kar mislimo si lahko, kako bi danes potekal promet po železni cesti, če se ne bi nekdaj mogočni izdelovalci lokomotiv in vagonov le sporazumeli, da je enotni razmik tirov v njihovem skupnem interesu. 
+Standard, ki ima danes podoben vpliv kakor nekoč poenotenje tirnic, je omrežni protokol TCP/IP, ki je omogočil drugačne vrste promet poceni izmenjavo idej, vsebine in programske kode po internetu. 
+Žal pa je internet s svojo priljubljenostjo in razširjenostjo postal tudi ranljiv. 
+Preprosto je prevelika poslovna priložnost, da ga mogočna podjetja ne bi želela vsaj malo »udomačiti«. 
+Sam temeljni protokol (še) ni doživel hujšega napada, vendar kaj nam pomagajo preproste in poceni komunikacije, če se podatki in programi v njem pretakajo v lastniških, dvojiških zapisih?
+
+Kljub temu je projekt doživel šibko podporo s strani razvijalcev. 
+Le okrog sto ljudi je podpisalo ustrezen dogovor, ki jim je omogočil delo na izvirni kodi, in še večina teh le za potrebe prenosa na novo podlago ali za pisanje dokumentacije, ne pa za širitev zmožnosti programa. 
+Največji krivec je lastnik izvirne kode, podjetje Sun. 
+Zaradi paranoičnega strahu pred mogočnim konkurentom se z odprto izvirno kodo že vrsto let obnaša kakor slon v trgovini s porcelanom. 
+Java, še en Sunov »odprti standard«, je po dolgih letih le pristopicljala do stanja, ki bi mu pogojno lahko rekli odprti standard. 
+Slaba izkušnja pa jim ni preprečila podobnega zapleta pri OpenOffice. 
+Vsi zunanji sodelavci pri omenjenem projektu so namreč morali pristati na poseben dogovor, ki je vse pravice do njihovega dela izročil na milost in nemilost Sunu. 
+Kaj naj potem tako podjetje pričakuje, kot da ga skupnost razvijalcev zmerja z dvolično barabo, ki želi zaslužiti z brezplačnim delom drugih. 
+Na srečo jim je nekaj razuma še ostalo, zato so spremenili pogoje sodelovanja, tako da razvijalcem vračajo vse pravice, hkrati pa so napovedali pobudo za razvoj popolnoma odprtega standarda zapisa dokumentov, ki temelji na XML, OpenOffice pa bo njegova odprta in brezplačna izvedba. 
+Upanje tako ostaja.
+
+Izdeluje: Multicase, www.multicase.de.
+
+Za: Zelo enostavna namestitev in raba. 
+Priložena prenosna torbica. 
+Ugodna cena.
+
+Poskusi, da bi s prosto kodu tudi zaslužili, so se doslej izkazali za precej neuspešne. 
+Videti je, da je prosta koda sicer dobra za uporabnike, saj pogosto omogoča dobro in poceni rešitev, ne pa toliko za programerska podjetja. 
+Čeprav je verjetno prezgodaj, da bi sodili o resničnosti te podobe, navsezadnje to niti ni pomembno.
+
+Potem se je nekaj spremenilo. 
+Pri Microsoftu sicer še vedno vztrajno trdijo, da delajo prijazno do uporabnika, uporabniki pa že nekaj časa niso tako zelo prepričani. 
+Spremembe so bile verjetno počasne, in le tu in tam je bilo zaznati kak resen skok, kakor je bil debilni vmesnik BOB, ki se ga verjetno večina niti ne spominja, ker pravzaprav nikoli ni zares doživel. 
+Iz tistih časov je ostal »Officov pomočnik« ali, po domače, nadležna sponka. 
+Pri Microsoftu so na neki stopnji razvoja pomešali prijaznost programske opreme in debilnost, pomešali pa so tudi enostavnost postopkov in vsiljivost s predlogi in izdelanimi rešitvami. 
+Microsoftovi programi so zdaj prirejeni povprečnemu (ameriškemu!!) uporabniku, tistemu, ki ima posebne želje ali pa je bolj (ali manj) zahteven, pa so neprijetni, nasilni, polni odvečne navlake, pogosto celo povsem zgrešeni. 
+V želji, da bi bila vsaka različica nova, pogosto spreminjajo značilnosti, ki so povsem dobre in jim nič ne manjka. 
+
+O tem, kako bo Linux ravnokar zavladal in se bo Microsoft neslavno umaknil, je bilo že veliko napisanega pa niti ne šele včeraj. 
+In vendar se premika natančno v to smer, delno po zaslugi korporacijsko zaslepljenega in kapitalistično pogoltnega Microsofta, delno pa po zaslugi ljubiteljskega, a vendar skrajno strokovnega bolj ali manj volunterskega dela zanesenjakov z vsega sveta.
+
+Samo Kuščer
+
+Pomanjkljiva varnostna politika je globalni pojav in tudi najbolj napredni na tem področju niso nič boljši od drugih. 
+Nedavna raziskava v ZDA je pokazala, da ima pri njih kar 80 odstotkov podjetij pomanjkljivo varnostno politiko in vsaj na en način (pogosto pa kar na cel niz načinov) ogrožajo svojo varnost in navadno tudi varnost drugih. 
+Podatek je presenetljiv zlasti ob dejstvu, da so Američani zaradi lanskoletnih terorističnih napadov prav na tem področju vpregli vse sile in v to vložili velikanska sredstva. 
+Kakor kaže, je to kljub vsemu premalo. 
+Zgolj 20 % varnih računalniških okolij dobro prikazuje, kako kompleksen je pojav. 
+Prepričan sem, da tudi v Sloveniji ni nič bolje, čeprav v javnosti le redko slišimo o računalniških katastrofah pri nas. 
+Najbrž tudi zato, ker se prizadeti nadvse trudijo, da bi vse skupaj prikrili ali zmanjšali pomen.
+
+Oktobrska številka izide 24. septembra
+

@@ -1,0 +1,10 @@
+<antropoidi>: Skupina višjih primatov, v katero spadajo gorile, šimpanzi, pavijani in orangutani. 
+
+<dendriti>: Nevronski protoplazemski odrastki, ki ne prenašajo zivcnih drazljajev. 
+
+<kiloparsek>: Enota za astronomsko razdaljo, ki ustreza priblizno 3.260 svetlobnim letom. 
+
+<mali mozgani (cerebellum)>: Del osrednjega zivcnega sistema vretencarjev, ki sodeluje pri fini modulaciji mišicne dejavnosti, ki nastaja z delovanjem drugih delov zivcnega sistema.
+
+<RNK (ribonukleinska kislina)>: Nukleinska kislina, ki sodeluje pri sintezi beljakovin v celicni citoplazmi. 
+

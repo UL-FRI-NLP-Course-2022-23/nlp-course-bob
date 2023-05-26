@@ -1,0 +1,528 @@
+Izmerjena cena ČB odtisa: 37 tolarjev.
+
+Kakovost tiska je predvsem pri tisku na navaden papir zelo dobra, gledano primerjalno, celo odlična. 
+Besedilo je ostro, podrobnosti pa dobro vidne, tudi če so tiskane v barvah. 
+Za fotografije je sicer bolje uporabiti poseben, celo svetleč papir, tam pa so izdelki dobri, vendar ne najboljši. 
+Barve so lepe in pravilne, prelivi pa mehki. 
+Natančno oko bo vendarle opazilo posamezne pike, ki jih pri konkurenci (Canon) praviloma ni več. 
+Pri celostranskih izdelkih na debelejši svetleč papir smo opazili sled pogonskega koleščka, ki se je vila čez vso dolžino strani. 
+
+Cena: 339.356 tolarjev.
+
+Inspiron 5100 poganja namizna različica procesorja Pentium 4. 
+Ta sicer prinese tudi nekoliko večjo zmogljivost, vendar rezultat preskusa Winstone 43,4 tega prenosnika vseeno ne uvršča med prvake. 
+Zato pa toliko bolj preseneti trajanje delovanja, saj je 3 ure in 14 minut kar precej za tako velik in energijsko potraten prenosnik.
+
+Trajanje delovanja: 2 uri in 37 minut.
+
+Cena: 412.600 tolarjev.
+
+Prodaja: DISS, www.diss.si, (01) 420 55 40.
+
+Mere: 32,5 × 26,9 × 4 cm; masa 3,2 kg.
+
+Vsi tiskalniki so formata A4.
+
+Trenutno je na lestvici 85 tiskalnikov, od tega:
+
+12 najzmogljivejših
+
+Vsak mesec objavimo tabelo s petimi najboljšimi iz vsake skupine.
+
+27 cenejših
+
+12 vrhunskih
+
+HP je, kljub omejitvam, izdelal optični bralnik, ki ga lahko uporabljamo tudi na poti. 
+HP Photosmart 1200 je namenjen zajemanju fotografij in drugih predlog na terenu. 
+Napaja se namreč iz štirih baterij AA, opremljen pa je s tipalom CIS, tako da za zajemanje predlog ne potrebuje močnega vira napajanja. 
+Photosmart 1200 je dokaj majhna črna škatlica s sivim pokrovom, pod katerim se skriva ploskev za zajemanje predlog do velikosti največ 10 × 15 cm. 
+Bralnik meri le približno 27 × 17 cm in je debel le tri centimetre, tako da ga brez težav lahko pospravimo v kovček ali torbo poleg prenosnika. 
+Odlikuje ga tudi majhna masa, saj brez baterij ali akumulatorjev tehta le 700 gramov. 
+Ob površini za zajemanje ima tudi zaslonček LCD, na katerem z dvema gumboma nastavljamo lastnosti zajemanja predloge, ob strani pa je tudi čitalnik za kartice CompactFlash in Secure Digital. 
+Če bralnik ni priključen na računalnik, lahko namreč zajete slike shranjujemo kar na kartico, slike pa prenesemo v računalnik, ko je to mogoče. 
+Kartico lahko vtaknemo tudi neposredno v tiskalnik (če nam ta to seveda omogoča) in slike neposredno natisnemo. 
+Tako se povsem izognemo računalniku.
+
+Optična ločljivost: 1200 dpi.
+
+Proti: Slabše branje podrobnosti, majhna optična ločljivost, hitrost.
+
+Optična ločljivost: 600 dpi.
+
+Paket priložene programske opreme je pri bralnikih HP standarden. 
+Vmesnik TWAIN sicer omogoča nastavljanje cele vrste lastnosti branja, vendar so te na voljo šele na dodatnih menujih, medtem ko v osnovnem načinu bralnik deluje skoraj povsem samodejno. 
+To bo pritegnilo manj vešče uporabnike, odvrnilo pa vse, ki se radi pred prebiranjem podrobneje ukvarjajo z ročnim nastavljanjem.
+
+Za: Ugodna cena.
+
+Bralniku je priložen povsem enak paket programske opreme kot pri šibkejšem modelu, tako da je enak tudi vmesnik TWAIN. 
+Tudi gumba za hitro prebiranje predlog imata enako funkcijo, tako da z njima tudi pri modelu 2400 na hitro preberemo dokument na zaslon ali pa ga natisnemo neposredno na tiskalnik.
+
+ScanJet 3500c sodi med boljše v spodnjem razredu in za ceno, ki je le malenkost višja od najboljše uvrščenih bralnikov, ponuja precej. 
+Zanimivo je tudi, da je bralnik cenejši tako od modela 2300c kot tudi od 2400, kar je glede na to, da ima bralnik višjo številčno oznako, zanimivo.
+
+Glede na to, da gre za skoraj enak optični bralnik, je enaka tudi priložena programska oprema. 
+Bralnik celo deluje z istim gonilnikom, tako da računalnik med obema modeloma sploh ne loči, le v vmesniku TWAIN se na menujih pokaže možnost prebiranja prosojnih predlog.
+
+Način priklopa: USB.
+
+Za: Dodatek za branje prosojnih predlog, hitri vmesnik za priklop.
+
+Pri branju drobnega besedila se bralnik odreže dokaj dobro. 
+Besedila, velikega dve piki, seveda ni prebral ostro, saj z ločljivostjo 1200 pik na palec to ni mogoče, so pa črke razpoznavne in ne preveč zabrisane. 
+Slabše se odreže pri branju branju fotografij. 
+Rezultati so z osnovnimi nastavitvami pretemni, na delih, kjer se ponavlja droben vzorec, ali na prehodih med ploskvami pa zato ne prebere dobro nekaterih podrobnosti na slikah. 
+Bralnik je opremljen tudi z dodatkom za prosojne predloge, rezultati branja z dodatno lučjo v pokrovu pa so nekoliko preveč zrnati, a za največjo možno optično ločljivost povsem zadovoljivi.
+
+Optična ločljivost: 1200 dpi.
+
+Proti: Slabše branje podrobnosti, hitrost.
+
+LiDE 30 se ponaša s podobnimi prednostmi in slabostmi kakor šibkejši model z manjšo optično ločljivostjo. 
+Bo pa z dobrim branjem fotografij pritegnil vse, ki iščejo majhen in elegantno oblikovan bralnik ob računalniku. 
+
+Način priklopa: USB 2.0.
+
+Barvna globina: 48 bitov.
+
+Cena: 54.900 tolarjev.
+
+Način priklopa: USB.
+
+Cena: 45.480 tolarjev.
+
+Optična ločljivost: 1200 dpi.
+
+Proti: Slabše branje podrobnosti, hitrost.
+
+Za: Dodatek za branje prosojnih predlog.
+
+Proti: Hitrost prebiranja, nima priklopa na vmesnik USB 2.0.
+
+Končni vtis, ki smo ga dobili ob preizkušanju Microtekovega najmanj zmogljivega bralnika, bi bil precej boljši, če le ne bi za branje predlog porabil toliko časa, saj je bil najpočasnejši bralnik na preizkusu.
+
+Hitrejši vmesnik in verjetno tudi vgrajena mehanika poskrbita , da se ScanMaker 5900 po hitrosti branja predlog uvrsti v povprečje. 
+Kakovost zajetih predlog je primerljiva s tisto pri modelu 4900, kar priča o tem, da je v oba bralnika verjetno vgrajeno podobno, če že ne povsem enako tipalo. 
+Branje drobnega besedila tako ne povzroča nobenih težav, saj so črke, velike dve piki, zelo razločne. 
+Malo slabše se obnese pri branju barvno zahtevnejših delov fotografij, kjer pri ploskvah z drobnimi elementi nastaja nekaj napak. 
+ScanMaker 5900 ima tudi dodatek za branje prosojnih predlog, ki pa bi svoje delo lahko opravil tudi boljše, saj so rezultati branja diapozitivov in negativov nekoliko neostri. 
+Tega od bralnika s tako visoko optično ločljivostjo nismo pričakovali.
+
+Optična ločljivost: 2400 dpi.
+
+Barvna globina: 48 bitov.
+
+Epsonov bralnik PerFection 1660 Photo se po tehničnih značilnostih sicer uvršča v srednji razred, po ceni pa nedvomno sodi med bralnike za najzahtevnejše. 
+Gre za edini bralnik na našem preizkusu z ločljivostjo 1600 pik na palec. 
+Opremljen je s štirimi tipkami za hitro branje. 
+Vmesnik TWAIN je pri vseh Epsonovih bralnikih enak, tako da je prilagojen začetnikom, pozna pa napredni način dela, v katerem so uporabniku puščene proste roke pri nastavljanju.
+
+Vrsta tipala: CCD.
+
+Način priklopa: USB 2.0.
+
+Proti: Visoka cena.
+
+HP ScanJet 8200
+
+Ko smo s posnetkom zadovoljni, ga lahko vključimo v predstavitev, narejeno z ACD FotoAngelo 2.0. 
+Program je namenjen izdelavi predstavitev, ki bi jim pravzaprav morali reči računalniške diaprojekcije, se pravi zaporednemu prikazovanju fotografij ali kakih drugih slik. 
+Zato ne smete pričakovati, da bi se lahko meril z, recimo, PowerPointom. 
+Je pa zato za rabo toliko bolj enostaven fotografije preprosto nanizamo v želeni vrstni red, določimo, koliko časa naj bodo na zaslonu in kakšni prehodi naj bodo med njimi, ter jih po želji opremimo še z zvočnim ozadjem in besedilom. 
+Predstavitev lahko izvedemo v samem programu, ker pa jo bomo verjetno želeli pokazati tudi na kakem drugem računalniku, jo lahko shranimo v obliki izvršilne datoteke (exe) in tako prikažemo na kateremkoli računalniku z Okni. 
+Predstavitev lahko shranimo tudi v obliki ohranjevalnika zaslona.
+
+Kaj: Programski paket za pregledovanje slikovnih, zvočnih in filmskih datotek (ACDSee), obdelavo digitalnih fotografij in bitnih slik (FotoCanvas) ter izdelavo predstavitev (FotoAngelo).
+
+Poleg tega je v paketu Professional tudi orodje za izdelavo elektronskih dokumentov neposredno z zajemom iz optičnih bralnikov (tudi s prepoznavanjem pisave). 
+Za pisarniške uporabnike bo nadvse dragocena možnost, da lahko v samem Acrobatu določimo glave in noge dokumentov, pa tudi vodne žige, s katerimi opremimo vsebino. 
+Zanimiva novost je možnost, da lahko odslej v dokumente vključimo tudi video posnetke, glasbo in animacije, ki jih nato program pravilno predvaja v navezavi z ustreznimi predvajalniki pod operacijskim sistemom. 
+
+Zahteve: Windows NT, 2000 ali XP, MacOS X 10.2 ali novejši (različica Standard tudi Windows 98 SE)
+
+Cena: Acrobat Professional 6.0 148.600 tolarjev; nadgradnje 49.080 tolarjev (različica Acrobat Standard 6.0 98.280 tolarjev; nadgradnje 32.280 tolarjev). 
+
+Proti: Omejeno število funkcij.
+
+Acrobat 6.0 01.jpg Prenovljen videz programa z novim uporabniškim vmesnikom in pomočjo na desni strani okna.
+
+Acrobat 6.0 02.jpg PDF Optiimizer omogoča prilagoditev kakovosti dokumenta ciljni velikosti datoteke.
+
+Acrobat 6.0 10.jpg V dokument lahko na katerokoli mesto vtisnemo digitalni podpis.
+
+Acrobat 6.0 17.jpg in Acrobat 6.0 18.jpg Acrobat 6 lahko pri dokumentih preveri združljivost z različnimi tiskarskimi profili, rezultate pa vidimo na zaslonu.
+
+V praksi tako izmerjene vrednosti skorajda po pravilu močno odstopajo od teh podatkov (pri čemer velja omeniti, da izdelovalci pogosto niti ne označijo, kakšno vrsto kontrastnega razmerja navajajo). 
+V našem laboratoriju, recimo, izmerimo tudi primerjalno kontrastno razmerje. 
+Merimo ga enako, kot se sicer meri razmerje ANSI. 
+Seveda pa uporabljamo povsem serijske modele projektorjev take, kakršne dobi uporabnik, poleg tega pa merimo kontrastno razmerje v prostoru, ki je malenkostno osvetljen od zunaj. 
+Za povrh so v našem laboratoriju tudi manjši izvori svetlobe, kot so kontrolne lučke računalnikov, ne nazadnje tudi lučke na projektorjih, platno, ki ga uporabljamo, pa je povprečne kakovosti, tako da se svetloba odbija na bele zidove prostora in okenska stekla in se tako deloma vrne tudi na sliko. 
+
+Žal pa izdelovalci moralnega mačka, ki ga morda (ali pa tudi ne) imajo zaradi zavajanja kupcev, zagotovo preženejo z boljšo prodajo. 
+Dejstvo je namreč, da laični kupci (pri kamerah je takih še posebej veliko) »nasedejo« večji številki, napisani na kameri. 
+Nekateri morda celo pomislijo, da je »tisti digitalni« zum celo boljši od »onega starega, optičnega«. 
+V resnici pri digitalnih fotoaparatih velja isto, kakor smo zapisali pri optičnih bralnikih enako dobro ali pa še bolje lahko sliko povečamo tudi z računalnikom oz. z enim izmed programov za obdelavo bitnih slik. 
+To dokazujejo tudi primeri, ki smo jih naredili s fotoaparatom Canon Powershot A70. 
+Pri videokameri je uporabnost digitalnega zuma večja, saj je za laika praktično nemogoče posnetek »povečati« z računalnikom. 
+»Digitalni faktorji«, ki so večji od 5x, pa so vendarle bolj ali manj neuporabni, da o ekstremih, kot je 43x, ki ga »zmore« kamera JVC GR-DVL145EG, niti ne govorimo.
+
+Ločljivost: 1200 × 1200 pik na palec.
+
+Skupna ocena: 8,21.
+
+Za: Odlična kakovost tiska na svetleč papir. 
+Tiskanje od roba do roba. 
+Možnost tiskanja na neskončni papir, možnost tiskanja na CD-ROM.
+
+Cena: 110.430 tolarjev.
+
+Za: Dober zaslon, mere, razširitveni mesti za kartice CF in SD.
+
+V prejšnjem nadaljevanju sem svoj računalnik z Linuxom pripravil za pisarniška opravila. 
+Opremljen z brezplačnim paketom pisarniških programov torej lahko nemoteno delam naprej, toda ko takole sedim za računalnikom in pišem, mi nekaj manjka. 
+Muzika, jasno. 
+
+Z Gripom bi se lahko stiskanja kar takoj lotil, če bi le bil zadovoljen z zapisom ogg. 
+Podobno kot pri predvajanju namreč tudi pri stiskanju podpora mp3 v Linux ni vgrajena. 
+Z oggom ni nič narobe in kot sem že omenil, so nekateri prepričani, da je sploh boljši kakor mp3. 
+Če se tudi vam tako zdi, se vam s stiskanjem mp3-jev seveda ni treba posebej ukvarjati, jaz pa bi vseeno rad tudi v Linuxu stiskal mp3-je, predvsem zato, ker jih poslušam tudi s prenosnim predvajalnikom mp3 in, zapečene na CD, v domačem sistemu hi-fi.
+
+Najprej sem hotel namestiti Lame, ker naj bi bil nekoliko boljši, vsaj tako pravijo, a mi na žalost ni uspelo. 
+Kdo bi vedel, kaj je bilo narobe, toda Gripa mi nekako ni uspelo pripraviti do tega, da bi znal sodelovati z njim. 
+Po kakih desetih minutah poizkušanja sam izgubil veselje in na disk posnel še BladeEnc. 
+Tega, za razliko od Lame, dobimo v obliki samonastavitvene datoteke rpm, kar je za začetnika vsekakor precej bolje. 
+Ni se mi bilo torej treba še enkrat ukvarjati z raztegovanjem arhivske datoteke in ročno namestitvijo (za katero sumim, da je kriva, da mi Lame ni uspelo pripraviti k poslušnosti), temveč sem le dvakrat kliknil iz spleta preneseno datoteko in delo je bilo opravljeno.V Gripu sem moral potem samo še označiti, da imam kodirnik BladeEnc, in že sem lahko začel delati nove mp3-je.
+
+SLIKA 10: Poleg Gripa je v rdečeklobučnem Linuxu priložen še en podoben program, KAudioCreator, s katerim prav tako skladbe z glasbenih plošč CD spreminjamo v mp3-je. 
+Očitno ga zato, da bi začetnikom nekoliko otežili delo, niso uvrstili v skupino orodij za delo z zvokom in videom (Audio and Video), temveč med dodatna sistemska orodja (More System Tools). 
+Za izdelavo mp3-jev potrebuje kAudioCreator enake kodirnike kakor Grip.
+
+Različni Linuxi
+
+Tabela osnovnih podatkov in meritev 66
+
+SuSE Linux Office Desktop 72
+
+79 NAJBOLJŠI IZDELKI
+
+- Dell Latitute D800 80
+
+- Acer Aspire 1601LC 81
+
+- HP Laserjet 2300DTN 88
+
+Vladimir Djurdjič
+
+Efektivna ločljivost tipala: 4,93 milijona pik.
+
+Lexmark E321 
+
+Širokopasovni usmerjevalniki
+
+Prodaja: Izid, www.izid.si, (01) 242 83 40.
+
+Proti: Spletni vmesnik je počasen in tu in tam nerodno zgrajen.
+
+SLIKA observatorij: Na spletnih straneh Zemeljskega observatorija si lahko ogledamo, kakšen je naš domači planet iz vesolja.
+
+SLIKA AlterNet: AlterNet je odličen vir informacij za vse, ki uradnim ne zaupajo.
+
+Webbyja v kategoriji spletnih skupnosti je dobil Meetup (www.meetup.com). 
+Njegova posebnost je, da se ne omejuje samo na spletno druženje članov, kakor večina podobnih spletnih skupnosti, temveč organizira tudi čisto prava srečanja, predvsem v kiberkavarnah. 
+Kiberščaki, ki se drugače večinoma poznajo le po vzdevkih, se imajo torej priložnost spoznati tudi »v živo«. 
+Tudi srečanja, ki so navadno enkrat na mesec, so, tako kot spletni forumi, tematsko ločena, saj nima nobenega pravega smisla, da bi se srečevali ljubitelji filmov s tistimi, ki jih zanimajo domače živali ali, recimo, pletenje.
+
+Skrivališče je lahko kjerkoli, najbolj priljubljena pa so tista na krajih, ki jih je vredno obiskati ne samo zaradi »zaklada«, ki je seveda samo simboličen, recimo kovanec ali kaj podobnega, temveč tudi zaradi razgleda ali kakšne znamenitosti. 
+Poleg tega je tudi nekaj različic osnovne igre, recimo »večstopenjsko« iskanje, pri katerih v prvem skrivališču najdemo navodila za iskanje naslednjega skrivališča.
+
+www.nucleusresearch.com
+
+Zavarujte podjetje pred virusi in vdori v omrežje.
+
+stran 30
+
+Številni diski na trgu rabljene računalniške opreme vsebujejo podatke zaupne narave, ki pa jih je z dostopno tehnologijo vseeno moč prebrati. 
+Kako jih lahko očistite? 
+
+Morda se sedaj sprašujete, kaj zaboga počno varnostni pasovi v računalniški reviji? 
+Nekaj podobnega se namreč že precej časa dogaja s programsko opremo. 
+V dobrih starih časih je bil operacijski sistem res samo operacijski sistem, brez kakršnihkoli dodatkov. 
+Dobro, vanj so bili vgrajeni enostaven urejevalnik datotek in še preprostejši vrstični urejevalnik golega besedila, pa gorila, ki je metala banane prek stolpnic, to je bilo pa tudi bolj ali manj vse. 
+Uporabnik je moral vse dodatne programe kupiti ali jih poiskati med brezplačnimi.
+
+Microsoftov urejevalnik datotek Raziskovalec je, recimo, v primerjavi s švicarskim Total Commanderjem prav smešno nepriročen. 
+Koliko Christian Ghisler z njim zasluži, sicer ne vem, a zanesljivo bi zaslužil vsaj stokrat več, če v Microsoftu Oknom ne bi prilagali urejevalnika datotek. 
+Je pa zato velikan iz Redmonda znal doseči, da Švicar ne sme več uporabljati izvirnega imena Windows Commander. 
+
+Tehnične lastnosti: Objektiv 36108 mm (ekvivalent); svetlobna jakost 2,64,7; ostrenje 0,3 mneskončno (4 cmneskončno makro); čas od 1/3000 do 2 s; doseg bliskavice od 0,2 cm do 3 m; ISO samodejno (100400 ASA).
+
+Podjetje Novell se vse bolj usmerja na Linux, kar je potrdilo tudi z nakupom družbe Ximian, izdelovalca namiznih in pisarniških programov za Linux. 
+Novell naj bi s tem utrdil svojo novo podporo na področju strežniških izdelkov, hkrati pa se z nakupom podaja na področje osebne rabe. 
+
+www.apple.com
+
+Nekoliko zmogljivejši je Clie PEG-NX80V, ki ima za 32 MB pomnilnika, video kamera pa zmore ločljivost 1,3 milijona pik (1280 × 960 pik). 
+Vgrajena je celo majhna bliskavica. 
+V ZDA staneta 500 oziroma 600 dolarjev. 
+
+Delovne postaje SGI z grafiko ATI
+
+Družba Silicon Graphics je predstavila nove grafične delovne postaje, ki prvič v zgodovini podjetja uporabljajo standardne grafične procesorje drugih izdelovalcev izbrali so ATI. 
+
+<OKVIR>
+
+V New Yorku je bilo sicer na ogled nekaj svetovnih novosti, ki bodo prej ali slej naprodaj. 
+V ospredju je bila družba Hewlett-Packard, ki je predstavila nove prenosne in ročne računalnike. 
+Med prenosniki je pomembna novost Compaq Business Notebook nx7000, ki se lahko pohvali s 15,4-palčnim zaslonom v razmerju 16 : 10 (ločljivost 1650 × 1050 pik), vendar je tanek in lahek. 
+Kljub velikemu zaslonu omogoča prenosnik s procesorjem Pentium M več kot pet ur dela z enim polnjenjem akumulatorja. 
+Še bolje se odreže HP Compaq nc4000, novi lahki (1,6 kg) prenosnik, ki s procesorjem Pentium M in zaslonom z diagonalo 12,1 palca deluje z enim polnjenjem več kot sedem ur. 
+Sicer pa HP načrtuje deset novih prenosnikov v drugi polovici leta, med njimi bo tudi model s 17-palčnim zaslonom in z zapisovalnikom DVD+RW.
+
+Olympus že pospešeno pripravlja E-1, prvi digitalni fotoaparat z namenskimi zamenljivimi objektivi in posebej zasnovanim sistemom zajemanja slike, ki je prilagojen digitalni tehniki. 
+Olympus je tehnologijo zasnoval v sodelovanju s Kodakom. 
+
+Podjetje SMC Networks je predstavilo nov rod omrežnih izdelkov EZ-Stream za razvedrilo doma. 
+
+Podjetje HiGrade je pri nas prek podjetja Avtera predstavilo tudi večpredstavni osebni računalnik Xperian, ki bo na voljo od septembra.
+
+<KONEC OKVIRJA>
+
+Podjetje Quark je po dolgem razvojnem obdobju vendarle objavilo novo različico svojega programa za namizno založništvo QuarkXPress 6. 
+Program sicer sodi med vodilne izdelke za DTP, analitiki pa tudi ocenjujejo, da gre za najpomembnejšo letošnjo novost med izdelki za računalnike Apple. 
+Nova različica deluje z MacOS X 10.2, na voljo pa je tudi za okolji Windows 2000 in Windows XP. 
+
+Izmed novih modelov je najcenejša različica s procesorjem Celeron 2 GHz, 128 MB pomnilnika, 40 GB diskom in bralnikom CD-ROM. 
+V ZDA stane 470 dolarjev. 
+V ceno so všteti tudi disketna enota, modem in operacijski sistem Windows XP Home Edition, grafični vmesnik pa je vgrajen v osnovno ploščo.
+
+Toshiba je predstavila svoj doslej največji prenosnik po imenu Satellite P20 s 17-palčnim zaslonom LCD, ki v razmerju stranic 16 : 10 omogoča ločljivost 1440 × 900 pik. 
+
+Nedavno je družba HP pri napovedih svojih bodočih računalnikov posredno razkrila, da bo prvi procesor AMD Athlon 64 na voljo z oznako 3100+, to pa naj bi po zmogljivosti ustrezalo trenutnim Pentiumom 4 s frekvenco 3,2 GHz. 
+Hkrati bodo najbrž predstavili tudi Athlon 64 z oznako 3400+, ki bo morda takrat hitrejši od Intelovih procesorjev z arhitekturo x86. 
+AMD do konca leta načrtuje še različico 3700+, za drugo polovico 2004 pa je cilj doseči oznako 4300+. 
+
+Sony Qualia 016 -- najmanjši doslej
+
+Družba Sharp je predstavila nova ročna računalnika, Zaurus SL-C750 in SL-C760, ki temeljita na Linuxu. 
+Razlikujeta se po količini pomnilnika, zmogljivosti akumulatorja in teži. 
+Je manjši od prejšnjih modelov, na videz pa je podoben žepnim računalnikom Psion, ki jih že nekaj let ne izdelujejo več. 
+Zaslon ima ločljivost 640 × 480 pik, pod njim pa je vgrajena tipkovnica zaslon lahko uporabnik tudi obrne in zapre, da prekrije tipkovnico in s tem sistem spremeni v ročni računalnik. 
+Priloženi programi HancomMobile omogočajo pregledovanje datotek Worda in Excela ter predvajanje predstavitev iz PowerPointa, uporabniki pa lahko dokupijo vmesnik, ki omogoča tudi priklop na projektor ali monitor SVGA. 
+Na voljo so tudi brezžični vmesniki WLAN in drugi. 
+Zaenkrat le na Japonskem.
+
+Kmalu konec za Netscape
+
+Motorola pripravlja zaslone NED
+
+www.atrp.si
+
+www.intel.com
+
+Tudi AMD je razširil ponudbo svojih 64-bitnih Opteronov. 
+Odslej je najzmogljivejši procesor AMD na voljo tudi v različici Opteron 800, ki podpira strežniške sisteme z osmimi procesorji. 
+Ti zdaj nosijo oznake Opteron 840, 842 in 844. 
+Hkrati so objavili tudi najšibkejšo različico, Opteron 100, ki podpira enoprocesorske strežnike in delovne postaje. 
+
+Kraja osebnih računalnikov bo morda v prihodnosti manj mamljiva. 
+Za to se lahko zahvalimo podjetjema Phoenix Technologies in Softex, ki sta skupaj ponudila program TheftGuard. 
+Ta se skrije v osebni računalnik in s pomočjo programa v biosu samodejno onemogoči rabo ukradenega računalnika, brž ko ga nepridiprav priključi v internet. 
+Program omogoča tudi sledenje ukradenim računalnikom. 
+Ukradene računalnike lahko skrbnik na daljavo zgolj onemogoči ali pa zbriše vse podatke, vidi pa tudi internetni naslov in o njem obvesti policijo, da ukrepa naprej in računalnik vrne lastniku.
+
+www.phoenix.com
+
+www.fujitsu-siemens.com
+
+Skupina ESS (Enterprise Servers and Storage) podjetja HP je postala bogatejša za oddelek, ki se bo ukvarjal samo z Linuxom. 
+HP namreč proda vse več strežnikov z Intelovim procesorjem Itanium 2, kjer se Linuxova vloga povečuje. 
+
+Skupna ocena: 147.600.
+
+Od drugih konferenc v Sloveniji, na katerih se večinoma zbirajo privrženci določenega računalniškega izdelovalca in na njih zato vse prevečkrat prevladujejo oglaševalski prispevki brez dodane vrednosti, se OTS loči po kvalitetnih prispevkih, v katerih predavatelji posredujejo raziskave in lastne izkušnje na konkretnih projektih. 
+Prav to uvršča OTS med strokovne konference za nekoliko zahtevnejšo publiko, ki jo je vredno obiskati.
+
+Palmov Tungsten T je simpatična naprava tudi zato, ker se lepo zloži in s tem zmanjša. 
+Težava je v tem, da je zložen le polovično uporaben, saj so ključni programski gumbi skriti. 
+
+Za: Pregleden nastavitveni vmesnik, možnost izrisevanja navpične črte, ki deli polje za vnašanje črk in številk.
+
+Velikost: 6 KB.
+
+Ker kupci vendarle »padajo« na visoke številke, je »padel« tudi Palm in se odločil pokazati, da lahko tudi palmovski računalnik utripa s 400 MHz (Sonyjev najhitrejši model zmore »le« 200 MHz) in hkrati premore solidno akmulatorsko avtonomijo. 
+Novi Tungsten C je hiter kot blisk, o tem ni nobenega dvoma. 
+Xscale PXA255 ga naredi tako neverjetno hitrega, da preseneti tudi izurjenega uporabnika modela Tungsten T (ki je že sam za razred hitrejši od konkurentov PocketPC). 
+Programi, tudi kompleksni, kot je Documents to go, se odpirajo v trenutku. 
+Merilni programi, ki se na modelu T izvajajo nekaj sekund, se na C končajo v sekundi. 
+Po drugi strani pa združljivost med procesorjema OMAP in XScale očitno ni popolna, saj npr. program AcidImage za gledanje datotek JPG na C deluje nekajkrat počasneje kakor na T.
+
+Palm Tungsten C
+
+Razred: Zmogljiv (ročni nadzor, solidna zmogljivost).
+
+Ste že kdaj poskušali zbrisati kako ime z ikone na namizju? 
+Če se zadeve lotite tako, da označite ikono z desno tipko miške, z menuja izberete možnost Preimenuj/Rename in pritisnete tipko Delete, besedilo sicer začasno izgine, se pa žal spet prikaže, ko pritisnete tipko Enter ali kliknete z miško kjerkoli na namizju. 
+Torej ni tako enostavno. 
+Če želite izbrisati ime ikone na namizju, jo najprej označite z desno tipko miške, z menuja izberite možnost Preimenuj/Rename ter pritisnite kombinacijo tipk Alt+0160 na številčnem delu tipkovnice. 
+Na mestu imena ikone bo ostal le kvadratek, ki bo izginil, ko pritisnete tipko Enter ali kliknete kjerkoli na namizju. 
+
+NoDispBackgroundPage Če vrednost te spremenljivke postavite na 1, boste iz pogovornega okna Zaslon lastnosti/Display Properties izključili jeziček Ozadje/Background.
+
+Podnapis: Pogovorno okno System Properties brez jezička Device Manager.
+
+Windows 2000
+
+Ko začne Windows primanjkovati pomnilnika, začne shranjevati podatke v izmenjalno datoteko na disku. 
+Zato se podaljša čas dostopa do podatkov, ki je po tem neprimerno daljši, kot če bi bili podatki v pomnilniku. 
+Zaradi tega je smiselno iz pomnilnika odstraniti odvečne podatke. 
+Slika ozadja lahko, denimo, zasede nekaj MB pomnilnika, ne glede na to, kako lepo pristaja na namizje. 
+Odstranite jo tako, da z desno tipko miške kliknete namizje in izberete Properties, označite jeziček Ozadje/Background in s seznama izberite možnost Brez/None. 
+Tudi zvočne sheme so ves čas naložene v pomnilniku, da jih ni treba vedno znova nalagati z diska. 
+Lahko pa jih odstranite. 
+Izberite Start|Settings|Control Panel|Sounds and Multimedia. 
+Kliknite jeziček Sounds in v rubriki pod Sheme izberite možnost No Sounds. 
+Ko se že lotite optimizacije pomnilnika, je smiselno odstraniti tudi nepotrebne programe, ki se zaženejo ob zagonu Windows. 
+To lahko naredite tudi v urejevalniku registra. 
+V vejah HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run ter RunOnce odstranite programe, za katere ste prepričani, da jih ne potrebujete. 
+Enaka ključa poiščite še v veji HKEY\LOCAL_MACHINE.
+
+Windows 2000
+
+Velikost: 250 KB.
+
+Cena: 25 dolarjev.
+
+Linux v resničnem času
+
+* RTOS so navadno le del širšega procesnega okolja (krmiljeni in krmilni sistemi), v katerega so vgrajeni (ang. embedded systems). 
+Ti vgrajeni RTOS so majhni, enostavno jih je upravljati, imajo manj napak, to pa ima za posledico večjo zanesljivost ter časovno učinkovitost.
+
+V primerjavi z drugimi pristopi k problematiki resničnega časa ima podana rešitev bistveno prednost, saj ne posega neposredno v že obstoječe standardno jedro Linuxa, temveč ga prek vmesnega modula le razširja. 
+V nadaljevanju bomo obravnavali dve prostokodni izvedbi (RT-Linux ter RTAI) zgoraj predlagane rešitve problema resničnega časa.
+
+void *start_routine(void *arg){
+
+return pthread_create(&thread,NULL,start_routine,0);
+
+Podani zgled deluje takole: ko modul povežemo v jedro OS, se najprej izvede nastavitvena funkcija init_module(). 
+Znotraj te se prek funkcije pthread_create() ustvari nit (ang. thread) [8], pri čemer navadno več niti sestavlja proces v resničnem času. 
+Oznaka novo nastale niti se shrani v thread, samo jedro pa predstavlja funkcija start_routine(), v kateri definiramo urnik (struct sched_param p). 
+Ta skrbi za ustrezno časovno proženje in izvedbo niti z najvišjo prioriteto. 
+Urniku podamo dodatne parametre prek funkcije pthread_setsched_param(). 
+Periodično izvajanje niti (frekvenca 2 Hz oz. vsakih 500 ms) nastavimo s pthread_make_periodic_np(). 
+Neskončna zanka se začne s klicem pthread_wait_np(), ki zaustavi izvajanje niti vse do naslednjega klica s strani urnika, ko se dejansko izpiše znakovni niz. 
+Zanka se ponavlja vse do odstranitve modula iz jedra cleanup_module().
+
+[4] domača stran projekta RT-Linux
+
+Cena: Brezplačno.
+
+Proti: Preprečevanje odpiranja novih (pop-up) oken ni selektivno. 
+
+Priprava skriptov za upravljanje Sambe
+
+Skripta za dodajanje uporabnika mora tako vsebovati ukaz, ki bo naredil uporabnika na sistemu Unix in mu dodelil geslo v podsistemu Samba. 
+Uporabili bomo ukaza adduser in smbpasswd. 
+
+#!/bin/tcsh
+
+echo "Uporaba: $0 <netbios ime>"
+
+NN=$1"\$"
+
+#spodnja vrstica je namenjena programu adduser pri paketu shadow
+
+Dodajanje map za skupno rabo
+
+echo "browseable = yes" >> $CONF
+
+Vse zapisane skripte je mogoče nadgraditi in predvsem prilagoditi specifičnemu sistemu, saj le tako pridobimo njihovo potencialno učinkovitost in uporabnost. 
+Možno jih je prav tako uporabiti pri gradnji večjega sistema za upravljanje datotečnega strežnika, temelječega na Sambi.
+
+Slika 2: Nastavitve IDS; IDS.tif
+
+Pri bralnikih nas izdelovalci bombardirajo z velikimi ločljivostmi, ki jih omogočajo, vendar so napihnjene številke bolj kot ne metanje peska v oči kupcem. 
+Ločljivost je navadno podana z dvema vrednostima (na primer 600 × 1200 pik na palec). 
+Prva pove, kolikšna je gostota optičnih tipal, kar imenujemo tudi optična ločljivost, druga pa poda natančnost koračnega motorja, ki skrbi za premikanje glave s tipali. 
+Največja ločljivost, ki jo lahko nastavimo, pa je navadno precej večja (v nekaterih primerih že do milijon pik na palec). 
+Bralniki dejanske pike na predlogi prebirajo le do optične ločljivosti tipala, medtem ko vse druge, če prebiramo z večjo ločljivostjo, dobimo z interpolacijo. 
+Pri tem programska oprema bralnika na podlagi prebranih pik izračuna vmesne in tako dobimo večjo sliko. 
+Interpolirane ločljivosti so, razen v zelo redkih primerih, povsem neuporabne, saj lahko enak ali celo boljši rezultat dosežemo s tem, da sliko sami povečamo v programu za obdelavo slik. 
+Večina današnjih bralnikov, tudi tisti v najnižjem cenovnem razredu, ima optično ločljivost najmanj 600 pik na palec, tako da lahko tudi pri najcenejšem bralniku sliko zajamemo dovolj natančno za veliko večino uporabnikov.
+
+Na žalost bralniki s tipali CIS še ne dosegajo kakovosti, ki jo zagotavljajo bralniki CCD, vendar je razlika čedalje manjša, bralniki CIS pa se predvsem v spodnjem cenovnem razredu brez težav kosajo z bralniki CCD. 
+Druga slabost bralnikov s tipali CIS pa je nezmožnost prebiranja prosojnih predlog. 
+Pri bralnikih CCD za osvetljevanje predlog v primeru, če so te prosojne, skrbi dodaten vir svetlobe v pokrovu bralnika. 
+Zaradi drugačnega načina osvetljevanja predlog pri tipalih CIS in zaradi šibkega vira svetlobe za bralnike CIS zaenkrat še niso na voljo dodatki za prebiranje diapozitivov in negativov.
+
+Sodobni programi za prepoznavanje znakov seveda ne uporabljajo le enega izmed omenjenih postopkov, temveč se zanašajo na kombinacijo obeh in še na nekatere dodatne algoritme. 
+Zmogljivejši in temu primerno dražji pa imajo tudi lasten slovar, s katerim najdejo nepravilnosti že med samim prepoznavanjem, glede na pogostost pojavljanja besede. 
+V nekaterih primerih iz sobesedila prepoznajo določene znake tudi takrat, ko bi bil rezultat pri uporabi klasični postopkov brez slovarja napačen.
+
+Acronis OS Selector
+
+Tako imamo pripravljeno vse potrebno za začetek namestitve, ki je povsem enaka kakor pri SuSE Linux 8.1, torej poteka v treh korakih izbira jezika, potrditev namestitvenih opravil in namestitev paketov. 
+Ob koncu je treba določiti geslo uporabniku root, ustvariti privzetega uporabnika in po samodejni zaznavi strojne opreme se zbudimo v SuSE Linux Office Desktopu. 
+Dobrodošlico nam izreče nekoliko prenovljeno pozdravno okno, na namizju pa je tudi nova bližnjica, Asistent. 
+Je nekakšen čarovnik, ki nas vodi do posebnih orodij Office Desktopa. 
+Ponuja pet možnosti: namestitve Microsoftove programske opreme, namestitev Microsoftovih dodatkov (plug-ins), deljenje imenikov z drugimi uporabniki omrežja, priključitev deljenih imenikov v omrežju in namestitev tiskalnika. 
+
+Žal CrossOver Office ni ustvaril bližnjic ne na namizje niti na menu K, razen za Internet Explorer. 
+Zato je treba nekoliko pobrskati po 350 strani dolgem priročniku, da ugotovimo, kako sploh zagnati posamezni program. 
+Ti so nameščeni v navidezno okolje, ki je urejeno v drevesno strukturo, podobno kakor v Oknih. 
+Programe poženemo, če v ukazno vrstico vpišemo "/opt/cxoffice/bin/wine" (z narekovaji!) in, ločeno z vsaj enim presledkom, še "pot do programa" (z narekovaji!). 
+Npr. Word poženemo z ukazom "/opt/cxoffice/bin/wine" 
+"C:/Program Files/Microsoft Office/Office/WINWORD.
+EXE". 
+Ta postopek je nekoliko neprivlačen, a ko ustvarimo bližnjice, lahko nanj pozabimo in se lotimo vsakdanje rabe.
+
+CrossOver Office lahko namesti še nekatere programe za Okna. 
+Izbira internetnih brskalnikov in programov za delo z elektronsko pošto je v Linuxu sicer pestra in kakovostna, saj imamo na voljo Mozillo, Konqueror, Galeon, Opero, Netscape, Evolution, KMail ... 
+Številna med temi orodji celo prekašajo Internet Eplorer in Outlook Express, a morda se kdo le ne bo mogel navaditi npr. na Mozillo in bo želel poseči po Internet Explorerju. 
+V tem primeru spet posežemo po orodju CrossOver Office. 
+Če ga želimo namestiti ločeno od Officea, na seznamu izberemo Internet Explorer in ob pritisku na Add se začne prenos programa iz spleta in zatem namestitev. 
+Program lahko namestimo tudi z diska ali prenosnega nosilca.
+
+Na seznamu programov v CrossOver Office so poleg zbirke Microsoft Office in Internet Explorerja še Lotus Notes, Quicken in Microsoft Visio. 
+Ob tem pa je na voljo tudi izbira Other applications, s katero lahko namestimo druge programe. 
+Tem podjetje CodeWeavers ni posvetilo posebne pozornosti, a to še ne pomeni, da se jih ne da uporabiti. 
+
+Tudi dodatke (plug-ins) brskalnikov za Okna lahko uporabimo v Linuxu, in sicer s programom CrossOver Plugin, na katerega nas je opozoril že Asistent. 
+Podprti dodatki so QuickTime, Windows Media Player, RealPlayer, Shockwave, Flash, pregledovalniki dokumentov zbirke Office in drugi. 
+Namestitev poteka zelo podobno kakor v CrossOver Office, le da lahko po namestitvi tudi omogočimo ali onemogočimo dodatke pri posameznih brskalnikih.
+
+Cena: 39. 
+600 tolarjev.
+
+Mnenje
+
+Štorija o Ljubljanski banki in njenem nespretnem prehodu na nove račune je po svoje dolgočasna, po drugi strani pa je ravno zaradi svoje tipičnosti za naš prostor gotovo ena izmed pomembnejših v zadnjih letih.
+
+Številni diski na trgu rabljene računalniške opreme vsebujejo podatke zaupne narave, ki pa jih je z dostopno tehnologijo vseeno moč prebrati. 
+Kako lahko odslužene diske očistimo?
+
+Kdaj je izbrisano zares izbrisano?
+
+Podatke na diskih sta razvrstila v pet ravni (tabela 2). 
+Podatke z ničte in prve ravni so skladno z razvrstitvijo vsebovali le diski z dejavnimi datotečnimi sistemi. 
+Med njimi se je znašlo več podatkov osebne narave: okrožnica o personalnih zadevah v nekem podjetju, očetova pritožba zdravniku zaradi neustreznega zdravljenja raka pri sedemletnem sinu, ljubezenska pisma, pornografija ipd. 
+Pri iskanju po tretji ravni, torej med surovimi podatki na disku, sta se avtorja omejila na specifične vrste podatkov. 
+Ena takih vrst so bila šestnajstmestna števila, ki so obenem ustrezala nadzorni vsoti za številke kreditnih kartic. 
+Te podatke sta našla na 42 diskih; med njimi je še posebej izstopal eden z več tisoč številkami kreditnih kartic, ki je bil najverjetneje vgrajen v bankomat nekje v Illinoisu. 
+Druga vrsta podatkov, ki sta jo iskala, so bili elektronski poštni naslovi. 
+Na 66 diskih sta našla več kot pet naslovov (spodnjo mejo sta postavila zaradi nekaterih programov npr. Netscape Navigator ki že ob namestitvi ustvarijo nekaj pozdravnih dopisov, četudi niso bili nikdar rabljeni).
+
+Za konec naštejmo še nekaj programov za varno brisanje vsebine diskov:
+
+Razloge gre iskati v naravi izdelkov med razvojem operacijskih sistemov in strežniških izdelkov ter poslovnih rešitev na drugi strani je velikanska razlika, najbrž največja med tem, kar najdemo v računalništvu. 
+Izkušnje z enega področja le malo pomagajo na drugi strani in tega so se izdelovalci dobro zavedali. 
+Na eni strani koristi predvsem tehnično znanje, na drugem pa pretežno poznavanje poslovnih procesov in poslovanja na sploh.
+
+Citat: »Uganka številka ena glede strategije na področju ERP je IBM, nekaj manj HP. 
+Seveda ne smemo mimo vladarja na področju sistemov ERP, družbe SAP.«
+
+Strežniki 1U 
+
+obiščite nas tudi v spletu: 
+

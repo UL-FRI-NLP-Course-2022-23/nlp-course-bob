@@ -1,0 +1,631 @@
+Sonic MyDVD Plus je zgrajen na enaki podlagi kakor profesionalna orodja za obdelavo videa tega podjetja. 
+Seveda so zmožnosti, ki jih ponuja, v primerjavi z izdelki za zahtevne uporabnike precej okrnjene. 
+Program, podobno kakor Expression, omogoča le zajemanje videa iz videokamere, izdelavo menuja za navigacijo med posameznimi scenami in zapisovanje videa na ploščo. 
+Tisti, ki bi se pri izdelavi vmesnika in menujev radi potrudili z neobičajnim videzom, pri MyDVD ne bodo prišli na svoj račun, saj so orodja za izdelavo menujev dokaj preprosta in ne omogočajo veliko prilagajanja videza. 
+Programu je sicer priložen dodatek, s katerim ga lahko povežemo z Adobovim Photoshopom in tako precej razširimo nabor oblikovalskih zmožnosti, vendar je celoten postopek zapleten in se ga bodo lotili le redki. 
+Ena izmed zelo uporabnih lastnosti Sonicovega izdelka, ki je pri nekaterih konkurentih ne najdemo, je neposredno zapisovanje iz kamere na ploščo, pri čemer ne potrebujemo diskovnega prostora. 
+Shranjevanje posnetka iz kamere na plošče DVD tako postane preprosto kakor klik z miško, resda pa se v tem primeru odpovemo vsaki možnosti urejanja posnetkov. 
+Program bi bil še veliko bolj uporaben, če ne bi imel do konca okrnjenih zmožnosti urejanja posnetkov, tako pa bodo po njem segli predvsem tisti, ki imajo za urejanje na voljo druga orodja, poleg tega pa želijo prihraniti nekaj prostora na disku in posnetke večkrat prenesejo kar neposredno na DVD.
+
+Ko smo z videzom in lastnostmi menuja zadovoljni, kliknemo gumb Burn na dnu zaslona. 
+Odpre se okno, v katerem izberemo zapisovalnik in hitrost zapisovanja, določimo pa lahko tudi, koliko kopij plošče želimo izdelati.
+
+Čas zapisovanja je odvisen od več dejavnikov. 
+Če zapisovalnik podpira delo pri večjih hitrostih pisanja, je celoten postopek seveda končan prej. 
+Na daljši čas zapisovanja lahko vpliva tudi posnetek, ki ga je pred pisanjem treba še pretvoriti v združljiv format. 
+Ta pretvorba je odvisna od zmogljivosti procesorja in pri zahtevnejših formatih (če je bil izvirni posnetek na primer v formatu MPEG-4) vzame kar precej časa, v najslabšem primeru celo več, kot je dolžina posnetka, ki ga želimo zapisati.
+
+Velikost: 1820 KB.
+
+Agenda Fusion 4.90
+
+Proti: Slaba integracija z Outlookom, predvsem z zaslonom Today, višja cena od konkurenta.
+
+V praksi se Agenda najbolj izkaže pri prilagoditvah videza. 
+Posamezne elemente uporabniškega vmesnika, kot so pisave in njihove velikosti, lahko brez težav prilagodimo svojemu okusu. 
+Tako dosežemo preglednejši prikaz, velikost prikazanih informacij pa lahko prilagodimo količini vpisanih podatkov.
+
+Tokrat smo preizkusili novi model 6127, ki pa se je izkazal enostavno kot 6122 z vgrajenim omrežnim vmesnikom. 
+Da, tiskalnik lahko priklopimo neposredno v omrežje in nanj tiskamo od kjerkoli, ali pa ga enako omrežno namestimo na strežnik in ga drugim delimo od tam. 
+Namestitev v omrežje je trivialna, saj nastavitveni program tiskalnik lepo najde, če ga slučajno ne (če ima omrežna kartica več številk IP, se taki programi včasih zmedejo), pa lahko njegovo številko (ki jo natisne s pritiskom na gumb) vpišemo ročno. 
+Številko IP lahko dobi tudi avtomatsko, prek strežnika DHCP. 
+Od omrežnih lastnostih omenimo še vgrajeni spletni strežnik, kar pomeni, da se lahko na tiskalnik priklopimo s spletnim brskalnikom (kar je že dolgo lastnost zmogljivejših laserskih tiskalnikov). 
+Žal tam kaj posebno koristnega ne bomo opravili; zamenjamo lahko številko IP in preverimo, koliko barvila smo že porabili (kar pa tako ali tako vidimo tudi v gonilniku). 
+Prej omenjeni laserski tiskalniki (tudi HP) ponavadi omogočajo še obveščanje o izpraznjenih kartušah in celo samodejno naročanje le-teh (vendar ne v Sloveniji).
+
+Skupna ocena: 8,56. 
+
+Morda bo koga motilo le to, da prenosniku nista priloženi niti disketna enota niti enota CD-ROM (čeprav ju v poslovnem, danes značilno povsem omreženem okolju v resnici skoraj ne potrebujemo). 
+Slednjo lahko dodamo le, če kupimo vsaj osnovno priklopno postajo (t. i. Mediaslice, cena 51.600 tolarjev), ki smo jo preizkusili tudi mi. 
+Žal ima ta v osnovi prostor le za enoto CD-ROM, kupiti pa jo moramo posebej (37.000 tolarjev). 
+Razširitveno mesto je univerzalno, zato lahko vanj vtaknemo tudi dodaten akumulator, čeprav je zanj prostor tudi na spodnji strani priključne postaje (49.000 tolarjev). 
+S priključno postajo sicer pridobimo tudi zaporedni vmesnik in pa vmesnik PS/2.
+
+Omenimo še lastnost, ki se je zavemo šele po daljši rabi prenosnik je zelo tih! 
+Skozi reže ob strani je resda videti ventilator za procesor, a se ta v vsem času našega preizkušanja (14 dni redne rabe) ni niti enkrat zavrtel. 
+Natančno uho bo tako slišalo le vrtenje diska.
+
+Na preskusni mizi
+
+NEC Versa M300
+
+Za: Opremljenost, tipkovnica.
+
+Vsak mesec objavimo tabelo, ki vključuje najboljše štiri iz vsake skupine.
+
+Vsak mesec objavimo tabelo s petimi najboljšimi iz vsake skupine.
+
+Skupna ocena: 8,04.
+
+Proti: Nekoliko manjša povečava, občutljiv za šum in barvne sence na odbojnih površinah, slabo prilagajanje temperature bele, manj dognano ohišje.
+
+Naprodaj je kar nekaj vrst prenosnih tiskalnikov. 
+Prvi so toplotni, ki delujejo načeloma podobno kakor starejše faksirne naprave in za delovanje potrebujejo poseben papir, občutljiv za toploto. 
+Izpis se potem preprosto ustvarja ob pomoči grelca, ki greje tiste točke na papirju, ki morajo biti obarvane. 
+Pri taki tehnologiji seveda ne moremo uporabljati barv, niti ne znajo ustvarjati zahtevnih rastrov ali vmesnih odtenkov, poleg tega smo vezani na posebne vrste papirja, ki so ponavadi precej drage, robovi črnih delov izpisov pa so nekoliko nazobčani. 
+Je pa res, da toplotna tehnologija dovoljuje precej veliko stopnjo miniaturizacije z razmeroma majhnimi stroški izdelave (spomnite se samo, kako majhen je bil legendarni Sinclairov ZX Printer že v osemdesetih letih prejšnjega stoletja) in zelo zanesljivo delovanje, že zaradi preproste zasnove. 
+Tako se ti tiskalniki uporabljajo predvsem v industriji, trgovini in skladiščih, kot tiskalniki za izpisovanje nalepk s črtnimi kodami, cenami, deklaracijami in podobno. 
+Druga tehnologija, ki prav tako temelji na toploti, je tehnologija prenosa toplote. 
+Ta ima prav tako grelec, le da lahko uporablja navaden papir, črnilo pa je na posebnem traku, ki je med grelno glavo in papirjem, in grelna glava s segrevanjem »nalepi« črnilo na papir. 
+Izpis je dosti bolj oster, popolnoma primerljiv z laserskim, in precej boljši od izpisa pri klasični toplotni tehnologiji, a je tudi mehanizem že nekoliko zahtevnejši od toplotnega. 
+Ti tiskalniki lahko uporabljajo tudi barvne trakove, ustvarjajo pa lahko tudi precej boljše rastre, vendar se kljub pričakovanju nekaterih niso nikoli zares prijeli kot barvni prenosni tiskalniki. 
+So pa precej razširjeni za podobne namene kot že prej omenjeni toplotni tiskalniki, za širšo prenosno rabo (torej kot tiskalnik za dokumente) pa jih je precej manj. 
+Med večjimi izdelovalci, ki danes še izdelujejo to tehnologijo, je Citizen, ki ponuja nekaj prenosnih modelov s tehnologijo prenosa toplote, tudi Canon pa ponuja še nekaj barvnih foto modelov za tiskanje fotografij manjšega formata (kot sta CP-100 in CD-300). 
+Ne nazadnje je med prenosnimi tiskalniki tudi nekaj modelov matričnih igličnih tiskalnikov, ki pa se dejansko uporabljajo le tam, kjer je potrebna kopija izpisa (dobri stari indigo papir še ni izumrl), npr. za tiskanje računov in podobno, vendar je potreba po njih dokaj omejena. 
+No, kot si lahko preberete v dodatnem okviru, se na trgu najde tudi kak eksotičen model matričnih tiskalnikov, ki je vsaj pogojno tudi prenosen. 
+
+FS-1 sodi med počasnejše izdelke na našem preizkusu, saj na plošče tako CD-R kot CD-RW zapisuje z največ osemkratno hitrostjo, branje pa poteka pri hitrosti največ 24x. 
+Dostopni čas je 150 milisekund. 
+Enota je opremljena z 2 MB predpomnilnikom, pa tudi s tehnologijo za varno zapisovanje. 
+Freecomovim zapisovalnikom je priložen program za zapisovanje Roxio Easy CD Creator in program za delo z glasbenimi datotekami Liquid Audio. 
+
+Peter Šepetavc
+
+Končni rezultat modeliranja je slika ali animacija pokrajine, ki jo Bryce izračuna v nekaj minutah do nekaj urah ali celo dneh. 
+Samo upodabljanje (rendering) je namreč računsko zelo zahtevno, zato sestavljanje pokrajine poteka z žičnimi modeli. 
+Program sliko izriše samo na ukaz, ves čas pa imamo na voljo miniaturni ogled (NanoPreview). 
+Prav pri načinu upodabljanja prinaša peti Bryce naslednjo veliko novost, omrežno upodabljanje (network rendering). 
+Program lahko celotno prizorišče razdeli na več delov in jih prek protokola TCP/IP pošlje v preračunavanje različnim računalnikom. 
+Ti opravijo vsak svojo nalogo, na koncu pa risarski »strežnik« rezultate zloži v končno podobo.
+
+Trirazsežno modeliranje pokrajin je posebnost, s katero se ne ukvarja veliko ljudi. 
+Če pa pri svojem delu tu in tam potrebujete učinkovito ponazoritev resnične ali navidezne narave, je Bryce dobra odločitev. 
+Program ima resda svojo logiko delovanja, a je zelo zmogljiv in prilagodljiv. 
+In kar je najvažnejše, njegove pokrajine skorajda ne ločimo od pravih fotografij.
+
+bry_glavno.tif Bryce ima nekoliko nenavaden uporabniški vmesnik.
+
+bry_okras_a.tif
+
+bry_okras_b.tif
+
+Cena: 39.900 tolarjev.
+
+Proti: Težave s kontrastom, nestabilen uporabniški program.
+
+Kljub pričakovanjem je bilo na sejmu opaziti razmeroma malo tabličnih računalnikov. 
+Nov model Versa T400 ima NEC, bolj ali manj končne izdelke pa smo videli še pri Samsungu, Sharpu, FIC, LG Electronics in še nekaterih drugih izdelovalcih. 
+Toda kot kaže, na tem področju za zdaj povpraševanje še ni tolikšno, da bi opravičilo večja vlaganja.
+
+Hkrati so prikazali tudi modele z ultra nizko napetostjo, ki nosijo oznake od 1400+ do 1800+, namenjeni pa so najmanjšim in najlažjim prenosnikom. 
+V nove Athlone XP-M sicer ni vgrajenih brezžičnih omrežnih tehnologij, kot je Intelov Centrino, toda v AMD menijo, da je to prednost. 
+S tem lahko ob procesorju ponudijo različne brezžične standarde, ne samo enega (802.11b), kakor v primeru Itela. 
+Velja pa omeniti, da sta za zdaj podporo novim procesorjem zagotovila le Fujitsu Siemens in Sharp, čeprav v AMD trdijo, da se bo seznam hitro razširil. 
+
+Samsung je predstavil tudi tri nove pametne telefone. 
+Zanimivo, da se ni želel opredeliti le za en operacijski sistem. i500 temelji na PalmOS, i700 uporablja sistem PocketPC 2002, D700 pa Symbian. 
+Telefoni se po zmogljivostih med seboj skoraj ne razlikujejo. 
+
+Philips pa je prikazal delujoč prototip zaslonov, bolje rečeno digitalnih knjig, ki uporabljajo tehnologijo digitalnega črnila. 
+Tehnologija uporablja nesimetrične molekule, ki se obračajo ob električni polarizaciji. 
+Rezultat je presenetljivo dober in tudi ob natančnem pogledu je zaslon videti kot navaden knjižni list, le da se lahko njegova vsebina spreminja. 
+Seveda so omejitve (hitrost sprememb, za zdaj le dve barvi), zato bodo ti zasloni najbrž res omejeni le na elektronske knjige in časopise prihodnosti tu pa imajo dobre možnosti za uspeh.
+
+Tudi pri diskih se nam obetajo spremembe, zlasti pri vmesnikih. 
+Domala vse nove osnovne plošče že podpirajo prihajajoči vmesnik Serial ATA, ki bo, kot kaže, razmeroma hitro nadomestil dosedanje diske EIDE. 
+Western Digital že prodaja diske Raptor z vmesniki Serial ATA, vendar so ti namenjeni predvsem zahtevnejši poslovni rabi. 
+O tem pričajo tudi tehnični podatki velikost 36 GB (tako kot modeli SCSI) in hitrost vrtenja 10.000 vrtljajev na minuto. 
+Zanimivo pa je, da ima Hitachi pripravljene tudi izvedbe diskov s tem vmesnikom, ki so namenjeni rabi v prenosnikih, poleg tega je močno podprl specifikacijo iVDR, pod katero nastajajo diski, ki jih je mogoče preprosto izmenjevati. 
+Ko smo že pri Hitachiju, velja omeniti njegove miniaturne diske MicroDrive, ki bodo kmalu na voljo v 4 GB izvedbi, čeprav so na CeBitu za zdaj kazali le makete.
+
+<OKVIR>
+
+Podjetje KCi je predstavilo sistem pametne zgradbe Keops, RAA program za arhiviranje slik, posnetih s hitrimi kamerami, ter storitve na področju svetovanja in vodenja projektov IT. S programsko opremo za podporo standardu ISO 9000 se je predstavilo podjetje Gama Systems. 
+Kot eden stalnih predstavnikov na CeBitu je v okviru principala sodelovalo podjetje KMP, ki se ukvarja z izdelovanjem in prodajo potrošnega materiala za različne tiskalnike.
+
+V zadnjem času je na trgu vse več pomnilniških kartic Compact Flash, ki vzbujajo pozornost z vedno večjimi številkami z dodatkom »x«, ki naj bi pričal o njihovi hitrosti tako samega pomnilnika kot tudi krmilnika (ta je pri karticah Compact Flash namreč na sami kartici). 
+Pri tem »x« ne pomeni hitrosti glede na »navadne« kartice Compact Flash, temveč se uporablja povsem enaka oznaka kot pri hitrosti branja ali zapisovanja plošč CD. 
+Gre torej za večkratnik hitrosti 150 kB/s, pri čemer ni prav jasno, kakšen »x« naj bil imele kartice nekdaj.
+
+Novi NEC poganja Intelov procesor StrongArm s taktom 206 MHz. 
+Računalnik je opremljen s 64 MB pomnilnikom za dodatne programe in datoteke, operacijski sistem pa je shranjen v 32 MB pomnilnik ROM. 
+Če pomnilnika zmanjka, je na vrhu razširitveno mesto za kartice Secure Digital. 
+Za povezovanje z drugimi napravami ima infrardeči vmesnik, vmesnika bluetooth pa ni.
+
+Izkaže se, da procesor XScale prekaša StrongArm, kar je bilo tudi pričakovati, saj je njegova zasnova sodobnejša, deluje pa tudi pri višjih taktih. 
+Necov ročni računalnik je tako pri večini meritev na repu lestvice, pri nekaterih meritvah pa je razlika zelo očitna, kar priča tudi o tem, da je testni program bolj naklonjen sodobnejšim procesorjem, kajti v praksi razlike niso tolikšne. 
+Predvsem bi izpostavili hitrejše delo z grafiko, dokaj očitno pa je tudi hitrejše računanje, tako s celimi števili kot s števili s plavajočo vejico. 
+Pri delu s pomnilnikom so razlike manjše, na nekaterih preizkusih pa StrongArm s taktom 206 MHz celo prekosi 300-megaherčni XScale.
+
+Na trgu je na voljo veliko programske opreme za izdelavo lastnih video DVD. 
+Na voljo imamo tako preproste pripomočke, s katerimi lahko posnetek samo posnamemo na ploščo, kot tudi profesionalna orodja, ki omogočajo zahtevno urejanje videoposnetkov in večje število zmožnosti pri njihovem zapisovanju na DVD. 
+Med manj zmogljivimi orodji je konkurenca dokaj ostra, saj je takih programov po ceni manj kot sto dolarjev precej, razlike med njimi pa se včasih opazijo šele po podrobnejšem ogledu zmožnosti, ki jih ponujajo. 
+Ogledali smo si nekaj najbolj razširjenih programov za izdelavo video DVD, pri čemer smo izbor zožili na izdelke, ki so namenjeni predvsem začetnikom in torej ne ponujajo naprednejših zmožnosti urejanja videa, so pa zato dokaj poceni.
+
+Expression.jpg: Pinnacle Expression
+
+Mydvd1.tif: Osnovno okno programa MyDVD
+
+Mydvd4.tif: Hkrati lahko v menu dodamo več posnetkov.
+
+Video kartica skrbi za povezljivost računalnika in videokamere. 
+Lahko ima analogne vhode (ali izhode, vendar ti za izdelavo plošč DVD načeloma niso potrebni), lahko so digitalni (navadno v obliki vmesnika firewire), zmogljivejše različice, ki lahko stanejo tudi nekaj sto dolarjev ali več, pa imajo na voljo oboje. 
+Pri priklopu na analogni vhod je treba posnetek, ki ga na ta način »pretočimo« v računalnik, digitalizirati (za to navadno poskrbi programska oprema), pri priklopu na vmesnik firewire (ki je na računalnikih nekakšen standard za digitalni video) posnetek samo presnamemo na disk. 
+Vmesnik firewire (ki je uporaben v navezi z digitalno videokamero) je v zadnjem času podprt že v nekaterih sistemskih naborih, tako da nakup posebne kartice za priklop kamere na računalnik v primerih, ko je ta vmesnik že na osnovni plošči, ni več potreben.
+
+Programsko orodje za urejanje digitalnega videa je programski paket, s katerim lahko videoposnetke montiramo, dodajamo ali brišemo posamezne kose, dodamo zvočno podlago… 
+Zmožnosti takih paketov se povečujejo s ceno. 
+Osnovni (in poceni) programi, ki so navadno že kar priloženi video karticam, omogočajo samo osnovno delo z videoposnetkom, izdelki, namenjeni zahtevnejšim kupcem, pa nam omogočajo napredno obdelavo, ki je bila do nedavna rezervirana za namenske studie.
+
+Prodaja: Izid, www.izishop.net, (01) 242 83 40. 
+
+V obeh primerih gre za enoti, ki podpirata »le« (vsaj glede na Sony DRU-500A) zapis DVD-RW. 
+Hitrost zapisa na nosilce DVD-R je 4x, na izbrisljive DVD-RW pa dvakrat manjša. 
+V primerjavi s Sonyjevim modelom je zapisovanje na nosilce CD nekoliko počasnejše (CD-R 16x, CD-RW 8x), zato pa enoti prebirata hitreje (CD-ROM 32x in DVD-ROM 12x). 
+Medpomnilnik je le 2 MB, zato pa znaša povprečni dostopni čas ugodnih 130 ms pri nosilcih CD oziroma 140 ms pri nosilcih DVD. 
+
+ali
+
+Naj omenimo še, da lahko s Stylus Photo 925 tiskamo tudi na neskončni papir in seveda fotografije od roba do roba. 
+In kot to velja za vse foto tiskalnike razen Hewlett-Packardovih manjka mu avtomatska prepoznava papirja. 
+Še posebej, ko tiskamo s kartic...
+
+Cena odtisa fotografije: 108 tolarjev.
+
+Proti: Kartice SD niso podprte. 
+Nima prepoznavanja papirja.
+
+Norton Internet Security v eni škatli prinaša cel kup programov oziroma modulov, ki skrbijo za različne napadalce in vsiljivce. 
+Poglavitna izdelka v paketu sta protivirusni program AntiVirus in programski požarni zid Personal Firewall. 
+Poleg tega Norton prilaga še orodje za varovanje osebnih podatkov in preprečevanje spletnih reklam Privacy Control, sistem za omejevanje dostopa predvsem otrokom Parental Control in program za odkrivanje poštnih smeti Spam Alert. 
+Z naborom orodij Internet Security precej prekaša starajoči se paket Norton SystemWorks (Nortonova orodja, Monitor, 3, 2003, str. 23). 
+Kljub temu pa bi si iz slednjega lahko »izposodili« vsaj program za čiščenje spletnega predpomnilnika in piškotkov, ki že po imenu sodita v internetno zbirko.
+
+Symantecova orodja so, kljub različnim koreninam, dobro povezana in delujejo kot en sam izdelek. 
+Norton Internet Security pri tem ni izjema. 
+Program sicer ločeno namesti AntiVirus in druga orodja, pozneje pa razlike med enim in drugimi skoraj ne opazimo. 
+Celotna namestitev paketa poteka enostavno in skorajda brez posredovanja, zato je Norton Internet Security primeren tudi za manj spretne uporabnike.
+
+Paket Norton Internet Security povsem ustreza svojemu namenu. 
+Domačim in nezahtevnim poslovnim uporabnikom želi ponuditi prijazno, »vsezmogljivo« orodje za varno povezavo v internet. 
+Z zmogljivim požarnim zidom (Personal Firewall) in odličnim protivirusnim programom (AntiVirus) mu to bolj ali manj uspeva. 
+Dodatni programi so sicer prikladni (Privacy Control), a ne pretirano zmogljivi (Parental Control, Spam Alert). 
+Ne nazadnje noben program ne more varovati številke kreditne kartice tako, kot jo lahko varujemo sami. 
+In če jo že vpišemo v spletni obrazec, si prav gotovo ne želimo mame, ki bi nas opozarjala, da je svet pokvarjen. 
+Programe paketa Norton Internet Security lahko nadomestimo z zmogljivejšimi, včasih celo brezplačnimi izdelki konkurentov, vendar nihče razen Symanteca ne ponuja tako prijetno zaokrožene in dobro povezane celote.
+
+Metoda forward() je definirana v vmesniku RequestDispatcher, zato moramo najprej dobiti njegov izvod. 
+Ker pa je to vmesnik, njegovega izvoda ne moremo kar ustvariti, temveč ga moramo od nekod zahtevati. 
+Ta vmesnik ustvari strežnik in prejema zahteve z odjemalca in jih pošilja na druge vire, kot so strani HTML in JSP ter strežniški programčki (servlet). 
+Njegov izvod nam mora torej posredovati strežnik. 
+
+throws javax.servlet.ServletException, java.io.IOException
+
+Zgornji strežniški programček je čisto preprost in le posreduje izvajanje strani login.jsp. 
+Spletni brskalnik in seveda z njim uporabnik tega sploh ne bo občutil, saj se bo zahteva posredovala neposredno v strežniku, ne da bi vmes hodila še nazaj na odjemalca, kot je to značilnost pri uporabi metode sendRedirect().
+
+Metodo encodeURL() smo uporabili zgolj v primeru, da spletni brskalnik ne podpira piškotkov. 
+Ta metoda zakodira določen naslov URL tako, da mu doda še številko seje, če brskalnik ne podpira piškotkov, v nasprotnem primeru pa vrne nespremenjen URL.
+
+Pri tem nam ni treba zapisati znaka / pred imenom drugega strežniškega programčka. 
+Ta način je najpreprostejši, saj nam ni treba paziti na to, kje sta oba strežniška programčka. 
+Je pa res, da se ob velikem številu strežniških programčkov kaj hitro lahko izgubimo med njimi, če so vsi v istem imeniku.
+
+<!DOCTYPE web-app PUBLIC "...
+Sun Microsystems, Inc.//DTD Web Application 2.2//EN" 
+"http://java.sun.com/j2ee/dtds/web-app_2.2.dtd">
+
+</servlet>
+
+</web-app>
+
+Katera tehnika je bolj primerna?
+
+GNU/Linux
+
+Debian GNU/Linux www.debian.org
+
+Nadaljevanje prihodnjič
+
+Zato pa boste lahko že zelo udobno delali z računalnikom, ki ima pod pokrovom procesor z nekaj sto megahertzi, 16 ali 32 megabajti pomnilnika in vsaj nekaj gigabajtov velik disk.
+
+Zadnji dvoboj med najboljšim šahistom in najboljšim šahovskim programom se je končal neodločeno. 
+Podrobneje si bomo ogledali peto partijo, ki se je končala z remijem.
+
+Izsiljeno. 
+Na * bi sledilo * z neubranljivim napadom.
+
+Oglejmo si najprej, kaj bi se zgodilo po potezi
+
+Zdaj ni bilo več poti nazaj: ***** z lovcem na h7 bi bilo še bolj tvegano kakor potezo prej. 
+Tako mora beli dopustiti remi z večnim šahom...
+
+Vladimir Djurdjič
+
+Novice 
+
+Najboljši laserski tiskalniki
+
+NA ZVEZI
+
+Vgrajeni objektiv omogoča trikratno optično povečavo s spremenljivo goriščno razdaljo od 35 do 105 milimetrov ob svetlobni jakosti med 2,8 in 5,1. 
+Izostriti zna od razdalje 70 cm naprej, v makro načinu izostri predmete, oddaljene med 13 in 70 cm. 
+Ostrenje, ki deluje skozi objektiv in ostri glede na kontrast, je kar malo počasno in tudi manj natančno, še posebej v slabših svetlobnih razmerah ne deluje najbolje. 
+Kot je pri Kodakih v navadi, je tudi v LS 443 vgrajen notranji pomnilnik. 
+Tega je 16 MB, kot alternativo pa lahko v aparat vstavimo tudi kartice Compact Flash, a le v prvi različici (kar pomeni, da, recimo, z njim ni mogoče uporabljati IBM Microdrive), aparatu kartica ni priložena. 
+Ročno lahko na fotografijo vplivamo predvsem s kompenzacijo osvetlitve, ki jo lahko izvajamo med +2 EV in 2 EV v korakih po 0,5 EV (kar je nekoliko manj natančno kakor pri večini konkurentov, ki omogočajo korake po 0,3 EV). 
+Temperaturo bele lahko ocenjuje samodejno ali pa mu jo izberemo eno izmed predhodnih nastavitev. 
+Barvni zaslon LCD je dokaj dober in tudi ne odbija preveč svetlobe, kot alternativa je na voljo tudi optično kukalo. 
+Kakovost posnetkov je dobra in zadostuje za večino ne preveč zahtevnih namenov. 
+Zahtevnejši pa bodo opazili pomanjkanje barvne dinamike in občutljivost za barvni šum. 
+No, tem, ne nazadnje, LS 443 niti ni namenjen, za ovekovečenje spominov pa bo povsem zadostoval.
+
+Kodak LS 443
+
+#include <stdio.h>
+
+hello.o: hello.c
+
+# vrhnje pravilo za gradnjo programa
+
+main.o: main.c data.h io.h
+
+# brisanje vseh datotek, ustvarjenih med prevajanjem
+
+$(LD) $(LDFLAGS) $(OBJS) -o $(PROG)
+
+install: $(PROG)
+
+install -C --strip --mode=755 $(PROG) /usr/local/bin
+
+CFLAGS = -g Wall
+
+Kaj: Program za nadzor gradnje programov.
+
+Zahteve: Unix, Linux, MS Windows.
+
+Cena: Brezplačno.
+
+V znamenju Googla
+
+Bi se morda raje lotili guglkuhanja (google cooking)? 
+V Google vpišete nekaj sestavin, ki jih imate v hladilniku, na primer govedina in feferoni, kliknete Googlov gumb I'm Feeling Lucky (ta vas odpelje neposredno na spletno stran, ki se znajde na prvem mestu med zadetki) in izvedeli boste, kaj bo za večerjo. 
+
+Največja številka
+
+Google se je naselil v angleški besednjak, a beseda ni tako zelo nova, kot se morda zdi. 
+Izvira namreč iz besede googol, ki se v angleščini izgovarja podobno, pomeni pa gromozansko veliko število 10100. 
+Leta 1938 si je besedo izmislil devetletni Milton Sirotta, ko ga je stric, ameriški matematik Edward Kasner, vprašal, kako bi rekel res veliki številki.
+
+Nov hitrostni rekord
+
+Napster ima očitno, kakor maček v njegovem zaščitnem znaku, devet življenj. 
+Po prepovedi, stečaju, sporu okoli lastništva in neuspeli prodaji nemškemu medijskemu mogotcu Bertelsmannu je konec lanskega leta blagovno znamko in tehnologijo za 5 milijonov dolarjev kupilo podjetje Roxio (www.roxio.com), znano po programih za snemanje na plošče CD-R/W. Pri Roxiu bi radi Napster spremenili v servis za internetni nakup glasbe, ki bi jo lahko kupci z njihovim programom potem tudi kar takoj posneli na plošče. 
+Trenutno se pogajajo z velikimi glasbenimi založbami, kajti od njih bo odvisno, kakšnega mačka v žaklju je Roxio pravzaprav kupil. 
+
+WLW in Najdi.si
+
+CEBIT 2003
+
+• Prenosni zapisovalniki
+
+– Pred zapisovanjem na plošče si posnetek najprej zavrtite z diska. 
+Bodite pozorni na morebitna preskakovanja slike zaradi izgubljenih okvirov in na napake pri sinhronizaciji zvoka in slike.
+
+Njihovemu zgledu je sledilo še nekaj drugih ameriških mest, v katerih imajo zdaj meščani vsaj polovico cenejši širokopasovni internetni dostop kakor prebivalci mest, v katerih so omrežja v lasti tržnih ponudnikov. 
+Ali, če smo bolj konkretni, prebivalce Tacome stane širokopasovni internetni priključek okroglih 6500 tolarjev na mesec. 
+Zanj se je zaenkrat odločila desetina meščanov, kar je dovolj, da mesto pokrije stroške vzdrževanja omrežja.
+
+Acer TravelMate 281LC
+
+Skupna ocena: 8,13. 
+
+Pobudo za nastanek novega standarda so podprla ključna združenja na področju računalniških vmesnikov, kot so PCI SIG (ta bdi nad razvojem kartic PCI in PCI Express), PCMCIA (standard za kartice za prenosne računalnike) in USB-IF (razvoj zaporednega vodila USB). 
+Svojo podporo so napovedala tudi podjetja, kot so Intel, IBM, Microsoft, Dell, HP in druga. 
+To pomeni, da predlog standarda podpira večina tistih, ki odločajo o njegovem uspehu.
+
+Kartice NewCard naj bi nadomestile vse današnje vmesnike, razen grafičnih kartic, za katere nameravajo uporabiti širše vodilo PCI Express (s 1632 kanali), saj je tu količina podatkov večja. 
+Zaradi večjega števila nožic bo tudi izvedba grafičnih kartic fizično drugačna in vsaj v prvi fazi zelo podobna današnjim karticam AGP (brez ohišja, kar izboljša odvajanje toplote).
+
+http://www.pcisig.org
+
+V četrti različici Vegasa so avtorji nadgradili orodja za obdelavo barv v videoposnetkih, dodali nove načine nadzora nad potekom videa in podprli nov zapis Windows Media 9. 
+Pri obdelavi zvoka so nadgradili podporo DirectX Audio, dodali pa so tudi orodja za prostorski zvok. 
+Vegas 4.0 je pri podjetju Sonic Foundry na voljo po 560 dolarjev, za Vegas+DVD s programom Vegas 4.0 pa je treba odšteti 800 dolarjev. 
+Nadgradnji obeh paketov sta na voljo po 200 oziroma 400 dolarjev.
+
+AutoCAD 2004
+
+Za Quadro FX so posebej prirejeni tudi gonilniki, in sicer za delo v okoljih CAD in programih za vizualizacijo. 
+Med drugim podpirajo tudi večmonitorsko delovanje nView in vmesnik OpenGL s štirikratnim stereo predpomnilnikom. 
+Quadro FX je na voljo v različicah FX 1000 in FX 2000, ki sta prirejeni pomnilniku DDR2. 
+Podprte so ločljivosti do 3840 × 2400 pik.
+
+QuarkXpress 6
+
+http://www.avtera.si
+
+http://www.intel.com
+
+Sony je napovedal podatkovni strežnik FSV-PGX1, ki ga po velikosti še najlaže primerjamo z ročnimi računalniki. 
+Meri namreč 155 × 83 × 31 milimetrov, tehta pa 390 gramov. 
+Vanj je vgrajen 20 GB disk s premerom 2,5 palca, na katerem je 17 GB zmogljivosti na voljo za datoteke uporabnikov. 
+Druge naprave imajo dostop do strežnika prek vmesnika WLAN po standardu 802.11b, saj je brezžični vmesnik vgrajen v napravo. 
+Omogočeno je šifriranje podatkov po standardu WEP s 128 biti, dostop do podatkov v strežniku pa lahko omejimo tudi z geslom. 
+V navezi s priklopno postajo lahko PGX1 rabi tudi kot dostopna točka za brezžično omrežje, saj ima postaja žični priključek ethernet. 
+Dostop do podatkov poteka prek protokola FTP oziroma datotečnih sistemov CIFS (Windows) in NFS. 
+Za napajanje skrbi zunanji napajalnik, v primeru izpada napajanja pa je v napravo vgrajen tudi akumulator. 
+Sony FSV-PGX1 bodo predstavili na sejmu Net&Com 2003 v Tokiu, na voljo pa bo konec marca, zaenkrat samo na Japonskem. 
+Stal bo predvidoma okoli 600 dolarjev, priklopna postaja pa bo veljala še dodatnih 60 dolarjev več.
+
+Za ta korak se je odločil, ker se prodaja monitorjev LCD v primerjavi s prodajo modelov s katodnimi cevmi skokovito povečuje, saj so lani modeli LCD obsegali že več kot četrtino vseh prodanih monitorjev. 
+Letos naj bi se njihov delež povzpel na okoli trideset odstotkov, skokovito povečanje prodaje pa napovedujejo proti koncu leta, saj naj bi bilo v zadnjem četrtletju od vseh prodanih monitorjev skoraj polovico (okoli 46 odstotkov) modelov LCD. 
+Kljub temu bo Sony še naprej izdeloval modele s katodno cevjo velikih diagonal, saj najzahtevnejši uporabniki monitorjev s katodno cevjo zaradi nekaterih omejitev tehnologije LCD še niso pripravljeni preiti na zaslone s tekočimi kristali.
+
+Sonyjev poglavitni tekmec, NEC-Mitsubishi, pa je že napovedal, da ne bo sledil Sonyjevemu zgledu in bo tudi v naslednjih dveh letih podpiral in razvijal tehnologijo zaslonov s katodno cevjo. 
+V zadnjem času je predstavil kar dvanajst novih takih izdelkov. 
+V podjetju namreč menijo, da so monitorji s katodno cevjo velikokrat še vedno boljša izbira od LCD, poleg tega pa so kupci klasičnih monitorjev po raziskavah bolj zvesti določeni blagovni znamki kakor kupci LCD.
+
+http://www.sonystyle.com
+
+Kljub nadgradnji Entourage le ne bo tako zmogljiv kakor Outlook, temveč bo omogočal le nekaj osnovnejših funkcij, denimo dostop do koledarja in imenika. 
+Kljub temu da je od predstavitve Officea v.
+X minilo že dobro leto, Microsoft še ni napovedal izida nove različice, ki navadno sledi prejšnji po manj kakor dveh letih. 
+
+Družba Ipsos-Reid, ki raziskuje vedenje potrošnikov, je ugotovila, da se apetiti po spletnem nakupovanju, bančništvu in zabavi večajo. 
+Vse več ljudi namreč uporablja internet za pošiljanje slikovnega in video gradiva, nakupovanje, nalaganje glasbe, igranje in opravljanje bančnih storitev. 
+Ipsos-Reid je v letih 2000 in 2002 anketiral 2900 ljudi in ugotovil, da sta lani nakupovali že skoraj dve tretjini obiskovalcev interneta, leta 2000 pa komaj dobra tretjina. 
+Največja trga za spletno nakupovanje sta ZDA (77 odstotkov anketiranih) in Velika Britanija (68 odstotkov).
+
+Evropska komisija je sprejela osnutek direktive o varstvu avtorskih pravic in nadzoru nad njimi. 
+Osnutek je zelo strog do kršiteljev, ki to počno za zaslužek, do uporabnikov doma pa je precej prijazen. 
+Po oceni komisije omrežja P2P, ki spodbujajo kršenje avtorskih pravic in ob tem služijo z oglaševanjem, sodijo med hujše kršitelje, ki jih je treba zaustaviti, vendar pa uporabnikom teh omrežij ne grozi nič hujšega.
+
+Predstavniki gospodarstva, ki obsegajo organizacije, kot so združenje filmskih studiev MPA, glasbene industrije RIAA in izdelovalcev poslovne programske opreme BSA, so ostro napadli predlog direktive in ga označili za »nezadostnega« in »neambicioznega«. 
+Po njihovem mnenju bi taka zakonodaja nekatere vrste zlorab avtorskih pravic torej tiste, pri katerih posameznik hoče zgolj dobiti zastonj programsko opremo, glasbo ali film, ne pa tudi zaslužiti s preprodajo legalizirala in omogočila še večje zlorabe.
+
+Organizator Comdexa se brani stečaja
+
+Po precejšnjih težavah, ki so zajele Rambus po tem, ko ga je zaradi prevelikih licenčnih pritiskov industrija osamila (celo Intel, ki je bil njegov poglavitni podpornik), se namerava podjetje postaviti na noge na popolnoma drugi strani na področju računalniških vodil.
+
+Nemški operater T-Mobile, ki sodi med pet največjih operaterjev na svetu, je napovedal telefon, ki bo temeljil na Microsoftovem operacijskem sistemu za mobilne telefone Smartphone 2002. 
+T-Mobilov telefon bo tudi prvi, ki bo omogočal s telefonom dostop do Microsoftovega Hotmaila in Messengerja.
+
+DDR2 z zamudo
+
+Zakasnitev pri predstavitvi izdelkov s podporo DDR2 SDRAM so tako med prvimi napovedali v Intelu, kjer nameravajo v svojih naslednjih izdelkih prav tako podpreti DDR s taktom 400 MHz. 
+Prvi pomnilniški moduli DDR2 naj bi bili sicer vseeno na voljo že konec leta 2003, kot je bilo tudi načrtovano, vendar pa množične pojavitve na trgu ni pričakovati pred letom 2005.
+
+Intel zapira Xircom
+
+http://www.isuppli.com
+
+Boljša prodaja grafičnih kartic
+
+http://www.ftc.gov
+
+Razvedelo se je, da Intel razvija naslednika svojih procesorjev XScale, ki jih uporablja večina izdelovalcev ročnih računalnikov PocketPC. 
+Naslednik PXA250 se bo imenoval PXA255 in ga bo odlikovalo dvakrat hitrejše zunanje vodilo (200 MHz), hitrost procesorja pa bo še vedno 200, 300 ali 400 MHz (odvisno od različice). 
+Poglavitna prednost pa bo precej bolj varčno delovanje procesorja, kar bo ročnim računalnikom podaljšalo čas delovanja na eno polnjenje.
+
+http://www.intel.com
+
+Ameriška vlada je samovoljno napovedala, da bo za tri leta podaljšala pogodbo za upravljanje spletnih domenskih končnic organizaciji ICANN (Internet Corporation for Assigned Names and Numbers). 
+Domensko končnico .si je ICANN na primer v Sloveniji dodelil akademski mreži Arnes. 
+Številne evropske in ameriške spletne organizacije so že protestirale proti tej potezi ameriške vlade, saj menijo, da bi tako pomembno pogodbo lahko dodelili zgolj na podlagi razpisa, in to po možnosti večjemu številu organizacij.
+
+pf=NO v pf=YES ,
+
+kar omogoči postavljanje požarnih pravil. 
+Za nadaljevanje moramo preveriti, ali so omrežne naprave brez nastavitev:
+
+/sbin/ifconfig fxp1 delete
+
+/sbin/ifconfig fxp0 up
+
+S tem je priprava sistema končana. 
+Zbrisali smo vse nastavitve omrežnih naprav, jih omogočili in dodali v nadzor psevdopremostitvene omrežne naprave.
+
+/etc/hostname.fxp0
+
+ipfilter_enable="YES" # omogočimo paket IPFilter
+
+/root/ime_skripte
+
+OpenBSD
+
+notranja = "fxp0"
+
+web = "xxx.xxx.xxx.10/32"
+
+block in all
+
+/sbin/ipf -Fa -vf /etc/ipf.rules
+
+# Zbrišemo vsa doslej nastavljena pravila in nastavimo privzete
+
+-m state --state NEW -j ACCEPT
+
+Gonilniki Nomada so dokaj preprosti in še kar pregledni. 
+Na glavni strani nastavljamo osnovne možnosti tiskanja, kot so velikost in vrsta papirja, prek gumbov pa pridemo do nekaterih dodatnih možnostih in programa za nadzor tiskalnika, s katerim tudi čistimo in poravnavamo glavo. 
+Zanimivo, da ob zamenjavi kartuše nadzorni program ni kazal, da bi bila ta polna, temveč je indikator segal le nekje do 90 odstotkov. 
+Hitrost tiskanja je slaba, saj je pri navadni kakovosti tiskanja (privzeta nastavitev) potreboval kar šest minut in 40 sekund za izpis pet strani besedila. 
+Več kot poltretjo minuto manj je potreboval v hitrem načinu tiskanja, a ta ponudi precej slabši odtis. 
+Kakovost izpisov je tudi sicer zelo slaba in ne dosega kakovosti današnjih brizgalnikov drugih izdelovalcev, še posebej nas moti to, da je popolno poravnavo glave skoraj nemogoče doseči in so črke zaradi tega prekinjene in zamaknjene, kajti to še pokvari že tako ali tako nazobčane robove črk. 
+Tudi ob uporabi barv se ni izkazal s kakšnim presežkom, saj so barve blede, odtenki rastrirani in napačno obarvani, listi pa razmočeni, tako da lahko rečemo, da gre za dokaj povprečen tiskalnik, ki je še najbolj zanimiv zato, ker je prenosen, kaj več pa ne ponuja.
+
+Stalna opomba: Opisane programe najlaže najdete na spletni strani www.palmgear.com.
+
+FlyZip XR 2.1
+
+V spletu smo zasledili nekaj pritožb uporabnikov, ki z LightNZipom stisnjenih datotek niso mogli odpakirati, vendar sami takih težav nismo imeli.
+
+Končni video je mogoče izvoziti neposredno s časovne osi. 
+Tako lahko končni izdelek shranimo v formatu MPEG2, lahko pa ga neposredno tudi zapišemo z zapisovalnikom DVD. 
+Če želimo nosilcu DVD dodati še nekoliko lepši ali pa bolj profesionalen videz, bomo morali nekoliko časa in truda vložiti še v izdelavo navigacijskega menuja. 
+Pri tem uporabimo kar priložen program Impression DVD.
+
+Prodaja: ZAK, www.zak.si, (01) 568 41 92.
+
+Cena: 168.000,00 SIT tolarjev.
+
+Proti: Zahteva po močnem računalniku, nekoliko nenavaden uporabniški vmesnik, za učinkovito delo sta potrebna dva monitorja
+
+Mobitel je februarja z velikim pompom predstavil dveri Planet Mobitel, ki naj bi bile prihodnost mobilne telefonije in v svetu primerljive zgolj z i-modeom in Vodafone Live!. 
+Obe ti trditvi najverjetneje držita. 
+A postavlja se vprašanje, koliko ljudi to dejansko potrebuje in v čem je dejanska revolucija glede na WAP.
+
+Pri Canonu so predstavili tudi novinca iz kompaktne žepne serije Ixus, to je model 400, ki ima tipalo CCD z ločljivostjo 4 milijone pik. 
+Tudi tega so opremili z že prej omenjenim procesorjem DIGIC, ki pa tu skrbi predvsem za večjo natančnost zajetih barv. 
+Posebnost Ixusa je gotovo zelo odporno ohišje, ki kombinira nerjaveče jeklo in keramiko. 
+Samodejno ostri na devetih točkah, pri čemer lahko sam »išče« ustrezen objekt, ki ga ostrimo. 
+Ixus poleg tega ponuja tudi dober ročni nadzor nad fotografijo, saj lahko uporabnik vse nastavitve določa tudi sam. 
+Tudi pri tem naj bi akumulator zdržal dolgo po navedbah izdelovalca kar 420 posnetkov. 
+
+Primerjava z navadnimi monitorji
+
+Postavili smo torej mejo 85.000 tolarjev (z vštetim DDV) in na trgu našli kar sedem monitorjev, ki cenovno sodijo v to omejitev. 
+Na voljo so po cenah od 74.900 naprej. 
+Hoteli smo preizkusiti res najcenejše modele, ki so zelo verjetno (ali pa tudi ne?) tudi najslabši, in ugotoviti, ali se nakup kljub vsemu izplača. 
+Še nekaj let nazaj je bil nakup najcenejših monitorjev bolj ali manj slaba izbira, saj so bili to monitorji, ki so imeli najslabše katodne cevi, podprte še s slabo elektroniko. 
+Posledica je bila neostra, ukrivljena in neenakomerna slika, ki očem nikakor ni koristila.
+
+Ocena: 7,85.
+
+AOC LM520
+
+Svetlost slike ni najboljša, a je dovolj dobra, da so tudi fotografije na tem monitorju videti dovolj žive in kontrastne. 
+Slika sicer v osnovi vleče nekoliko na modro, vendar je mogoče to hitro popraviti. 
+Sneženja na drobnih vzorcih nismo opazili, enakomernost slike pa je sicer dobra, vendar ne vrhunska; na beli podlagi je zgornji rob nekoliko temnejši, a tega ob običajni modri podlagi ni videti. 
+Kotna vidljivost s strani je zelo dobra in v rangu drugih preizkušenih modelov, le pri gledanju od spodaj je monitor nekoliko bolj občutljiv kakor najboljši med preizkušenimi.
+
+Ocena: 9,55.
+
+Strogo gledano je v tokratni druščini monitorjev NEC (pravzaprav NEC Mitsubishi) v bistvu edini izdelovalec »z imenom«. 
+Presenetljivo, da je tako znanemu izdelovalcu uspelo tako znižati ceno, da njegov izdelek sodi med najcenejše.
+
+Žal bi trditev o nepomembnosti kakovosti signala v popolnosti držala le, če bi med grafično kartico in monitorjem LCD imeli digitalno (DVI) povezavo, to pa je res le pri dražjih (večjih) monitorjih in grafičnih karticah. 
+Na splošno pa lahko imamo tudi smolo in po nakupu novega monitorja LCD na zaslonu zagledamo megleno (da, megleno!) sliko, ki je posledica slabega signala grafične kartice ali pa vsaj nekakšnega neujemanja grafične kartice in monitorja.
+
+Za napako se opravičujemo.
+
+Predstavljamo vam 21 računalnikov, ki imajo v osrčju Intelov procesor 486. 
+Ta mikroprocesor ni danes nikakršna novost več, saj je vgrajen v vse več novih modelov. 
+Ravno sedaj pa je pravšnji čas za preizkušnjo te kategorije osebnih računalnikov. 
+V zadnji cenovni vojni je namreč postal zmagovalec kupec - odtlej veljajo računalniki s procesorjem 80486 za mamljiv in ugoden nakup.
+
+Razlogov za nakup računalnika s tem procesorjem je več. 
+Zadnja generacija programske opreme, grafični vmesniki in novi, naprednejši operacijski sistemi zahtevajo od železnine sleherno enoto moči, ki jo ta premore. 
+Ne nazadnje je pametno upoštevati podatek, da skoraj nihče od pomembnejših proizvajalcev ne namerava predstaviti računalnikov, opremljenih s starejšimi mikroprocesorji, vključno s trenutno najštevilčnejšim 80386. 
+Veliki celo naznanjajo, da bodo kmalu proizvodnjo računalnikov s temi procesorji povsem opustili .
+
+Da bi bolje razumeli, kaj lahko pričakujemo od sodobnega računalnika, si bomo najprej ogledali, kaj nudijo posamezni proizvajalci. 
+Zaradi lažje primerjave se bomo omejili samo na računalnike s procesorjem 80486, saj prav tu vpeljujejo večino tehnoloških novosti.
+
+Izdelek: Epson LQ-300 (brez ohišja), vgrajen v kovček.
+
+<ukazi>
+
+breaksw
+
+echo "manjka argument!"
+
+echo $0 "start | stop | status"
+
+Skripta bi bila uporabna tudi kot init.d skripta v vseh sistemih un*x s SYSV runleveli. 
+Med te sodi tudi distribucija Debian GNU/Linux. 
+Skripta je zelo primitivna in želi pokazati predvsem funkcionalnost case stavkov. 
+Kot pogoj uporabi prvi skriptov argument ($1). 
+Če je njegova vrednost »start«, izpiše besedilo, zažene pppd in naredi datoteko za zaklepanje (/var/lock/subsys/pppd) - s tem nekako označimo, da proces obstaja. 
+To pozneje uporabimo pri argumentu »status«, kjer z if stavkom preverimo, ali datoteka za zaklepanje obstaja, in glede na to ugotovimo, ali proces teče v sistemu. 
+Možnost »stop« bi tudi lahko naredili elegantneje s predhodnim preverjanjem datoteke za zaklepanje:
+
+rm -f /var/lock/subsys/pppd
+
+Zato pa je slehernega tolarja vreden priloženi komplet daljinskega upravljavca in infrardečega sprejemnika, ki ga na računalnik priključimo prek zaporednega vmesnika. 
+Že samo zaradi tega je kartica Xcard lahko lepo darilo za slehernega navdušenca filmov DivX. 
+Daljinec seveda deluje le v navezavi s priloženim programom, vendar ga najbrž lahko z nekaj spretnosti prilagodimo tudi drugim. 
+Daljinski upravljavec ima vse tipke, ki bi jih pričakovali na tipičnem videorekorderju, zato je krmiljenje programa z njim preprosto in prijetno.
+
+Sigma Designs Xcard
+
+Kaj: Program za optično branje.
+
+Univerzalne različice SilverFasta ni, saj za vsak optični bralnik dobimo drugo. 
+Tudi cene so zelo različne, za starejše modele so ponavadi nižje. 
+Nekaterim dražjim modelom bralnikov pa je SilverFast že tako priložen kot glavni program za delo.
+
+Pri uporabi starejšega optičnega bralnika s SilverFastom dobimo občutek, da imamo nov optični bralnik, toliko novih možnosti nam ponuja. 
+Poleg običajnih možnosti določanja barvne globine, ločljivosti slike in enostavnih barvnih korekcij imamo na voljo različna orodja, ki sliko obdelujejo že pri optičnem branju, in pa taka, ki jih uporabimo naknadno. 
+Med prva štejemo ostrenje slike in brisanje »moire« vzorcev, ki nastanejo pri nekaterih pogojih optičnega branja. 
+Med orodja za naknadno obdelavo slike pa prištevamo odstranjevanje prask na slikah, selektivno barvno korekcijo, odstranitev zrnatosti in šuma, če naštejemo le nekaj novosti različice 6.
+
+SilverFasta 6 bodo posebej veseli profesionalci, ki potrebujejo optično branje v pravilnih barvnih odtenkih. 
+Ti imajo možnost uporabe kalibracijskega modula, ki ga je sicer treba dokupiti, omogoča pa kalibriranje s konkretnim optičnim bralnikom. 
+Z optičnim branjem kalibracijske matrike, ki je priložena dodatnemu paketu, dobi program natančne vrednosti optičnega bralnika za določeno barvo. 
+Branje bo tako barvno natančnejše, če pa vključimo še kalibracijo zaslona, je optično prebrana slika na monitorju zelo blizu izvirniku na papirju.
+
+Slika2: Okno ACR selektivne barvne korekcije
+
+Eden izmed alternativnih programov za upravljanje pošte je The Bat.
+
+V praksi se za hitrejšega in uporabnejšega izkaže model Astra 4700. 
+Ogled je končal v 10 sekundah, njegov konkurent pa v 14. 
+Pri modelu 6700 je po že končanem ogledu program skril predlogo za nekaj sekund in šele potem smo jo lahko urejali. 
+Barvno stran A4 pri ločljivosti 300 pik na palec je zopet hitreje prebral model 4700 (32 sekund proti 40 sekund). 
+Pri branju fotografije pri ločljivosti 1200 pik na palec pa se je Astra 6700 bolje izkazala, saj je delo končala v 2 minutah in 37 sekundah, 4700 pa v 3 minutah in 41 sekundah. 
+Občutna razlika torej. 
+Tudi 2 piki veliko pisavo je dražji model prebral bolje, kar je razumljivo. 
+Nad kakovostjo prebranih fotografij ne moremo biti razočarani. 
+Oba modela sta se dobro izkazala. 
+Presenetila pa nas je temnost nekaterih fotografij, ki smo jih prebrali z modelom 6700, še posebej tistih z veliko rjavimi odtenki. 
+Marsikatero tako sliko bi bilo treba dodatno osvetliti v programu za obdelavo slik, to pa ni ravno praktično. 
+Pri šibkejšem modelu te težave ni bilo opaziti. 
+Oba modela imata tri gumbe na prednji strani, s katerimi lahko kopiramo predlogo, jo pošljemo na elektronski naslov ali preberemo sliko, kot smo prej nastavili.
+
+Poleg obeh naprav v paketu dobimo tudi majhen plastični podstavek, ki omogoča, da bralnik postavimo na bok, ko ga ne potrebujemo. 
+Tako bo zasedel precej manj prostora na mizi. 
+Omenimo še zgoščenki z gonilniki in enakimi programi. 
+To so ABBYY FineReader Sprint 5.0, ki je namenjen branju znakov in črk (OCR), MGI PhotoSuite 3 SE in PaperCom Document Manager. 
+Umaxov uporabniški vmesnik je nekoliko neroden, vendar stabilen, saj z njim nismo imeli nobenih težav, če ne upoštevamo nekajsekundnega izginotja predloge pri Astri 6700. 
+Drugi največ rabljen program bo verjetno FineReader Sprint 5.0, ki svoje delo opravlja zelo dobro.
+
+Zahteve: Priključek USB 2.0.
+
+Opravili smo zasebno mini anketo in ugotovili, da velika večina vprašanih nima hudo konkretnih želja, vsi pa si želijo, da bi bilo že konec pohajkovanja po uradih, izpolnjevanja obrazcev in sploh vseh komplikacij s papirno birokracijo. 
+Želeli bi tudi veliko več informacij, ki se tičejo države in uprave, in sicer v čim bolj preprosti in dostopni obliki.
+
+Kakšno pa je dejansko stanje če že ni tako, kakor bi si želeli? 
+
+V slogu civilnega nezadovoljstva nad tako grobim posegom v kolikor toliko normalno življenje svetujem, da vsi udeleženci ob prijavi pošljejo fotografijo svojega hišnega ljubljenčka psa, mačka ali papagaja, po možnosti na čim bolj pisanem ozadju in v kakšni absolutno neprimerni ločljivosti.
+
+Samo Kuščer
+
+V slogu civilnega nezadovoljstva nad tako grobim posegom v kolikor toliko normalno življenje svetujem, da vsi udeleženci ob prijavi pošljejo fotografijo svojega hišnega ljubljenčka psa, mačka ali papagaja, po možnosti na čim bolj pisanem ozadju in v kakšni absolutno neprimerni ločljivosti.
+
+Samo Kuščer
+
+Kakor vidimo, je združljivost pogosto na prvem mestu, celo pred napredkom. 
+Res pa je, da so pogosto za to poglavitni vzroki tehnološke narave, posledično pa seveda tudi cenovne. 
+Včasih je treba potrpeti, da obvladovanje posameznih tehnologij postane dovolj poceni, tedaj pa se sprememba zgodi dokaj hitro. 
+Danes imamo z istim pojavom opraviti pri monitorjih. 
+Prav neverjetno, kako hitro izdelovalci opuščajo proizvodnjo monitorjev s katodnimi cevmi v prid tehnologiji zaslonov s tekočimi zasloni. 
+Ta hiter prehod poteka prav zdaj in najbrž bodo že do konca leta »klasični« monitorji imeli zgolj tolikšen tržni delež, kot ga imajo matrični tiskalniki v primerjavi z laserji in brizgalniki. 
+
+Vladimir Djurdjič
+
+Digitalni projektorji
+
+Podpis XML predstavlja novost pri obdelavi digitalno podpisane vsebine. 
+Glede na napredek s standardom XML povezane tehnologije igra tudi zelo obetajočo vlogo.
+

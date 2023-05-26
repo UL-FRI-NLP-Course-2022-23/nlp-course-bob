@@ -1,0 +1,3 @@
+halogensko svetilko, ki predstavlja Sonce, ter spektrometer za merjenje jakosti odbite svetlobe.
+Naprava, ki jo imajo v
+$Ta simulacija borovega gozda, ki so jo izdelali v Centru za raziskovanje biosfere iz zraka, služi albédometru kot model.

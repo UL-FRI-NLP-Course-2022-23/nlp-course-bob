@@ -1,0 +1,9 @@
+predstavljamo, da tipkovnica res ni najboljše orodje za takšno delo.
+Seveda so taki programi obstajali že v časih, ko so bile miške še razkošje in beseda #prijazno za uporabnika# sploh še ni bila skovana.
+Zato je razumljivo, da so uporabniki z veseljem sprejeli vsak pripomoček, ki jim je vsaj malo olajšal delo.
+V svet PC-jev so miške vstopile prav s programi za DTP in CAD.
+zaslon, premikov glavo je bistveno manj, na mizi pa imamo pol kvadratnega metra prostora več.
+Programska okolja so v zadnjih nekaj letih povsem privzela takšen način dela in miška je postala obvezna.
+Ukazov ne vnašamo več s tipkanjem po tipkovnici (kdo se še spominja prvih AutoCAD-ov) ali "pikanjem" po grafični tabli, pač pa do vseh ukazov pridemo prek roletnih menijev in s klikom miške.
+S prevlado Oken se je ta filozofija razvila do skrajnosti.
+Ukazi so dostopni skozi roletne menije, najnujnejši v t. i.

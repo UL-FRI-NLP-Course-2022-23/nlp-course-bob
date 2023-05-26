@@ -1,0 +1,37 @@
+velikoserijski motor v modelu 318is predstavljen na sejmu v Frankfurtu leta 1989. 
+Zaradi dobrih lastnosti je enako uporaben v seriji tri in pet kot 2- in 2,5-litrski šestvaljnik. 
+Za novi model trojke, predstavljen leta 1990, je bil ta motor še 
+
+izpopolnjen z uporabo sistema DISA (Differenzierte Sauganlage ali po naše spremenljiv sesalni sistem), z dvojnimi tipali klenkanja in s katalizatorjem s prečnim pretokom. 
+
+Novi bati iz lahke kovine so kompaktnejši kot v motorju M40. 
+Zgornja polovica bata (kompresijski del) je 5 mm nižji od batov motorja M40. 
+S tem je bil dosežen prihranek pri teži 19 g na bat. 
+Masa sornika za zvezo bata z ojnico je ostala nespremenjena, za 6 g pa so lažji tudi batni obročki. 
+Skupaj je novi bat torej lažji za 25 g. 
+Njegova površina ima obliko simetrične vžigalne kotanje. 
+Z zmanjšanjem termičnih obremenitev je obraba bata in valja manjša, zmanjša pa se tudi poraba olja. 
+
+Za model 318is so pri BMW-ju prvič uporabili hidravlične dročnike HVA za serijsko vgradnjo v štirivaljni motor. 
+Vgradnja elementov HVA ima več prednosti:
+
+kompresijski prostor. 
+V glavi motorja je 80 % zgorevalnega 
+
+$Prilagodljiv sesalni sistem DISA$
+
+prostornine in predcev. 
+V spodnjem delu je razcep s preklopno loputo. 
+Krmiljenje preklopne lopute upravlja tlačna membrana. 
+
+mikroelektronika M1.7, regulirni parameter pa je čas vžiga. 
+
+Elektronika mora prepoznati šibke signale klenkanja in izložiti motilne signale, ki jih povzroča delovanje motorja oziroma 
+
+$Katalizator s prečnim pretokom$
+
+Kljub pričakovanjem, da bo protitlak izpušnih plinov povečan, se to ni zgodilo. 
+Preizkus motorja na merilni mizi kaže celo rahlo prednost v korist prečnega pretoka. 
+Če primerjamo obe vrsti katalizatorjev, je staranje zaradi termičnih obremenitev lep kazalec kakovosti. 
+Daljšo življenjsko dobo novega 
+

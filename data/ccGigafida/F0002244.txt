@@ -1,0 +1,38 @@
+Poleg tega metoda LOM omogoča tudi poljubno spreminjanje razmerij, kadar je na modelu treba poudariti kako podrobnost. 
+Mitra Fattahipour, geolog iz San Diega, je skupaj z Baileyjem na podlagi podatkov, dobljenih iz geoloških meritev, naredil model znamenite Doline smrti (angl. Death Valley). 
+Model je kvadraten s stranico samo 15 cm, vendar je precej natančnejši od dosedanjih reliefnih zemljevidov. 
+Poleg tega je Fattahipour namenoma pretiraval in ga je v navpični smeri 14-krat povečal, da je poudaril nekatere podrobnosti. 
+Vsi se strinjamo, da so podatki v računalniku koristni. 
+Vendar je povsem nekaj drugega, če ima človek v roki model. 
+Model Doline smrti je že porodil novo idejo za eksperimentiranje. 
+Nanj namreč nameravajo nanesti pesek in glino ter nato s kamero snemati posedanje teh nanosov. 
+To bo odličen učni pripomoček za študente, hkrati pa bodo znanstveniki dobili precej boljšo predstavo, kako se zemeljske plasti v naravi premikajo.
+
+(Slika 3)
+
+Ko je biolog John Johnson dobil v roke prvi model virusa, s katerim se je ukvarjal že 15 let, je prišel do spoznanja, ki ga njegovi skupini ni uspelo doseči samo s pomočjo prikaza na zaslonu. 
+Šlo je za zelo preprost virus, ki napada žuželke in je zaradi svoje preproste strukture, ima namreč samo dva gena, izjemno primeren za raziskovanje. 
+Kot pravi Johnson, imajo vsi virusi podobne težave pri razmnoževanju, pa naj bo to virus HIV ali pa kak drug. 
+Virus, ki ga preučuje Johnson, sestavlja 180 identičnih proteinov, povezanih med seboj v tridimenzionalno strukturo. 
+Menili so, da o teh povezavah vedo vse in znali so jih tudi prikazati na računalniškem ekranu. 
+Bili so zadovoljni s svojim znanjem, dokler niso dobili v roke pravih modelov, 20-milijonkrat večjih od resničnih proteinskih molekul, ki sestavljajo virus. 
+Ko se je Johnson igral z modeli in postavil tri skupaj, prav tako kot se sestavljajo v naravi, je na stičišču treh molekul opazil luknjo. 
+V vseh letih raziskovanja se je ta luknja izmikala njegovi pozornosti. 
+Pokazalo se je, da je ta luknja idealna za priključevanje nadaljnjih molekul proteinov, ki sestavljajo virus. 
+Takoj se mu je posvetilo, da bi lahko skonstruirali molekule, ki bi to luknjo zamašile in tako preprečile gradnjo virusa, saj se novi proteini ne bi mogli priključiti na že obstoječo skupino.
+
+Baileyjeva metoda za izdelavo modelov deluje tako, da na kovinsko ploščo nalepi papir in nato z računalniško vodenim laserskim žarkom izreže najnižjo plast modela. 
+Nato se kovinska plošča spusti za debelino plasti papirja in nalepi novo plast papirja. 
+Po segrevanju na 400° C se obe plasti že močno sprimeta. 
+Ko laser odreže obris naslednje plasti, spet sledi sveža plast papirja. 
+Ta postopek naprava ponavlja, dokler ni model končan, kar lahko traja od nekaj ur pa do enega dneva ali celo dlje, če je model tako zapleten, kot so bili npr. prej omenjeni Johnsonovi proteini. 
+Ker je papir na robovih vsake plasti z laserjem dobesedno odžgan, se barva modelov razlikuje glede na navpično strmino posameznega dela modela. 
+Položnejše površine so svetlejše, strmejše pa temnejše. 
+Pri geografskih modelih, kot je npr. model Doline smrti, takšna obarvanost modela na robovih opravlja podobno vlogo kot izohipse na zemljevidih.
+
+4.
+
+Model orkana
+
+Del površja Venere
+

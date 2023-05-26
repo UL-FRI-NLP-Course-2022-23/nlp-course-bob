@@ -1,0 +1,54 @@
+brezhiben in bi dolgo časa zanesljivo deloval. 
+Skrita poškodba zaradi elektrostatične elektrike, ki jo je s prsti usmeril v občutljive elektronske dele, se lahko pokaže v nestabilnem in nezanesljivem delovanju računalnika, skoraj zagotovo pa ga bo treba zaradi bolj konkretne okvare odnesti v servis mnogo prej, kot bi bilo potrebno. 
+Enako zgodbo utegnemo srečati še kje, npr. v trgovini, kjer kupujemo diode, tranzistorje in integrirana vezja. 
+Tudi tu prvorazredno blago postaja drugorazredno (*). 
+Nič bolje ni pri avtomehaniku, ki ima vedno več opravka z
+
+-- kondenzatorji MOS (interna kompenzacija operacijskih
+
+-- hitra logika Schottky (ALS, LS2),
+
+-- tankoplastni upori, -- večslojna metalizirana integrirana vezja VLSI.
+
+#Razred 2 (od 1 do 4 kV) -- sem sodijo najbolj pogosti elementi elektrotehnike:#
+
+prebojnih in termičnih obremenitev zelo narasla tudi občutljivost vezij v mikronski tehnologiji. 
+Tistih nekaj deset firm, ki
+
+-- poskrbeti za izobraževanje delavcev,
+
+polprevodniških elementov; druga, vendar bolj redka, je 1500 V). 
+Stene oziroma površine, ki se lahko nabijejo na potencial, ki preseže 100 V, smejo biti na neki minimalni sprejemljivi razdalji od proizvoda (v literaturi omenjajo 1 meter), sicer jih moramo ozemljiti.
+
+primerna, ker lahko pride do kratkih stikov med posameznimi deli proizvoda, ko ga položimo nanjo, hkrati pa lahko prav taka omogoča hitre praznitve prek kapacitivnosti med izdelkom in ozemljeno površino. 
+Vsa zadrega okoli pravilne elektrostatične zaščite delovne površine seveda odpade, če si priskrbimo
+
+Delovno mesto moramo opremiti z ustreznim ozemljitvenim
+
+priključkom, kar praviloma ni težko, ker kot ozemljitveno točko lahko uporabimo tudi varnostni vodnik (PE). 
+Iz varnostnih
+
+delujejo na principu visokonapetostne ionizacije.) 
+V posebnih primerih objekte, ki so elektrostatično problematični, lahko tudi kemijsko obdelamo s pršili ali čistili. 
+Postopek časovno
+
+ponavljamo.
+
+Zapakiran elektrostatično občutljiv material mora biti označen z ustrezno nalepko. 
+Tu na žalost še ni enotnega in splošnega
+
+Letno preverjanje izvajamo v 11--14-mesečnih intervalih. 
+(Daljša obdobja so manj učinkovita.) 
+Tedaj opravimo vse meritve, ki so vezane na elektrostatično zaščito. 
+Temeljito preverimo
+
+učinkovitost izpolnjevanja dokumentov, izvedemo servisni pregled opreme (ionizatorjev, merilnikov upornosti ipd.) in ocenimo kakovost embalaže. 
+Sklepni rezultat je poročilo vodstvu podjetja. 
+Preverjanje znanja in dodatno izobraževanje delavcev izvedemo približno na vsaka tri leta.
+
+Puščica kaže mesto poškodbe metalfilmskega upora zaradi delovanja statične elektrike.
+
+Bližnji posnetek poškodbe upora; zaradi kratkega stika v spiralni vreznini se je spremenila njegova omska vrednost.
+
+Tudi pri odpravljanju okvar na terenu moramo poskrbeti za
+

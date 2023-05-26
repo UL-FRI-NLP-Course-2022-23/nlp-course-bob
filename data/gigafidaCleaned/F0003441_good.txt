@@ -1,0 +1,321 @@
+Veste, zakaj se Gorenjci med nevihto smejejo?
+Ker mislijo, da jih bog fotografira z bliskavico.
+Pogledali smo si tri bliskavice, ki so primerne za uporabo skupaj z digitalnimi fotoaparati.
+Med najbolj univerzalne se je izkazal model MB 34 CS-2 digital.
+Uporabljate ga lahko tudi z fotoaparati, ki nimajo kontakta za bliskavico.
+To omogoča vgrajena foto celica, ki sproži bliskavico skupaj z sprožitvijo vgrajene bliskavice v fotoaparatu.
+Mnogi novejši fotoaparati pred glavnim bliskom najprej sprožijo šibak predblisk, s pomočjo katerega izmerijo ustrezno moč glavnega bliska.
+Temu je prirejena tudi MB 34 CS-2, saj se lahko sproži na prvi ali drugi blisk.
+Uporaba je enostavna, bliskavica ima na voljo tri avotmatske in ročni način, kjer se vedno sproži z polno močjo.
+Avtomatske načine nastavljate glede na nastavitve fotoaparata.
+Poleg dobite še dva nastavka, ki blisk razpršita ali zožita, držalo in stojalo za bliskavico.
+Slednje omogoča postavitev bliskavice drugje v prostoru in s tem lepšo osvetlitev.
+Metzeve bliskavice so se na preizkusu dobro obnesle.
+Najbolj pomembno je, da si dobro preberete navodila, kajti le tako boste razumeli delovanje bliskavice in iz nje potegnili največ.
+Naslednjič si bomo pogledali še bliskavice proizvajalcev digitalnih fotoaparatov in še bolj podrobno obrazložili njihovo delovanje.
+Glede na ceno je delovanje obeh naprav solidno.
+Vse skupaj je seveda odvisno od razmer v prostoru, v katerem se nahaja.
+Vsekakor pa je zadeva odlična alternativa polaganju kopice kablov, ki bi bili potrebni za vzpostavitev vseh možnosti, ki jih ponujata komunikacijski napravi.
+Če imate možnost napravi postaviti tako, da se med seboj »vidita«, boste z rezultatom več kot zadovoljni.
+Pri povezovanju računalnika in televizorja ali HiFi-komponente s kabli bomo pri večjih razdaljah kaj hitro naleteli na težave.
+Slika bo še v redu, zvok pa bolj ubog, če bomo za povezavo izbrali običajno žico.
+Ena od rešitev je seveda nakup kakovostnega kabla.
+Ti pa znajo biti precej dragi.
+Če se vsaj malce znajdete s spajkalnikom pa lahko zadevo zadovoljivo opravite tudi s pomočjo navadnega kabla UTP za računalniško omreženje.
+Ti kabli čisto solidno opravijo svojo nalogo tudi pri prenosu zvoka, če za vsak kanal uporabimo po dve žički.
+Žice v kablu UTP so namreč prepletene in oklopljene, kar pomeni manj izgub.
+Kupimo torej šest konkektorjev cinch in kabel, ki ima najmanj devet žičk.
+S spajkalnikom zadevo sestavimo tako, da za vsak konektor uporabimo po štiri žičke dve za pozitivni in dve za negativni pol.
+Kakovost je presenetljivo dobra, vsekakor pa je vse skupaj ceneje kot nakup recimo desetih metrov kakovostnega zvočnega kabla.
+Kot vsi novodobni brskalniki ima tudi Opera sedaj vgrajen popolni pregled vseh »vročih« mest na levem pladnju.
+Tu se prikazuje tudi zgodovina, naslovi in vsa krama, ki sledi brskanju.
+Pladnji se sedaj lahko tudi skrijejo.
+Zna pa prikazati tudi vse povezave iz pregledovanega dokumenta.
+Zgodovina pozna do 500 obiskanih strani, spremenjen je urejevalnik, ki vam napredno prikazuje datoteke, ki jih shranjujete na disk.
+Integrirano je tudi iskanje.
+Potem pa je tukaj še shranjevanje trenutne pozicije iskanja in potem nadaljevanje brskanja iz shranjenega mesta.
+Takoj na začetku moramo povedati da nobeden brskalnik ni in skorajda ne verjamem da je lahko imun na razno-razne varnostne luknje, ki se zadnje čase pojavljajo v le teh.
+Poleg tega ko razmišljamo kaj storiti bi se morali sploh vprašati ali je varen TCP/IP protokol, ki je sploh nekako osnovni nosilec skorajda vsega kar gre preko mreže.
+Ali ni mogoče vzrok prav v tem protokolu, ki dopušča določene stvari, ki jih pa nebi bilo treba.
+Stvar je prevelika in preobsežna tema, tole naj vam bo samo kost za glodanje in razmišljanje.
+Tudi pregledovalnik poštnih sporočil dopušča izvajanje virusnih sporočil, ki so napisana v java skriptnem jeziku.
+Vendar ima pri tem prepovedano izvajane verižnih sporočil prav tako pa ne dovoli prikazovanje slik in izvajanje programov obenem na drugem strežniku.
+Enako je s priponkami, ki so varne le do te mere, da ne dopušča izvajanje v svojem ogrodju.
+Ko je stvar prenesena na operacijski sistem je lahko že narobe.
+Tudi Mozillini varnostni mehanizmi niso od muh.
+Tudi pri tem brskalniku se da nastaviti marsikaj in vse je lepo opisano in narejeno s stikali.
+Kontrolirate lahko skorajda vse od prikazovanja oken do prepovedi spreminjanja bilo kakršnih nastavitev.
+Priročen in odlično izveden je tudi urejevalnik piškotkov, ki zna med drugim tudi blokirati vse bolj agresivne oglaševalske sisteme.
+Kot drugo pa se jim da predpisati tudi rok trajanja in vse, skorajda res vse, kar bi rabili.
+Ne manjka niti urejevalnik piškotkov, s pomočjo katerega lahko upravljamo posamezni piškot s celotno njegovo vsebino.
+Podobno je z gesli, kjer si upravljalnik zapomni vaša gesla in uporabniška imena in potem le te tudi predlaga naslednjič.
+Omogoča možnost varnega shranjevanja le teh, kar potem onemogoči nepooblaščen vstop.
+Mozilla prav tako podpira vse več ali manj sprejete in znane standarde s področja kodiranja in varnosti.
+Škoda le da se ga ne da zaščitit z geslom kot prej opisano Opero.
+Mozilla se seveda ponaša z veliko paleto spremljevalnih programov, ki jih dobimo zraven pri namestitvi.
+Seveda vseh ni potrebno namestiti.
+Vključen je tako bralnik pošte in novic.
+Potem je tukaj še adressar, že prej omenjen urejevalnik spletnih strani ter klepetalnica po protokolu IRC.
+(Zakaj takoj ko vidim napisa IRC pomislim da gre za pobalinski izdelek?)
+V vsakem pogledu so prevedeni vsi (nekako šepa le pomoč vendar bo tudi ta kaj hitro v dokončni fazi).
+V bližnji prihodnosti (najverjetneje pri različici 1.3) pa se nam obeta še koledar in (hura) črkovalnik.
+Mogoče se s slednjim ne bodo strinjali vsi, ki od tega živijo.
+Vendar se mi zdi da uporabniki pač nismo dolžni najprej videti vse moteče reklame, ki se spustijo iz vseh koncev in krajev.
+Uporabnik pa potem mora poleg tega da se trudi najti v tej poplavi oken še pravega »plačevati« pri prenosu še to.
+Ko me bo prvič kakšna reklama zamikala si jo bom že ogledal, ne dovoljujem pa, da me z njo posiljujejo.
+Naj vaši kriteriji pri izbiri ne bodo preskromni.
+Za lažjo izbiro vam priporočamo, da naj vaš bodoči predvajalnik nujno vsebuje opcijo za prikazovanja podnapisov in možnost njihovega pozicioniranja ter nastavljanja velikosti, barv ter pisave.
+Kadar boste imeli film posnet na dveh zgoščenkah, vam bo zelo prav prišla opcija, ki omogoča dodajanje filmov v spisek (Playlist).
+Če tega vaš predvajalnik ne bo imeli, boste morali sredi filma, ročno nalagati drugo polovico filma.
+Predvajalnik naj omogoča tudi samodejno obrezovanje načina prikaza (pan-scan), s katerim lahko sliko krčimo ali širimo, omogoča pa naj tudi možnost spreminjanja razmerja slike pri predvajanju.
+Tako boste lahko filme, ki so narejeni v 16:9 (wide screen) formatu predvajali v 4:3 (TV screen) formatu.
+MobilePro 300E ima razširitveno mesto le za SD (Secure Digital) kartice, kar mu nekoliko omejuje možnosti dodatnih razširitev.
+SD se še vedno ne more primerjati s karticami CF (Compact Flash).
+Kar precej dlančnikov ima razširitvena mesta za oba tipa kartic hkrati.
+Verjetno so se za eno samo vrsto razširitvenih kartic odločili zaradi varčevanja pri velikosti in teži.
+Na ta račun pa je lahko tudi nižja cena.
+Največja medijska hiša na svetu AOL Time Warner je zašla v krizo z največjo izgubo v sodobnem ameriškem gospodarstvu.
+Razlog za to je internetni del družbe, ki ga predstavlja AOL, ki je v času največjega razcveta imel toliko denarja, da je odkupil Time Warnerja.
+V trenutku so mnogi pomisli, da je z internetno prihodnjo konec in tudi v Sloveniji so se začela tovrstna razmišljanja.
+V Sloveniji je razpoloženje povsem drugačno, vsaj razpoloženje, ker pravih podatkov je malo.
+Vsaj za lani smo pri nas trdili, da je bilo leto 2002 leto velikega preboja e-nakupovanja.
+Od lanskih 570.000 mesečnih uporabnikov interneta jih je 120.000 nakupovalo preko interneta vsaj enkrat v dvanajstih mesecih.
+Preboj e-nakupovanja o katerem se je govorilo je bil pomemben tudi zato, ker se je povprečna vrednost online nakupa povečala od 44.000 tolarjev v letu 2001 na lanskih 66.000 tolarjev.
+O vrednosti takšnega obsega trga sploh ne moremo razpravljati, saj so vedno polna nakupovalna središča po Sloveniji pokazala, da je prav to smisel nakupovanja.
+Socialna funkcija v obliki druženja in kave in pijače pred in po nakupu, vmes pa so najmlajši na varnem v nakupovalnih igralnicah.
+Tega nam ne more ponuditi nobena spletna trgovina, sploh pa ne naša, ki se srečuje z vse večjim problemom kritične mase.
+Majhnost trga oz. majhnost potencialnih nakupovalcev in trgovcev zahtevata povsem isti vložek, saj se v bistvu stroški postavitve sistema ne razlikujejo za trg za 300 milijonov ali 300 tisoč nakupovalcev.
+Zato je v slovenskem delu spleta tudi tako malo spletnih trgovin, ki bi bile primerljive s tujimi, ne zaradi način prodaje »klik v košarico«, temveč zaradi največje privlačnosti tuj prodaje po spletu.
+Cene so občutno nižje kot v pravih trgovinah.
+Ta naša spletna trgovina je dobila iz Indonezije naročilo za dva Sony LCD monitorja z vprašanjem kakšni so stroški prevoza na Indonezijo.
+Svetovni prevoznik DHL je sporočil, da mora kupec za vrednost 1300 ameriških dolarjev, kolikor je cena dveh monitorjev na enaa.com plačati 300 dolarjev prevoznih stroškov.
+Ko so bili naši spletni prodajalci skoraj prepričani, da je zgodbe o prodaji v daljno Indonezijo konec, je kljub visoki ceni transporta tamkajšnji kupec nakup potrdil.
+Njegova kreditna kartica je veljavna, podatki so ustrezali in avtorizacija je bila opravljena in v dveh dneh je DHL prepeljal monitorja iz Ljubljane v Džakarto.
+O primernosti izdelkov oz. storitev, ki bi bile v spletni trgovini pa so nenadoma mnogi mislili, da bo »šlo« skoraj vse.
+Kaj bi lahko uspešno prodajali preko spletne trgovine?
+In nato je še cela vrsta vprašanj, ki zahtevajo odgovore kako je z distribucijskimi možnostmi, plačilnimi pogoji in predvsem s cenami, ki bi bile konkurenčne klasični trgovini za vogalom.
+Ti stroški promocije so izrednega pomena, predvsem spletne promocije.
+Usmerjanje na spletno stran trgovine s pomočjo oglasnih pasic na drugih straneh je lahko uspešno, lahko pa tudi varljivo in s tem je lahko uspeh takšne spletne trgovine v bistvu ogrožen.
+Leta 1999 je nastal iskalnik Google.
+Za dokaj smešnim imenom, ki je takrat zvenelo dokaj neresno, se je skrival povsem resen iskalnik, ki je bil izredno hiter, pa tudi rezultati, ki smo jih od njega dobili, so bili za takratne razmere nekaj posebnega.
+Ne le, da je iskalnik našel neprimerno več od konkurence, rezultate je celo razvrščal po nekem ključu tako, da so bili rezultati, ki naj bi najbolj ustrezali našim iskalnim kriterijem, izpisani najprej.
+Tako je bilo res enostavno najti to, kar si želimo.
+S takšnim pristopom si je Google kaj hitro izboril vodilno mesto med iskalniki in sedaj več kot polovica uporabnikov za iskanje po internetu uporablja prav Google.
+Dnevno naj bi ga obiskalo kar 150 milijonov ljudi.
+Kako deluje Google?
+Prava stvar je torej sistem, ki ga znamo »postaviti« sami, pri svojem delovanju mora biti zanesljiv, v primeru morebitnih težav pa nam mora ,če je le mogoče dati čim več informacij, ki nam bodo pomagale pri odpravljanju težav.
+Ne pozabimo tudi na to, da moramo ob čim manjšem vložku dobiti čim več, v izogib morebitnim napakam pri odločitvi o izbiri izdelka pa bi bila dobrodošla še preizkusna različica paketa.
+Verjetno je preveč pričakovati, da bi bila preprosta še sama namestitev paketa, ki bi zahtevala čim manj poznavanja »umazanih podrobnosti«.
+Gre le za pobožne želje, ali pa je mogoče dobiti dostopen izdelek s sprejemljivo ceno?
+Dosedanje izkušnje mi potrjujejo, da je lahko ClarkConnect prava izbira.
+Forumi (tudi pomoč) so izredno aktivni, sodelujoči pa lahko s svojimi željami vplivajo tudi na nadaljni razvoj tega izdelka.
+Nova različica (ki bo temeljila na RH 8.0) bo po napovedih ugledala luč sveta meseca marca.
+Ameriška administracija želi še povečati pristojnosti, ki jih ima pri branju posameznikove elektronske pošte in spremljanju njegove dejavnosti v internetu.
+Pravosodni minister Ashcroft je že podal predlog, ki med drugim omogoča nadzor nad državljanov po odobritvi sodišča do 90 namesto sedanjih 30 dni.
+Še več, celovit elektronski nadzor naj bi bil v Ameriki mogoč tudi, ko kongres odobri uporabo vojaške sile, in ne le ko Amerika neki državi napove vojno ali je zaradi grožnje terorističnih napadov v stanju višje pripravljenosti.
+Predlog so že obsodile različne nevladne organizacije.
+Ogledali smo si dva, po mnogih najboljša programa za izdelavo albumov.
+Eden je program za izdelavo CD-jev in DVD-jev WinOn CD 6 DVD Edition, drugi pa namenski program Ulead DVD Picture Show 2.
+Oba svoje delo opravita res dobro, poleg tega pa gre za programa, ki podpirata izdelavo DVD, kar pomeni, da pokrivata celoten spekter medijev.
+Tako eden ko drugi omogočata izdelavo albumov v obliki VideoCD, Super VideoCD, mini DVD in DVD.
+To pa pomeni, da bomo albume lahko predvajali na domačem predvajalniku DVD, če ta podpira vse naštete formate.
+Za tri od teh verjetno veste, kaj pomenijo, za MiniDVD pa mogoče še niste slišali.
+Mini DVD ni nič drugega kot DVD-zapis na navadni plošči CD-R. Format je sicer dokaj zanimiv, težava pa je v tem, da ga prepoznajo le redki samostojni predvajalniki DVD, tako da bo v večini primerov album mogoče pregledovati le na računalniku.
+Preizkusno različico programa Ulead DVD Picture show lahko najdete na CD-ju, ki je priložen reviji, WinOn CD pa lahko najdete na januarskem CD-ju.
+DVD Picture Show je vsekakor zelo zanimiv in enostaven program.
+Zameriti mu nimamo kaj dosti, le to, da se včasih ne drži prav strogo standarda VCD in SVCD, tako da na nekaterih predvajalnikih funkcija menija ne bo delovala čisto tako, kot si to želimo.
+Dogajalo se je namreč, da ni bilo mogoče prekiniti predvajanja in se dvigniti nazaj na osnovni meni.
+Treba je bilo zadevo ustaviti in ponovno zagnati, šele potem izbrati številko nekega drugega razdelka oziroma skupine slik.
+Zelo poenostavljeno povedano: 3D-sliko v prostoru dobimo tako, da z malim projektorjem projiciramo hitro sosledje slik na prozorno ploščo, ki se vrti okoli svoje osi.
+Če je vsa stvar pravilno sinhronizirana, dobimo v prostornini, ki jo opisuje vrteča se plošča, prostorske pike (volume element oz. voxel), ti pa sestavljajo prostorsko sliko.
+Na tem načelu deluje Perspecta Spatial 3D System podjetja Actuality Systems, ki na prvi pogled deluje kot vedeževalkina kristalna krogla.
+Izdelek N-gage Nikie je mobilnik za vsa znana omrežja GSM in s podporo najnovejšim dosežkom na tem področju, vendar je pri njem to v ozadju.
+V ospredju pa je lokalno ali mobilno igračkanje, kar ga spremeni v igralno konzolo in ga postavi ob bok drugim igralnim konzolam.
+Podjetje CinemaCraft je za marec napovedalo izid enostavnejše različice svojega kodirnika MPEG, o katerem smo v Mojem mikru govorili v januarski številki.
+CinemaCraft MPEG Encoder velja ta trenutek za enega najboljših, če ne celo najboljši program za izdelavo DVD-filmov.
+Namenjen je profesionalni izdelavi filmov v formatu MPEG-2, in temu primerna je tudi cena, saj samo kodirnik stane okoli 2000 USD.
+No, da bodo ustregli tudi manj zahtevnim uporabnikom, bodo izdali tudi CinemaCraft Encoder Basic (CCE-Basic), ki se od profesionalne različice ne razlikuje veliko.
+Prva razlika je v tem, da nima strojne zaščite v obliki ključa, druga pa je v tem, da ne omogoča več kot dvopasovnega kodiranja in ne vsebuje toliko nastavitvenih možnosti.
+Pomemben dodatek je tudi GoCCE, ki v povezavi s programom Avisynth omogoča tako imenovano streženje sličic (frame serving), kar v Cinemacraftovih programih doslej ni bilo mogoče.
+Ta tehnika omogoča kodiranje filmov formata AVI prek drugega programa, ta pa lahko vnese določene popravke ali spremembe v filmu, kot so dodajanje podnapisov, prilagajanje velikosti in še kaj.
+S tem dejansko opravimo več funkcij na en mah, kar krepko pospeši izdelavo filmov v formatih VCD, SVCD ali DVD.
+Cena izdelka do konca redakcije še ni bila znana, zato obiščite spletno stran podjetja, kjer boste našli podrobnejše informacije.
+Specializirane strojne protivirusne rešitve so namenjene zaščiti celotnega računalniškega omrežja in ne le enega računalnika, kar je običaj pri protivirusni programski opremi.
+PAV Appliance podjetja Panda Software deluje na ravni prehodov v internet, torej pregleduje promet na stopnji protokola TCP/IP, zato lahko prepreči tudi poskuse napada tipa »prekoračitev medpomnilnika« (buffer overflows) in »zavrnitev storitev« (DoS -- Denial of Service).
+Namestitev naprave v računalniško omrežje ne vpliva na storilnost omrežja ali drugih kritičnih sistemov, kot so požarni zidovi ali strežnik, pregleduje pa najbolj razširjene protokole: SMTP, HTTP, FTP, POP3, IMAP4, NNTP in SOCKS.
+Zagotovljeno je tudi posodabljanje zbirke znanih virusov in drugih škodljivcev prek interneta, tako da skrbnik v uporabniški konzoli klikne na ustrezni »gumb« oziroma se posodobitev samodejno izvrši vsakih dvanajst ur.
+Med drugim je naprava sposobna zaznati in sistem zaščitit tudi pred virusom SQL Slammer, ki se širi v enem samem paketu UDP (User Datagram Protocol) velikosti 376 bajtov.
+Cena naprave je odvisna od števila licenc, začetna cena s stalno tehnično podporo pa se giblje okoli milijona tolarjev.
+Seveda je v vsakem podjetju moč najti ljudi, ki med službenim časom preždijo ure in ure brskajoč po spletu, vendar se te aktivnosti najbrž krepko odražajo na njihovi splošni produktivnosti.
+Tu glavno težo prevzame notranja organizacija delovnih procesov in nadzor produktivnosti same, ne pa tehnološki nadzor aktivnosti zaposlenih.
+Kot pravi Marsha Woodbury iz ameriškega združenja Computer Professionals for Social Responsibility, je za vzdrževanje etičnih načel in pripadnosti podjetju treba čim manj spreminjati splošno vzdušje zaupanja in humanosti, saj je povprečna oseba mentalno zares produktivna le nekaj ur dnevno, ne glede na to, koliko časa dejansko “dela”.
+Pravilniki, ki urejajo uporabo elektronske pošte in svetovnega spleta bi naj torej po njenem mnenju težili k čim manjšemu zbijanju občutka zadovoljnosti in kreativnosti.
+Dlančniki so glede na inflacijo novih modelov očitno vroče blago.
+Toda ali so res dejansko uporabni?
+So dlančniki že prestopili prag drage igrače in postali tudi poslovno koristen pripomoček ali so le statusni simbol?
+Ogledali si bomo, kaj ponujata slovenski in svetovni trg, kaj vse je mogoče z dlančnikom početi in kako jih uporabljamo pri nas.
+Zahvaljujemo se vam za veliko udeležbo pri naši anketi.
+Vaše odgovore bomo uporabili s ciljem še izboljšati revijo in jo vsebinsko še bolj približati vašim željam.
+Ker pa so nagrade le tri, smo izžrebali tri nagrajence, ki bodo prejeli matično ploščo podjetja Epox.
+Da zna prisluhniti rastočim potrebam milijonov uporabnikov, pa tudi vzdrževalcev računalniških omrežij, je Novell zopet dokazal z zadnjo verzijo mrežnega operacijskega sistema Netware 6.
+Čeprav želi vlogo izdelovalca mrežnih operacijskih sistemov potisniti na drugo mesto prvenstvo si obeta kot ponudnik naprednih omrežnih tehnologij, je Netware 6 izdelek, vreden vse pozornosti.
+Številne nagrade v lanskem letu (nagrada revije PC Magazine za tehnično odličnost, Comdex 2002: najboljša podjetniška programska oprema, nagrada Network World Readers' Choice….) to potrjujejo.
+Medtem pa je izdelek ob servisnih popravkih SP1 in SP2 že preživel otroške bolezni in je dovolj zrel za uporabo v največjih omrežjih.
+Lahko pa se tudi zgodi, da vsebujejo podatki, ki jih želimo uvoziti, določena polja ločena, sami pa imamo podatke zapisane v enem samem polju.
+V tem primeru je seveda smiselno, da podatke, ki se nahajajo v različnih poljih, združimo.
+Za primer vzemimo, da imamo v naši tabeli v enem samem polji zapisan naslov, torej ulico in hišno številko.
+V tabeli, ki jo uvažamo, pa imamo omenjene podatke zapisane v različnih poljih, npr. v polju Ulica in polju Številka.
+Na zunaj med tiskalnikoma ni prav nobene razlike in če ne bi imela natisnjene številke modela bi bili v velikih težavah.
+Pregled tiskalnika iz vseh strani, tudi od znotraj razkrije dokajšnjo robustnost.
+Tudi samo vodilo za glave vliva nekaj več zaupanja kot pri najcenejših modelih.
+Nosilec za papir je dokaj robusten in prostoren in na naše veselje pokrit.
+Odprti nosilci za papir so nadležna zadeva.
+Na papirju se rad nabira prah, kar mimogrede zapraši vso notranjost tiskalnika, kar še posebej slabo vpliva na valj in same tiskalne šobe.
+Pri tiskalniku za pisarno je to pravzaprav najpomembneje.
+Med testom smo natisnili v povprečju nekoliko manj kot 6 strani besedila vsako minuto, kar tiskalnika uvršča med najhitrejše tovrstne naprave.
+Izredno hiter je tudi izpis fotografij, saj natisne nekako 3.5 strani na minuto.
+Izredno, posebej glede na to, da ne gre za foto tiskalnik.
+No hitrost gre nekoliko na račun kakovosti izpisa.
+Pri preizkusu kar nekaj vrst papirja, tudi na zelo kakovosten papir izpis kar noče biti na nivoju nekaterih modelov namenjenih domači uporabi.
+Robovi nekaterih črk so kar nekoliko preveč nazobčani in v nekaterih primerih celo nekoliko različno nijansirani.
+Zadeva pri izpisu besedila ni tako tragična, pri izpisu fotografij pa je preveč motečih zadev.
+Mednje bi lahko uvrstili izpran videz na navadnem papirju, prosojnost na nekaterih delih barvnega izpisa, pregrobe barvne prehode med nijansami iste barve, posebej pri črni, pa tudi prilagoditev barv ni najboljša.
+Kot rečeno pa to ni foto tiskalnik in tega ne bi smeli preveč zameriti.
+Kljub vsem naštetim zameram je izpis fotografij še vedno boljšo kot pri nekaterih cenejših modelih foto tiskalnikov.
+Celotna situacija z razvojem tehnologije »vilinskega prahu« dobiva nove razsežnosti z nedavnim združevanjem (31. decembra 2002) IBM Storage Technology in skupine Hitachi Storage v novo podjetje Hitachi Global Storage Technologies.
+Hitachi je lastnik 70% vrednosti podjetja specializiranega za trde diske, IBM pa 30%, po izteku leta 2005 pa bo Hitachi prevzel celotno podjetje HGST.
+Vrednost nakupa je 2,05 milijarde dolarjev, ki jih bo Hitachi plačal v treh letih.
+V novem podjetju pričakujejo, da se bo sedanja meja gostote zapisovanja podatkov početverila in prešla 15 Gbit/cm2 (100 Gbit/inch2), s katero bodo lahko proizvajali trde diske za namizne računalnike 400 GB (ekvivalent približno 400.000 knjig), trde diske za prenosne računalnike 200 GB (ekvivalent 42 plošč DVD ali 300 plošč CD) in mini enopalčni trdi disk IBM Microdrive 6 GB za dlančnike (ki bi omogočal 13 ur MPEG-4 digitalnega videa, torej oko osem kompletnih filmov).
+Podobne trde diske od 80 GB drugih proizvajalcev, na primer, Toshibe, pričakujejo šele čez nekaj let.
+Da bo tehnologija vilinskega prahu še naprej burila duhove potrjuje tudi januarska novica podjetja Hitachi GST o začetku priprav za končno oblikovanje in proizvodnjo najmanjšega trdega diska v svetu, Microdrive, s fantastično kapaciteto 4GB.
+Čarobni prah tudi za namizne računalnike: trdi disk Dekstar 120GXP
+Piše: Zdenko Frangež / zdenko.frangež@email.si
+Lani so v IBM-u začeli trženje treh modelov trdih diskov Travelstar s »čarobnim prahom«: Travelstar 15GN z rotacijsko hitrostjo 4200 vrtljajev/min ter kapacitetami 6, 10 oz. 15 GB in največjo gostoto 3,28 oz. 3,98 Gbit/cm2, Travelstar 30GN s podobno rotacijsko hitrostjo ter kapacitetami 20 oz. 30 GB in največjo gostoto 3,59 oz. 3,98 Gbit/cm2 ter Travelstar 48GH z rotacijsko hitrostjo 5400 ter kapaciteto 48 GB in največjo gostoto 3,36 Gbit/cm2.
+Hitrost, s katero se plošče diska vrtijo so neposredno povezane z njegovo zmogljivostjo, ker disk z večjo hitrostjo vrtenja tudi hitreje prenaša podatke.
+Pri tem je treba vedeti, da je lahko hitrejši disk tudi hrupnejši, dražji in žre več energije.
+IBM je novo tehnologijo sedaj vgradil tudi v novo linijo trdih diskov Travelstar z rotacijskimi hitrostmi 7200 vrtljajev/min.
+Novi trdi diski, po besedah Laroie, »imajo ne le dvakrat večjo kapaciteto, ampak tudi višje zmogljivosti in nižjo akustiko.«
+Bolj natančno povedano je IBM »znižal akustiko« (zmanjšal hrup) za štiri decibele in zvišal predpomnilnik modela 80 GB na 8 MB.
+Trdi disk Travelstar 80GN bo prvi z 80 GB namenjen prenosnim računalnikom in se bo prodajal po ceni 420 dolarjev.
+Pravkar se začenja trženje Travelstar 80GN modelov 20 GB po ceni 158 dolarjev in 40 GB po ceni 224 dolarjev.
+V toku leta 2003 se bodo pojavili tudi novi trdi diski s hitrostmi 5400 in 7200 vrtljajev/min, z nekoliko več rutenijskega prahu.
+Model 5400 vrtljajev/min je že poimenovan Travelstar 80GNX, pojavil pa se bo s kapacitetami 20, 40 oziroma 80 GB.
+Predstavnik IBM je povedal, da bo Travelstar s 7200 vrtljajev/min odklonil prejšnje težave s hrupom in porabo energije, ki so pojavljale v dosedanjih prenosnikih z diski s podobnimi rotacijskimi hitrostmi.
+Novi trdi diski Travelstar z rotacijskimi hitrostmi 7200 vrtljajev/min bodo najverjetneje uporabljeni za ti. mobilne delovne postaje, ki so zgornja vrsta prenosnih računalnikov oblikovanih za aplikacije kot je računalniško podprto projektiranje.
+Družina Travelstar s čarobnim prahom hitro raste, ker na trg prihajajo tudi modeli Travelstar 80GN z rotacijsko hitrostjo 4200 vrtljajev/min in kapaciteto 80 GB, Travelstar 60GH s hitrostjo 5400 in kapaciteto 60 GB, Travelstar 40GN s hitrostjo 4200 in kapaciteto 40 GB in Travelstar 40GNX z rotacijsko hitrostjo 5400 in kapaciteto 40 GB.
+Na trgu so tudi modeli 3,5-palčnih trdih diskov za namizne računalnike Deskstar 180GXP s hitrostjo 7200 in kapaciteto 180 GB ali manj ter Dekstar 120GXP s hitrostjo 7200 in kapaciteto 120 GB ali manj.
+Versa FP440 je zmogljivejši izmed obeh preizkušenih NECov.
+Poleg zmogljivejšega procesorja ima več in predvsem hitrejši pomnilnik, večji disk ter večji zaslon, ki pa vseeno premore enako ločljivost kot manjši model.
+Lahko pa dobite model Versa FP440 tudi z manjšim, 14 palčnim, zaslonom ali pa enako velikim, ki pa podpira ločljivost SXGA.
+Hitrost smo že pokomentirali pri cenejšem modelu.
+Primerljiv je z Notexom, ki pa ga kljub vsemu prekaša pri hitrosti diska in zaradi večjega pomnilnika pri delu z grafiko.
+Oblika je nekoliko bolj oglata in tipkovnica je klasično dolgočasne temno sive barve.
+Nekoliko moteče je tudi to, da sta funkciji za pomik na prejšnjo stran in začetek vrstice na eni tipki.
+Pomik na začetek vrstice moramo uporabiti skupaj s tipko Fn.
+Glede na velikost računalnika, bi bilo to lahko drugače rešeno.
+To je bil res spopad na vrhunskem nivoju.
+Brez prekinitve je zadnjih 18 let Kasparov prvi na uradni lestvici FIDE!
+Kasparov je dobil program na voljo en mesec pred začetkom dvoboja (Kramnik kar eno leto prej!).
+Kar precej se je lahko pripravil.
+Seveda pa ni mogel vedeti, kako bodo pripravili otvoritveno knjižnico.
+Pri tem je imel glavno besedo izraelski velemojster Boris Alterman.
+(Nasploh se je večino stvari vrtelo v rokah Židov.)
+Otvoritvene priprave so se najbolj bali v taboru Junior-ja.
+Kasparov je poznan, da je na tem področju najboljši na svetu.
+Izvrsten team in neskončna, garaška energija, ki jo sam Kasparov vlaga v priprave in tudi zahteva od svojih sodelavcev.
+1.e4 c5 2.Sf3 e6 (Manjše presenečenje, saj Paulsenova varianta ni ravno pogosto na repertoarju Kasparova.
+Slovi kot zelo čvrsto orožje za črnega, z mnogo manj zapleti kot v Najdorfovi varianti, ki je priljubljeno orožje Kasparova.) 3.d4 cd4 4.Sd4 a6 5.Ld3 Lc5 6.Sb3 La7 7.c4 (Junior vrača presenečenje.
+Sc6 8.Sc3 (Konec knjižnice.) 8...d6 9.00 Sge7 10.Te1 00 11.Le3 (Namesto zadnjih dveh potez bi bilo zanimivo poskusiti s Kh1 in f4.) 11...e5 12.Sd5 a5 13.Tc1 a4 14.La7 Ta7 15.Sd2 Sd4 16.Dh5 (Z idejo f4 in c5.) 16...
+Se6 17.Tc3 (Pozicija vedno bolj dobiva statični karakter, z igro na dolge proge.
+To bi moralo bolj ustrezati Kasparovu.) 17...
+Sc5 18.Lc2 Sd5 19.ed5 g6 20.Dh6 f5 21.Ta3 Df6 (Mogoče bi bilo bolje 21...e4, s čimer ima črni možnost igrati z damo na obe krili.
+Lahko bi sledilo 22.Lb1 Db6 23.Th7 Tf7 24.b3 s približno enako igro.) 22.b4 (Po dolgem razmisleku.) 22...ab3!
+(Lepa žrtev kvalitete.) 23.Ta7 bc2 24.Tc1 e4 25.Tc2 Da1 (Po partiji je Kasparov dejal, da bi tu moral igrati f4 z velikimi možnostmi za zmago.
+Iz Juniorjevega tabora so mu kasneje sporočili, da bi Junior igral 26.h3 z verjetno enako pozicijo.) 26.Sf1 f4 27.Ta8 e3 28.fe3 fe3 29.Df8!
+(Junior se rešuje z edinimi potezami.) 29...
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 00 5.Ld3 d5 6.cd5 ed5 7.Sge2 Te8 8.00 Ld6 9.a3 (Ali je Kasparov mislil, da bo črni nadaljeval kot v partiji Van Wely - Acs, Hogooven 2002, kjer je sledilo 9...
+Plošči sta namenjeni Intelovim procesorjem, za katere ponujata PGA478 vmesnik.
+Vezni čip A4 (IGP 340) omogoča komunikacijo prednjega vodila pri 400 in 533 MHz.
+Plošča v dveh režah sprejme do 1 GB pomnilnika PC2100 (DDR266), poleg standardnih priključkov pa na njej najdemo še dvoje (štiri) USB vrat ter AC97 zvok.
+Izvedba mini-ATX poleg AGP reže ponuja tri, ATX pa pet dodatnih PCI razširitvenih mest.
+Tako kot na modelu M292 tudi tu za grafiko skrbi vgrajeno vezje RV100, prisoten je TV izhod; vezje pa omogoča tudi strojno pospeševanje dekodiranja MPEG2 signala ter kompenzacijo premikov.
+V preizkusni različici je vključenih preko 50 različnih ozadij, ki so na nek način predloge oziroma pisemski listi na katere napišemo pismo in prilepimo sliko.
+Precej ozadij je moč najti tudi na spletni strani s katere si lahko prenesemo preizkusno različico in posodobitve programa.
+Helios EyeSight, ki je v celoti izdelan z razvojnim orodjem Delphi, omogoča več načinov postavitve, ki izhajajo iz specifičnih potreb posameznega optika.
+Helios EyeSight lahko deluje kot samostojen program z lastno zbirko podatkov na enem osebnem računalniku, pri čemer omogoča tudi modemsko povezovanje takih samostojnih sistemov.
+V drugem načinu sestavlja rešitev podatkovni strežnik s centralno zbriko podatkov (ki je lahko zmogljivejši osebni računalnik), oddaljeni odjemalci, na katerih je nameščen le program Helios EyeSight brez zbirke podatkov, pa so nanj oziroma na zbirko podatkov priključeni prek varne VPN-povezave.
+»Večina uporabnikov uporablja TCP/IP dostop do zbirke podatkov, pri čemer se med strežnikom in odjemalcem zgradi tunel, ki je odprt za SQL povezavo, tako da zavzamejo večino pasovne širine le SQL zapisi in podatki, kar omogoča izredno učinkovito delovanje sistema,« je povedal Damijan Koščak, vodja tehničnega oddelka v podjetju eLab-Mirtič.
+Enostavnejša mrežna rešitev uporablja prav tako centralno zbirko podatkov medtem, ko odjemalci do strežnika dostopajo prek orodja Windows Remote Desktop.
+V vseh primerih je povezovanje računalnikov izvedeno prek protokola TCP/IP.
+Med njimi je pet velikih podjetij, ki jih poznamo iz računalniške industrije.
+Compaq, HP, IBM, Intel in Microsoft skupaj sodelujejo na tem projektu, ki bi naj končno poskrbel za varno izvajalno okolje.
+Sicer se je število podjetij z združitvijo podjetij HP in Compaq zmanjšalo, vendar njihov obseg še vedno ostaja enak.
+Od oktobra 1999 se je začetnim petim podjetjem pridružilo še več kot 140 drugih podjetij.
+Edina zanka pri vsem tem je, da mora biti vsak varen operacijski sistem ustrezno testiran in digitalno podpisan, kar je povezano tudi s stroški.
+Ti znajo biti za proizvajalce dokaj visoke, kar zgleda da nekaterim Linux podjetjem celo ustreza.
+Namreč, v TCPA svetu izvorna koda programov več ne bo tako zelo uporabna kot do sedaj.
+Četudi imamo izvorno kodo programa si v TCPA računalniku z njo ne moremo nič začeti, ker nimamo ustreznega digitalnega podpisa potrebnega za zagon programa.
+Tega bomo seveda dobili samo če bomo celoten program kupili od proizvajalca.
+Strokovnjaki opozarjajo tudi na moč, ki bi jo imela industrija v primeru uspeha TCPA in Palladiuma.
+Čeprav zagovorniki pravijo, da je TCPA platformsko neodvisen sistem strokovnjaki ne napovedujejo lepih časov za uporabnike odprte kode.
+So namreč mnenja, da bi lahko industrija preprečila odpiranje dokumentov narejenih v Wordu v kateremkoli drugem programu.
+KUPITI ALI NE?
+Gre za standardni DVD format, ki pa bo izkoriščal dvo-slojni zapis.
+Tako naj bi na eno stran klasičnega optičnega diska spravili 9.4 GB podatkov.
+Specifikacije predvidevajo uporabo MPEG-4 kodnega mehanizma (zdaj MPEG-2), kar pa zahteva spremembo tudi na strani predvajalnikov.
+Glavni podpornik HD-DVD-9 je Warner Multimedia, format pa naj bi bil vmesna stopnja do pravega HI-FI DVDja prihodnosti.
+Nedavno je HD-DVD-9 podprl tudi DVD-Forum, ki v novem formatu vidi naslednika formata DVD, torej format v katerem se bodo pojavljali komercialni materiali, filmi.
+Podjetja uporabljajo tehnologijo tudi že v praksi.
+Philips je že demonstriral delujoč izdelek temelječ na tehnologiji Blu-ray, in sicer je enota uporabljala diske s premerom 3 cm, na katere je spravila 1 GB podatkov.
+Koncept bo zanimiv za aplikacijo v prenosnih napravah kot so video kamere, mobilni telefoni...
+Jasno je, da nobeden izmed formatov ni idealen; jasno pa postaja tudi to, da se vojna formatov ne bo končala v kratkem.
+Konec koncev to v sebi nosi tudi pozitivne posledice, saj ne glede na to kakšen pogon in tehnologijo izberete, lahko računate na to, da bo tehnologija ostala živa vsaj do naslednje nadgradnje računalnika...
+Za podrobnejše informacije poglejte spletne strani http://www.dvdrhelp.com/ ter http://www.dvddemystified.com/.
+Ko smo lastniki svojega prvenca na DVD mediju se nas običajno poloti strah pred izgubo tako skrbno pripravljenega izdelka.
+Na srečo je kopiranje lastne video produkcije sila preprosto in izvedljivo z istim programom kot smo izdelali original.
+Popolnoma enako kot kopiranje CD-jev, le ponovno imamo opraviti z veliko prostornejšim medijem.
+Zaplete pa se pri komercialnih DVD filmih.
+Lahko pa pogledamo tudi drugače.
+Za prazen DVD-R ali DVD+R medij bomo odšteli vsaj 1000 Tolarjev, za kopiranje kompletnega novejšega DVD filma pa potrebujemo dva.
+In če si film izposodimo v videoteki lahko temu prištejemo še 400-600 Tolarjev.
+Dva in pol tisočaka torej in smo lastniki ilegalne kopije, kar je kaznivo.
+In ker smo to naredili sami, smo pirati.
+Grdo se sliši.
+Pri čemer za originalno kopijo povprečno odštejemo pet in pol tisočakov.
+Če ravno ne kupujemo najnovejših in najdražjih filmov.
+Potem je razlika seveda večja.
+Za tista, vsaj, dva in pol tisočaka pa si lahko film izposodimo tudi večkrat in ni potrebe po kopiranju.
+Računalniški pirati se z menoj seveda ne bodo strinjali, ker v kopiranju vidijo zaslužek, ampak to je že druga zgodba.
+Piše: Jaka Mele
+In zakaj čaka je v veliki večini kriv ponudnik vsebine.
+Že res, da so strani z ne vem kakšnimi grafičnimi elementi in vso kramo, ki ji sledi lep in zanimiv dodatek vendar res samo dodatek, ki uporabnika privleče prvič, mogoče drugič.
+Osel gre namreč na led samo dvakrat, a moramo mi večkrat?
+Vse ostalo pa je potrata časa in predvsem našega denarja, saj prvič čakamo da se strani naložijo, drugič pa zato plačamo.
+Tako klice kot nekateri tudi prenesene kilobajte.
+Če so strani narejene prefinjeno se naložijo seveda prvo reklame in vse slike, šele nato tisto kar nas seveda naj bolj zanima in zaradi česa smo prilezli na določeno stran - njihova vsebina.
+Vse stvari se nahajajo in urejajo v preprostem urejevalniku.
+WebWasher se pri namestitvi naseli v orodno vrstico in tam če je le prižgan pazi na vse prihode in odhode v vaš računalnik izbrane vsebine.
+Ne moremo pa ga imenovati požarni zid, ker nima vseh funkcij.
+Vse kakor pa je na domačih strojčkih dobrodošel novi član družine.
+Bolj vprašljivo je v podjetjih.
+Čeprav ima vsak program tudi svoje geslo s katerim se ga da zakleniti ga zaposleni še vseeno lahko »ubijejo« ali izklopijo na kakšen drug način.
+Če pa služi samo zmanjšanju prenesene količine podatkov pa je lahko v redu tudi tam.
+Piše: Andrej Budja / andrej@budja.com
+Prav to počne poseben servis vgrajen v Windows XP imenovan Automatic Updates.
+Njegova glavna naloga je preverjanje omenjene strani za nove popravke.
+Od uporabniških nastavitev je nato odvisno kaj se bo s temi popravki zgodilo.
+Na voljo so tri možnosti.
+Microsoft se zaveda težav uporabnikov in že aktivno dela na naslednji različici SUS strežnika.
+Različica 2.0, ki bo na voljo konec letošnjega leta bo omogočala namestitev popravkov tudi za druge Microsoftove programe in strežnike ter ne samo za operacijski sistem Windows.
+Izboljšano bo tudi logiranje nameščanja popravkov kar bo dobrodošlo pri nadzoru nameščenih popravkov.
+Nov bo tudi programski vmesnik za podporo skriptam.
+Še bolj zanimiva in uporabna bo lastnost izdelka, ki bo zagotavljala namestitev popravka na računalnike do določenega datuma (deadline), kar sedaj ni možno.
+Če bo Microsoft res poslušal svoje kupce, bo različica podpirala tudi namestitev servisnih paketov.
+Vsa konfiguracija za odjemalce gre skozi skupinske police (Group Policy), kjer lahko določimo dve nastavitvi.
+Prva (Configure Automatic Updates) določa kako bo odjemalec ravnal s popravki, kdaj jih bo nameščal, če sploh.
+Druga nastavitev (Specify intranet Microsoft update service location) omogoča skrbnikom določanje SUS strežnika, ki ga bo ta odjemalec uporabljal za prenos popravkov.
+Če se odločite za SUS potem vsekakor namestite Service Pack 1, ki odpravlja kar nekaj SUS problemov.
+Z SUS SP1 boste lahko strežnik namestili tudi na SBS (Small Business Server) in DC (domain controler) strežnike.
+SP1 tudi ne bo ponovno zagnal računalnika po namestitvi popravkov, če je kakšen uporabnik prijavljen.
+SUS pa bo tudi dovolj pameten in bo ponovno skušal namestiti popravek, ki se ob določenem urniku ni namestil iz kateregakoli razloga.
+Razvoj zvočnih kartic in s tem tudi zvoka v igrah, možnostjo ogleda DVD filmov na domačem računalniku in ne nazadnje vedno boljše igralne konzole so narekovali tudi razvoju zvočnikov.

@@ -1,0 +1,8 @@
+preslikavanjem zarišemo elektrostatsko sliko.
+Tisti deli prevleke valja, ki so dobro osvetljeni (in ustrezajo nepotiskanemu papirju na originalu), postanejo prevodni in tok skozi fotoprevodno plast jih razelektri; deli površine, ki ustrezajo potiskanim delom originala, pa ostanejo neosvetljeni in zato tudi naelektreni.
+Na površini valja tako dobimo verno elektrostatsko sliko originala, ki pa je seveda ne moremo videti, ker površinskega naboja z očmi pač ne zaznamo.
+Takšna slika se imenuje "latentna".
+Čeprav se morda sliši nenavadno, da imamo slike, ki jih ne moremo videti, pa je to nekaj prav vsakdanjega; tudi pri fotografiranju po osvetlitvi na filmu nastane nevidna, latentna slika, ki si jo lahko ogledamo šele po razvijanju.
+Torej je treba tudi
+fiksiranja slike: papir je razgret, in ker je še vedno nekoliko naelektren, se listi med seboj lepijo.
+Ko valj očistijo ostankov tonerja, ga z enakomernim osvetljevanjem razelektrijo, tj. zbrišejo latentno sliko na njem, in stroj je pripravljen za kopiranje nove.

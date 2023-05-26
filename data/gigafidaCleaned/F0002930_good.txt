@@ -1,0 +1,195 @@
+Slovensko deljenje spozna šumnike v vseh treh razporeditvah, ki so v rabi pri nas (ASCII-7, CP 852, CP 1250).
+Če uporabljate drugo razporeditev, bo program še vedno deloval, le da bo našel kakšno delilno mesto manj, pa tudi njegova zanesljivost se bo zmanjšala.
+Kandidate za mariborske župana smo povabili na kavo in fotografiranje, zraven pa jim postavili pet vprašanj, s katerimi smo poskušali pokukati v njihovo zasebnost
+Tudi odstranitev programa Slovensko deljenje je enostavna.
+Dvakrat kliknite spodnji napis in programa ne bo več na računalniku.
+Tokratni podmladek ne bo oseba, ampak nov, svež projekt, ki ga pripravljata njegov avtor Matjaž Vehovar, športni pedagog na II. gimnaziji Maribor in asistent na predšolski vzgoji na Pedagoški fakulteti v Mariboru, pri predmetu Metodika gibalno-športne vzgoje, in profesorica angleškega jezika in sociologije Neli Bejat - Krajnc.
+Izvajalec je Šolsko športno društvo ll. gimnazije Maribor.
+Projekt je namenjen otrokom, starim od 4 do 6 let, edini pogoj je, da še niso prvošolčki.
+Obsega 40 ur, enkrat tedensko po dve šolski uri, predvidenih je 20 srečanj.
+Med športno vzgojo se bodo otroci nezavedno naučil osnov angleškega jezika in dobili posluh za jezik.
+Projekt je za učitelja strokovni izziv in ni komercialne narave.
+Prav zaradi tega je skupina majhna, v njej je od 8 do 10 otrok.
+Cilj je otroka postaviti v okolje, ki mu omogoča razvoj kognitivnih sposobnosti, in izpopolnjevanje metodike dela.
+Sama zamisel, da profesorja različnih strok s svojega zornega kota skupaj izpeljeta učno uro, ni nova, ni pa še bila izvedena.
+S projektom želita raziskovati lastni stroki in njuno integracijo.
+In zakaj je projekt namenjen predšolskim otrokom?
+“Zato, ker je znanstveno dokazano, da poteka v tej starosti vse učenje po istem principu - celostno, s procesi v levi (racionalni) in desni (iracionalni) možganski polobli (hemisferi),” razloži Matjaž Vehovar.
+Med sprejemanjem dražljajem iz okolice in pri oblikovanju odgovorov nanje se otrok uči na vseh področjih.
+Gibanje se pojavi kot odgovor na glas, glasbo in dražljaje iz okolja.
+Med učenjem gibanja potekajo ostali procesi.
+Oblikujejo se gibalni vzorci in preidejo v podzavest.
+Slovensko deljenje spozna šumnike v vseh treh razporeditvah, ki so v rabi pri nas (ASCII-7, CP 852, CP 1250).
+Če uporabljate drugo razporeditev, bo program še vedno deloval, le da bo našel kakšno delilno mesto manj, pa tudi njegova zanesljivost se bo zmanjšala.
+Slovar izjem določite tako, da v menuju Tools izberete Slovensko deljenje - nastavitve.
+Pojavi se pogovorno okno.
+V okence Osebni slovar vnesite polno ime osebnega slovarja (denimo C:\PRIVAT\OSEBNI.
+Če je osebni slovar že na voljo, ga poiščete s pritiskom na gumb Najdi.
+Njegovo vsebino spreminjate s pritiskom na gumb Uredi, ki požene beležko (Notepad).
+Osebnega slovarja NIKOLI ne urejajte z Wordom, vedno uporabite Notepad.
+preberite vsaj drugi razdelek, še raje pa ves pričujoči dokument.
+Seveda ga lahko tudi natisnete.
+Namestitveni program tega dokumenta ne prepiše na trdi disk; če ga boste še kdaj potrebovali, ga odprite enako, kot sedaj.
+V prejšnji številki našega časnika smo se spraševali, kje je Miša.
+Miša Novak je čas po poroki, poročila se je 17. julija z devet let starejšim Grkom Georgiosum, preživela na otoku Zakintos.
+Odslej jo bomo v Sloveniji videli le še takrat, ko bo prišla na obisk.
+Tokratni razlog vrnitve pa so priprave na porod.
+Kot je dejala, zaupa zdravnikom in sestram v ptujski bolnišnici, ob sebi pa bo imela še starše.
+Tako bo otrok, ki naj bi zagledal luč sveta 9. decembra, imel tudi slovensko državljanstvo.
+Nataša Krajnc je seveda izkoristila priložnost in Mišo povprašala za kakšen nasvet, ki ji bo na izboru v Nigeriji prišel zelo prav.
+Mi pa želimo miss Slovenije za leto 1999 čim manj težav pri porodu.
+Če uporabljate drug razpored šumnikov kot ASCII-7, dvakrat kliknite ustrezni spodnji gumb.
+Po potrebi si zamenjajte tudi tipografijo (kliknite Edit, nato Select All, Format, Font, izberite svoj priljubljeni font in kliknite OK).
+Program Slovensko deljenje je namenjem vsem, ki jih moti napačno deljenje slovenskih besed v Wordu.
+Namestitev in uporaba sta enostavni in hitri, pravilnost deljenja pa skoraj popolna.
+Če programa še niste namestili, si pred nada ljevanjem preberite vsaj drugi
+Seveda ga lahko tudi natisnete.
+Namestitveni program tega dokumenta ne prepiše na trdi disk če ga boste še kdaj potrebovali, ga odprite enako, kot sedaj.
+Program Slovensko deljenje je namenjem vsem, ki jih moti napačno deljenje slovenskih besed v Wordu.
+Namestitev in uporaba sta enostavni in hitri, pravilnost deljenja pa skoraj popolna.
+Če programa še niste namestili, si pred nadaljevanjem preberite vsaj drugi razdelek, še raje pa ves pričujoči dokument.
+Seveda ga lahko tudi natisnete.
+Namestitveni program tega dokumenta ne prepiše na trdi disk; če ga boste še kdaj potrebovali, ga odprite enako, kot sedaj.
+Deljenje sprožite tako, da v menuju Tools izberete Slovensko deljenje.
+Word datoteko najprej shrani v začasno datoteko tipa RTF (rich text format).
+Nato požene program, ki v to datoteko vstavi vsa delilna mesta v skladu s pravili slovenskega jezika.
+Zatem datoteko ponovno prebere in jo shrani pod izvirnim imenom.
+Zaradi tega ni mogoč preklic deljenja (undo).
+Mo-ni-tor
+Program Slovensko deljenje je namenjem vsem, ki jih moti napačno deljenje slovenskih besed v Wordu.
+Namestitev in uporaba sta enostavni in hitri, pravilnost deljenja pa skoraj popolna.
+Če programa še niste namestili, si pred nada ljevanjem preberite vsaj drugi
+Evropsko nagrado za urbanistično in regionalno planiranje so 8. novembra podelili v Parizu Mestni občini Maribor na celodnevni mednarodni konferenci o evropskem planiranju. za svoje rešitve v urbanistični zasnovi mesta Maribora
+Kaj je za Mariborčane pomembnejši dogodek v prihodnjem tednu, martinovanje ali volitve za župana?
+Mnenja so različna, nekateri pa so srečni, da sta dogodka ob različnih dnevih.
+Med največjimi projekti v zadnjem času v severovzhodni Sloveniji je gradnja mariborske zahodne obvoznice.
+Opredeljena je kot del glavne ceste G-1, ki se v krožnem križišču na Gosposvetski cesti obrne proti jugu, poteka preko Koroškega mostu in v nadaljevanju prečka železniško progo Maribor Dravograd v podvozu, nato pa Erjavčevo in Šarhovo ulico, Cesto I. internacionale, Cesto proletarskih brigad in Lackovo cesto.
+Ob Radvanjskem potoku se zahodna obvoznica obrne proti vzhodu in poteka do Tržaške ceste (G-13), nanjo pa se priključi v semaforiziranem križišču pri Blagovno-distribucijskem centru (BDC).
+Z investicijo, vredno 361 milijonov tolarjev, je Adriatic Maribor pridobil nekaj manj kot 1000 kvadratnih metrov prenovljene poslovne stavbe, prostrano dvorišče za cenitev škod in prijaznejše prostore za poslovanje s strankami.
+V novih prostorih na Jadranski 25a bo Adriaticova enota Maribor decembra praznovala tudi deseto obletnico poslovanja.
+Ob tem pomembnem jubileju sta predsednik uprave Adriatica Dušan Novak in direktorica poslovne enote Maribor Nadija Glavič Raškovič podarila 1,300.000 tolarjev zdravstvenemu domu dr. Adolfa Drolca v Mariboru za novi EKG-aparat in za nezgodno zavarovanje otrokom v Varni hiši Maribor.
+Poslovna enota v Mariboru je v prvih petih letih poslovanja dosegla skoraj milijardo tolarjev letne premije, zbrana premija pa je v letu 2000 presegla 2 milijardi.
+Podatki poslovanja iz prvih devetih mesecev kažejo, da bo poslovna enota Maribor v letu 2002 predvidoma zbrala prek 3 milijarde tolarjev premije.
+Rast števila zavarovancev in vse večje poslovanje sta narekovala tudi aktivno zaposlovanje.
+Poslovna enota je 1992 pričela poslovati z devetimi zaposlenimi, danes šteje 66 zaposlenih in v regiji zaposluje še pet agencij - ekskluzivnih družb za zastopanje, v katerih je skupno kar 60 zastopnikov.
+BOF-centre so zasnovali kot prve znanilce t.i. arhitekture zabave, ki združuje nakupovanje in zabavo v enem objektu.
+Pilotski projekt BOF, ki je od letošnjega aprila odprt v BTC-ju v Ljubljani, namreč predstavlja ta sodobni in ambiciozni prodajni pristop.
+Delo oblikovalcev in arhitektov Agencije BeBe, Jurija Schollmayerja in Roka Kuharja upošteva spremenjen način razmišljanja in obnašanja današnjega potrošnika, ki živi v stresnem svetu in si v prostem času, kamor sodi tudi nakupovanje, želi predvsem sprostitve in zabave.
+BOF-center s prodajnim konceptom in arhitekturnimi ter oblikovalskimi rešitvami sledi tem trendom.
+"Zaradi bolne odtujenosti, ki jo je med evropska ljudstva zasejala nacionalna blaznost, pa tudi zaradi kratkovidnih in hitrorokih politikov, ki so danes zaradi tega na površju in sploh ne slutijo, kako zelo samo začasna more biti razkrajalna politika, s kakršno se ukvarjajo - zaradi vsega tega in še marsičesa danes povsem neizgovorljivega zdaj spregledujejo ali namenoma in lažno napačno razlagajo najbolj nedvoumna znamenja, iz katerih se izrecno kaže, da hoče postati Evropa eno.
+Pri vseh globljih in širših ljudeh tega stoletja je obstajala pravzaprav skupna smer v skrivnostnem delovanju njihove duše, pripravljala pot k tej novi sintezi in za poskus ustvarjala Evropejca prihodnosti: samo s svojimi povrhnjostmi ali v šibkejših urah, na primer v starosti, so ti pripadali "domovinarjem" - odpočivali so se samo od sebe, ko so postali "domoljubni".
+Mislim na ljudi kakor Napoleon, Goethe, Beethoven, Stendhal, Heinrich Heine, Schopenhauer: ne smete mi zameriti, če štejem mednje tudi Richarda Wagnerja, glede katerega nas ne smejo zapeljati njegovi lastni nesporazumi - geniji njegove vrste imajo redko pravico sami sebe razumeti."
+- Kaj piše na vaši športni izkaznici?
+"Sem Rok Florjančič, amaterski svetovni prvak z vodnim skuterjem, član kluba Jet-ski Maribor, rojen 27. 3. 1985, visok sem 185 cm, tehtam 75 kg."
+- Opišite najlepše darilo, ki ste ga kdaj dobili.
+»Pred svetovnim prvenstvom, to je potekalo na jezeru Havasu v ameriški zvezni državi Arizona, je bila Drava že zelo mrzla, zato sem treniral kar na ribniku za domačo hišo.
+Bilo je precej nevarno, saj je ribnik zelo plitek in ozek.«
+- Kdaj ste se nazadnje od srca nasmejali?
+- Kdo je vaš najljubši nasprotnik?
+- ve~je rastline v posodah ({opki po deset cvetlic)
+Piše: Tone Partljič, dramatik
+Avtohiša Kolmanič & Co. se predstavlja
+Smiljanu Krežetu, producentu in organizatorju prireditev, gre v poslu vse kot po maslu.
+Pred kratkim je priredil nadvse uspešen koncert Oliverja Dragojeviča in Gibonnija v dvorani Tabor v Mariboru, ki ga je obiskal tudi Matjaž Kek, trener mariborskega prvoligaša.
+Zato pa gre v biznisu toliko slabše slednjemu.
+Njegovi varovanci so tokrat ponovno izgubili proti osovraženim »močvirnikom« in povečali zaostanek za V Olimpijo, ki je prva na lestvici.
+Morda pa bi bilo najbolje, ko bi ljubitelj piva Smiljan in oboževalec kokakole Matjaž združila moči in skupaj priredila kakšen koncert z Mariborom PL. Če ne drugega, bi bili poleg njiju zadovoljni igralci (beri: nastopajoči) in gledalci.
+Razen seveda, če bi se fantje na odru odrezali tako kot na igrišču.
+Za vse vrste nadevov je primeren zvitek.
+Palačinko tanko namažemo in jo trdno zvijemo.
+Polagamo jih tesno skupaj za serviranje ali gratiniranje.
+Če palačinko zložimo v trikotnik in še nato zvijemo, dobimo škrnicelj.
+Primeren je za palačinke brez nadeva, ki jih samo potresemo, ali za zelo tanek nadev in nato zlaganje v obliki pahljače ali kroga.
+Kakšne materiale vgrajuje v izdelke za opremo pisarn in prostorov podjetnikov?: »Predvsem vse vrste plemenitega masivnega lesa - sadnih dreves (višnja, češnja, jablana, hruška), javora, nekatere vrste eksotičnega lesa in tudi les bukve, ki je izjemno topel material.
+Če me vprašate po slogu - sem avantgardist, blizu mi je tudi konstruktivizem.«
+Povprašali smo ga tudi po tem, kakšna naj bo pisarna slovenskega poslovneža in seveda koliko to stane.
+Najprej nam je odgovoril, da je treba ugotoviti utrip takega poslovneža, torej s kakšno dejavnostjo se ukvarja in komu je namenjena: »Od tega, kakšne dogodke zajema naročnikova poslovna dejavnost, je odvisno, ali se odločim za temnejše ali svetlejše tone, oziroma kombinacijo obeh.
+Na podlagi osebnostnih značilnosti poslovneža ali direktorja se odločamo o bolj ostrih ali mehkejših linijah.
+Skratka z opremo pisarne ali sejne sobe želimo poudariti podjetje in človeka, ki ga vodi.
+Taka investicija lahko stane od 5 pa tudi do 10 milijonov tolarjev.«
+Toda funkcija župana v tako velikem in pomembnem mestu, kot je Maribor, je vse preveč pomembna in preresna stvar, da bi se lahko s tem hecali.
+Pa čeprav imate morda tudi vi ravno tak občutek, ko se vozite mimo plakatov z imeni in podobami vam povsem neznanih oseb.
+Nepozabna je na odru mariborske Opere v mjuziklih in operetah: kot Dulcinea v Don Kihotu, v praizvedbi dela Princeska Vrtoglavka Josipa Ipavca, Feri Bači (moška vloga) v Kneginji čardaša, Golde v Goslaču na strehi in grof Orlovski v premalo videni opereti Netopir.
+Alenka Pinterič nerada vabi ljudi domov, zato se raje slika v naravi.
+Tokratni podmladek ne bo oseba, ampak nov, svež projekt, ki ga pripravljata njegov avtor Matjaž Vehovar, športni pedagog na II. gimnaziji Maribor in asistent na predšolski vzgoji na Pedagoški fakulteti v Mariboru, pri predmetu Metodika gibalno-športne vzgoje, in profesorica angleškega jezika in sociologije Neli Bejat - Krajnc.
+Izvajalec je Šolsko športno društvo ll. gimnazije Maribor.
+Projekt je namenjen otrokom, starim od 4 do 6 let, edini pogoj je, da še niso prvošolčki.
+Obsega 40 ur, enkrat tedensko po dve šolski uri, predvidenih je 20 srečanj.
+Med športno vzgojo se bodo otroci nezavedno naučil osnov angleškega jezika in dobili posluh za jezik.
+Projekt je lep primer sodelovanja dveh strok, ki na prvi pogled nimata prav nič skupnega.
+Zanima nas, kaj bi nastalo, če bi želeli hkrati poučevati glasbo in tehnično vzgojo.
+Če se najde kdo, ki bo sprejel naš izziv, bomo o njem zagotovo pisali.
+Med strokovno vodeno telovadbo se malčki razgibajo, spotijo, sprostijo, zabavajo, družijo in spoznavajo angleški jezik
+Učenje tujega jezika za otroka v tej starosti ne pomeni nikakršnega napora.
+Novost je, da se pri tem pouku gibanje ne zatre, ampak da ga vzpodbujata v pravo smer.
+Otrokovo potrebo je treba kanalizirati in usmeriti k določenemu cilju.
+Obremenjen je toliko, da se dovolj giba, kar pomeni, da je srčni utrip primerno visok.
+Otrok se med vadbo utrudi, vendar do te mere, da se lahko umiri in pozornost za nekaj časa preusmeri drugam.
+Vadba in učenje potekata intervalno.
+Učenje poteka nezavedno.
+Nagrado občinstva pa je dobil Kristjan Ostanek za vlogo v predstavi Jobova knjiga, v izvedbi SNG Maribor.
+»Pri meni gre brez vsega, zato je doma velikokrat na sporedu prepir z mamo.
+Baje, da premalo jem.
+Če bi se že moral odločiti, pa ne bi šlo brez kosila.«
+»Najraje in največ zahajam v Grand Caffe pri obrtni zbornici, ker je fantastično urejen in miren, ponavadi pa je zraven še moja družba.«
+Na pisalni mizi so vedno:
+Slovenski motociklist Miran Stanovnik je na puščavskem reliju po Združenih arabskih emiratih v skupni razvrstitvi osvojil deseto mesto, v konkurenci serijskih motociklov (maraton) pa celo drugo mesto.
+Stanovniku se je nasmihala celo višja uvrstitev, vendar mu je v zadnji, 600 kilometrov dolgi etapi od oaze Liwa do Dubaja, začela razpadati zadnja guma, zato je moral upočasniti tempo.
+Na reliju sta sicer slavila Francoza - med avtomobilisti Stephane Peterhansel (Mitsubishi Pajero) in med motociklisti Cyril Despres (KTM).
+Kako mi je Filippo Inzaghi pobral 35 tisočakov
+In kako sploh staviti?
+S stavne liste morate pri nas izbrati najmanj tri dogodke, na katere želite staviti.
+Na stavni listek vpišete številko dogodka, tip in znesek vplačila.
+Stava je dobitna, če so pravilno napovedani vsi dogodki, višina dobitka pa se izračuna tako, da se zmnožek kvot pomnoži z zneskom vplačila.
+Minimalno vplačilo na stavni listek znaša 200 tolarjev, vrednost dobitka pa ne sme presegati milijona tolarjev.
+"V Sloveniji imamo preko 650 stavnic, ljudje lahko stavijo na poštah, bencinskih črpalkah, v lokalih, po internetu ali telefonu.
+Med hazarderji je gotovo najbolj priljubljen nogomet, kar 60 odstotkov stav se nanaša na pare v tem športu.
+Sledijo mu košarka, hokej in tenis, igralci najraje stavijo na tekme, ko igrajo slovenski klubi ali slovenski športniki.
+Po grobi oceni bi dejal, da pri nas vsak teden stavi vsaj 50.000 ljudi, o višini vplačil pa žal ne smem govoriti," nam je povedal postavljavec stav pri Športni loteriji Borut Bohinc.
+Vse to pa le zato, ker sploh nimamo kriterijev!
+Zato, ker razpišemo volitve, ker je pač priložnost.
+Ker bomo volili predsednika, pa izvolimo še župana.
+Karikirano, ampak točno tako, žal, je.
+Če za predsednika vemo, da ga imamo zato, da stiska roke doma in v tujini ter deli odlikovanja, za župana podobnih kriterijev nimamo.
+Nagradno vprašanje: kaj naj bi župan sploh delal?
+Vodil mesto upravo...
+Oprostite, toda to ni noben odgovor.
+Vodiš lahko psa na sprehod.
+Za vodenje mestne uprave pa je potrebno v opis del in nalog napisati kaj bolj konkretnega.
+Videli smo dvojno
+Ko smo vijugali po vinski cesti, smo začeli videti dvojno: Mak Mak, Protner Protner, Anderlič Anderlič.
+Mislili smo, da se nam je od obilice mošta in vina začelo mešati, potem pa smo ugotovili, da ima večina kmetij še soimenjakinjo, ki jo vodi kak sorodnik.
+Kar oddahnili smo si in se zedinili, da bo vseeno bolje, če bomo popito vino s čim popivnali.
+Na koncu smo se ustavili pri Francu Anderliču, ki je vrata gostom odprl že pred 28 leti.
+Šank so podpirali stalni gosti, v posebni sobi pa je skupina mlajših moških bučno praznovala rojstni dan.
+Vinska cesta je zelo primerna za pričetek večera ali za zabave, saj so cene občutno nižje kot v mestu.
+In kako se ob dobri kapljici prileže kruh z zaseko, dobro vedo naši želodci.
+Če se boste odločili in noč pričeli z obiskom vinotoča, vas opozarjamo, da se izogibate čebuli, še posebno če ste samski.
+Narezek nam je pripravila Tamara, ki vodi vinotoč.
+Ker z mamo ne delata v vinogradu, bi rada v vinotoču delala tudi med tednom.
+To pa zaradi strogih predpisov na žalost ni mogoče.
+Pravi, da so se gostje spremenili in vedno več jih je, ki si želijo poskusiti pristno domačo hrano.
+“Nekdaj so gostje zahtevali dunajski zrezek in pomfri, vendar to ni domača hrana,” razloži.
+Gostje radi prihajajo tudi zaradi njene prijaznosti in sproščenosti.
+Navajeni so že, da bo z njimi poklepetala in spila kakšen kozarček.
+Tamarin brat, Borut Anderlič, nam je pokazal 300 let staro obokano klet, kjer v hrastovih sodih zori vino.
+Pravijo, da je vino živo bitje in da skozi les lahko diha ter se zaradi pretoka zraka premika.
+Ko smo gostitelja povprašali o promociji vina, je povedal: “Morali bi narediti skupno reklamo, tako da bodo štajerska vina bolj prepoznavna.
+Naša vina so namreč zelo kakovostna, vendar jih tujci ne poznajo.”
+Vinogradnik izšola vino, potem pa se mora ukvarjati še s prodajo.
+Trenutno trguje vsak zase.
+Le s skupno promocijo bi jim uspelo, da bi lahko bili prisotni na velikih vinskih sejmih v tujini, ki so za posameznika predragi.
+Zelo lep primer skupne promocije so Primorci.
+Ko je mariborsko letališče optimistično odprlo KDAJ??? svoja vrata in pričelo sprejemati prve potnike, so se pojavile številne zamisli o popestritvi turistične ponudbe v mestu.
+Maribor danes obkrožajo tri lepotice: Zgornje Slovenskogoriška, Mariborska in Podpohorska vinska cesta.
+Milan Razdevšek, direktor Zavoda za turizem Maribor, si želi, da ceste ne bi imele samo vloge transportnih poti, ki povezujejo kmetije in vasi, ampak da bi postale poti doživetij, raziskovanja, uživanja in kulture: »Naše vinske ceste še niso dosegle te razpoznavnosti, saj se komaj razvijajo.«
+Zavod za turizem vlaga veliko truda v razvoj in izobraževanje kmetovalcev in vinogradnikov, obenem pa s promocijskimi aktivnostmi skrbi za številčnejši obisk.
+»V vseh treh vzajemnih skladih Hrast, SPD in Delniški upravljamo 3,15 milijarde tolarjev.
+Provizije: vstopna 1% - 2% (nižja je pri večjih zneskih), izstopna 1%, letna upravljavska 2%.
+V Krekovi DZU zaenkrat ne pripravljajo sprememb glede stroškov za vlagatelje, razen da se bodo po 1. 11. 2002 lahko izognili stroškom nakazil, če bodo izvedli vplačilo točk investicijskih kuponov preko Raiffeisen Krekove banke.
+Avto Jarc, Ptujska cesta 139: V zalogi imajo znamke Sava, Dunlop in Continental, za katere nudijo od 5 do 18-odstotni popust in 5-odstotni popust za platišča.
+Za montažo in obtežitev boste odšteli 5592 tolarjev, za hrambo letnih pnevmatik pa 500 sit (brez DDV) za kolo.
+Po potrebi delajo tudi z 8 dvigali, stranke pa lahko počakajo v salonu.
+Namesto popusta se lahko odločite za vrednostne bone za različne storitve.
+Štajerski Avto dom, Tržaška cesta 38: Ob posebni ponudbi za voznike Renaultovih vozil ponujajo pnevmatike Sava, Kleber, Continental, Goodyear in Michelin ter 15% gotovinski popust.
+Montaža in obtežitev kolesa z davkom staneta 1040 sit, za menjavo pnevmatik pa se je mogoče naročiti in se tako izogniti gneči.

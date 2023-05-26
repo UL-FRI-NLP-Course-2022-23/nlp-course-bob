@@ -1,0 +1,756 @@
+Za vse ukaze HTML, ki jih Publisher ne pozna, imamo na voljo možnost za vnos surovih ukazov HTML. 
+Te program preprosto prepiše v izhodno datoeko brez preverjanja pravilnosti, zato je to možnost, ki jo velja uporabljati previdno.
+
+računovodstvo 3,9
+
+zelo nezadovoljni 0 0
+
+Prav zaradi razvoja v velikih računalnikih uporabljajo v podjetjih ob klasičnih programskih jezikih še precej orodij. 
+Velik delež podjetij uporablja ali se izobražuje za uporabo orodij CASE. 
+Kljub sicer podpovprečni uporabi operacijskega sistema Windows v velikih podjetjih jih kar nekaj razvija programe ali prototipe le-teh z visual basicom. 
+Za power builder je manj zanimanja, kar gre pripisati nedejavnosti podjetja PowerSoft v Sloveniji. 
+Podatki o uporabi power builderja so za ameriški trg, pa tudi za nekatere nam bližnje, na primer češkega, popolnoma drugačni. 
+Obetavno orodje na obzorju je tudi delphi, kar glede na poznavanje pascala v naših krajih niti ni presenetljivo.
+
+tehnologija odjemalec/strežnik 12 17 23
+
+MS Word 55
+
+osebne baze podatkov
+
+interno 52
+
+Tabela 19. 
+Znanje uporabnikov IT
+
+Kaj: Notesnik
+
+Izdeluje: Bondwell, Hongkong
+
+Seveda ima tudi vektorski sistem svoje slabosti, sicer bi ga uvedli že dosti prej in prihranili cel kup denarja. 
+Pri vektorskem sistemu je najvidnejša težava, da slike izgubijo podrobnosti in poteze. 
+Seveda nihče ne bo povedal, kako jim je uspelo združiti vektorsko grafiko in občutek ročno pobarvanih slik, ampak nekako jim je uspelo. 
+Najboljši dokaz je verjetno zadnjih 30 epizod risanega filma »Beavis and Butthead« na MTV, za katerega bi skoraj lahko prisegli, da je risan, hmm, »klasično«. 
+
+Novinec na tem področju je 2001 s programom Tic Tac Toon, vendar je program vseeno zrel. 
+Uporablja vektorsko grafiko in zato omogoča visoko kakovost slike tudi pri transformacijah in posebnih učinkih, pregled v realnem času pa žal še ni mogoč. 
+Deluje v računalnikih Silicon Graphics in DEC Alpha. 
+
+Novosti za Okna in grafiko
+
+Mikroprocesorji
+
+Marsikdo je bil ob prvih podatkih o Pentiumu Pro razočaran, saj smo pričakovali vnovično korenito pospešitev dela z navadnimi programi. 
+Zato je bil nemajhno presenečenje podatek, da je Pentium Pro celo počasnejši od navadnega Pentiuma pri isti frekvenci, če v računalniku uporabljamo 16-bitne in nekatere 32-bitne operacijske sisteme (Windows 95, Windows 3.1). 
+Povsem druga pesem je uporaba z glavnimi 32-bitnimi operacijskimi sistemi, kakršen je Windows NT, in 32-bitnimi programi, ki imajo dobro urejeno notranjo arhitekturo. 
+Tu so razlike precej opazne in v nekaterih primerih lahko pričakujemo tudi od 50 do 60 % pospešitev delovanja. 
+Da to drži, smo se lahko prepričali s hitrim testom na enem od Dellovih računalnikov s 150 MHz Pentiumom Pro. 
+Corel Draw 6.0 se je na ta računalnik z Okni NT naložil dobesedno v dveh ali treh sekundah. 
+Na 90-megaherčnem Pentiumu bi za isto opravilo potrebovali 10 sekund ali celo več. 
+
+AMD je bil veliki poraženec sejma. 
+Pohvalil se je lahko le z delujočim procesorjem 486DX4 s hitrostjo 120 MHz in napovedanim modelom 5x86, ki pa je tako kakor Cyrixov model z novo oznako opremljeni procesor 486. 
+Neuspeh, ki ga AMD doživlja s svojim zapoznelim procesorjem K5, je to podjetje prisilil k drugačnim potezam. 
+Na Comdexu so objavili, da se bodo združili s podjetjem NexGen, najmanjšim ponudnikom hitrih procesorjev tipa x86. 
+NextGen je na sejmu objavil specifikacije za svoj procesor Nx686, ki naj bi bil tekmec Cyrixu in Intelu. 
+AMD bo svojo novo pridobitev poimenoval K6. 
+NexGen se bo ukvarjal predvsem z razvojem najzmogljivejših izdelkov, AMD pa bo utrjeval položaj pri obstoječih izdelkih. 
+S tem so se pri AMD elegantno izognili pozabi, ki bi jih doletela, če bi še zavlačevali s procesorjem K5.
+
+Phoenix, Compaq in Intel so predstavili tudi novo specifikacijo, ki omogoča zagon sistema z vseh zunanjih naprav, ki bodo vsebovale identifikacijo IPL (Initial Program Load). 
+Poleg disketnikov in diskov bodo to lahko počele enote CD-ROM, kartice PCMCIA ali celo omrežni vmesniki. 
+
+Na sejmu je bilo tudi precej integriranih računalnikov, ki v enem ohišju ponujajo računalnik, monitor, zvočnike in vse potrebne zunanje naprave, razen tipkovnice in miške. 
+Take modele so predstavili pri Everexu (Explora), Zenithu in nekaterih manj znanih tajvanskih podjetjih. 
+Čeprav gre pogosto za manj zmogljive računalnike, so vsi po vrsti zelo zanimivi in predvsem zelo poceni, vsaj na ameriškem trgu. 
+
+Kljub vsem tem lastnostim še ni povsem jasno, ali bo S3 uspel prevladati na 3D-področju, tako kakor pri navadnih grafičnih karticah. 
+Še pred pol leta so v tem podjetju zatrjevali, da se bodo za 3D-področje povezali z 3DLabs in njihovim Glintom, zdaj pa so (dokaj pozno) razvili svojo rešitev. 
+Zaradi do nedavna nejasne strategije so se številni kupci in tekmeci podjetja S3 zatekli k drugim ponudnikom. 
+Diamond, eden največjih odjemalcev, je skupaj s procesorjem podjetja nVidia začel prodajati kartice Edge 3D. 
+Kartica ima 3D- in 2D-pospeševalnik nVidia-NV1, zmore pa ločljivosti do 1600 × 1200 pik pri 32.000 barvah in frekvencah osveževanja do 120 Hz. 
+Na voljo so izvedbe iz serije 3000 z 2 oziroma 4 MB pomnilnika VRAM. 
+Na voljo je tudi cenejša izvedba serije 2000 z 1 oziroma 2 MB pomnilnika EDO DRAM, vendar ta kartica za osnovo uporablja nekoliko manj zmogljiv 3D-procesor SGS Thompson STG 2000. 
+Posebnost kartice Edge 3D je vgrajena zvočna kartica s tabelami vzorcev, poleg tega pa najdemo na njej še dva razširjena igralna vmesnika za Segine igralne plošče Saturn. 
+Najnižje cene znašajo 299 (serija 2000) oziroma 479 dolarjev (serija 3000). 
+Druga novost pri Diamondu je Stealth 64 Video 2001 TV, ki ima poleg grafičnega pospeševalnika še video zajemalnik in TV sprejemnik, vse skupaj za 289 oziroma 349 dolarjev, odvisno od količine pomnilnika. 
+Tudi to kartico lahko obogatimo s strojnim MPEG-dekoderjem, ki stane 129 dolarjev.
+
+Corelov pristop je, tehnološko gledano, konservativen in za svoje delovanje s pridom izkorišča veliko prepustnost transportnih medijev. 
+Toda to ni edini način izgradnje videokonferenčnih sistemov. 
+Podjetje Fiber & Wireless razmišlja, da bi v ta namen izkoristili kar Internet in danes že vsem znano tehnologijo. 
+MediaFone in MediaFone Trio sta dva programska paketa, ki omogočata prenos video in avdio signalov po podatkovnem omrežju in, po trditvah izdelovalca, po navadnih telefonskih zvezah. 
+Podjetje ponuja v paketu barvno video kamero, kartico za zajem slike, modem in programsko opremo, vse skupaj za okoli 1000 dolarjev. 
+
+Vedno več je tudi izmenjevalnikov CD-ROM. 
+Poleg Pioneerja, ki je dejansko pionir na tem področju, so modele predstavili tudi drugi izdelovalci. 
+NEC ima novi model 4Xc, ki je dvakrat hitrejši od sedanjega modela 2x. 
+Predstavili so tudi notranjo enoto CD-ROM, imenovano 4x4, ki za 280 dolarjev ponuja možnost izmenjave štirih diskov. 
+Kar nekaj izdelovalcev je predstavilo notranje enote, ki so velike kakor navadne enote CD-ROM, sprejmejo pa od 3 do 5 CDjev. 
+Med njimi najdemo LA Sound, Regal, Panasonic (4x, 5 diskov) in Alps (4x, 4 diski). 
+Aiwa je predstavila zunanjo enoto, ki lahko naenkrat sprejme do tri diske, hkrati pa v ohišju tipa Hi-Fi najdemo še vgrajen ojačevalec, zvočnike in mikrofon, vse skupaj pa lahko postavimo pod monitor. 
+Komur izmenjava nekaj diskov ni dovolj, bo lahko prihodnje leto kupil Denonov izdelek DRD-1400, ki lahko naenkrat sprejme kar 200 (ni napaka, dve sto) plošč CD-ROM. 
+Enota prihaja iz sveta Hi-Fi, vendar jo Denon ponuja tudi z vmesnikom SCSI-2 in programjem, ki deluje v okolju Windows NT in skrbi za dinamično izmenjavo diskov. 
+Enota deluje z dvakratno hitrostjo, za zamenjavo diska pa potrebuje tja do 15 sekund.
+
+Pri optičnih zbrisljivih diskov je bil največja zvezda zagotovo Pinnacle Micro Apex, ki lahko na eni sami 5,25-palčni plošči shrani do 4,6 GB podatkov. 
+Če k temu prištejemo še dostopni čas od 17 do 19 ms, je jasno, da je Apex lahko tudi zamenjava za navadne magnetne diske, morda v povezavi z datotečnimi strežniki, v katerih vedno primanjkuje prostora. 
+Konkurenci je Apex zadal hud udarec, saj so šele na Comdexu predstavili nov rod modelov, ki po višji ceni ponuja »le« 2,6 GB prostora in dva- do trikrat daljše dostopne čase.
+
+Delrina ali, bolje rečeno, njen novi lastnik, Symantec, želi biti prva pri računalniških komunikacijah. 
+Zato so prenovili svoja paradna konja, izdelka WinFax Pri in WinComm Pro, jima dodali novo zbirko internetovskih programov CyberJack in poskrbeli za še boljšo povezljivost izdelkov med seboj. 
+Nobena skrivnost ni, da hoče Delrina s paketom CommSuite 95, ki vsebuje vse naštete programe in še nekaj presenečenj za povrh, ponoviti to, kar je Microsoftu uspelo s paketoma Office in Office 95.
+
+Pri Delrini se jim je zdela najpomembnejša povezava s sistemi za elektronsko pošto. 
+Če uporabljate z MAPI združljiv program za elektronsko pošto, bo WinFax Pro videti kot podaljšana roka elektronske pošte. 
+WinFax pošto uporablja za posredovanje faksov, obveščanje o sprejemu, oddaji in drugih dejavnostih in še za marsikaj drugega. 
+Če imate pozivnik, vam zna s posebnim modulom Delrina Pager celo poslati sporočilo o prejetem faksu. 
+Seveda zna prejete fakse tudi posredovati na druge številke in celo poskrbeti za njihovo pošiljanje na več številk.
+
+In programerji sivijo na tribuni
+
+Potrebujemo le še registracijski podprogram Register, ki izvedenca prijavi v Delphi.
+
+sw_ShowMaximized : WindowState := wsMaximized;
+
+Naslov:10725 N. DeAnza Blvd., Cupertino, CA 95014, USA
+
+Koledar Ecca je zelo izpopolnjen, saj med drugim omogoča pogled na samo en dan, teden, mesec in celo leto. 
+V zadnjem primeru se nam na zaslonu pokažejo vsi meseci v letu, z razločno označenimi dnevi in prazniki (na začetku so vneseni le ameriški, vendar lahko vpišemo tudi naše). 
+Ob strani lahko tudi pregledamo, kako zaseden je bil trenutno označeni mesec. 
+Zasedenost temelji na zmenkih, ki smo si jih vpisali v poseben del koledarja, viden le, kadar imamo odprt pogled koledarja na samo en dan. 
+Ta pogled je tudi najbolj uporaben in največkrat stalno odprt (no, vsaj pri meni je tako). 
+
+<Uredniško mnenje>
+
+Tomaž Gornik je opisal težave, s katerimi se zaradi majhnosti trga in sorazmerno majhnega števila velikih projektov pri nas soočajo računalniška podjetja. 
+Tako je tudi strategija njihovega podjetja »dobiti kak del od redkih velikih projektov, poskušati prodreti v srednje velika podjetja in prodajati izdelke za široki trg.« 
+Po Gornikovem mnenju imajo slovenska računalniška podjetja dolgoročno največ možnosti v drugih nekdanjih jugoslovanskih republikah, saj poznajo njihov jezik, kulturo in razmere. 
+
+V sedemdesetih letih je napočil čas za nov standard: mednarodni posvetovalni odbor za telefonijo in telegrafijo CCITT je izdal priporočila za standard X.25, ki se je opiral na dinamičen pristop tehnike STDM. 
+Priporočila z dodatki izdajajo vsaka štiri leta, tako da so bila najnovejša določila tehnologije X.25 obnovljena leta 1992.
+
+V zadnjih dveh desetletjih so se pri širokih računalniških omrežjih zgodile pomembne spremembe. 
+V ospredje so prišli programi, ki podpirajo krajevna računalniška omrežja in so temu primerno zahtevni. 
+To so požrešni programi, ki pogosto terjajo visoko prepustnost in nizko zakasnitev v omrežju. 
+Pri tem kakor da ni več nikomur mar za preverjanje napak, kajti razvoj opreme za prenos in razširjenost optičnih povezav je omogočil zelo zanesljive sisteme na večjih urbanih območjih. 
+
+Temeljna predpostavka tehnologije posredovanja blokov je torej omrežje, ki je hitro in zanesljivo. 
+Poleg tega bi zmogljivi računalniki končnih uporabnikov morali biti opremljeni s programjem za zaščito pred napakami, ki nastajajo v omrežju.
+
+Dodatna prednost navideznih zasebnih omrežij je zmanjševanje števila najetih vodov. 
+Teh lastnosti so končni uporabniki vsekakor veseli, kako pa nanje gledajo telekomunikacijska podjetja, ki ponujajo storitve najetih vodov? 
+Eden od ciljev načrtovalcev blokovnega posredovanja je bila tehnologija, ki bo ponujala tekmovalne storitve zlasti ponudnikom najetih vodov od točke do točke. 
+Nekatera svetovna telekomunikacijska podjetja so grozečega tekmeca že poskušala obvladati preprosto s ponudbo lastnih navideznih zasebnih omrežij. 
+Po načelu »Če jih ne moreš premagati, se jim pridruži«.
+
+Podatkovna raven je celična hrbtenica za blokovno posredovanje, sestavljena iz naprav podjetja NewBridge, vgrajenih v vozlišča na Telekomovih vozelnih centralah. 
+Hrbtenica »frame relay« omogoča ločitev fizične ravni povezav (raven 2 modela za povezovanje odprtih sistemov OSI) od logične ravni. 
+Prednosti hrbtenice so številne: skrajšanje razdalje najetih bakrenih vodov do posameznih uporabnikov (in s tem večje prenosne hitrosti), možnost dinamičnega dodeljevanja hitrosti, uporaba 2Mb/s digitalnih povezav in zagotovljena prepustnost vsake končne lokacije.
+
+V drugi fazi projekta je bilo predvideno vključevanje krajevnih omrežij uporabnikov na osnovi večjih aplikativnih projektov. 
+V tej fazi so za potrebe aplikacije sodnega registra vključili 9 registrskih sodišč zunaj Ljubljane, za potrebe carinskega informacijskega sistema 18 carinarnic, za potrebe davčnega informacijskega sistema 20 davčnih izpostav, za potrebe projekta RPE (register prostorskih enot), ki se vzpostavlja v okviru Republiške geodetske uprave, pa 7 območnih geodetskih uprav. 
+Za dokončanje druge faze projekta je bilo treba povečati zmogljivost Telekomovega vozlišča v Ljubljani in zmogljivost osrednje točke Centra vlade za informatiko.
+
+Zanimivo. 
+Razmišljal sem in razmišljal, kateri kos strojne opreme mi je letos ostal v spominu, in prav ničesar se nisem domislil. 
+Nato sem, le za inspiracijo, poškilil v svoja lanskoletna razmišljanja. 
+Enake težave, kakor jih imam letos, sem imel tudi lani, le da je takrat šlo za pomanjkanje zanimivega programja. 
+Očitno se je letos stanje obrnilo. 
+Razvoj strojne opreme sicer ni zastal, ponudili pa niso nič presenetljivo novega. 
+Zanimivosti so se dogajale na trgu programske opreme.
+
+Isti cilj, različen pristop
+
+Tehnična zasnova
+
+Ko pritisnemo eno izmed ikon, prvič zahtevamo dostop do informacij in tedaj moramo vpisati uporabniško ime in geslo. 
+Varnostni mehanizmi so v Notes zelo dognani. 
+Na zahtevo se lahko zaščita vključi po določenem času nedejavnosti, podatke lahko po omrežju prenašamo v šifrirani obliki, za povrh pa svoje dokumente lahko končamo z elektronskim podpisom. 
+Če kdaj podvomimo o verodostojnosti sporočila, lahko v vsakem trenutku zahtevamo preverjanje avtentičnosti. 
+Notes ima enega najbolj dodelanih sistemov za zaščito in nadzor podatkov. 
+Kot smo že omenili, je tudi pri Lotusovem izdelku osnova elektronska pošta, čeprav je precej skrita. 
+Modul za elektronsko pošto je dokaj skromen, staromoden, pogosto neučinkovit, zato mnogi namesto njega uporabljajo za golo izmenjavo sporočil druge programe za elektronsko pošto (cc:Mail pa tudi druge). 
+Žal s tem pogosto zgubimo dobršen del funkcionalnosti celote. 
+Lotus se tega zaveda in za novo različico napoveduje bistvene spremembe.
+
+CreditCard 28.8
+
+Intel je tudi uradno začel prodajati procesor Pentium Pro. 
+Namenjen je zmogljivim strežnikom in najzahtevnejšim uporabnikom, ki uporabljajo predvsem 32-bitne programe. 
+Po prvih testih s pravimi 32-bitnimi programi sodeč Pentium Pro močno presega zmogljivosti procesorja Pentium, pri 16-bitnih pa nekoliko zaostaja za njimi. 
+Razlog za to je arhitektura procesorja, ki je optimalizirana predvsem za izvajanje 32-bitnih ukazov. 
+Da se novi procesor v 32-bitnem okolju resnično izkaže, je potrdil tudi IBM, ki trdi, da se hitrost OS/2 z novim procesorjem poveča tudi za 121 %. 
+Pentium Pro premore 5,5 milijonov tranzistorjev, 256 KB predpomnilnik in deluje s frekvenco 150, 180 in 200 MHz. 
+Če naročate velike količine, je za procesor treba odšteti 974, 1075 oziroma 1325 dolarjev. 
+Pozneje bosta na voljo tudi 166 in 200 MHz različici s 512 KB predpomnilnikom.
+
+NCP Viper 1000
+
+Hewlett-Packard je prenovil svojo družino skenerjev ScanJet. 
+Nekoliko manj zahtevnim uporabnikom je namenjen model ScanJet 4s s podprto ločljivostjo 200 dpi, v razširjenem načinu pa ponuja navidezno ločljivost 400 dpi in podporo 4-bitnemu sivinskemu skeniranju. 
+Model ScanJet 4c je barvni skener in podpira ločljivosti skeniranja 600 dpi in 2400 dpi v razširjenem načinu. 
+Uporabniki dobijo tudi program za optično prepoznavanje črk PaperPort 3.0, DeskSan II za urejanje barvnih slik in Corel Photo Paint 5.0. 
+Najzmogljivejši je omrežni skener ScanJet 4Si. 
+Hitrost skeniranja je 15 strani na minuto, vgrajena pa je podpora za delo v omrežjih NetWare 3.x in 4.x. 
+Skener podpira tudi samodejno dostavo skeniranih dokumentov ustreznemu uporabniku v omrežju.
+
+3D CyberCampus
+
+Bližajoče se novo tisočletje povzroča skrbi mnogim strokovnjakom, ki upravljajo računalnike s pomnjenjem dvomestnih letnic. 
+To so največ veliki računalniki, ki v pomembnih ustanovah skrbijo za obdelavo velikanskih količin podatkov. 
+Če ne bo ustreznih programskih popravkov, bo leto 2000 zanje usodno. 
+Strokovnjaki namreč opozarjajo, da bodo zaradi pomnenja dvomestnih letnic veliki računalniki leto 2000 zapisali kot 00, to pa bo pri obdelavi podatkov povzročilo kup napak, od napačne obravnave letnice trajanja kreditne kartice do napačnega izračuna starosti državljana. 
+Ker je do leta 2000 še nekaj let, so različna podjetja že začela ponujati storitve, ki bodo preprečevale tovrstne težave. 
+Zaradi obsežnih posegov v izvorno kodo programov, ki delujejo nepretrgano že več deset let, strokovnjaki prizadeta podjetja opozarjajo, naj pravočasno ukrepajo.
+
+Po elektronski pošti sem dobil kar precej vprašanj. 
+Nekatera se ponavljajo, zato menim, da jih je skupaj z odgovori koristno shraniti na papir, saj bom s tem verjetno olajšal delo prihodnjim oblikovalcem hipertekstnih dokumentov. 
+Večina tistih, ki so se oglasili z vprašanji, tudi sama skrbi za delovanje strežnikov, njihova vprašanja pa se ne nanašajo samo na jezik HTML, temveč imajo povsem praktične težave, ki jih ne morejo rešiti niti s priročniki za HTML niti s priročniki za Unix oziroma njihov operacijski sistem. 
+Današnji članek torej ne bo zadeval le HTML, temveč se bomo ukvarjali s povsem konkretnimi težavami, ki jih je treba rešiti, če želimo svetu ponuditi dostop do svojih hipertekstnih informacij. 
+Še vedno velja, da mi svoja vprašanja o uporabi HTML po elektronski pošti naslovite na miran.zeljkoŽcvi.sigov.mail.si, morebitne dopisovalce pa lepo prosim, da poleg opisa težave napišejo še, v kakšnem računalniku, operacijskem sistemu in strežniku za www teče zadeva, in sporočilu priložijo tudi tisti dokument v HTML, ki jim povzroča težave, sicer je treba pošiljati naokrog veliko nepotrebnih sporočil.
+
+*Šumniki
+
+moramo zdaj zadevo nastaviti tako, da gre skozi filter slovene, ki je v imeniku cgi-bin, kot parameter programa pa navedemo dejansko uporabljeno pisavo:
+
+*Pregled dostopov do strežnika
+
+Če imamo na strežniku veliko dokumentov v tekstni obliki, si včasih želimo, da bi lahko hitro našli vse dokumente, ki vsebujejo določen niz znakov. 
+V takem primeru preprosta rešitev z uporabo programa grep ne pride v poštev, ker iskanje traja predolgo. 
+Iskanje se precej skrajša, če dokumente prej indeksiramo. 
+Ena od možnosti je, da v računalnik namestimo še strežnik za WAIS. 
+Meni, ki sem ljubitelj čim bolj enostavnih rešitev, pa je bil bolj všeč program ICE avtorja Christiana Neussa. 
+Opis delovanja programa in sam program (napisan je v perlu) dobite na http://www.informatik.th-darmstadt.de/čneuss/ice/ice.html. 
+Na voljo sta dva programa: s prvim indeksiramo besede v dokumentih (poženemo ga npr. enkrat dnevno v cronu ali pa takrat, ko v strežnik prenesemo več novih datotek), drugi pa vsebuje obrazec za vpis podatkov, program za iskanje in izpis rezultatov. 
+Pri iskalnih pojmih lahko navedemo operatorja in ali ali, iščemo lahko cele besede ali dele besed, uporabimo slovar sinonimov, lahko iščemo po vseh besedilih ali pa iskanje omejimo na določene logične celote (kar je treba predvideti že pri indeksiranju). 
+ICE uporabljajo npr. za Pravni informacijski sistem v omrežju Internet. 
+Trenutno je tekstnih datotek približno 13 MB, indeksna datoteka pa je dolga okoli 800 kB. 
+Pri nas za iskanje po polnem besedilu zakonodaje (http://www.sigov.si/sipis) uporabljamo še različico 0.6 programa ICE, medtem pa je že nared tudi različica 1.1-2, ki je precej hitrejša pri indeksiranju, mogoče je nastaviti najmanjše število črk v besedah, ki naj se indeksirajo, v druge podrobnosti pa se še nisem spuščal. 
+Program je napisan tako, da se v besedah ne indeksirajo šumniki, kar je (pri besedilih, napisanih v SLO-ASCII) razmeroma preprosto popraviti; poiščemo, kje je v programih ukaz za pretvorbo:
+
+tr/A-Za-z&
+
+if Š $? 
+-ne 0 Č
+
+Predpostavimo, da imamo v našem strežniku program za spremljanje statistike dostopov do datotek (npr. že prej omenjeni getstats). 
+Od njega dobimo osnovni podatek o številu dosegov dotične datoteke in ga vpišemo v datoteko stevec1. 
+Ob vsakem dostopu do datoteke index.html se izvede zgornji program, ki števec poveča za 1 in ga vpiše na pravo mesto v datoteko ind.html. 
+Če prebrani podatek ni smiseln (ali npr. nekdo zbriše vsebino datoteke), dobimo pravo vrednost iz datoteke s pregledom dostopov (getstat-r.html). 
+Pri zelo obiskanih strežnikih lahko pride do novega dostopa do strežnika v času po branju podatka in pred zapisom nove izračunane vrednosti v takem primeru je število dostopov premajhno in vedno zaostaja za dejanskim stanjem. 
+Problem rešimo tako, da na koncu statistične obdelave dostopov do strežnika (ki jo izvedemo v zgodnjih jutranjih urah, ko je najmanj prometa) pravilno izračunani podatek o številu dostopov vpišemo v datoteko stevec1. 
+Zdaj je treba samo še dopolniti konfiguracijsko datoteko v strežniku: da uporabniki ne bodo ničesar opazili, označimo, da so programi lahko tudi v imeniku, v katerem je datoteka index.html, npr. takole:
+
+else
+
+cat ind2.html
+
+Hipertekst je zelo uporaben način predstavitve informacij tudi za tečaje, predavanja in predstavitve, zato si marsikdo želi, da bi mu bile hipertekstne strani v njegovem računalniku dostopne tudi takrat, ko ni priključen na Internet. 
+Težava je v tem, da Netscape v takem primeru ne deluje. 
+To težavo so programerji Netscapa rešili s knjižnico mozock.dll. 
+To datoteko prepišete v svoj računalnik (tako da bo dostopna Oknom) in jo preimenujete v winsock.dll (pred tem seveda shranite staro datoteko winsock.dll!). 
+Datoteko dobite skupaj z navodili na ftp://ftp.netscape.com/unsupported/windows.
+
+Infos 95 v znamenju slovenskih Oken in Interneta
+
+Infos je že nekaj let osrednja računalniška prireditev, ki jo njegov Programski svet pripravi takoj po zaključku Comdexa. 
+Največjo pozornost je letošnji sejem v Cankarjevem domu posvetil problemom v odnosu med računalnikom in posameznikom in računalnikom in družbo, telekomunikacijski infrastrukuri in računalniškemu izobraževanju. 
+Vrhunec prireditve pa je je bila predstavitev slovenske različice Microsoftovega operacijskega sistema Okna 95, ki je (neupravičeno) zasenčila drugo slovensko in poslovenjeno programsko opremo.
+
+Preden končamo, omenimo še predstavitev večnamenske table IPM (Interactive Presentation Manager), izdelka podjetja NUMONICS inerActive Products Division. 
+Tabla, ki so jo prvič prikazali prav v Ljubljani, omogoča visoko stopnjo sodelovanja med predavateljem in poslušalci in je najnovejši dosežek za sodobne predavalnice.
+
+Organizatorji letošnjega Infosa in razstavljalci menijo, da je prireditev uspela. 
+Brez dvoma se njihovemu mnenju lahko pridružimo tudi obiskovalci, saj smo na enem kraju videli vse, ki na Slovenskem v računalništvu kaj pomenijo. 
+Na svidenje na naslednjem največjem Infosu!
+
+Ta strežnik je nastal po zapisu, objavljenih v nekem hackerskem časopisu, ki ga je najverjetneje napisal kak užaljen uslužbenec. 
+Avtor opisuje, kako lahko izkoristimo glavno vodilo podjetja McDonald's, ki daje strankam vedno prav. 
+Za tiste, ki si nekoliko več upajo, je opisano tudi, kako brezplačno priti do hrane z lažmi in majhnimi prevarami.
+
+Tiskalniki Vladimir Djurdjič, Matjaž Klančar 64
+
+TABELA 
+
+Visual Basic 4.0 Vladimir Djurdjič 99
+
+36
+
+Delrina CommSuite 95
+
+Bondwellov novinec
+
+50
+
+ViewSonic 17ps
+
+54
+
+UREDNIKI ČESTITAJO IN POZDRAVLJAJO
+
+Jesenski Comdex 95 2. 
+Del
+
+1971 mod 5 = 1
+
++1 1 0 4 3 12 8
+
+Avtor: Matjaž Klančar
+
+Seminar Jamesa Martina
+
+Večdimezionalne baze
+
+Kakšna naj bo baza podatkov za analiziranje v živo? 
+Izhajajmo iz tega, kako razmišlja in kaj potrebuje poslovni analitik. 
+Analitik vidi poslovne podatke v kontekstu realnega okolja. 
+Analizirati začne, recimo, pri določenem izdelku glede na časovno obdobje. 
+Potem spreminja zorni kot, od tega, kako dobro se izdelek prodaja, do tega, kako je izdelan, in končno do tega, kako je prodajan. 
+Značilen pogled analitika na podatke je torej večdimenzionalen. 
+Relacijski podatkovni model v obliki velikega števila dvodimenzionalnih tabel in relacij med njimi je zato nenaraven, predvsem pa okoren za analitično uporabo. 
+
+Da bi analitik lahko prišel do vseh informacij, ki mu omogočajo sprejemati poslovne odločitve, mora imeti na voljo programsko rešitev, ki se hitro odziva na njegove sprotne zahteve in je povrh še preprosta za uporabo. 
+Analitiki pogosto raziskujejo podatke glede na trenutni navdih in potrebujejo hiter odziv, da lahko nadaljujejo miselno nit.
+
+Čeprav ni dovoljeno spreminjati podatkov, ki so bili preneseni iz operativne baze podatkov, večina uporabniških vmesnikov dovoljuje krajevni vnos podatkov. 
+To je potrebno za akcije v smislu »kaj bi bilo, če«, pri čemer lahko uporabnik spremeni določen podatek in na osnovi tega ugotavlja, kakšni bi bili rezultati, ko bi imel izbrani podatek dano vrednost. 
+Vendar so take spremembe dovoljene izključno krajevno pri uporabniku in se nikakor ne zapišejo v bazo podatkov, s katero delajo tudi drugi analitiki. 
+Dovoljen je tudi vnos povsem novih podatkov, na primer za načrtovanje prodaje, proizvodnje, porabe surovin in podobnega v naslednjih obdobjih.
+
+Analitiki za svoje delo ne potrebujejo vseh podrobnosti, ki so zapisane v operativni bazi podatkov kot del poslovnega dogodka. 
+Ne zanima jih na primer številka posameznega dokumenta, telefonska številka kontaktne osebe in podobne malenkosti. 
+Koristnejši so jim agregirani podatki, recimo skupno število določenega izdelka, ki je bil v določenem časovnem intervalu izdelan, prodan ali zavrnjen. 
+Take podatke lahko programerji pripravijo iz operativne baze podatkov in jih samo napolnijo v večdimenzionalno bazo. 
+Pri polnjenju večdimenzionalne baze podatkov je treba vnaprej vedeti, katere podatke analitiki potrebujejo in kakšna naj bo raven agregiranosti ali podrobnosti teh podatkov (tedensko ali mesečno, posamezen izdelek ali skupine izdelkov, posamezno zemljepisno območje ali vsa država). 
+Če uporablja isto bazo podatkov več analitikov, od katerih ima vsak svoje zahteve za stopnjo agregiranosti, napolnimo bazo podatkov za najnižji stopnji agregiranosti (najvišja stopnja podrobnosti) vsakega podatka, analitiki pa si po želji sami priredijo svoj pogled na podatke. 
+Če želijo višjo stopnjo agregiranosti, lahko določene podatke grupirajo ali seštejejo za lastno uporabo.
+
+Priloga Sistem
+
+Podnaslov:
+
+Poleg splošnih smernic je Bill Gates govoril tudi o povsem konkretnih Microsoftovih izdelkih, ki jih ponujajo ali jih bodo ponudili uporabnikom za lažji dostop do Interneta in uporabo uslug v njem. 
+Pokazal je delovanje Internet Explorerja in internetovskega dodatka za Okna 95 in NT, ki ga bodo začeli brezplačno deliti v letu 1996, govoril pa je tudi o težko pričakovanem izdelku z delovnim imenom Blackbird (kos), ki so ga zdaj preimenovali v Internet Studio.
+
+Gates je tudi »izdal«, da je večji del moštva, ki izdeluje Office, še pred zadnjo izdajo že pripravljal naslednjo. 
+Ta bo vsebovala vse mogoče poslastice za delo v Internetu, za izmenjavo podatkov, za skupno delo pri istem dokumentu ali projektu. 
+Kdaj lahko pričakujemo novo izdajo Officea, Gates ni povedal. 
+Podobno kakor za Office, imajo načrte za internetovsko razširitev ali dopolnitev BackOfficea.
+
+Naprava ima lastno napajanje, na računalnik pa jo priključimo prek vzporednega kabla. 
+Priključka LPT1 oz. LPT2 ne zasede, ker je le vmesni člen med vzporednimi vrati na računalniku in tiskalnikom. 
+Poleg enote dobimo tudi namestitveno disketo, napajalni kabel, vzporedni kabel in slovenska navodila.
+
+Winbench 95 DiskMark 222 448
+
+SORT 79,33 25
+
+Poseben simbol (ni prikazan v tabeli 1) MWM_FUNC_ALL pomeni, da so v oknu aplicirane (uporabljene) vse funkcije iz tabele 1, razen tistih, ki so navedene v nadaljevanju »binarnega ali« izraza za vrednost vira mwmFunctions. 
+Tako npr. izraz oziroma vrednost vira mwmFunctions, ki jo določa »bitni ali« izraz MWM_FUNC_ALL | MWM_FUNC_MOVE, pomeni, da bodo v oknu lupine aplicirane vse funkcije iz tabele 1, razen funkcije f.move. 
+V programu bi to določili z naslednjo kodo:
+
+Oglejmo si enostaven zgled funkcije, ki bo spremenila prednastavljene vrednosti za okno, tako da bomo imeli v oknu na voljo le funkciji f.kill in f.resize, kar nam menu okna reducira na Restore, Size, Lower in Close, iz dekoracij pa bo funkcija (v resnici MWM) odstranila gumba za maksimalno in minimalno velikost okna. 
+Funkcijo prikazuje naslednja koda:
+
+Widget lupina;
+
+š
+
+XtVaSetValues(lupina, XmNmwmFunctions, MWM_FUNC_ALL|MWM_FUNC_CLOSE, NULL);
+
+Če želimo imeti v oknu na voljo vse dekoracije, razen gumbov za največjo in najmanjšo velikost, lahko uporabimo simbol MWM_DECOR_ALL.
+
+Tabela 2
+
+Naročila sprejemamo z naročnilnico, ki je vpeta v vsako številko revije, po telefonu ali po faksu. 
+Študentje, dijaki ali upokojenci morajo priložiti ustrezen dokument o svojem statusu. 
+Študentje in dijaki morajo status dokazovati vsako leto, upokojenci samo ob prvem naročilu. 
+Naročite se lahko tudi prek našega BBSa. 
+Z ukazom S (script) pridete v menu s prijavnicami, kjer izpolnite drugo prijavnico. 
+Plačilo je mogoče tudi s plačilnimi karticami.
+
+Odpoved velja v primeru neplačila naročnine ali pisno oziroma po telefonu.
+
+Pentium Pro
+
+Nikolaj Pečenko
+
+Ni ga, ki bi se ne strinjal s preprostim dejstvom, da brez nič ni nič. 
+To v dobršni meri velja tudi za računalnike. 
+Hekerji znajo prenekatero reč postoriti sami, brez ustrezne programske opreme. 
+Seveda je cena, ki jo za to plačajo, precej porabljenega časa. 
+Pa ne samo to! 
+Vloženi trud nemalokrat hitro nadomesti profesionalno izdelan program ali celo nov operacijski sistem. 
+Zato ni odveč nasvet, da se navadno splača lotiti le najenostavnejših opravil.
+
+Ravno sem začel pisati odstavek o SoftRAMu 95, ko me je slovenska razporeditev tipk spravila ob živce. 
+Pravzaprav sem kriv jaz, saj še vedno uporabljam staro tipkovnico. 
+Okna 95 kljub pestri izbiri razporeditev tipk ne premorejo uporabniškega urejevalnika. 
+Najbolj moteči sta zamenjani črki z in y. 
+Ni vrag, da se zmotimo! 
+Enkrat uporabljamo ameriško, enkrat slovensko tipkovnico. 
+Če se na č, ž, š namesto ;:“ itd. še lahko kako navadimo, se na y in z nikakor ne moremo. 
+Na koncu bi najraje zamenjali tipkovnico…
+
+Šhek1.bmpČ
+
+Šhek6.bmpČ
+
+Omenimo še Adapter Configuration Help File. 
+Z njim si lahko pomagajo tisti, ki imajo pomanjkljivo dokumentacijo diskovnega krmilnika SCSI oziroma zvočne ali omrežne kartice ali pa so jo izgubili. 
+Priložene so tudi slike ter opisi stikal in mostičkov. 
+Za manj izkušene je priložen še slikovni terminološki slovarček.
+
+Šhek8.bmpČ
+
+SoftRAM 95 je namenjen izključno uporabi v Oknih 95. 
+V starejših različicah uporabljamo priloženo 16-bitno različico. 
+Zanimivo, da ima ta v izbirah celo nekoliko več nastavitev in omogoča tudi nastavljanje fragmentacije glavnega pomnilnika.
+
+Novell GroupWise
+
+GW20 TIF -> Iskanje prostega časa pri sodelavcih je posebnost GroupWisea.
+
+NOTES19 TIF -> Diskusijske baze so lahko organizirane po temah
+
+Okolje: DOS, Windows 3.X, OS/2, Novell, Unix
+
+Za: Zelo močan program za skupinsko delo, velika prilagodljivost, razširljivost in možnost programiranja. 
+Dobra podpora za velka podjetja, tudi s povezavami za LAN, WAN in delo na daljavo. 
+Dobra podpora druge programske opreme.
+
+Skener lahko uporabljamo na dva načina: kot vlečni skener, pri čemer vanj vložimo list papirja tako kakor pri telefaksu, ali pa kot motorizirani ročni skener, ki se sam zapelje čez list papirja ali čez knjigo. 
+V praksi ga bo večina najbrž uporabljala kot vlečni skener, saj tako zasede dosti manj prostora. 
+Nataknjen je namreč na podstavek, ki hkrati rabi tudi kot držalo za papir. 
+Ker skener sam zazna, da smo vanj vstavili novo predlogo, nima niti enega gumba ali lučke. 
+Oblikovalci so uporabniku pustili zelo malo možnosti za napake.
+
+Ker so programi naravnani za čim preprostejšo uporabo, so precej okleščeni. 
+S programom za obdelavo slik, v katerega se pretoči poskenirana slika, ne moremo narediti praktično nič. 
+Sliko lahko le zasukamo in obrežemo in ji spremenimo kontrast. 
+Za manj zahtevne uporabnike je to najbrž res vse, kar potrebujejo. 
+Podobno je tudi pri prepoznavanju besedil izvirni Xeroxov program je kar dober, vgrajena pa je dokaj okleščena različica, ki ne podpira učenja, ne prepoznava šumnikov, pa tudi pri angleških besedilih precej zaostaja za boljšimi tovrstnimi programi.
+
+Izdeluje: Intel, matična plošča Asus
+
+Kako smo preizkušali tiskalnike
+
+Preizkušali smo v okolju Windows 3.1, saj nekateri tiskalniki še nimajo gonilnikov za Okna 95. 
+V osnovi smo pri vsakem tiskalniku opravili tri osnovne preizkuse, ki pa smo jih pozneje po potrebi razširili z uporabo različnih ločljivosti in različnih algoritmov za predstavitev in rasterizacijo slik. 
+Za prikaz hitrosti in kakovosti besedil smo uporabili Word for Windows 6.0; z njim smo natisnili 8 strani dolgo poročilo, ki je vsebovalo besedilo z različnimi velikostmi pisav in številnimi grafi in tabelami. 
+Poleg tega testa smo v Wordu natisnili tudi 6 strani dolgo besedilo za ponazoritev gole hitrosti tiskanja. 
+Kljub temu je bolj nazoren prvi poskus, pri katerem se izkaže predvsem, kakšne so zmogljivosti tiskalnika, da predstavi različne podatkovne tipe. 
+Razlike med tiskalniki so bile tu razmeroma majhne, največ pa jih je bilo pri rastru na grafu, ki ni vseboval osnovnih barv (rdeče, modre, rumene).
+
+V razredu hitrejših in zmogljivejših laserjev gre zlati Monitor Lexmarkovi Optri Rx. 
+Inženirji tega podjetja so, kot kaže, uspeli narediti tiskalnik, ki skoraj nima pomanjkljivosti. 
+Visoka ločljivost, velika hitrost, vgrajeni PostScript, možnost priključitve na omrežje in predvsem zelo dobri gonilniki so njegove glavne vrline. 
+Čeprav 1200 pik na palec ne pride vselej do izraza, se povečana ločljivost ponekod lepo vidi. 
+Tudi če uporabimo nižjo ločljivost, je izpis med najboljšimi.
+
+Naslov: Nekaj velikih
+
+Velikost: 4,7 MB
+
+125 % je v bistvu zmogljiva relacijska zbirka podatkov. 
+Osnova je seznam vseh strank, z vsemi potrebnimi podatki. 
+Nanj se navezuje seznam naročil. 
+V zbirki je prostora tudi za vse podatke o izdelkih in dobaviteljih in zaposlenih v podjetju. 
+Na prvi pogled je program sicer precej zapleten, saj se sprva kar izgubimo v množici raznih oken in obrazcev. 
+A sčasoma nastane red in lahko začnemo izkoriščati vse prednosti programa. 
+Pri tem nam pomaga tudi izvrstna vgrajena pomoč, brez katere pravzaprav ne gre.
+
+Podjetniki tovrstne programe sicer pogosto uporabljajo, a v večini primerov gre za drage, po meri narejene programe, ki morda sploh niso tako zmogljivi, kakor bi si želeli. 
+Z uporabo 125 % ne tvegate ničesar. 
+Če imate pri vsakdanjem delu opravka z več kakor deset strankami, si program vsekakor oglejte.
+
+**** LifePlan 1.5
+
+Oglejmo si torej ta čudežni program od blizu. 
+Izkaže se, da skrivnost tiči v pravilno zastavljenih ciljih in urejenosti. 
+In menda je celo res tako. 
+Mnogo načrtov propade, ker se ne znamo pravilno organizirati ali ker bi radi naredili preveč stvari naenkrat, pa na koncu ne opravimo ničesar. 
+Skratka, pred seboj imamo nekakšen osebni organizator, ki naj bi nam pomagal vnesti red v življenje.
+
+Softerm sedaj omogoča tako rekoč vse, od grafične priključitve v omrežje Internet do navadnega klica BBS. 
+Vendar pa program nikakor ni med enostavnejšimi za uporabo. 
+Že ob namestitvi nam natrese kopico ikon, ki predstavljajo posamezne sestavne dele programa. 
+Prvo za telefonski imenik, drugo za klic Interneta, tretjo za FTP, četrto za pošto, peto za klepet, šesto za... 
+Vzeti si je treba kar nekaj časa, da vse spravimo v red. 
+
+Kar nekaj laserskih tiskalnikov, ki jih uvrščamo med izdelke za domačo rabo, se z nizko ceno baha predvsem po zaslugi tehnologije GDI, ki je tesno povezana z Microsoftovim Windows. 
+Tovrstni tiskalniki izkoriščajo Microsoftov vmesnik GDI (Graphical Device Interface) in pomnilnik računalnika za ustvarjanje slike, ki naj se natisne na papir. 
+Celotna obdelava poteka v računalniku, tiskalnik pa zato ne potrebuje več procesorja in večjega dela pomnilnika, kar zelo poceni izdelavo. 
+Tak pristop ima še nekatere prednosti, pa tudi nekaj slabosti, na katere mora biti kupec pozoren.
+
+Brother HL-630, HL-660 in HL-1260
+
+Še en »japonec«, namenjen predvsem domači rabi. 
+Tudi podjetje Star je v vseh teh letih nekoliko zmanjšalo število svojih modelov, tako da pri laserjih stavijo predvsem na WinType 4000. 
+Tiskalnik je oblikovan nenavadno, v višino. 
+Velikost je presenetljiva, ker je WinType 4000 tako imenovani tiskalnik GDI, ki nima pomnilnika, procesorja in druge elektronike. 
+Zmore ločljivost 300 pik na palec in nominalno hitrost tiskanja 4 strani na minuto. 
+Izdelovalec resda navaja, da je izpis z uporabo algoritma EET za mehčanje robov primerljiv s 600 dpi tiskalniki, vendar to velja zgolj za izpis besedil. 
+Papir vstavljamo s podajalnikom na vrhu tiskalnika, iz tiskalnika pa prileze spredaj. 
+Posebnost tiskalnika je, da ima vgrajeno programsko posnemanje PCL 4.5 in celo PostScript. 
+V praksi se izkaže, da je izpis vendarle najboljši in izpisovanje najhitrejše v osnovnem načinu GDI. 
+Kakovost tiskanja sodi s pogosto nekoliko narobe rastriranimi površinami v povprečje te kategorije tiskalnikov. 
+Obe vgrajeni posnemanji (emulaciji) tudi marsikdaj nepravilno prestavita sliko. 
+To še posebej velja za PCL 4.5. 
+Kljub temu je izpis besedil dober, celo boljši kakor pri izdelkih tekmecev. 
+Pri Starovem tiskalniku je delo z barvilom dokaj nerodno, saj potrebujemo, če želimo barvilo zamenjati, kar nekaj spretnosti in moči. 
+Zaradi zgradbe tiskalnega mehanizma se papir včasih zmečka. 
+Pri tiskanju iste vektorske slike smo skoraj vsakič prišli do drugačnih rezultatov, kar kaže, da gonilniki niso ravno najboljši.
+
+Še za odtenek boljši od modela FS-1600 je povsem nov model FS-6500, ki je navzven povsem podoben tiskalniku FS-1600, vendar zmore in ponuja precej drugačne lastnosti. 
+Ločljivost je sicer samo 300 pik na palec, vendar zmore natisniti kar 13 strani na minuto. 
+Udarna lastnost je tudi možnost tiskanja na liste formata A3, kljub temu da zato niso bistveno spreminjali velikosti tiskalnika. 
+Povečali so le kaseto za papir, ki je enaka za vse formate. 
+Kakovost tiskanja je za spoznanje boljša kakor pri majhnem modelu FS-400, hitrost pa velika in sorazmerna z večjo deklarirano hitrostjo modela FS-1600. 
+Žal smo imeli s tiskalnikom kar precej težav. 
+Delo s papirjem ni na ravni cenovnega in zmogljivostnega razreda, v katerega sodi. 
+Poleg tega smo imeli tudi precej težav z gonilniki, zaradi katerih sploh nismo uspeli natisniti rastrske slike. 
+
+V celoti gledano so Kyocerini tiskalniki zanimivi predvsem za rabo v pisarnah, kjer hitrost in varčnost lahko prideta do izraza. 
+Žal pa so cene, upoštevajoč ponudbo na slovenskem trgu, razmeroma visoke.
+
+Naslednji na lestvici je model OL-810ex, ki ima sicer drugačno, vendar na prvi pogled enako ohišje kakor šibkejši modeli iz družine. 
+Zasnova je enaka, le da je nekoliko bolj zaobljen in prilagojen večji kaseti za papir (250 namesto 100 listov). 
+Tiskalnik ima prav tako kakor manjši model 2 MB RAM, vendar zmore tiskati s hitrostjo 8 strani na minuto, in to pri ločljivosti 600 dpi. 
+Je zelo hiter, vendar s podpovprečnim izpisom, ki ima zelo izrazite pasove in robove, tako da je bolj podoben izpisu tiskalnika s 300 dpi. 
+Raster je precej dober, vendar v njem hitro vidimo mrežasti vzorec.
+
+Prvi veliki pobudnik tehnologije GDI je bil NEC s svojimi tiskalniki iz družine SilentWriter. 
+To se danes pozna predvsem po tem, da so gonilniki GDI med izdelkih podjetja NEC najbolj izpiljeni, hitrost tiskanja je zelo visoka, cene pa mamljivo nizke. 
+Zanimivo je, da so gonilniki na videz, pa tudi po imenih datotek DRV enaki kakor pri Starovem Wintypeu 4000. 
+NEC ima v svojem programu tri laserske tiskalnike, od katerih sta kar dva namenjena zgolj uporabnikom Microsoftovih Oken.
+
+Danes gredo v promet predvsem barvni modeli. 
+Tudi če izdelovalec ponuja črno-beli tiskalnik, je ta navadno nadgradljiv na barvnega s preprosto zamenjavo tiskalne glave. 
+Taki tiskalniki sodijo v nižji cenovni razred, ker lahko naenkrat uporabljamo le eno vrsto tiskalne glave oziroma rezervoarja z barvo; pri barvnem odtisu črna nastane z mešanjem drugih osnovnih barv.
+
+Neposredni naslednik prvega barvnega Epsonovega brizgalnika nosi oznako Stylus Color II (brez s). 
+Bistvena razlika je v tem, da ima, tako kakor prejšnji model, tudi ta tiskalnik v osnovni različici vgrajeni obe vrsti tiskalne glave, zaradi česar je večje tudi ohišje. 
+Tiskalnik je hitrejši od manjših modelov, hkrati pa tudi mehanika vliva zaupanje. 
+Ohišje je majhno, prisekanih robov, s krmilnim modulom sredi sprednjega pokrova. 
+Dostop do notranjosti je enostaven, prav tako tudi delo s papirjem. 
+Podajalnik papirja je odslej zgoraj, z odlagališčem na sprednjem delu. 
+Pri Epsonu so odlagališče naredili iz plastične plošče, ki jo zelo enostavno postavimo pod tiskalnik.
+
+Precej bolj zanimiv je močnejši model 4079 Plus, ki je eden od dveh brizgalnikov s tega testa s sposobnostjo tiskanja na papir formata A3. 
+V celoti sodi v najvišji razred brizgalnikov, v katerem najdemo le malo modelov. 
+To potrjujejo vgrajeni procesor, 4 MB pomnilnik, vgrajena podpora za jezik PostScript in ločeni rezervoarji za vsako barvo posebej. 
+Tiskalnik je bistvu nadgradnja modela 4079, ki smo ga preskusili že pred nekaj leti. 
+Kakovost izpisa je z vgrajenim jezikom PostScript boljša, predvsem pri vektorski grafiki. 
+Žal mehanizem zmore za današnje čase le skromnih 360 × 360 pik na palec, kar se vidi tudi pri delu. 
+Na navadnem papirju je zato dokaj vidna rasterizacija barv, opazni so pasovi, pri izpisu črk pa razpršenost barv. 
+Pri uporabi posebnega papirja se kakovost izboljša, vendar ne dosega najzmogljivejših modelov, vključno z glavnim tekmecem, Epsonovim Stylus Color Pro. 
+Od slednjega pa je Lexmarkov model hitrejši, kar ni zaradi dvakrat višje cene ne nazadnje nič nenavadnega.
+
+»Laser« danes, brizgalnik jutri
+
+Word ima svoje muhe in ena od njih so vsekakor slike. 
+Delati z dokumentom, ki ima množico slik, kmalu postane prava muka. 
+Če so slike vključene v dokument, se ta poveča čez vse razumne meje, pa še slike težko spreminjamo. 
+Morda imate slike vstavljene (embedded)?Potem ste še na slabšem, saj bo dokument približno dvakrat daljši, kakor če bi bile slike le vključene. 
+Morda pa slike povezujete (link)? 
+Datoteka, v kateri je shranjen dokument, sicer ostane kratka, vendar se zoprno upočasni sprehajanje po dokumentu (saj Word neprestano nalaga slike), še hujše težave pa nastanejo pri tiskanju. 
+Word 6.0 preživi le nekaj deset strani polnih slik, potem pa uvozni filter ostane brez pomnilnika (očitno ne sprošča vseh sredstev, ki ji uporabi). 
+V Wordu 7 so to napako sicer popravili, sprehajanje po dokumentu pa je še vedno neprijetno.
+
+(quic3.tif; Slika in njen okvir)
+
+Žal pri vseh teh pretvorbah naletimo na drugo težavo. 
+Slike navadno zapremo v okvire (frames) in te postavimo nekam na stran ali pa jih pripnemo na besedilo. 
+Pri preizkušanju programa se nam je kar nekajkrat zgodilo, da so med pretvorbo nekateri okviri izginili. 
+Slika je sicer ostala v dokumentu, vendar se je preselila drugam, včasih pa je nekaj slik celo zamenjalo mesto (pri čemer je nedvomno pomagal tudi Word in njegova pregovorno slaba izvedba okvirov). 
+Žal take napake krepko zmanjšajo vrednost programa, čeprav bi sicer v marsikaterem računalniku prišel prav.
+
+Izdeluje: WexTech Systems
+
+Novosti
+
+Ena od glavnih prednosti Recognite v primerjavi z nekaterimi drugimi programi (tudi z okrnjeno različico Recognita Select) je bilo učenje neprepoznanih znakov. 
+Pri učenju so naredili velik korak naprej, saj je ta modul napisan bolj ali manj na novo. 
+Ne le, da je uporabniški vmesnik precej boljši in končno dovoljuje združevanje koščkov neprepoznane črke v eno črko, pač pa modul omogoča učenje po prepoznavanju, ne le med prepoznavanjem kakor doslej. 
+Pri prepoznavanju si program lahko pomaga še s slovarji, vendar slovarja za slovenščino ni. 
+V paketu so slovarji za šest svetovnih jezikov, dokupimo pa lahko še šest drugih.
+
+Hewlett-Packard in Baan, eden najpomembnejših izdelovalcev programja za podporo proizvodnje, distribucije, financ, transporta in storitev v tehnologiji odjemalec/strežnik, sta napovedala še tesnejše sodelovanje. 
+Skoraj polovica Baanovih strank, med njimi ABB, Boeing, Hitachi, Northern Telecom, Oki in Philips, že sedaj uporabljajo programe iz družine Triton v računalnikih HP. 
+Z novim partnerstvom bosta podjetji bolj usklajeno nastopali na vseh trgih. 
+Poleg vgradnje Baanovih programov in izdelka HP OpenView si lahko uporabniki obetajo podporo skupnim tehnološkim središčem v Ameriki in Evropi.
+
+tixE
+
+Solaris 2.5
+
+Sun je predstavil tudi 64-bitno različico svojega Unixa. 
+Solaris 2.5 je namenjen predvsem novi generaciji zmogljivih delovnih postaj in strežnikov Ultra, na voljo pa je tudi za starejše sisteme Sun, Intelove procesorje in procesorje PowerPC. 
+Glavne novosti novega operacijskega sistema so predvsem izboljšana podpora omrežju, saj so podporo za nekatere najpogostejše omrežne storitve vgradili neposredno v jedro sistema, večja zanesljivost, podpora starejšim različicam Solarisa in algoritmi za povečanje hitrosti močno obremenjenih baz podatkov. 
+Solaris 2.5 je že vključen v nakup delovne postaje. 
+Uporabniki PCjev bodo zanjo odšteli 800 dolarjev, oziroma 2500 dolarjev za različico, ki podpira 4 procesorje.
+
+Omrežja, ki združujejo več sto uporabnikov, so za upravnike velika težava, saj morajo vsak računalnik nadgraditi z novim programjem. 
+Podjetje OnDemand Software je prav v ta namen izdelalo program WinInstall 5.1 za Okna NT, ki omogoča upravnikom, da iz enega računalnika namestijo programje na izbrane računalnike v omrežju, tudi ko uporabniki niso prijavljeni. 
+WinInstall 5.1 deluje kot storitev v Oknih NT, pri nameščanju programja pa lahko sodeluje tudi s SMS (Systems Management Server) in njegovo bazo podatkov.
+
+Podjetje Passport Designs, ki je bolj znano po programu za skladanje Encore, je izdalo tudi različico za nekoliko manj zahtevne uporabnike, Rhapsody. 
+Ta podpira standardna glasbila MIDI in omogoča notni zapis za največ 32 × 8 neodvisnih instrumentov. 
+Rhapsody poleg igranja in pisanja na notno črtovje omogoča tudi tiskanje notnih zapisov, različne učinke in enostaven prenos datotek .MID iz programov Cakewalk Professional, Steinberg Cubase, MIDI Workshop in Opcode System. 
+Za Rhapsody 1.0 bodo uporabniki odšteli 250 dolarjev, program pa deluje v računalniku 486 ali novejšem in Oknih 3.x ali 95.
+
+Organizer podpira Lotusovo strategijo sporočanja in tako poskrbi za skupinsko razporejanje sestankov v podjetjih, ki uporabljajo Lotus Notes ali cc:Mail. 
+Do baze podatkov vsakega uporabnika imajo dostop tudi drugi iz njegove skupine, če jim omrežni upravitelj to dovoli, seveda. 
+Tako lahko preverijo, ali je nekdo v določenem trenutku prost ali zaseden, nato pa ga po elektronski pošti obvestijo o načrtovanem sestanku. 
+Nova različica Organizerja je nekoliko hitrejša od prejšnje in ima nekaj dodatnih zmožnosti, sicer pa se od predhodnice, kakor rečeno, ne loči bistveno.
+
+Lotus SmartSuite 4.0
+
+Posodil: SRC, tel.: 061-173-4343
+
+Trenutnemu stanju bomo rekli stanje; stanje bo vsebovalo vso informacijo, vse, kar potrebujemo pri opazovanju igre. 
+Določanje tega, »kaj potrebujemo pri opazovanju igre«, je prvi korak pri reševanju problema. 
+Pri metanju kovanca bo stanje naše trenutno premoženje (in če bi sumili v poštenost kovanca, še podatek o tem, kolikokrat je padel grb in kolikokrat cifra). 
+Ko bomo iskali parkirni prostor, bo verjetno dovolj, če bo stanje vsebovalo podatek o oddaljenosti od trgovine in o tem, ali je mesto ob nas prazno ali ne; stanje bomo tedaj opisali z dvema številkama, prva bo oddaljenost od trgovine (ki bo negativna, če smo pred njo, in pozitivna, če smo že mimo), druga pa bo 0 ali 1 (0, če je parkirno mesto ob nas prazno, 1, če je zasedeno).
+
+Prehodi med stanji so naključni. 
+Tako lahko v prvem primeru iz stanja 16 (imamo 16 kovancev) preidemo v stanje 15 in v stanje 17, v obe z verjetnostjo 1/2. 
+Verjetnost prehoda v kako drugo stanje, denimo 20 ali 3 je enaka 0, ker ne moremo v enem samem koraku dobiti štirih ali izgubiti devetnajst kovancev. 
+Podobno lahko pri iskanju parkirnega prostora preidemo iz (n, k) v (n + 1, 0) z verjetnostjo p in v (n + 1, 1) z verjetnostjo 1 p. 
+V druga stanja, denimo (n 4, 1), gremo z verjetnostjo 0 (torej: ne gremo), ker ne vozimo vzvratno, sploh pa ne za štiri mesta naenkrat.
+
+Kaj pa, če stanje ni ne končno ne nadaljevalno? 
+V tem primeru bo (idealno) pravilo svetovalo, naj se ustavimo ali nadaljujemo gotovo bo svetovalo boljšo možnost. 
+Če se ustavimo, dobimo F(i), če nadaljujemo, toliko, kolikor nam izračuna gornja formula. 
+Vse tri možnosti lahko združimo v
+
+Nalogi sta enaki le, kar zadeva idealno pravilo ustavljanja. 
+Idealno pravilo ustavljanja se zanima za poprečni dobiček, ki je v obeh oblikah naloge v prvotni nalogi z nadaljevalnimi stanji in v predelani nalogi, ki nadaljevalnih stanj nima enak. 
+Strogega dokaza te trditve se ne bomo lotevali, zadostuje naj nam, da je vsaj intuitivno jasna.
+
+Za zgled in vajo se poigrajmo s predelavo parkirne naloge. 
+Kako ukiniti nadaljevalna stanja? 
+Nadaljevalna stanja v tej nalogi so (k, 1), stanja, v katerih je parkirno mesto ob nas zasedeno. 
+Vprašajmo se takole: smo v stanju (k, 0) (v katerem se lahko ustavimo, če želimo). 
+Kakšna je verjetnost, da bo naslednje stanje, v katerem se bomo lahko ustavili, stanje (l, 0)? 
+Če je l k, je verjetnost enaka 0, ker se ne bomo vozili nazaj in tudi na mestu ne bomo stali. 
+Če pa je l > k, moramo izračunati verjetnost, da so vsi prostori med k in l zasedeni (nadaljevalna stanja), prostor l pa prost. 
+Verjetnost, da je stanje prosto, je p, stanj med k in l je l k 1 in kdor še ni povsem pozabil verjetnostnega računa, ve, da je verjetnost, ki jo iščemo, enaka p(1 p)l k 1. 
+Opustimo nadaljevalna stanja, torej vsa stanja, ki imajo na drugem mestu enico; ničlo lahko izpustimo in nova naloga je
+
+Avtor: Janez Demšar
+
+TR = š (0, 1, 2), (0, 1, 0, 1), (0, 1, 2), (0, 1, 0)č
+
+H(0)(i) = F(i)
+
+Pa to kam pripelje? 
+Bo H(20)(i) ali vsaj H(100)(i) vsaj kolikor toliko blizu pravi, iskani H(i)? 
+Bo ali pa tudi ne. 
+So problemi, pri katerih velja ko število dovoljenih korakov narašča, se H(n)(i) poljubno približa H(i) , in problemi, pri katerih to ni res. 
+Prvim pravimo stabilni, drugim nestabilni problemi. 
+JE FORMULA V REDU???
+
+Posel s plačevanjem je bolj rokohitrski. 
+K ceni f(i) je treba prišteti še poprečno vrednost vsote cen, ki jih je treba plačati, preden pridemo do naslednjega nenadaljevalnega stanja, . 
+JE FORMULA V REDU???
+
+Tako. 
+Če imamo nalogo, ki vsebuje tudi nadaljevalna stanja, jo znamo po gornjih formulah predelati v nalogo brez nadaljevalnih stanj, ki ima ustrezno spremenjene verjetnosti in plačilno funkcijo. 
+Naloga, ki jo dobimo s tem manipuliranjem, ni enaka začetni nalogi: denimo, da gremo iz začetnega stanja i0 v stanje j in nehamo igrati. 
+V prvotni nalogi smo plačali f(i0), v predelani pa f(i0), ki vobče ni enak f(i0), saj upošteva še tisto, kar bi morali plačati, če bi iz i0 ne prišli v j, temveč bi potovali še prek kakih (zdaj ukinjenih) nadaljevalnih stanj.
+
+Mednaslov: Ukinitev odpravnine
+
+Predelajmo še parkirno nalogo. 
+Vzemimo obliko brez nadaljevalnih stanj, kakršno smo si pripravili v prejšnjem razdelku. 
+P(j|i) = p(1 p)j i 1, če j > i in 0 sicer. 
+F(i) = |i| in f(i) = 0, vse skupaj vstavimo v formulo za ukinjanje odpravnine: . 
+Ker vemo, da je vsota enaka 1 (ker se mora prej ali slej najti kako prazno parkirno mesto), lahko |i| nesemo v vsoto: . 
+Z rodovnimi funkcijami, malo integriranja in odvajanja (ali pa z malo Bronštejnovega priročnika) nam to da JE FORMULA V REDU??? 
+JE FORMULA V REDU??? 
+JE FORMULA V REDU???
+
+Simpatična, a žal nekoliko stara knjižica, ki jo bom, ko končam članek, vrnil v CTK (in plačal F(2 tedna) = 200 SIT zamudnine), ima naslov Applied Combinatorial Mathematics, kup avtorjev, med katerimi je prvi in tudi najbolj znan George Polya, in signaturo 20837 MAT-D. V njej je nov spisek literature, ki zajema knjige in članke, ki so še starejši od same knjige (kar niti ni preveč skregano z logiko) in so zato najbrž težje dostopni.
+
+Priloga Sistem
+
+Elektronsko bančništvo je tisti nabor storitev, ki poskuša odgovoriti na nove zahteve. 
+Skupni imenovalec teh storitev je vsebovan že v njihovem imenu: to so vse bančne storitve, ki jih opravimo elektronsko, z informacijskimi sistemi. 
+Mednje štejemo bančne avtomate, telefonske storitve, informacijske terminale in računalniško komuniciranje z banko.
+
+Stars and Galaxies je izdelek planetarija iz Argantha, kar je zanesljivosti in natančnosti navedenih podatkov le v prid. 
+Morda je nekoliko manj zanimiv, ker njegova zasnova spominja na učbenike. 
+Vseeno pa se lahko pohvali z nekaj »cukrčki« v obliki filmov, zvočnih zapisov in tekstovnih opisov. 
+Filme in zvok lahko najprej preizkusite na kratkih sekvencah, pri čemer ugotovite združljivost vaše strojne in programske opreme z različnimi zapisi.
+
+Avtor: Primož Gabrijelčič
+
+End Sub
+
+FileClose 2
+
+Potrebujete še skoraj enak makro DocClose:
+
+Spremenjeni makri ne vplivajo na avtomatsko shranjevanje dokumenta. 
+Avtomatsko shranjevanje vedno shranjuje hitro. 
+Makri tudi ne vplivajo na delo z dokumenti v omrežju, kajti Word omrežne dokumente vedno shranjuje počasi.
+
+(win95.tif) Raziskovalca (explorer) lahko namesto z miško nadzorujemo tudi s tipkovnico, kar še najbolj ugaja izkušenim uporabnikom. 
+Tipka <+> na pomožni tipkovnici razpre poddrevo, ki se odpira pod trenutno označeno mapo. 
+Tipka <-> na pomožni tipkovnici skrči poddrevo. <*> razpre vse drevo (vse mape, prikazane v raziskovalcu). osveži stanje v oknu, kar nam pride prav posebej takrat, kadar delamo z disketami in Okna ne opazijo, da smo zamenjali disketo.
+
+(regedit2.tif)
+
+Žužki
+
+4. 
+Na konec datoteke dodajte:
+
+Žužke pripravljamo v sodelovanju z revijo BugNet (http://www.bugnet.com/čbugnet, bugnetŽbugnet.com).
+
+Od vseh naprav, ki jih lahko priključimo na računalnik, je pogon CD-ROM verjetno dandanes najbolj priljubljen in največ ljudi se odloča, da se bodo v bližnji prihodnosti opremili z njim. 
+Toda, ali niso tej napravici morda le šteti dnevi?
+
+Drugi množični segment rabe CDjev so plošče za prenos programske opreme. 
+Dandanes veliko večino komercialnih programov prodajajo na CD-ROMih in ne več na disketah. 
+Glavni razlog za to je seveda ta, da so programi v zadnjih letih postali tako obsežni, da značilen resen program zasede vsaj nekaj deset disket. 
+To je nepraktično že za izdelovalca, še veliko bolj pa za uporabnika, ki želi program namestiti. 
+Stalno menjanje disket lahko tudi hladnokrvne spravi ob živce, še posebej, če namestitev odpove nekje proti koncu in je treba začeti znova. 
+Včasih je bila to stalna praksa in vsaj v tem pogledu so CDji res blagodejna iznajdba.
+
+Pa CDje tudi.
+
+Upoštevanje želja
+
+Monitor podpira tudi zaporedno komunikacijo z računalnikom in nastavljanje prek okenskega programa, vendar je to rezervirano za serviserje. 
+Ob nakupu monitorja tega programa in kabla namreč ne prilagajo.
+
+Opazili smo tudi, da je slika na zgornjem robu slike malce vbočena, spodnji desni vogal pa je malce visel. 
+Tega s številnimi nastavitvami, ki jih monitor omogoča, nismo uspeli odpraviti.
+
+Med strojno opremo pravega zmagovalca pravzaprav ni. 
+Omenil bi zmogljive in predvsem zelo poceni diske, zaradi katerih stiska s prostorom ni več tako huda kakor še pred letom dni. 
+Napredovale so enote CD-ROM, Mitsumi in drugi pa so dokazali, da hitrejša tehnologija ne pomeni nujno tudi nerazumljivo visoke cene. 
+Prav tako so v preteklem letu zelo napredovali prenosni računalniki, ki so prvič postali primerna zamenjava za navadne.
+
+Posebno poglavje zasluži Internet in vse, kar je z njim povezano. 
+V letu dni smo v Sloveniji zelo napredovali, vendar nujno potrebujemo še hitrejše komunikacijske povezave, predvsem s tujino, kjer je pretežni del informacij. 
+Upamo, da bo v letošnjem letu to luknjo zapolnil ISDN. 
+Ko smo pri Internetu, seveda ne moremo mimo brskalnika NetScape, ki kljub številnim tekmecem nedvomno prednjači v tej novi kategoriji. 
+
+Nepričakovana uspešnost Oken NT je tudi posledica psihološkega učinka, ki ga je že nekaj mesecev pred predstavitvijo ustvarjal paket Windows 95. 
+Praktično ves svet je nestrpno čakal na izdajo končne različice. 
+Verjamem, da je večina čakajočih Okna 95 tudi kupila in preskusila v svojih računalnikih. 
+Šele ko so se jim razkrila v praksi, z vsemi svojimi odlikami in pomanjkljivostmi, so začeli zopet razmišljati normalno, pragmatično in previdno, kakor vpeljava novega operacijskega sistema tudi zahteva. 
+Okna 95 zanje nikakor niso slab izdelek, vendar zahtevajo še več.
+
+Druga Microsoftova spretna poteza je bila uradna objava, da nameravajo uporabniški vmesnik Oken 95 prenesti tudi v okolje Windows NT. 
+Mislim, da je prav to prispevalo, da so se predvsem velika podjetja v trenutku odločila za Okna NT. 
+Večina jih namreč ceni novosti v Oknih 95, vendar še bolj cenijo stabilnost, pravo večopravilnost in, ne nazadnje, tudi hitrejše izvajanje, vsaj v nekaterih primerih uporabe. 
+Kombinacija obeh izdelkov se je zato marsikomu zdela prava rešitev. 
+
+Podelitev zlatih Monitorjev
+

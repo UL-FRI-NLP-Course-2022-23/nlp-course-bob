@@ -1,0 +1,21 @@
+Po prvem letu dela na njem je bilo ugotovljeno, da je možno sprejemnike sončne energije tudi pri nas izdelati v samogradnji, kar prinaša številne prednosti.
+
+$Potek izdelave
+
+-- bakreno pločevino debeline 0,2 mm in širine 360 ali 300 mm (v kolutu),
+
+-- 4 mm debelo kaljeno steklo.
+
+Potrebno orodje:
+
+-- spajkalnik na plin,
+
+-- pištola za iztiskanje silikonskega kita,
+
+V Avstriji so opravili meritve izkoristka teh SSE in rezultati so povsem primerljivi z večino tovarniško narejenih SSE brez selektivne površine; bistveno seveda odstopajo le vakuumski SSE.
+
+MATJAŽ ZUPAN
+
+1. 
+Miza za krivljenje cevi
+

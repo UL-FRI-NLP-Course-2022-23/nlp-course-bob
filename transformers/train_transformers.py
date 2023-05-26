@@ -1,19 +1,18 @@
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, get_linear_schedule_with_warmup
+from transformers import get_linear_schedule_with_warmup
 import torch
 from torch.optim import AdamW
 import pandas as pd
-import os
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 from utils import tensor_datasets, convert_to_input, load_data, load_models
 import numpy as np
 
-max_length = 128
-BATCH_SIZE = 18
+MAX_LENGTH = 150
+BATCH_SIZE = 16
 
 def main():
     # Load data
-    data = pd.read_csv('paraphrases_combined.csv')
+    data = pd.read_csv('data/bigger dataset/paraphrases_30k_filtered.csv')
     xy_train, xy_val, xy_test = preprocess_data(data)
     
     # Load models
@@ -40,6 +39,8 @@ def main():
     train_dataloader = tensor_datasets(x_train, y_train, masks_train, BATCH_SIZE)
     val_dataloader = tensor_datasets(x_val, y_val, masks_val, BATCH_SIZE)
     test_dataloader = tensor_datasets(x_test, y_test, masks_test, BATCH_SIZE)
+    
+    print(f'Len of actual training data: {len(x_train)}')
 
     param_optimizer = list(model.named_parameters())
     no_decay = ['bias', 'gamma', 'beta']
@@ -51,14 +52,12 @@ def main():
     ]
     optimizer_grouped_parameters = [{"params": [p for n, p in param_optimizer]}]
     optimizer = AdamW(optimizer_grouped_parameters,
-                      lr=3e-5,
+                      lr=2e-5,
                       eps=1e-8)
     
     loss_values, validation_loss_values = [], []
-    epochs = 10
+    epochs = 20
     max_grad_norm = 1.0
-    
-    # Total number of training steps is number of batches * number of epochs.
     total_steps = len(train_dataloader) * epochs
 
     # Create the learning rate scheduler.
@@ -127,13 +126,13 @@ def main():
         validation_loss_values.append(eval_loss)
         print("Validation loss: {}".format(eval_loss))
         
-    torch.save(model, 'test_00_t5.pt')
+    torch.save(model, 'test_01_t5.pt')
 
 
 def preprocess_data(data):
     # Split data
-    x_train, x_test = train_test_split(data, test_size=0.20, shuffle=False, random_state = 42)
-    x_val, x_test = train_test_split(x_test, test_size=0.50, shuffle=False, random_state = 42)
+    x_train, x_test = train_test_split(data, test_size=0.20, shuffle=False, random_state = 10)
+    x_val, x_test = train_test_split(x_test, test_size=0.10, shuffle=False, random_state = 10)
     
     return x_train, x_val, x_test
 

@@ -1,0 +1,26 @@
+Modernizacija prometa
+
+ZASTOJI VČERAJ -- ZASTOJI JUTRI
+
+PROMET NA RAČUNALNIKIH
+
+Dosedanje analize prometa so se naslanjale predvsem na statistiko in so promet obravnavale kot homogeno tekočino (ŽIT 1990/3, str. 8). 
+Deli prometnega sistema so bili prevečkrat analizirani sami zase in ne v povezavi z drugimi komponentami, na katere so bili priključeni. 
+Zadnja leta pa sta napredek matematike in razvoj v računalniški tehniki omogočila natančnejše analize in prinesla revolucionarna spoznanja v analizi prometa. 
+Ta vsebuje tako fizikalne kot sociološke vidike. 
+S fizikalnega stališča je treba analizirati omrežje cest, povezave med njimi, lastnosti vozil, ki potujejo po njih, in še kaj. 
+Vsak cestni odsek ima tudi svoje dodatne posebnosti, upoštevati je treba tudi vreme in druge okoliščine, povezane z okoljem. 
+Na sociološki strani problema srečamo prvine, kot so želje posameznikov (kje se bodo večinoma vozili) in odzivi voznikov na trenutni položaj na cesti. 
+Nikakor pa ne gre zanemariti tudi preostale družbe, saj na promet vplivajo še dejavniki, kot so lokacija večje tovarne, nogometnega stadiona ali koncertne dvorane ter podobnih objektov, ki občasno ali pa redno povzročajo prometne zamaške. 
+Spomnimo se samo hokejskih tekem v ljubljanski Hali Tivoli ...
+
+Kakšna naj bi bila torej videti vožnja po avtomatizirani avtocesti? 
+Vse skupaj je odvisno od tega, kateri sistem bo preživel razvojno dobo in se uveljavil kot najuspešnejši. 
+Ta hip sta najobetavnejša dva sistema, ki sta deležna tudi največje pozornosti. 
+Prvi je t. i. ločeni sistem, po katerem naj bi bili avtomatizirani pasovi avtocest ločeni od navadnih, kombinirani sistem pa bi dovoljeval vožnjo avtomatiziranih, delno avtomatiziranih in neavtomatiziranih vozil po istih voznih pasovih, ki pa bi bili vsi modificirani. 
+Ločeni sistem bi zahteval večje spremembe na obstoječih avtocestah, vendar bi dal tudi boljše rezultate pri povečanju avtocestnih zmogljivosti.
+
+RAČUNALNIŠKO NADZOROVAN DOVOD GORIVA
+
+RAČUNALNIKI
+

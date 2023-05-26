@@ -1,0 +1,9 @@
+#mehatronika# je prevod angleškega izraza mehatronic, sestavljena pa je iz besed MEHAnika in elekTRONIKA. 
+
+sestavljajo pojem mehatronike, lahko to storimo z razlago 
+
+4. 
+S. Bennett: A History of Control Eingineering. 
+P. Peregrinus Ltd. 
+1979. 
+

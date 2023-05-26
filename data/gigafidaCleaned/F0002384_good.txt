@@ -1,0 +1,319 @@
+Prva stvar ki jo boste opazili, ko boste program zagnali, je seveda nov grafični vmesnik.
+Prejšnji je šel v zaslužen pokoj.
+Zamenjali so ga lepi in nadvse uporabni ter prilegajoči se gumbi tudi v spuščajoči se obliki.
+V levem delu so vse osnovne informacije in hitro dostopni deli za dokument.
+V sredini je seveda sam dokument.
+Na desni strani pa se prilagajajo hitre informacije ter seveda različni gumbi, ki se pojavijo glede na določeno delo.
+Podobno vodi iz luknjičavega čreva, elektroni bodo brizgali iz žic zmanjšanih na atomske dimenzije in izolatorjev ter povzročali usodne kratke stike.
+Zaustavitev nadaljnjega razvoja procesorjev v skladu z Moorovim zakonom je treba pričakovati nekje v obdobju 2014-2020, kar je že praktično pred vrati, in se rešitev problema mora najti »takoj«.
+Znanstveniki in raziskovalci preučujejo različne možne rešitve, na eni strani z izboljšanjem same tehnologije uporabe silicija in na drugi z radikalno novimi rešitvami za procesorje in same računalnike.
+Na drugem področju se v številnih inštitutih in ustanovah v svetu opravljajo raziskave v cilju razvoja novih vrst računalnikov - molekulskih, bioloških (DNK), kvantnih in optičnih, morda tudi drugih (glej prilogo).
+Mnogi načrti so zaenkrat šele na papirju, posamezne rešitve še vedno daleč od uresničevanja in celo nekateri delujoči prototipi preveč kruti v primerjavi z elegantnim silicijem.
+Preden pogledamo, kako se razvijajo raziskave s ciljem izgradnje optičnih računalnikov, poglejmo na Moorov zakon še z nekoliko drugačnega stališča.
+Če bo ta veljaven še naprej, kar znanstveniki v glavnem verjamejo - ne glede na vrsto računalnikov, ki bo zamenjala silicijske - bodo v letu 2050 (kar je za človeštvo zelo blizu) računalniki sposobni obdelati precej več kot 500 bilijonov bajtov v sekundi.
+Trdna optična vlakna manjšajo energijo svetlobe, to več če so daljša.
+Skupina raziskovalcev z Unniverze v Bathu, na čelu z Philipom Russellom, je razvila optična vlakna z luknjo v sredini, v katerih s izgube manjše kot v običajnih optičnih vlaknih.
+V običajnih vlaknih se svetloba prenaša skozi jedro zahvaljujoč popolnem odražanju, ker to ima višji indeks loma svetlobe kot obkrožujoči deli.
+Plini neizbežno imajo manjši indeks loma in zato vlakno ne more biti votlo.
+V steklu pa je, četudi je skrajnje prozorno, zato moč za prenašanje omejena, medsebojno delovanje svetlobe s steklom in s sabo ustvarja šum in to moč še zmanjšuje, pri večjih močeh pa prihaja do katastrofalnih poškodb v steklu, posebej na koncih vlaken.
+Russlova skupina je ustvarila mehanizem »fotonske razpoke vez« ko je stalila veliko število steklenih vlaken in jih raztegnila v optični »kabel«.
+Številna mejna področja med steklom in zrakom so omogočila odražanje in razprševanje v večslojnem materialu, odvisno od valovnih dolžin, koti upada svetlobe in indeksov loma.
+Pri določeni koti in valovni dolžini je prodor svetlobe v večslojni material onemogočen in svetloba usmerjena na pot ravno skozi sredino.
+Ko je Russlova skupina umaknila sredinsko vlakno in namesto njega pustila votlino s premerom 14,8 mikrometra, so se zmanjšale izgube in se je povečala moč prenašanja.
+Votlo vlakno je moč primerjati s votlimi kovinskimi valovodi oziroma votlim i mikrovalovnimi antenami.
+Z novo rešitvijo je dramatično povečana moč industrijskih laserskih sekalcev, v prihodnosti pa lahko pričakujemo tudi naprave z optičnimi vlakni, ki bodo lahko premikale tudi atome ali celo materiale na velike oddaljenosti.
+Tudi pregled ostalih možnosti kaže fotoaparat kot sila primeren za nekoliko zahtevnejše amaterske fotografe.
+Osem pripravljenih programov fotografiranja in popolnoma samodejen način je oplemeniten z možnostjo izdelave posnetkov s prioriteto zaslonke ali časa osvetlitve, seveda pa tudi s popolnoma ročnimi nastavitvami, čemur se prilagodi tudi prikaz na barvnem LCD zaslonu.
+Izbira prikaza podatkov je posrečeno izbrana in nastavljiva.
+Pri popolnoma ročnem načinu in izbiti prikaza vseh podatkov je zaslon sicer skoraj zasičen z vsem mogočim, kljub vsemu pa bo izkušenim fotografom v veliko pomoč, posebej pri eksperimentiranju.
+Ko smo že pri Foveonu, predstavili so novo X3 tipalo z približno 5 milijoni pik.
+Gre za manjše tipalo, kot je trenutno v Sigmi SD9 in je namenjeno žepnim fotoaparatom.
+Verjetno bo prvi tak fotoaparat naredila prav Sigma, kjer razmišljajo tudi o izboljšani različici SD9.
+Med izboljšavami naj bi tudi združili digitalni in analogni del, tako da bo nov fotoaparat potreboval le že en set baterij namesto dveh.
+Verjetno še pomnite, da je bil Sony z enoto DRU-500A prvi, ki je predstavil DVD zapisovalnik s podporo obema standardoma, DVD+R(W) in DVD-R(W).
+Sony ponovno prevzema vodilno vlogo in v novincu 510A prinaša DVD+RW hitrost 4x (prej 2,4x).
+Ostale funkcije ostajajo enake, manjših izboljšav so deležne še hitrosti zapisovanja in prepisovanja CD-R plošč ter hitrost branja DVD ploščkov.
+Uvodni meni nas povabi, da izberemo med Pustolovščino in Igrami.
+Skozi lečo mikroskopa si lahko ogledamo rastline, živali in nekatere vsakdanje predmete.
+Kviz o znanosti, ki ni zelo enostaven nas popelje med vprašanja o znanosti in naravi.
+V delu Poskusi si lahko ogledamo nekaj znanstvenih poskusov, ki jih lahko opravimo tudi doma.
+Klik na knjigo in epruveto pa nas pripelje do podrobne razlage poskusa.
+Zbirka Filmov, ki so bili posneti v muzeju znanosti nam odkrije skrivnosti balonov na topli zrak, rentgenskih žarkov in še in še.
+V igrici Zvočni spomin moramo povezati različne predmete z različnimi slišnimi zvoki.
+Na koncu je tu še potovanje po vesolju.
+Za začetek moramo premagati asteroide in nato se na zaslonu pojavi srebrna krogla.
+S pomočjo tipal (vid, zvok, otip in tipalo za kovine) moramo ugotoviti vsebino krogle.
+Sodobne grafične kartice imajo dve pomembni komponenti.
+Ena je grafični procesor, druga pa pomnilnik.
+Grafični procesor tisti, ki opravlja zapletene operacije preračunavanja za to, da se na zaslonu prikaže slika.
+Večina grafičnih procesorjev ima vgrajen nabor ukazov, namenjen izključno grafiki, tako da procesor v računalnikui z grafiko nima praktično nobene zveze.
+Pomnilnik na grafični kartici je namenjen sprotnemu odlaganju in predpomnjenju slike in s tem razbremenitvi delovnega pomnilnika računalnika, ki je že tako ali tako precej zaseden s tem, kar mu nalaga procesor.
+Od največjih, kot sta Norton in McAffee, linux različice še ni videti, že nekaj časa pa jo ponujata finski F-Prot, ki je s svojim lastnim pogonom za iskanje virusov še vedno eden izmed vodilnih, ter TrendMicro.
+Žal sta ceni licenc obeh vezani na uporabnike in star torej dokaj draga.
+V Sloveniji povsem po krivici neznan, sicer pa v svetu zelo pogost je tudi Grisoftov AVG, ki je glede na teste eden zmoglivejših antivirusov, a z istim licenčnim planom kot F-Prot.
+Zadnje čase se veliko govori o ruskem produktu Dr.
+Web, ki ga med drugimi uporablja tudi Ahead v programu NERO.
+V pretekli številki revije smo opisali rešitev preprečevanja prejemanja množičnih e-sporočil, tokrat pa bomo pogledali kako lahko na istem sistemu namestimo še filtriranje e-pošte oziroma preverjanje in odstranjevanje virusov.
+Seveda ne gre za posnemovalce Hanibala Lecotrja, zbiralce delov teles, gre za navdušene lastnike malih digitalnih fotoaparatov.
+Zanimivo je, da se je ta način uporabe fotoaparatov pojavil šele sedaj, ko so ti postali digitalni najverjetneje zaradi nizke cene fotografije in seveda zaradi možnosti takojšnjega ogleda izdelka.
+Te nove igračke pa imajo tudi vrsto zanimivih funkcij, ki dajejo tem napravam v določenih primerih uporabe.
+Pa si jih poglejmo podrobneje...
+MasterCard je namreč najavil spletno storitev MasterCard MoneySend, ki bo dokončno rešila fizično delo z denarjem.
+Gre za storitev prenosa denarja med fizičnimi osebami, ki omogoča bankam, da svojim komitentom ponudijo napreden in stroškovno učinkovit transfer denarja, ki poteka s pomočjo plačilnih kartic.
+Sistem Card-to-card money transfer rešuje vsakodnevno razumevanje poslovanja z denarjem.
+Lastniki MasterCardovih kartic bodo lahko na enostaven način pošiljali denar komurkoli in kadarkoli in seveda bo vse skupaj v skladu z vsemi zakoni in ukrepi za preprečevanje pranja denarja.
+Misel lahko razvijamo v še kompleksnejšo obliko modela prenosa informatike podjetja na zunanjega izvajalca, ki bo po mojem mnenju v bodoče našel mesto tudi v našem prostoru.
+Šlo bo za podatkovne centre, kjer bo vsa programske opreme, aplikativna opreme in podatki nameščeni na strojni opremi lastnika takega centra.
+Uporabnik bo do njih dostopal preko podatkovnih povezav, v njegovih poslovnih prostorih pa bodo le relativno preprosti in poceni računalniki v funkciji odjemalcev (lahki odjemalci).
+Poleg prednosti koncentracije razpoložljivih informatikov ta oblika prinaša še prednost optimalnejše izrabe strojne opreme, ki je deljena med več uporabniki, kar še nadalje zniža izdatke za informatiko.
+Morebiti bi lahko Unistar svoj center TSSC (o čemer smo letos že pisali) razvil tudi v to obliko.
+Da ne govorimo o tem, da so podatkovni centri lahko tudi dobra poslovna priložnost za vse, ki bi si upali spustiti na nivo rešitev za informatiko v manjših podjetji.
+Treba je imeti le dovolj dober poslovni plan in znanja, nekaj pogajalskih zmožnosti in dovolj kapitala za izgradnjo centra.
+Najcenejši in najhitrejši način za obveščanje potencialnih kupcev je e-pošta, seveda ob pogoju, da se upoštevajo pravila etičnega trženja in nenazadnje tudi zakonodaja.
+Minili so časi, ko smo lahko e-pošto pošiljali na tisoče naključno izbranih naslovov.
+Prvi pogoj za izvedbo kakršnekoli akcije preko e-pošte je pridobitev dovoljenja za pošiljanje s strani prejemnika sporočila.
+Zakon o varstvu potrošnikov namreč prepoveduje pošiljanje komercialnih sporočil tistim naslovnikom, ki vam niso dali neposrednega soglasja za prejemanje vaših e-sporočil.
+Podjetje prejetega dovoljenja za dialog ne sme zlorabiti, prenašati ali prodajati drugim osebam.
+Prejemnik sporočil mora imeti ves čas nadzor nad dialogom, s tem pa tudi možnost, da se vsak trenutek lahko odnaroči od prejemanja sporočil; bodisi prek spletne strani, ali pa prek povezave v poslanem sporočilu.
+RISova raziskava glede zbiranja osebnih podatkov kaže, da si uporabniki želijo imeti pregled nad uporabo svojih osebnih podatkov, pomembno pa je tudi vedenje za kakšnen namen bodo osebni podatki uporabljeni in za kakšno vrsto osebnih podatkov gre.
+Vključitev svojega e-naslova v javni imenik e-naslovov bi dovolila skoraj polovica anketirancev.
+S tem, da se sme naslov elektronske pošte, ki je javno objavljen na spletni strani, vključiti v javni imenik elektronskih naslovov, se strinja dobra petina anketirancev, več kot polovica anketirancev pa je mnenja, da bi objavo naslova moral odobriti imetnik naslova.
+Več o raziskavi si lahko preberete na naslovu http://www.ris.org/splet/coment/zasebnost-report.htm .
+Ob današnjem znanju je verjetno bolj ali manj preprosto narediti tehnično dovršeno spletno stran.
+Za dobro funkcionalnost je potrebno razmisliti o velikosti fontov, grafiki ali zvočni podlagi.
+Vsebina oz. grafika strani mora biti prilagojena in izvedena tako, da se nalaga čim hitreje, saj vsaj pri nas še nimamo vsi hitri spletnih povezav.
+In predvsem mora biti funkcionalna v različnih ločljivostih ekrana.
+Ste pomislili, da je nekomu nadležna zvočna podlaga, da ste povsem zgrešili barvno harmonijo strani in da ste stran "preobremenili" z javo in da je včasih celo pretirana uporaba flasha moteča?
+Pri tej najstarejši reviji namenjeni poslovnežem so leta 1999 prvič pripravili spletno izložbo, da bi preverili, kako največja slovenska podjetja uporabljajo internet in koliko pozornosti namenjajo temu novemu mediju.
+Med 300 največjih so tisto leto s težavo našli 48 takšnih podjetij, ki so že bila prisotna na internetu.
+In nato so leto kasneje izbirali nagrajence med 52 spletnimi stranmi, leta 2001 med 73, lansko leto že med 207 in letos med 180 spletnimi stranmi slovenskih podjetij.
+Z Webbyjem so nagrajeni ustvarjalci najboljših spletnih strani in portalov v 31 kategorijah, ki jih dodajajo iz leta v leto.
+Uporabnost strani in portalov se namreč širi še naprej in povečujejo se tudi zahteve, ki jih morajo »naj« strani in portali upoštevati.
+Da že nekaj let zapovrstjo pri Webbyjih prednjačijo še posebej ameriške spletne strani in portali seveda ne pomeni, da so le-ti tudi najboljši.
+Webby je pač ameriški izum in ga mnogi velikokrat načrtno spregledajo, tudi za ceno, da se ne »prilepi« na njihovo stran ali portal.
+Koristno in uporabno orožje so tudi ti. pravila (ang. rule), ki jih vsebujejo programi za prebiranje e-pošte, saj lahko z njihovo pomočjo filtiramo vsa prejeta sporočila.
+Tako si lahko v poštnem odjemalcu nastavimo pravila, s katerimi blokiramo naslove neželenih pošiljateljev ali pa preusmerjamo pošto, ki v glavi ali telesu sporočila vsebuje določene besede, direktno v koš ali pa v poljubno izbrano mapo.
+Pri takšnem načinu filtriranja prejetih sporočil pa moramo biti zaradi njihove nezanesljivosti previdni, saj se lahko zgodi, da se med zavrženo pošto najdejo tudi za naročnika povsem legitimna, zaželena in pomembna e-sporočila.
+Samo Krivic, direktor podjetja Wer liefert was?, izraža bojazen, da ne bi nov zakon preveč ohromil pretoka informacij: »Zakonodaja mora prepovedovati pošiljanje neželjene pošte in kaznovati kršitelje, obenem pa ne sme zavirati potrebe podjetij za nemoten pretok informacij, da o zatiranju direktnih marketinških akcij sploh ne govorimo.»
+Pri gradnji blagovnih znamk so učinkovitejši večji formati pasic
+<Slika1: travelocity.tif> Oglas, ki je gradil zavest o blagovni znamki Travelocity
+Podjetja Matsushita, Sony, Hitachi, NEC, Philips, Samsung, Sharp in Toshiba so ustanovila združenje CELF.
+Naloga združenja je raziskati vse espekte vgradnje opercijskega sistema Linux v bodoče naprave zabavne elektronike.
+ZA: X4 je hi-fi predvajalnik, ki predvaja praktično vse znane in uporabljene formate.
+Naprava je prijetnega izgleda, prižiganje, zaganjanje, delovanje in ugašanje naprave je hitro in tiho (v primerjavi z edinim do sedaj preizkušenim KISS DP450).
+Predvajanje DVD deluje perfektno, DivX del pa v primeru predvajanja posnetkov DivX 5.x, 4.x ter XVid tudi.
+Prikazovalnik na enoti je barven in pregleden, simpatičen.
+Enota sama je simpatična, ima pregledno razporejene gumbe, kar pa morda ne velja v popolnosti tudi za daljinski upravljalec.
+Ima mnogo video in audio izhodov, med drugim tudi analogni komponentni video izhod YPbPr za resolucije do 1920x1080 prepleteno, oz 1280x1024 neprepleteno.
+Optični in koaksialni digitalni audio izhod omogočata priklop zunanjega dekodirnika Dolby Digital in torej prostorskega zvoka.
+Enota predvaja tudi cdje s slikami in glasbene Mp3 cedeje.
+Med predvajanjem je slika razširjena čez cel zaslon, lahko jo poljubno širimo ali krčimo.
+Strojna koda enota je nadgradljiva.
+PROTI: Naprava je že glede na ceno namenjena le večjim organizacijam, kjer pa je vprašljiva pretočnost, ki jo naprava še omogoča.
+Namestitev naprave še posebej zaradi skopih navodil ni najlažja, tako da jo mora opraviti tehnično osebje.
+Napravo konfiguriramo preko spletnega vmesnika, ki bi bil lahko preglednejši in izčrpnejši.
+Navkljub prestrezni napravi, je za popolno varnost v podjetju še vedno potrebna namestitev antivirusnih programov na vse računalnike v notranjem omrežju organizacije.
+Rubrika Domača pisarna je tokrat prav zabavna.
+Prav vreden ogleda je program s čudnim imenom 3DNA Loft, ki je eden od prvih predstavnikov tridimenzionalnega vmesnika.
+To pomeni, da računalniško namizje ni več podobno listu papirja, na katerem so ikone za posamzne programe ali mape, pač pa je namizje dobilo obliko futuristične hiše, po kateri se lahko sprehajamo in preko različnih konzol delamo to, kar smo včasih preko ikon.
+Bo to prihodnost uporabniških vmesnikov?
+Drugonivojske strežnike imamo tudi v Sloveniji.
+Lastnik enega je Arnes (ntp1.arnes.si in ntp2.arnes.si), drugega Inštitut Jožef Štefan (time.ijs.si), tretjega ima Univerza v Ljubljani (biofiz.mf.uni-lj.si), četrtega pa Hidromoteorološki inštitut (hmljhp.rzs-hm.si).
+Slideshow naredimo z ACDSee zelo preprosto.
+Prestavimo se v direktorij "Izbor", označimo vse fotografije in v meniju "Create" izberimo "ACDSee FotoAngelo".
+To je program, s katerim lahko naredimo "slideshow" ali ohranjevalnik zaslona.
+Znajdemo se v novem programu, ki je dokaj preprost.
+Za začetek z gumbom, ki je levo od posnetkov označimo vse posnetke, podaljšamo čas predstavitve posamezne fotografije na 4 sekunde in če želimo, še izberemo katerega od prehodov.
+Preostane nam le še izdelava predstavitve, za kar je najbolje uporabiti možnost "Build" v pod menijsko vrstico.
+Če sledimo čarovniku, nas ta lepo popelje do konca, kjer moramo le še izbrati ime datoteke in direktorij, kjer bomo vse to shranili.
+Naredimo še predzadnji korak, HTML strani.
+Le te omogočajo enostaven pregled vseh fotografij, poleg tega je za pregled potreben le brskalnik.
+Slednje najdemo v meniju "Create", kjer izberemo možnost "HTML".
+Še pred tem se prestavimo v direktorij "Pomanjsane označimo vse posnetke.
+V "Title" vpišimo ime strani, na primer "Izstekani The Kamns" in v polje "Output/Folder" izberemo direktorij "Pregled".
+Če želimo na eni strani imeti več ali manj posnetkov, ustrezno povečajmo ali pomanjšamo število posnetkov in po želji tudi njihovo velikost.
+Ko končamo, nam preostane le še ena malenkost, datoteka "autorun.inf".
+Le to naredimo s programom "Notepad", vpisati pa moramo naslednje:
+Da bomo razumeli
+Slika Prevod: Prevajanje dokumenta sprožimo z ukazom Tools / Langage / Translate.
+Paket vsebuje vse, kar premore Project Standard.
+V povezavi s projektnim strežnikom pa je vrhunsko orodje za projektno modeliranje, portfeljske analize in modeliranje ter razporejanje in analiziranje skupnih virov.
+Poenostavljeno je oblikovanje poročil za center projektov in virov.
+Ta paket bo omogočal uporabnikom tudi administracijo projektnega strežnika.
+Hranjenje delovnih področij pa bo omogočalo za vsak projektni model posebej takoj priklicati vse njegove dokumente, problemsko listo in listo tveganj.
+Navkljub napovedim, da bo prišel najmočnejši in najnovejši iz družine Nvidia GeForce FX v naše kraje prej, smo na test prve primerke prejeli šele konec julija.
+Preverili smo zmogljivosti kartice, ki je obetala novo spremembo na samem vrhu lestvice, ter pogledali še ponudbo za tiste s plitvejšimi denarnicami.
+NVidia se je zadnjih pet mesecev z grozovitimi krči zavisti bolj ali manj valjala v senci kanadskega ATIja.
+ATI je s svojim grafičnim procesorjem R350 in karticama R9700Pro in R9800Pro prehitel ponos Nvidie.
+Medtem ko je ATI tepel Nvidio na vseh cenovnih segmentih z enakim ali celo malenkostno boljšim izdelkom za seveda precej nižjo ceno, je NVidii uspelo popraviti fiasko, ki ga je doživela s predstavitvijo GeForce FX, temelječega na nesrečnem NV30.
+Ta je za svoje hlajenje potreboval velik pretok zraka, ki ga je dostavljal zelo glasni hladilni sistem CoolFX, ki je poleg tega zasedel celo sosednjo PCI režo na osnovni plošči.
+Da so jenkiji vsaj začasno uspeli pokrpati režo ki je zazijala v njihovi ponudbi dokazuje prgišče novih kartic...
+Uporaba programa je zelo enostavna, ob zagonu najprej priporočamo osvežitev iz spleta, s čimer si zagotovite najnovejše informacije o malopridnih aplikacijah, nato pa preiščite svoj računalnik.
+Program bo v registru in po disku poiskal sumljive aplikacije ter jih na vaš ukaz odstranil.
+Da bi preprečili ponovno nalaganje teh programov, zna SpyBot na uporabnikovo željo blokirati take programe že takrat ko na njih naletimo med deskanjem po spletu.
+Funkcija se imenuje Immunize.
+SpyBot vsebuje še nekaj zanimivih in koristnih dodatkov, kot je programček Secure Shredder, ki poskrbi za popoln izbris želene datoteke; datoteka z seznamom motečih strežnikov (s katerih se vam med deskanjem prikazujejo reklame in oglasi) do katerih je nato dostop blokiran; pa orodje System Startup, s katerim lahko uporabnik vidi katere aplikacije se zaženejo ob zagonu računalnika, ter lahko to tudi spreminja.
+Program lahko prosto in brezplačno snamemo iz spodnjega spletnega naslova.
+RedHat v verziji 9 podpira še več strojne opreme, še posebej je narasla podpora tiskalnikom, ki jih zna sistem uporabiti z uporabo tiskalniškega sistema CUPS.
+Sistem sedaj vsebuje tudi podporo brezžični tehnologiji bluetooth, ter omogoča sinhronizacijo z dlančniki PALM.
+Med ostalimi osveženimi programskimi paketi najdemo Mozillo 1.2.1, OpenOffice 1.02, KDE 3.1...
+Pomembno mesto ima poštni odjemalec in nadomestek MS Outlook, program Ximian Evolution 1.2.2, lažje obvladovanje sistema pa bodo tudi začetnikom omogočale prenovljena orodja za osebni požarni zid, konfiguracijo dodatne strojne opreme ter zvočnih in grafičnih nastavitev.
+Množične uporabe OLED zaslonov pri prenosnih in celo namiznih računalnikih verjetno še kar nekaj let ne bomo dočakali.
+Tehnologijo je treba še izpopolniti, poleg tega pa podjetja, ki se lotevajo proizvodnje OLED zaslonov v veliki meri proizvajajo tudi LCD zaslone in bodo po vsej verjetnosti najprej postrgala čim več dobička iz tega naslova in se bodo šele nato odločile za masovno proizvodnjo nove tehnologije.
+SOLED Stacked OLED omogoča nameščanje rdeče, zelene in modre plasti drugo nad drugo, namesto da bi bile posamezne barve v osnovni piki nameščene druga poleg druge.
+Tako lahko posebej nadziramo intenzivnost vsake izmed treh barv znotraj osnovne pike.
+Poznamo p in n tip polprevodnikov, ki sta odvisna od tega, ali snov s katero polprevodnik obogatimo (dopant) ustvari presežek elektronov ali presežek vrzeli (pomanjkanje elektronov).
+Z združitvijo teh dveh tipov polprevodnikov lahko dobimo svetlečo diodo.
+Ko na tako združen polprevodnik priključimo električno napetost se stabilnost poruši.
+Elektroni se pričnejo gibati iz n tipa v p tip polprevodnika, vrzeli pa ravno obratno.
+Kombinacija elektronov in vrzeli je nestabilna, saj vsebuje presežek energije, ki se mora sprostiti.
+In sprosti se lahko v obliki svetlobe.
+Potem, ko so podatki varno shranjeni v podatkovni bazi pa jih je potrebno tudi koristno uporabiti.
+Tu pridejo na pomoč orodja za poslovno inteligenco, Oracle Reports, Discoverer in Personalization.
+Oracle Reports nam iz številnih virov (baza, XML, tudi OLAP kocke) zgradijo izpis in ga v ustreznem formatu prikažejo uporabniku.
+Z novo verzijo jih bomo lahko izvajali tudi iz Workflowa, prihaja pa tudi vmesnik za uporabo Reports Services kot mrežnega servisa.
+Nova različica Oracle aplikacijskega strežnika prinaša tudi tri nove programe, Oracle Process Connect, Enterprise Manager Central Console in Oracle Certificate Authority.
+Enterprise Manager Central Console kot del Enterprise Managerja služi upravljanju in diagnostiki celotnega okolja, vključujoč bazo, vse komponente aplikacijskega strežnika in tudi računalnik, na katerem so le-te instalirane.
+Poleg ostalega je zanimivo še sledenje izvajanja aplikacij, predvsem kar se tiče odzivnosti in hitrosti, saj lahko na podlagi zgodovine izvajanja predčasno ugotovimo, ali jo je potrebno kako spremeniti.
+Oracle je v razmeroma kratkem času prehodil dolgo in težavno pot uveljavljanja svojih produktov iz tehnologije, ki niso baza, iz katere je podjetje nastalo.
+Aplikacijski strežnik je eden izmed teh, s skupaj več kot 200 razširitvami v različici 10G pa je postal samo še boljši.
+(1) Podatke, ki jih zajemamo iz različnih transakcijskih virov, je potrebno združiti, poenotiti, prilagoditi in prenesti ter shraniti v posebej za to namenjeno podatkovno skladišče; podatkovno skladišče in transakcijski sistem sta fizično ločena, s čimer se pri analiziranju podatkov izognemo dodatni obremenitvi transakcijskega sistema.
+(1) Kjučni tehnološki preboj pomeni podatkovna baza Oracle9i Release2; vsebuje mehanizem materializiranih vpogledov (Materialized Views MV), ki znajo izredno hitro upravljati z zbirnimi podatki nad aplikacijami; MV avtomatično izračunava zbirne tabele in jih inkrementalno osvežuje v poljubno izbranih časovnih intervalih; začetna polnenja zbirnih tabel se sedaj merijo v urah (namesto prej v dnevih), redno inkrementalno osveževanje pa v minutah (namesto prej v urah).
+(5) V paketu (Out-of-the-Box) z namestitvijo Oraclovih aplikacij E-Business Suite dobimo že tudi postavitev sistema za DBI in vso ustrezno tehnologijo; s tem bistveno zmanjšamo stroške same postavitve sistema.
+Samopostrežna rešitev za dnevno poslovno obveščanje (DBI) je namenjena vsem vrstam uporabnikov: ne samo operativcem in analitikom temveč predvsem vodstvenim delavcem, glede na njihovo poslovno funkcijo v podjetju.
+Ključni sestavni del DBI je paket pre-definiranih portalskih strani, ki oskrbujejo vodstvene delavce z informacijo iz različnih poslovnih področij: na primer bilanca uspeha (Profit and Loss) je pomembna za vodjo uprave in vodjo profitnega centra; upravljanje s stroški (Expense Management) je pomembno za vse vodstvene delavce, … itd.
+Potem so tu še informacije, ki se nanašajo na marketing, prodajo, storitve, ... itd.
+Vasja:ORACLE partnerji so zelo močno vključeni v prodajo ter implementacijo ORACLE poslovnih aplikacij in tu vidim veliko možnosti za sodelovanje.
+Ne verjamem, da bodo partnerji z doma razvitimi aplikacijami lahko na dolgi rok konkurirali celovitim tujim rešitvam, je pa na področju aplikacij veliko prostora za sodelovanje partnerjev pri prilagoditvah, uvajanju aplikacij, programiranju posebnih modulov za posebne zahteve, sistemski integraciji in podobno.
+V zvezi s temi nalogami nudimo partnerjem ustrezna šolanja preko interneta in na posebnih tečajih v Oraclovih šolskih centrih v Ljubljani in tujini.
+Slika 2: Photo Explorer, samostojni program, ki je brezplačen za
+Čeprav se generacije zaslonov LCD menjajo na dobro leto dni, ravno te dni poteka že več kot leto in pol od zadnjega velikega preskoka.
+Peto generacijo zaslonov LCD smo začeli videvati šele v zadnjih mesecih.
+In prav ti preskoki generacij prinašajo največ novosti.
+Tako se lahko spomnimo leta 2000, ko je imela večina zaslonov kontrastno razmerje le okoli 200:1, ter odzivni čas pik okoli 50 ms.
+Nato so poleti 2001 prišli prvi zasloni z kontrastnim razmerjem 300:1, svetilnostjo 250cd/m2 ter odzivnim časom 30 ms.
+Ravno ti zasloni so trg obvladovali še celotno leto 2002, in se navkljub napovedim zavlekli tudi v letošnje leto.
+Predvsem je potrebno biti pozoren na te starejše zaslone pri cenejših nakupih v spodnjem cenovnem razredu.
+Na pomladanskem sejmu CeBit smo že videli kaj nas čaka poleti in prišel je čas, ko tudi zares preizkušamo nove zaslone, ki se ponašajo z odzivnim časom okoli 20-25 ms, razmerjem kontrasta okoli 400-500:1, ter svetilnostjo nad 250cd/m2.
+OKVIR: Navkljub podatkom v specifikacijah produktov velja opozoriti na različne načine, po katerih proizvajalci merijo ključne vrednosti, še zlasti pa je znano odstopanje pri času osveževanja slike.
+Pred nakupom torej ne glede na podatke in dobljena mnenja svetujemo obvezen preizkus zaslona s strani osebe, ki ga bo uporabljala.
+V filmih Nazaj v prihodnost (ali Vrnitev v prihodnost???) so za potovanje skozi čas zadoščali avtomobil Delorean, plutonij in strela jakosti 1,21 gigavata.
+V znanosti pa je za to potrebno precej več - v glavnem velika količina eksotične snovi z negativno maso ali antimaterije.
+Danski fizik Hendrik Casimir je 1948 dokazal, da se dve nevtralno nabiti kovinski plošči na oddaljenosti nekaj milijonink milimetra v vakuumu zaradi kvantnih fluktuacij težijo spojiti.
+V kvantnem svetu so valovi podobni drobcem in drobci podobni valovom.
+Vakuumske fluktuacije med ploščami zato lahko gledamo kot stoječe valove, podobne tistim na žici kitare, ki jo je igralec trznil.
+To pomeni, da so mogoče le fluktuacije določene valovne dolžine, pri razmiku plošč ravnem celotnem številu polovic valovnih dolžin.
+Takšnih omejitev pa zunaj plošč ni in so mogoče vse dolžine.
+Povedano jezikom drobcev, je več udarov drobcev zunaj plošč kot med njimi, torej večji pritisk zunaj kot znotraj - odtod težnja k spajanju.
+Če pa vemo, da je zunaj plošč vakuum, mora zato znotraj biti eksotična masa z negativnim pritiskom ali antimaterija.
+Problem je v tem, da še vedno ne vemo - in morda dolgo ne bomo vedeli - kako s tem znanjem eno od njiju dobiti, da bi jo izkoristili za potovanje skozi čas.
+Od prvega "draženja" do uradne predstavitve je preteklo kar nekaj časa, vendar se za razliko od nekaterih ostalih proizvajalcih Olympus kar drži rokov, ki si jih je sam zastavil.
+Če bo res tako, bomo videli še ta mesec, ko naj bi se fotoaparat tudi pojavil na policah v trgovinah.
+No pri Gericomovemu modelu Hollywood in Hi-Gradovem W6700 je takoj na prvi pogled jasno, da gre za proizvod iste daljno vzhodne tovarne, Mitac.
+Pri Avteri (bivši PCX) so na željo proizvajalca, podjetja Mitac, opustili lastno ime blagovne znamke, Notex, in prevzeli ime Hi-Grade, ki je po svetu vse bolj uveljavljeno.
+Prenosnika sta na prvi, drugi in tudi vse ostale poglede enaka.
+Edina razlika je bila nalepka blagovne znamke.
+Nekaj razlik, je bilo tudi pod pokrovom, vendar z nekaj kliki po internetu hitro ugotovimo, da tudi Hi-Grade ponuja model identičen Hollywoodu.
+Da ne tratimo dragocenega papirja in varujemo slovenske gozdove, bom oba opisal kar v paketu.
+Versa S900 nekako ne spada v razred prenosnikov, ki smo se ga lotili v tej številki, zato ga predstavljamo v posebnem okvirju.
+Uvrstili bi ga lahko nekako med ultralahke in klasične prenosnike.
+Za ultralahko kategorijo je nekoliko pretežak, saj tja spadajo v glavnem prenosniki ki ne tehtajo več kod 2 kg.
+Je pa prijetno majhen, čeprav ne ravno med najtanjšimi, saj je po debelini bolj podoben prenosnikom klasičnih dimenzij.
+Rešitev v banki deluje na PC-strežnikih z operacijskim sistemom Windows.
+Okolje je varovano s požarno pregrado in protivirusno zaščito, medij za izmenjavo dokumentov pa je internet.
+Podatki se pred prenosom zakodirajo in digitalno podpišejo, kot sredstvo za overovitev uporabnika in digitalno podpisovanje dokumentov pa uporabljajo digitalno potrdilo, ki je shranjeno na pametni kartici ActivCard.
+»Komitenti bodo lahko uporabljali le digitalna potrdila, izdana v Banki Celje, enako, kot to velja za ostalo uporabo našega elektronskega bančništva (tolarski in devizni plačilni promet ter vpogled v skupno poslovno sodelovanje podjetja z banko).
+Komitent, ki že ima digitalno potrdilo za opravljanje elektronskega bančništva pri Banki Celje, lahko z istim digitalnim potrdilom opravlja tudi izmenjavo podatkov z našo banko, seveda, če ima za to ustrezna pooblastila,« je še pojasnil Gorenjec.
+Med večjimi proizvajalci stikal so seveda največja imena v svetu aktivne omrežne opreme.
+Poleg imen kot so Cisco, 3Com, Allied Telesyn pa med ponudbo najdemo še kup manj znanih ponudnikov, ki pa ciljajo zlasti na manj zahtevne uporabnike.
+Zaradi specifičnih potreb in zelo različnih funkcij, ki jih lahko stikala vsebujejo, predvsem pa zaradi ogromnih cenovnih preskokov, smo ponudbo razmejili v tri segmente.
+Najprej smo želeli segmente razmejiti glede na funkcije oziroma na to, kateremu omrežnemu nivoju (nivo jedro, porazdelitveno nivo in nivo dostopa) je stikalo namenjeno, vendar zaradi prevelikih nihanj, dodatne opreme in možnosti nadgraden to ni lahko.
+Zato smo se odločili da skupine razmejimo glede na ceno naprave.
+Če vpogled nadaljujemo v ponudbi za srednje velike uporabnike, že vidimo nekaj modularnih stikal, ki jih lahko nadgrajujemo glede na spremembe naših potreb ter glede na rast organizacije.
+Taka stikala predstavljajo malce dražji, a varnejši nakup.
+Večina stikal že podpira prvo izmed pomembnih dodatnih funkcij navidezna omrežja.
+Večina stikal podpira upravljanje, torej nadzor in nastavljanje.
+Ker gre za stikala z veliko gostoto vrat, in je nanje moč priklopiti veliko naprav, je temu primerno širša tudi hrbtenica stikala, pogoste pa so tudi gigabitne povezovalne poti, ali preko UTP ali pa preko optike.
+Med različnimi vlani promet ne poteka, niti se med njimi ne širijo promet tipa broadcast, s čimer je zmanjšana oddajna domena.
+Prednost navideznih omrežij so ogromne, saj lahko na drugem nivoju, brez ohromitve zmogljivosti in hitrosti omrežja, razdelimo omrežje na podomrežja.
+Prednosti te funkcionalnosti, ki jo omogočajo le večja, upravljana, stikala so večja prepustnost in odzivnost, večja varnost, povečana prilagodljivost...
+Nekatera stikala omgočajo združevati vzporedne poti v en skupen kanal, preko katerega v polnem načinu prenašanja izvajajo deljenje bremena na drugem nivoju.
+To je uporabno predvsem pri povezavi dveh stikal, s čimer lahko razširimo omrežje na drugem nivoju (ter efektivno preprečimo ozko grlo, ki bi bila v primeru iste hitrosti, kot so hitrosti ostalih vrat, povezava med stikaloma).
+Opozoriti velja, da si priponk k elektronski pošti ni mogoče ogledati, lahko pa jih pošljete naprej.
+Vgrajeni digitalni fotoaparat je povsem povprečen, fotografije so ob dobri svetlobi uporabne tudi kot priponka e-pošti, sicer pa so bolj primerne za pošiljanje kot MMS.
+Tu velja omeniti tehnologijo quick share, ki omogoča hitro izmenjavo fotografij (in ostalih dokumentov) med telefonom in/ali drugimi prenosnimi ali namiznimi napravami.
+V škatli je poleg slušalk (brez njih radijski sprejemnik ne deluje) tudi kabel za povezavo z računalnikom in potrebna programska oprema, z uporabo katere je pošiljanje glasbenih datotek v ali s telefona otročje lahko početje.
+Glasbo je mogoče poslušati tudi preko v telefon vgrajenega zvočnika, bluetootha 3300 pričakovano ne podpira, lahko pa bi imel infrardeči izhod.
+Vse, kar ste posneli ali prenesli v telefon, lahko uporabite tudi kot melodijo zvonjenja.
+Proti: za mobilnik čudna oblika, številske tipke, ni infrardečega izhoda
+• Funkcija prikaza večjih simbolov je v praksi manj poznana, zato dosti prodajalcev ne ve, kateri telefoni jo podpirajo in kateri ne.
+Vodafone je preimenovanja svojih operaterjev v Italiji opravil veliko počasneje kot v drugih državah kjer je imel večinski delež v mobilnem operaterju, predvsem zaradi močne in uveljavljene blagovne znamke Omnitel.
+Nekateri so celo mislili, da bo Vodafone v Italiji prav zato ohranil obe imeni, a so se ta ugibanja izkazala za napačna.
+Vodafone Italia je že v času, ko je poleg današnjega imena nosil še izvirno ime Omnitel, ključne storitve, denimo Vodafone Live!, poimenoval izključno po matični skupini, pa tudi telefoni, ki so jih v tem času prodajali, so imeli izključno rdeče oznake britanske krovne skupine.
+Mobilnik MC60 je prvi Siemensov telefon, ki ima kamero oziroma bolje rečeno digitalni fotoaparat vgrajen v ohišje in ni v obliki dodatka..
+Drugače pa ta telefon kaj dosti ne odstopa od najnovejših izdelkov tega proizvajalca.
+To pa pomeni majhnost, podpora treh frekvenčnih območji, ter GPRS in WAP.
+Zaslon je sedem vrstični ločljivosti 101 x 80 pik in podpira 12 bitno barvno globino (4096 barv).
+Po pravici povedano to danes, ko večina telefonov podpira 16 bitno barvno globino, ni ravno kako spodbuden tehnični podatek.
+Enako velja tudi pomnilnik, katerega je zgolj za 1 MB.
+Do sedaj se pri opisu telefonov nismo kaj dosti spuščali v podatke o količini bitov v njem.
+V dobi java igric, večglasnih melodij in MMS-ov pa ta podatek pridobiva na teži.
+Čim večji je namreč pomnilnik, manj se boste morali ukvarjati s brisanjem odvečne navlake z njega.
+S tem pa smo tudi pojasnili osnovne zmogljivosti telefona.
+Morda le še dimenzije 109 x 46 x 21 mm in teža 86 g, kar ga uvrščajo med manjše izdelke svoje kategorije.
+Sicer pa lahko vso zadevo začnemo tudi postopoma.
+Jesenski referendum je sicer preblizu, zagotovo pa se bo našel še kakšen.
+Predlagam, denimo, zbiranje podpisov za referendum, na katerem bi glasovali o e-volitvah.
+In zanj lahko pripravimo rešitev za e-glasovanje, tako da bomo najprej preživeli e-referendum, na katerem se vsaj ne voli politikov.
+To bi bila rešitev.
+In, če bi zadeva uspela, predlagam še en referendum, tokrat za m-poslovanje.
+Bodimo že enkrat prvi v Evropi in na svetu, ne samo po zdrahah in neumestnih pripombah vedno, ko se nekdo spomni nekaj dobrega in pametnega!
+Uporabniki zgodnjih omrežij se še iz slabih pet let nazaj spomnijo neskončnih črnih koaksialnih kablov (10Base2 ali 10Base5), ki so se vili skozi pisarne mimo prav vseh računalnikov.
+Ethernet je v tistem času uporabljal topologijo skupnega zaporednega vodila (bus), na katerega so bili priključeni vsi računalniki, na obeh koncu kabla pa je bil zaključni člen (terminator).
+S tem ko so bili računalniki na istem mediju, so si delili kolizijsko domeno, in seveda tudi pasovno širino povezave.
+Če je bilo na takem 10 Mbit/s mediju priključenih 10 računalnikov, je vsak od njih lahko sočasno teoretično uporabljal le 1 Mbit/s.
+Že v prvih omrežjih ethernet, se je pojavila potreba po medsebojnem povezovanju omrežij v recimo dveh sosednjih zgradbah.
+To nalogo so opravljale naprave imenovane most (bridge).
+Naprave so delovale na drugem, podatkovnem nivoju ISO/OSI, ter iz enega dela omrežja podatke premoščale v drugega in obratno.
+Naprave znajo premoščati tudi podatke med različnimi tipi prenosnih medijev oz. tehnologij, in to transparentno za protokole višjega sloja.
+Ker je bilo delovanje naprav implementirano v programski kodi, je bilo delovanje naprav dokaj počasno, naprave pa niso mogle povezovati veliko ločenih omrežij.
+Uporaba mostov ni nikoli zares zaživela, zato danes teh naprav v privinski obliki ne srečamo več.
+Moderna omrežja so porazdeljena v tri nivoje, sloje.
+Osrednji sloj predstavlja jedro omrežja, katerega edina funkcija je hitri prenos podatkov med oddaljenimi omrežji.
+V oddaljenih omrežjih sledi porazdelitveni sloj, ki skrbi za usmerjanje prometa, prehoda med različnimi mediji, omogoča vstop oddaljenih uporabnikov, skrbi za varnost ter spoj dostopnih nivojev.
+Dostopni nivo skrbi za priklop končnih uporabnikov in naprav v omrežje.
+Stikalo omogoča namenske povezave do naprav, kar pomeni, da lahko več naprav, priključenih na stikalo sočasno oddaja in sprejema podatke.
+To omogoča hrbtenica stikala, ki je praviloma dovolj prepustna, da omogoča maksimalen prenos na vseh vratih stikala sočasno.
+Veliko pripomore tudi ustrezni predpomnilnik, ki shranjuje prejet promet dokler niso ciljna vrata prosta za njegovo posredovanje dalje.
+Ustrezna prepustnost hrbtenice 8 vratnega stikala 10/100 Mbit/s, bi bila: 8x100x2=1,6 Gbit/s (glej okvir o duplexu).
+To pomeni, da si naprave povezane na stikalo ne delijo več pasovne širine, kar pomeni da naprave niso več v isti kolizijski domeni, to pa se odraža tudi na izboljšanem delovanju omrežja.
+Končno sodbo o produktu kot celoti in njegovih posameznih delih bo itak pokazal čas in število prodanih paketov.
+V vsakem pogledu je VS zelo soliden izdelek in skorajda najboljše razvojno orodje trenutno na trgu predvsem po sprejemljivi ceni.
+Gledano na prejšnjo različico se vprašam, če ne bi bil dovolj samo servisni popravek prejšnjega dela in to seveda zastonj.
+Temu v prid govori tudi trenutno veljavna cena za nadgradnjo, ki znaša okrog 29 USD.
+Prav zaradi tega pa vam tudi priporočam, da si ga nadgradite.
+1. november 1999, Bad Reichenhall, Nemčija 16-letni fant začne streljati iz okna stanovanja svojih staršev in ubije dva mimoidoča, nato ustreli svojo 18-letno sestro, na koncu pa še sebe.
+- Habitualizacijska teorija govori o tem, da nasilne igre igralce otopijo in se ti nanje navadijo, da jim več ne pomenijo ničesar,
+In kakšno povezavo ima ameriška vojska z računalniškimi igrami in nasiljem otrok?
+Mogoče celo večjo, kot si mislimo, saj se določeni vzorci ameriškega vojaškega drila pojavljajo tudi v vsakdanjem življenju.
+To tematiko je razskoval Dave Grossman, bivši vojak specialnih enot, ki ga je zanimalo, kaj vojak občuti, ko ubija, v kakšnih primerih ubija, skratka hotel je vedeti vse kar je mogoče vedeti o ubijanju.
+Predvsem zato, ker se je rodil v »nesrečnem« času, ko ni bilo nobene vojne in sam kot vojak ni imel priložnosti za resničen boj.
+Rezultat je knjiga z naslovom »On Killing.
+Njegove raziskave so ga pripeljale do tega, da je obesil vojaško kariero na klin in se posvetil izobraževanju ljudi o tem, kaj pomeni nekoga ubiti in s tem postal eden najbolj znanih (in najbolje plačanih) mirovnikov na svetu.
+Slika Grossman.jpg: Dave Grossman, bivši vojaški specialec, ki je ustanovil novo vedo, kilologijo, ki se ukvarja z psihologijo ubijanja.
+Igra Wolfenstein se je pojavila v času začetkov tridimenzionalnih računalniških iger.
+Da ne bi igra predstavljala prevelik šok in bila izpostavljena kritikam, so pri id Software uporabili kar lik ameriškega agenta poljskega rodu B.
+J. Blazkowicza, ki je dejansko pobegnil iz nacističnega ujetništva, kasneje prejel kongresno medaljo za hrabrost in bil resničen vojni heroj.
+Igra je postavljena v nekak skrivnosten grad, od koder mora B.
+J. pobegniti, pri tem pa pobiti vse, kar mu pride na pot.
+To »vse« so seveda nacisti.
+In če so le nacisti, potem je igri seveda vse oproščeno, saj je to golazen seveda treba pobiti, a ne?
+Proizvajalci igre igralce vabijo k igranju z besedami: »To je herojska zgodba o zavezniškem agentu v drugi svetovni voljni, B.
+Kljub grozljivim nevarnostim, večkrat oborožen le z nožem in lastnim razumom, mu je uspelo pobegniti iz nacistične ječe.
+To je zgodba o njegovem nočnem napadu na vodjo projekta izdelave bojnih plinov, o pridobitvi nemških vojaških načrtov za kemično vojno in umoru generala, ki je vodil to vojno.
+Zgodba pripoveduje o tem, kako je B.
+J. Blazkowicz postal simbol miru in pravičnosti, saj je prestal do tedaj še nevidena grozodejstva in sovražniku zadal odločilen udarec.«
+Ko igralcu razložijo smisel te častne misije, ga na pot pospremijo z: »B.
+J. Blazkowicz, v rokah imate pištolo, pred seboj pa smrtno nevarno misijo!
+Če vam bo uspelo, boste imel kaj pripovedovati svojim vnukom, če pa ne, boste vsaj umrl v slavnem boju za svobodo!«
+Slika Zgodovina 1 - Wolfenstein.jpg: Igra Wolfenstein je odprla pot »streljačinam«.

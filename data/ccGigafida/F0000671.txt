@@ -1,0 +1,98 @@
+medn. Iskanje novih programskih usmeritev
+
+Status javnega raziskovalnega zavoda pomeni, da gre za neprofitno državno ustanovo z opredeljenimi dejavnostmi v okviru javne službe. 
+Inštitut v okviru registrirane dejavnosti opravlja predvsem naslednje naloge:
+
+* temeljne, uporabne in razvojne raziskave s področja kmetijstva;
+
+Ob naravnih nesrečah, kot je potres, smo ljudje usmerjeni predvsem na tiste posledice, ki nas neposredno prizadenejo. 
+Hude poškodbe, povzročene na primer od plazov in sorodnih nestabilnih pojavov, ki se sprožijo ob potresu, nas navadno zanimajo, le če neposredno ogrožajo naša življenja ali imovino.
+
+Alpski svet in njegovo predgorje zvečine gradijo apnenci in dolomiti, ki so seizmogeološko ugodna podlaga. 
+Zadnji potres je opozoril, da lokalna geologija zelo vpliva na učinke potresa (Znanost, 20. maja letos). 
+Tokrat pa govorimo o nestabilnih pojavih, ki pogosto nastanejo ob potresih v visokogorskem svetu. 
+Poleg podorov se lahko ob zelo strmo nagnjenih pobočjih pojavijo še drsenje, padanje, ali valjenje skalnih blokov in kamnov. 
+Največkrat se v prvi fazi sproži drsenje labilnega bloka in se spremeni v kotaljenje in odbijanje od pobočja.
+
+Najmočnejši potres v tem stoletju na slovenskem ozemlju je v Posočju na razmeroma majhnem območju povzročil izredno veliko pojavov nestabilnosti terena. 
+Vsak izmed njih ima svoje posebne značilnosti. 
+To prinaša izredno priložnost strokovnjakom, ki se ukvarjajo s preučevanjem nestabilnosti terena. 
+Omogoča jim sistemsko podrobno preučevanje raznovrstnih pojavov zdrsov, to pa lahko rabi kot podlaga napovedim ob podobnih dogodkih in človekovemu bolj premišljenemu poseganju v prostor.
+
+Naslednji opisi so narejeni na podlagi prvih ogledov in želijo samo ponazoriti kompleksnost problematike, povezane z zdrsi, plazenji, kamninskimi tokovi in podori. 
+Podrobneje opisujmo le pojave, ki so nastali v dolini Lepene. 
+Seveda pa ne moremo prezreti podorov ob izviru in toku reke Tolminke in drsenja v Bohinjskem jezeru.
+
+Podori ob Tolminki - Številni skalnati podori so nastali tudi nad Tolminom ob toku reke Tolminke. 
+Največje razdejanje je nastalo na Osojniku, tam je kamnina zgrmela v dolino na treh pobočjih. 
+Potresni sunek je hrib dobesedno dvignil in ob tem je poškodovana hribina zgrmela v dolino. 
+Značilnost podorov ob Tolminki je nepravilnost odlomnih robov. 
+Nastali so na območju, kjer je hribina dolomitizirana in tektonsko močno poškodovana. 
+Razpoklinski sistemi med seboj sekajočih se vzporednih razpok razkosavajo hribinsko maso v različno velike bloke. 
+Potresni sunek (upoštevati je treba tudi atmosferske vplive) je povzročil zdrs tam, kjer je določen sistem razpok neugodno usmerjen, glede na nagib pobočja (sliki 6 in 7).
+
+BESEDILA K SLIKAM
+
+Ciklus predavanj profesorja Franñoisa Sigauta (EHESS, Pariz) na temo Poljedelstvo in orodja, ki smo ga napovedali za ta teden, smo prestavili na naslednji teden. 
+Prvo predavanje bo v ponedeljek, 15. junija letos, ob 15. uri, v prostorih ISH na Bregu 12 v Ljubljani.
+
+Virus problems with vegetatively propagated ornamentals
+
+vsako sredo od 13. do 16. ure po telefonu (061) 1757-000
+
+internetski naslov: http://www.mzt.si/mzt/activities/sklep-nacl-temapl-98.html
+
+Ko so morali nekateri študenti ljubljanske fakultete za arhitekturo maja letos narediti idejno zasnovo slovenskega paviljona za svetovno razstavo v Hannovru 2000, je bila najboljša med njimi Tina Pezdirc iz četrtega letnika. 
+Dobila je oceno »odlično z zvezdico«. 
+Pogovarjali smo se o njeni nalogi, zadnji mednarodni delavnici, študiju in seveda o sami fakulteti.
+
+* In v vsaki je nekaj drugega.
+
+* To pomeni, da naj pride na vrsto raje šele potem, za dokončno izdelavo projektne dokumentacije.
+
+Tomaž Švagelj
+
+Če želimo, da se bomo s samodejnimi napravami lahko sporazumevali in jih uporabljali v slovenščini, je raziskovalno in razvojno delo na tem področju tudi pri nas nujno.
+
+* ugotoviti, v katerem izmed štirih možnih jezikov (češki, nemški, slovaški, slovenski) je klicatelj nagovoril sistem;
+
+* sestavljati odgovore v obliki govornega sporočila v jeziku, ki ga govori klicatelj.
+
+Projekt so vodili nemški sodelavci z Univerze Friderika Aleksandra Erlangen-Nürnberg z Oddelka za razpoznavanje vzorcev pod vodstvom prof. Heinricha Niemanna. 
+Ta skupina je med sodelovanjem pri prejšnjih projektih že razvila delujoč sistem EVAR (Erkennen-Verstehen-Antworten-Rückfragen) za govorno telefonsko poizvedovanje o železniških povezavah v nemškem jeziku. 
+Na podlagi njihovih prejšnjih izkušenj so si raziskovalne skupine prizadevale zgraditi nemško-slovanski štirijezični sistem s prej naštetimi možnostmi. 
+Raziskovalci s slovanskih govornih območij so sisteme za svoje jezike zasnovali po obstoječem nemškem sistemu in razvili ustrezne manjkajoče sestavine za svoj jezik.
+
+Poseben in od jezika močno odvisen del v okviru celotnega sistema je pomenil pomenski razčlenjevalnik razpoznanega govora. 
+Njegova naloga je, da razpoznani niz besed pomensko opredeli in ga zapiše v tako imenovanem pomensko predstavitvenem jeziku SIL (Semantic Interpretation Language). 
+Ker je razpoznani niz besed zaradi napak pri razpoznavanju in ohlapnega izražanja uporabnikov pogosto skladenjsko nepravilen, mora biti razčlenjevalnik za take napake čim bolj neobčutljiv, iz razpoznanega niza pa mora izločiti le za sistem pomembne pomenske podatke. 
+Sistema na primer prav nič ne zanima, ali želi uporabnik v kraju pristanka letala obiskati svojo staro mamo in ali je uporabnik že polnoleten. 
+Ker je bil problem razumevanja govora tematsko močno omejen, smo se te naloge lotili z ugotavljanjem manjšega števila pomenskih kategorij, kot so kraj prihoda, kraj odhoda, letalski prevoznik, časovni izrazi, potrditve in uvodne ter sklepne izjave. 
+Vse te kategorije smo z uporabo leksikona možnih besed in ustreznimi programskimi postopki skušali odkriti med razpoznanimi besedami in jih ovrednotiti.
+
+Pobude smo sprožili na več ravneh hkrati, med njimi je treba omeniti evropsko mrežo ERASMUS/CUMULUS (Praga, 24. do 25. aprila letos), globalno organizacijo ICSID z evropsko regionalno konferenco (Hannover, 25. maja letos) in Asociacijo oblikovalskih organizacij evropske skupnosti BEDA (Bureau of European Design Associations), ki bo dala razpravo na dnevni red letne skupščine novembra letos. 
+Prav ta je v zadnjih letih s svojimi neposrednimi povezavami z Brusljem in WIPO učinkovito posegla v novo pojmovanje zaščite dizajna, kot nove varovane kategorije.
+
+Če se vrnemo k vprašanju klasifikacije, ki ga obravnavajo viri Unesca ali Cerifa, pa samo Avstralski statistični biro (ABS Surveys) v pregledu RiR dejavnosti opredeli sprejemljiv položaj za oblikovanje. 
+Samo ABS je oblikovanje vključil v poglavja, kot so zgodovina oblikovanja, inovacija v oblikovanju, oblikovalska teorija, oblikovalski menedžment in praksa. 
+To so dobra izhodišča za razvojne korake.
+
+medn. Načrt
+
+Saša J. Maechtig
+
+(MEDN.) 
+V manj kot letu in pol je FEMIRC že dal velike rezultate
+
+Sto petdeset let je že, kar je med Slovenci postala znana latinska beseda matura, nekakšna zrela zadeva. 
+V njej se skriva vsaj dvoje pomembnih stvari, ena je zelo težavna in resna, druga je zabavna, vendar tudi naporna. 
+Večini običajnih ljudi je vsakega maja, junija, znana le druga plat, ta, ki ima podobo sprevodov razposajenih fantov in deklet, ki si privoščijo javno slovo od šole. 
+Obe plati in marsikaj vmes in v ozadju pa je na ogled v Šolskem muzeju v Ljubljani. 
+Razstavo je pripravila Mateja Ribarič in bo verjetno v veselje večini izobražencev, ne glede na leta.
+
+držav pokrita z gozdovi - v resnici sploh ni dreves!
+
+Z optimizmom torej, ki nam ga sicer tako primanjkuje in ki ga ne bi smeli zatreti. 
+Upamo torej, da bodo parlamentarci imeli dovolj časa in volje, da bodo poklonjeni zbornik prelistali tudi do zadnjih poglavij. 
+Ta namreč ne kažejo le na povsem konkretne primere posameznih držav, kako na primer z učinkovito davčno politiko preusmeriti gospodarstvo k trajnostnemu razvoju, marveč tudi na trende, katerih poznavanje je nujno vsakomur z močjo političnega odločanja (in odgovornosti).
+

@@ -1,0 +1,9 @@
+Počasi a z gotovostjo prihajajo časi žepnih osebnih računalnikov.
+Prve korake v to smer lahko prav zdaj opazujemo pri mnogih proizvajalcih.
+Pojavljajo se v oblikah ročnih osebnih računalnikov (Windows CE) ali elektronskih rokovnikov.
+Med slednje bi lahko uvrstili tudi enega najpopularnejših tovrstnih izdelkov - Pilot - predvsem po modemih znanega proizvajalca USRobotics.
+Različicama Pilot 1000 in 5000, ki se po celem svetu uspešno prodajata že dobro leto, se je nedavno pridružil še nekoliko izpopolnjeni Palm Pilot.
+Poglavitna novost, ki jo opazimo že na prvi pogled, je možnost osvetljave ekrana, ki so jo uporabniki starih pilotov pogosto pogrešali.
+Različica Personal Edition se v ostalih lastnostih bistveno ne razlikuje od Pilota 5000, prav tako vsebuje 512 KB RAM, sistem pisanja, ki je bil pogosto predmet kritik, je še vedno enak...
+Palm Pilot Professional Edition je poleg vsega opremljen z 1 MB RAM, proizvajalec pa je pri tej različici veliko pozornosti posvetil tudi dostopu do interneta in branju elektronske pošte.
+Kmalu nam bo na voljo analogni modem, ki je že izdelan - nekaj težav trenutno predstavljajo A-testi v evropskih državah, USRobotics pa razvija tudi vmesnik za GSM.

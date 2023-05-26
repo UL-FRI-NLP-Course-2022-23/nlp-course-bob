@@ -1,0 +1,15 @@
+To podjetje že leta izdeluje dokaj uspešen pisarniški paket Star Office, ki se ponaša s popolno združljivostjo z Microsoftovim paketom MS Office, predvsem pa deluje na različnih strojnih in programskih platformah (Windows, Solaris, Linux, OS/2).
+Sun je za začetek paket ponudil v prosto razširjanje, v začetku prihodnjega leta pa ga namerava prek novega spletnega portala (StarPortal) ponuditi tudi v selektivno spletno uporabo.
+Uporabniki se bodo priklopili na ustrezno stran, Sun pa jim bo za morebitno manjše denarno nadomestilo dovolil oddaljeno poganjati spletno različico urejevalnika besedil iz StarOffice (ali morda preglednico ali kaj tretjega).
+M2000 Module omogoča tri načine delovanja.
+Po želji lahko uporabljamo uro in datum s kartice in originalni računalnikov Bios, ali računalnikovo uro in datum ter Bios s kartice ali pa vse komponente s kartice.
+Predvsem slednja možnost zagotavlja popolno združljivost z letom 2000, saj si v tem primeru zagotovimo uro, (pravilen) datum in Bios neposredno s kartice.
+Palm V dokazuje, zakaj je 3Com na tem področju tako uspešen.
+Inovativen izdelek je vsaj korak, če ne dva, pred tekmeci.
+Morda mu manjka kakšna dodatna oprema, kot je možnost snemanja glasu, a večina uporabnikov očitno tega (še) ne potrebuje.
+Zato so lahko toliko bolj zadovoljni z izjemno lepo čitljivim črno-belim zaslonom, ki je glavna odlika izdelka v primerjavi s predhodnikom Palmom III.
+Prav zato je nadgradnja priporočljiva, pa čeprav cena ni zanemarljiva.
+A za ta denar trenutno boljšega dlančnika na trgu (še) ni.
+Vprašanje je samo, kako dolga je še pot od pobude, kar v tem trenutku SAN je, pa do dejanske implementacije v različne informacijske sisteme.
+Po zagotovilih podjetja IBM naj bi že v tem letu izdali prvo specifikacijo SAN 1.0, ki naj bi vsebovala predpise in standarde.
+Obenem pa se že dogovarjajo z izdelovalci strojne in programske opreme, da bi SAN podprli v svojih izdelkih.

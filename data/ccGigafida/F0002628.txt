@@ -1,0 +1,963 @@
+Potem pa so mediji kar naenkrat začeli trobiti o čudovitem novem orodju, ki lahko v trenutku zbliža sorodni duši na nasprotnih straneh zemeljske krogle. 
+In kmalu smo vsi ugotovili, da je življenje brez Interneta popolnoma nemogoče. 
+Če želite danes uspešno prodajati nov izdelek, mora v oglasu nujno stati tudi beseda “Internet”. 
+Sposoben pospeševalec prodaje pametnih sesalcev zagotovo ne bo pozabil omeniti, da lahko z njimi posesate tudi prah z Web strani...
+
+Še vedno pa obstaja možnost, da niste ravno najbolj izkušen mednarodni popotnik po avtocestah in obvozih razvejanega sistema, ki ga imenujemo Internet. 
+V takem primeru boste vrejetno potrebovali nekaj pomoči. 
+Če je temu tako, ste potrkali na prava vrata.
+
+• Kako vstopiti v Internet in kako v njem potovati.
+
+• Kako sodelovati v razpravah na Internetu.
+
+Kako uporabljati to knjigo 
+
+vtipkajte to ime datoteke
+
+Ko boste prebrali ta del, boste že pravi deskar po Internetu. 
+Hkrati pa boste pripravljeni na spoznavanje zapletenejših značilnosti najpopularnejše informacijske avtoceste.
+
+Internet
+
+Internet servisi
+
+Takšna je torej zgodovina Interneta v nekaj kratkih odstavkih. 
+Podrobnosti boste morali poiskati drugje, saj se bomo od sedaj ukvarjali samo še s sedanjostjo (in morda s prihodnostjo).
+
+Internet pa je kljub temu nekaj posebnega. 
+Prvič, Internet je največja računalniška mreža na svetu. 
+Drugič, Internet je povsem odprt vsakomur, ki je pripravljen plačati “vstopnino”, le-ta pa se dan za dnem znižuje. 
+Mnogi uporabniki imajo brezplačen dostop, največ pa je takih, ki plačujejo tri do pet tisoč tolarjev mesečno.
+
+Zgornji seznam še zdaleč ni popoln. 
+V njem so našteti samo najbolj popularni servisi Interneta.
+
+Osnovni tipi priključitve:
+
+Microsoftova FTP lokacija pri pregledu s pomočjo terminalske priključitve.
+
+V naslednjem sestavku se bomo omejili na direktno in terminalsko priključitev, ker sta najpogostejši in eno od njih verjetno že uporabljate tudi sami (ali pa jo še boste). 
+Pomembni sta zato, ker:
+
+V tem poglavju
+
+Namestitev programa za elektronsko pošto
+
+Real Name: to je vaše pravo ime. 
+Mnogi e-mail programi bodo ob pošiljanju elektronske pošte ob elektronskem naslovu naslovniku poslali tudi vaše pravo ime.
+
+SMTP (Simple Mail Transfer Protocol) Host: medtem ko je poštni nabiralnik program, ki sprejema vašo elektronsko pošto, je SMTP program za pošiljanje vaše elektronske pošte v Internet. 
+Vpisati boste morali številko, ki vam jo priskrbi vaš ponudnik Internet storitev ali pa kar Internet naslov ponudnika.
+
+$$CC$$: mesto za vpis naslova osebe, ki ji želite poslati kopijo sporočila.
+
+E-mail programi se med seboj krepko razlikujejo, zato vaš program morda ne vsebuje vseh zgoraj opisanih elementov (še posebej pri e-mail programih priključitvenih servisov). 
+Spodnji sliki prikazujeta okni Compose v dveh različnih e-mail programih.
+
+To: enako
+
+MCImail mcimail.com
+
+Sporočila elektronske pošte so običajno izpisana z neoblikovanim besedilom. 
+Vzrok je tipično “internetovski”: oblikovne značilnosti besedila (videz črk in tipografija) so odvisne od programa, ki sprejme sporočilo in ne od programa, s katerim ste sporočilo poslali. 
+Zato je oblikovanje besedila elektronskega sporočila popolnoma nepotrebno, saj bo prejemnik črke videl tako, kot je določeno v njegovem e-mail programu. 
+Priključitveni servisi dovoljujejo tudi uporabo barv in različnih tipografij, ki pa jih bo videl samo prejemnik, ki je član istega priključitvenega servisa kot pošiljatelj.
+
+Kaj lahko naredite s prispelim elektronskim sporočilom. 
+Z gotovostjo lahko trdim, da lahko v vsakem e-mail programu prispelo pošto vsaj preberete. 
+Večina e-mail programov vam omogoča tudi tiskanje in shranjevanje prispelih sporočil (če vaš program tega ne pozna, potrebujete drugega). 
+Prispela sporočila lahko tudi pobrišete, jih pošljete naprej nekomu drugemu ali pa pošiljatelju takoj odgovorite.
+
+2. 
+Če morate uporabiti enega od e-mail sistemov, se pozanimajte, kateri sistem uporablja prejemnik datoteke (MIME, UUENCODE ali BinHex). 
+Če prejemnik uporablja drugačen sistem kot vi (in ima temu primerno programsko opremo), vaših datotek ne bo mogel pretvoriti nazaj v originalno obliko.
+
+3. 
+Ugotovite, kateri sistem je vgrajen v vaš e-mail program. 
+Če uporablja prejemnik enak e-mail program, kot je vaš, bo postopek potekal brez težav. 
+V nasprotnem primeru bo potrebno nekaj iznajdljivosti.
+
+Zaradi duševnega miru je dobro upoštevati naslednje napotke:
+
+• Uporabljajte smeške. 
+Eden od načinov obrambe pred napačnim razumevanjem vaših elektronskih sporočil je tudi uporaba smeškov - preberite naslednje odstavke.
+
+Ugriznili so vas
+
+Nekateri ljudje pošiljajo groba ali hudobna sporočila nalašč. 
+Taki uživajo v elektronskih spopadih, saj vedo, da jim ne morete do živega. 
+Ne nasedajte jim!
+
+:-> Nasmeh
+
+Kratice
+
+Netscape Navigator je danes najpopularnejši brskalnik za pregled Web strani.
+
+Net Search: lokacije, ki vam pomagajo pri iskanju tistega, kar vas zanima. 
+Ogledali si jih bomo v poglavju 19.
+
+Opombe in zgodovina 
+
+Če vrstice za vpis naslova iskane Web strani na zaslonu ne želite videti, jo lahko pustite tudi izklopljeno (tako bo na zaslonu več prostora za prikaz vsebine same strani). 
+V takem primeru lahko naslov iskane strani po potrebi vpišete v pogovorno okno, ki ga v Netscape odprete s pritiskom na Ctrl+L, v Internet Explorerju pa z izbiro ukaza $$Open$$ v meniju $$File$$ (ali Ctrl+O). 
+V obeh primerih v okvir pogovornega okna vpišete URL in pritisnete Enter. 
+Iskana stran se pojavi na zaslonu.
+
+Kako naj v Web-u najdem tisto, kar me zanima?
+
+Potovanje po Web-u je bilo včasih zelo hitro. 
+Prvi brskalniki niso mogli prikazovati slik, besedilo pa se preko Interneta prenaša veliko hitreje, kot slike. 
+Prenos slik, zvokov, videa in ostale večpredstavne šare pa potovanje zelo upočasni. 
+Video je najpočasnejša stvar v Web-u, vendar pa nanj naletite relativno redko. 
+Zato so statične slike (ki so v večini Web strani) glavni krivec za počasnost.
+
+Zapomnite si naslednje:
+
+V Netscape sta na voljo dva načina:
+
+Internet Explorer pa ponuja štiri načine:
+
+• Na poljubno bližnjico kliknite z desno tipko miške. 
+V priročnem meniju izberite $$Open in New Window$$. 
+Odpre se novo okno brskalnika Netscape, v katerem se čez nekaj trenutkov pojavi iskani dokument.
+
+Namig vprašljiv
+
+Predpomnilnik 
+
+V takih primerih je potrebno iskano Web stran ponovno “naložiti”, torej pogledati na njen elektronski naslov, namesto da bi dopustili odpiranje iz predpomnilnika. 
+Temu je namenjen gumb Reload (ali ukaz View, Reload). 
+Po svoji stari navadi so pri Microsoftu tudi tu uporabili nov izraz; v Internet Explorerju morate izbrati ukaz $$Refresh$$. 
+Prikažite torej izbrano Web stran, potem pa kliknite Reload ...
+Refresh$$). 
+Tako brskalniku naročite: “Zavrži staro stran iz predpomnilnika in prikaži najnovejšo različico.”
+
+Ne pozabite ukaza Find
+
+V poglavju 7 boste spoznali “sestavljanje” pregledovalnika. 
+Če boste ob konfiguraciji določili, da naj se vse datoteke shranijo na trdi disk, Netscape ne bo več prikazoval pogovornega okna Unknown File Type. 
+Namesto tega bo takoj odprl pogovorno okno File Save.
+
+• Če je pomnilnik vašega računalnika dovolj velik, lahko hkrati prikažete več Web strani. 
+Dodatne Web strani se pojavijo v novih oknih brskalnika.
+
+Obrazci, programčki in ostala čudesa v Web-u
+
+Vstop v zaščitene Web strani
+
+Preko Web-a lahko naročite različne vrste artiklov. 
+Ko v Web straneh nekega podjetja poiščete izdelek, ki ga želite naročiti, kliknete na ustrezno bližnjico (npr. Order) in pred vami se pojavi obrazec. 
+V ta obrazec vtipkate osebne podatke (npr. podatke o kreditni kartici in svoj naslov) ter podatke o izdelku, ki ga želite naročiti. 
+Vse skupaj potem preko Interneta pošljete prodajalcu (običajno v obliki elektronske pošte). 
+Obstaja verjetnost (čeprav majhna), da bo te podatke prestregel še kdo drug. 
+Zato Netscape, Explorer in drugi brskalniki ponujajo zaščiten način prenosa podatkov. 
+Če obrazec, ki ga pravkar izpolnjujete, “domuje” v posebnem https:// strežniku (zaščitenem strežniku), se vsi podatki obrazca, preden jih pošljete nazaj, šifrirajo. 
+Ko strežnik sprejme podatke vašega obrazca, jih dešifrira. 
+Šifrirani podatki, ki potujejo med vašim računalnikom in zaščitenim strežnikom, so neuporabi, čeprav jih morda kdo vmes prestreže.
+
+Trenutno želijo ljudje po Web-u deskati skoraj brezplačno. 
+Ko plačajo ponudniku Internet uslug mesečno “naročnino”, želijo po Internetu deskati zastonj.
+
+Sekundarna okna 
+
+Okvirji 
+
+Zelo verjetno ste o novem programskem jeziku Java že slišali. 
+Velika obljuba njegovih avtorjev je, da bo s pomočjo tega programskega jezika Web resnično oživel. 
+Po Web straneh se že sedaj sprehajajo toasterji in krožniki, ki govorijo Svahili, kar pomeni, da obljuba ni povsem iz trte zvita.
+
+Igra, izdelana s programskim jezikom Java.
+
+Spremembo (posodobitev) strani bo lahko zahteval strežnik. 
+Pri tem izvedena avtomatska operacija se imenuje server push. 
+Čeprav sami ne zahtevate novih podatkov, bo strežnik poslal vašemu brskalniku vsakih nekaj minut nove informacije. 
+S tem bo nadaljeval, dokler ne boste zaprli izbrane Web strani.
+
+** namig brez veze ** 
+
+Večpredstavnost 
+
+Kako brskalnik obvlada različne tipe datotek
+
+Določitev dodatkov in pregledovalnikov
+
+Mnogokrat je pregledovalnik veliko sposobnejši od ekvivalentnega dodatka. 
+Odgovor na vprašanje o večji primernosti dodatkov ali pregledovalnikov je torej skrit v preizkušanju.
+
+Zahvaljujoč sposobnosti dodatka Live3D se Netscape kocke v Web strani vrtijo.
+
+Če želite poizkusiti, lahko za predvajanje videa uporabite mnoge pregledovalnike in dodatke. 
+Najbolj pogosta oblika video datoteke je .AVI (Windows). 
+Dodatek za predvajanje teh datotek vaš brskalnik verjetno že vsebuje. 
+Naleteli boste tudi na datoteke programa QuickTime ali MPEG datoteke. 
+Novi tip video datotek je .VIV. Datoteke tega tipa so kompresirane .AVI datoteke, zato je njhov prenos nekoliko hitrejši. 
+Netscape 3.0 vsebuje enostaven “streaming” dodatek za predvajanje .AVI datotek (na naslednji sliki), ki pa je slabši (ima manj možnosti) kot drugi video dodatki ali pregledovalniki.
+
+S klikom na sliko video poženete ali ustavite.
+
+“Streaming” video
+
+Na voljo je tudi večje število dodatkov in pregledovalnikov za predvajanje animacij. 
+Vsako podjetje za izdelavo animacijske programske opreme izdela vsaj en dodatek, vendar so v Web-u pogosti samo nekateri tipi animacijskih datotek. 
+Najbolj razširjene so Macromedia Authorware and Directory animacije, ki jih lahko pregledate z dodatkom Shockwave. 
+Kakšna je razlika med videom in animacijo? 
+Video je v splošnem film, animacija pa risanka.
+
+Kot sem že omenil, lahko z ustrezno vrsto pregledovalnika ali dodatka pregledate katerokoli datoteko v Web-u. 
+Seveda pa vseh dodatkov ali pregledovalnikov ni potrebno namestiti. 
+Dobro je imeti pri roki dodatke ali pregledovalnike za datoteke iz prvih dveh skupin, saj so le-te v Web-u zelo pogoste.
+
+Namestitev dodatka 
+
+Postopek je popolnoma enostaven. 
+Iz Web-a prenesite namestitveno datoteko dodatka v svoj računalnik (v “download” direktorij, ki je opisan v poglavju 17). 
+Poženite pravkar prenešeno namestitveno datoteko; namestitveni program se lahko požene samodejno, ali pa se iz namestitvene datoteke najprej “odpakirajo” vsi potrebni programi, vi pa morate potem pognati še program Setup.exe.
+
+Namestitev pregledovalnika pred prenosom datoteke 
+
+Pregledovalnik izberite v pogovornem oknu $$Open With$$ sistema Windows 95.
+
+Pogovorno okno $$Options$$, v katerem določite pregledovalnik vnaprej.
+
+Najprej izberite tip datotek, za katerega želite določiti pregledovalnik. 
+Kliknite gumb New Type in izpolnite okvirje. 
+V zgornji okvir vpišite poljuben opis datotek izbranega tipa, v naslednjega njihovo končnico (npr. za Wordove datoteke .DOC), v padajočem spisku pa izberite MIME tip. 
+Kliknite gumb $$New$$. 
+V novem pogovornem oknu kliknite gumb $$Browse$$, potem pa poiščite program, s katerim želite prikazati datoteke izbranega tipa. 
+Potrdite nastavitve v vseh pogovornih oknih.
+
+• Brskalniki lahko prepoznajo mnoge tipe datotek: HTML, besedilo, grafike in različne zvočne datoteke. 
+Ko naletijo na datoteko, ki je ne prepoznajo, jo poskušajo prikazati s pomočjo dodatka ali pregledovalnika.
+
+Namesto tipkanja lahko predlogo Web strani dobite tudi tako, da pošljete elektronsko pošto na naslov ciginternet@mcp.com, pri tem pa v vrstico “Subject” vpišite ownweb. 
+Odgovor shranite v obliki navadnega besedila in ga odprite v enostavnem urejevalniku. 
+Pobrišite vse besedilo pred zapisom <HTML> (ne pobrišite zapisa <HTML>).
+
+Pazite,
+
+Zamenjajte vse primere bližnjic z naslovi Web lokacij, ki jih želite obiskati. 
+Opazite lahko, da v predlogi pod drugim, tretjim in četrtim podnaslovom ni primerov bližnjic. 
+Namesto, da bi jih vtipkali, jih lahko preprosto prekopirate izpod prvega podnaslova. 
+Ko končate, shranite datoteko (s končnico .HTM), potem pa jo odprite v brskalniku (z ukazom File, Open). 
+Pred vašimi očmi se bo pojavila vaša prva, v desetih minutah izdelana Web stran. 
+Precej enostavno, ali ne?
+
+Iz stani s podatki o posameznih glasbenih zvrsteh lahko vodijo dodatne bližnjice, npr. do Web strani založb, ki se ukvarjajo z izbrano zvrstjo. 
+Do Web strani GLASBA.
+HTM pa lahko pridete tudi s klikom na bližnjico, ki jo namestite v začetno stran. 
+Pri sestavljanju hierarhije ni nobenih omejitev.
+
+Kot vidite, predstavlja večji del opravkov pri izdelavi Web strani vpis bližnjic do drugih strani (ki so seveda lahko kjerkoli v Web-u). 
+Namesto tipkanja ustreznih elektronskih naslovov lahko URL tudi prekopirate. 
+Pri tem z brskalnikom najprej prikažete stran, do katere naj vodi bližnjica v vaši Web strani. 
+Naslov trenutno odprte Web strani se pojavi v okvirju Address ali Location. 
+Z vlečenjem z miško preko vsebine tega okvirja naslov označite, potem pa ga s pritiskom na Ctrl+C (ali Edit, Copy) prekopirate v odložišče. 
+Preklopite v urejevalnik, v katerem sestavljate svojo Web stran in bližnjico prilepite na ustrezno mesto (Ctrl+V ali Edit, Paste).
+
+Ne? 
+Želite več? 
+V redu, potem boste to tudi dobili! 
+Poglejte na priložen CD in v svojem brskalniku odprite datoteko !start_here.html, ki je shranjena v mapi cigbooks\html. 
+Prebrskajte jo in odkrili boste načine za vstavitev grafik v Web strani, naprednejše kode, spremembo slogov besedila in opise različnih orodij za urejanje HTML datotek.
+
+• Običajno je potrebno besedilo Web strani vpisati med začetno in končno kodo, npr. <TITLE>Začetna stran</TITLE>. 
+
+Kaj lahko v njej najdete?
+
+Kaj je UseNet?
+
+Kot ste že spoznali, je Internet množica med seboj povezanih računalniških omrežij. 
+Zato vsebuje tudi nepregledno število različnih skupin za razpravo. 
+V jeziku Interneta se te skupine imenujejo newsgroups. 
+Vsak ponudnik Internet storitev je običajno naročen na zbirko skupin za razpravo - včasih tudi na nekaj tisoč skupin.
+
+http://www.geocities.com/Athens/2694/freenews.html
+
+Naslednji odstavki predstavljajo samo majhen del skupin za razpravo, ki so na voljo:
+
+alt.comedy.british: pogovori o britanski komediji.
+
+sci.anthropology: pogovori o antropologiji.
+
+alt: “alternativne teme”. 
+Mnogi ljudje jih imajo za neprimerne, pornografske ali preprosto čudne. 
+Običajno se ukvarjajo s povsem nedožnimi temami in mnogokrat predstavlajo zanimivo branje.
+
+gnu: skupine za razpravo združenja Free Software Foundation.
+
+Naslednji nivo 
+
+alt.animals.felines.snowleopards
+
+Vsi hierarhični sistemi so enaki. 
+Pod prvim nivojem bionet. naletite npr. na drugi nivo genome, ta pa je še naprej razdeljen na skupine tretjega nivoja: bionet.genome.arabidopsis, bionet.genome.chrom22 in bionet.genome.chromosomes.
+
+• Vsebino skupin za razpravo pregledate s pregledovalnikom novic. 
+Tega ponujajo priključitveni servisi in ponudniki Internet storitev, ali pa je vgrajen v brskalniku. 
+Če potrebujete drug pregledovalnik novic, preglejte knjižnice programske opreme v dodatku A.
+
+ROT13: šifrirana sporočila
+
+Pogovorno okno, s katerim se v pregledovalniku novic Gravity “naročite” na dostopne skupine za razpravo.
+
+Po dvakratnem kliku imena neke skupine za razpravo, se njena vsebina (samo naslovi sporočil) pojavi v srednjem delu okna.
+
+Seznam imen skupin za razpravo
+
+• Kliknite naslov sporočila z desno tipko miške in iz priročnega menija izberite Mark as Read (samo izbrano sporočilo) ali Mark Thread as Read (celotno nit).
+
+Morda ste po imenu ukazov že opazili, da se kot ime za sporočilo (message) v pregledovalnikih novic uveljavlja tudi izraz “članek” (article).
+
+Obstajajo različni načini pošiljanja in odgovarjanja na sporočila v neki skupini za razpravo. 
+V pregledovalniku novic Gravity lahko uporabite spodaj opisane postopke (ukazi v drugih pregledovalnikih so lahko drugačni). 
+Z njimi odpošljete sporočilo, ki ste ga prej vtipkali v spodnji del okna pregledovalnika. 
+
+Nedolžno opozorilo 
+
+Pa še to... 
+
+• Preglejte skupino za razpravo news.announce.newusers. 
+Včasih bo med sporočili te skupine za razpravo tudi nabor različnih seznamov prejemnikov (delo v skupinah za razpravo je opisano v poglavjih 9 in 10).
+
+AAPOR50@USCVM.
+BITNET Ameriško združenje za raziskavo javnega mnenja
+
+AATG@INDYCMS.
+BITNET Ameriško združenje učiteljev nemščine
+
+SEXADD-L@KENTVM.
+BITNET Diskusije o zasvojenosti s seksom in drugih vrstah odvisnosti
+
+SKATE-IT@ULKYVM.
+BITNET Diskusije o rolkanju
+
+TIBET-L@IUBVM.
+BITNET Tibet
+
+VOICES-L@ORACLE.
+WIZARDS.COM Glasovi v moji glavi (prisluhi)
+
+Strežnik je računalnik, v katerem deluje program LISTSERV (program za upravljanje s seznamom prejemnikov). 
+Strežnik lahko hkrati upravlja tudi več seznamov prejemnikov. 
+Tako npr. brownvm strežnik upravlja s seznami ACH-EC-L, AFRICA-L in AGING-L in še s približno sedemdesetimi drugimi seznami prejemnikov.
+
+Prebava
+
+Zabava 
+
+query ime_seznama
+
+Nekatere sezname upravljajo namesto programov, kot sta LISTSERV ali Majordomo, kar njihovi ustanovitelji sami. 
+To pomeni, da nekdo vsa prispela sporočila prebere in jih razpošlje drugim naročnikom.
+
+Upravljanje ne-samodejnih skupin za razpravo je torej odvisno od njihovega ustanovitelja. 
+Nanje se lahko npr. naročite preprosto tako, da ustanovitelju na njegov e-mail naslov pošljete sporočilo z besedilom: “Zdravo! 
+Dodaj me v seznam prejemnikov” (seveda v angleščini). 
+Mnogokrat pa je naročitvi namenjen poseben elektronski naslov, npr. ime_seznama-request@ime_strežnika. 
+Če se seznam npr. imenuje dobropivo, deluje pa v računalniku (strežniku) bighost.com, se lahko nanj naročite tako, da sporočilo pošljete na naslov dobropivo-request@bighost.com. 
+Navadna sporočila pa v ta seznam pošiljate na naslov dobropivo@bighost.com.
+
+• Iz LISTSERV seznama se “od-naročite” tako, da v besedilo e-mail sporočila vpišete SIGNOFF ime_seznama, pošto pa pošljete na ime strežnika (in ne v seznam).
+
+Nenavadne poti
+
+FTP programi 
+
+Na voljo je veliko dobrih FTP programov. 
+Če uporabljate Macintosh, poizkusite Fetch ali Anarchie. 
+V Windows uporabite WS_FTP ali CuteFTP. 
+Mnogi FTP programi so v Internetu dostopni kot brezplačni ali preizkusni programi.
+
+Virusi in druge nesramnosti 
+
+Štirje načini uporabe Archie-ja
+
+• Uporabite lahko pravi Archie odjemalec program, kot sta npr. WS_Archie (za Windows) ali Anarchie (Macintosh).
+
+Archie v Web-u 
+
+http://hoohoo.ncsa.uiuc.edu/archie.html
+
+Preiščite dokument
+
+Vpliv na ostale uporabnike
+
+Preden začnete preiskovanje FTP-ja, se odločite, kateri tip iskanja boste uporabili. 
+Izberete ga seveda s klikanjem na gumb za zapisom Several types of search:
+
+Največkrat boste želeli uporabiti tip Sub (Case Insensitive Substring Match), zato je ta običajno že privzeto izbran. 
+Res je, da iskanje traja nekoliko dlje, vendar ste lahko gotovi, da boste našli tisto, kar iščete.
+
+Ne pozabite, da imena enakih programov niso vselej ista. 
+Milijoni ljudi na tisoče računalnikov vsak dan shranijo kupe datotek, vsak od njih pa jih lahko imenuje po svoje. 
+Vsaj v grobem so si ta imena podobna, zato vedno preizkusite čim več mogočih variant.
+
+WS_Archie, program za pregled Archie strežnikov.
+
+Takrat, ko nimate časa čakati na rezultate iskanja ali pregledovati različnih Archie strežnikov, lahko s svojim e-mail programom Archie strežniku pošljete sporočilo z zahtevo po prikazu FTP lokacij, na katerih se nahaja iskani program. 
+Čez nekaj časa boste dobili odgovor, ki bo vseboval seznam Archie strežnikov, map in datotek, ki jih iščete. 
+Po tem boste morali seveda uporabiti še brskalnik ali FTP program in prekopirati najdeno datoteko iz strežnika v svoj računalnik.
+
+archie.au Avstralija
+
+• help: odgovor bo vseboval Mail Archie vodič za uporabo.
+
+• quit: s tem ukazom poveste Archie strežniku, da naj vse morebitno besedilo elektronskega sporočila za njim ignorira. 
+Če vaš e-mail program na koncu elektronskega sporočila samodejno vpiše dodatne podatke (npr. datoteko s podpisom), lahko vpis ukazov končate z ukazom quit. 
+Tako bo strežnik “vedel”, da so ukazi zanj samo besedilo, ki je v sporočilu vtipkano nad ukazom quit. 
+Če Archie strežnik dela elektronskega sporočila ne prepozna, vam samodejno pošlje vodič za uporabo (česar pa običajno nočete).
+
+Pa še to... 
+
+Kratka zgodovina
+
+Osnova servisa Gopher je mreža več sto Gopher strežnikov (računalnikov, ki vsebujejo sezname) in milijonov Gopher odjemalcev (računalnikov, ki vsebujejo Gopher programsko opremo za pregled seznamov v strežnikih). 
+Gopher strežniki so ponavadi javni, zato lahko vsak odjemalec vstopi v katerikoli strežnik brezplačno in brez posebnega gesla.
+
+Datoteka z besedilom (.TXT) Gopher strežnika Internet Wiretap Gopher.
+
+Pravila
+
+Ne pozabite, da se vsebina različnih Gopher strežnikov razlikuje. 
+Pri iskanju istega zaporedja znakov v različnih strežnikih zato ne boste prišli do istih rezultatov.
+
+Trenutno Jughead sprejme štiri različne posebne ukaze, ki jih lahko vključite v iskano zaporedje znakov. 
+Včasih njihove uporabe vaš brskalnik ne bo dopustil - rezultat iskanja bo v takem primeru prazna stran. 
+Posebni ukazi so:
+
+?all beseda: ukaz all? 
+Jugheadu pove, da želite izpisati vse zadetke, ki ustrezajo vašemu iskanju. 
+Običajno je število zadetkov omejeno na 1024; če Jughead najde 2000 zadetkov, jih 976 ne bo prikazal. 
+Z ukazom all? lahko to omejitev onemogočite.
+
+Samih ukazov ne morete kombinirati, naenkrat lahko vpišete samo enega. 
+Lahko pa ukaze kombinirate s poljubnim besedilom, ki ga želite poiskati.
+
+2 CSO strežnik (podatkovna baza za iskanje drugih uporabnikov Interneta)
+
+5 PC binarna datoteka
+
+s Zvočna datoteka
+
+e “event” datoteka
+
+M MIME sporočilo (MIME je sistem za prenos binarnih datotek v Internetu)
+
+Pa še to... 
+
+• Nekateri Gopher strežniki ponujajo tudi orodje Veronica, ki je namenjeno preiskovanju vseh Gopher strežnikov na svetu.
+
+Kibernetični “klepet”
+
+Eden najpomembnejših sistemov v Internetu je vsekakor chat (klepet), čeprav je o njem sorazmerno malo govora. 
+Njegova neverjetna popularnost je bila ena od glavnih gonilnih sil razvoja priključitvenih servisov.
+
+Čeprav je malo verjetno, da boste kdaj postali resni član priključitvenega servisa, se bom najprej posvetil prav priključitvenim servisom, saj ponujajo najboljša orodja za klepetanje. 
+Izjemna poslovna rast priključitvenih servisov v Ameriki je v veliki meri posledica klepetanja. 
+Klepet v Internetu je še v povojih in v mnogih pogledih veliko bolj okoren, kot v priključitvenih servisih. 
+Res pa je, da se situacija spreminja, saj se na trgu pojavljajo vedno boljši programi za klepet v Internetu, ki mnogokrat delujejo preko Web-a.
+
+Pogovorno okno za izbiro IRC strežnika in vnos osebnih podatkov v programu mIRC.
+
+Deskov e-mail, moje ime, nick=DIGvox
+
+Če želite videti celoten seznam kanalov izbranega strežnika, zaprite trenutno odprto pogovorno okno in v okvir na dnu glavnega okna (v ta okvir vpisujete vsa sporočila in tudi ukaze) vtipkajte ukaz /list ter pritisnite Enter.
+
+Poglavje 16
+
+Glasovi v Internetu
+
+Prenos besedila, table, konference...
+
+V preteklosti je bila beseda “pogovor” v Internetu le prispodoba za duhamorno tipkanje. 
+Sodobni uporabniki pa lahko v Internetu resnično govorijo, torej komunicirajo s svojim glasom. 
+Najnovejša pogruntavščina je “Voice On the Net” (glas v mreži) ali skrajšano VON.
+
+• Za sedaj je telefoniranje preko Interneta še zelo nepriročno. 
+Sogovornik zelo verjetno v Internet ni neprestano priključen, zato se je potrebno za klic najprej dogovoriti (prav to so ljudje naredili v zgodnjem obdobju razvoja navadnega telefona - dogovorili so se za čas klica).
+
+Sami lahko s pomočjo Web strani za iskanje Yahoo poiščete še druge telefonske programe (iskano zaporedje znakov naj bo internet voice). 
+Nanje boste naleteli tudi na Web strani Voice on the Net (http://www.von.com). 
+Mnogi od teh programov so preizkusni ali brezplačni, npr. WebPhone, FreeTel, DigiPhone, PowWow...
+
+Po kliku na OK se program poskuša povezati z izbranim strežnikom. 
+Morda boste morali poskusiti večkrat. 
+Ko program vzpostavi zvezo s strežnikom, se pogovorni okni zapreta, display telefona pa izpiše SERVER CONNECTED. 
+Sedaj se lahko povežete z drugim uporabnikom istega strežnika. 
+Kliknite gumb s sličico človeka, ki se pogovarja po telefonu, ali pa izberite Phone, Call. 
+Odpre se pogovorno okno, ki ga prikazuje naslednja slika. 
+To pogovorno okno vsebuje seznam vseh ljudi, ki so trenutno priključeni na strežnik. 
+Ne bodite sramežljivi, kliknite enega izmed njih, potem pa kliknite OK.
+
+Nimate pametnega dela?
+
+Nekateri telefonski strežniki omogočajo vzpostavitev novih “sob”. 
+Privatne “sobe” lahko uporabljate za sestanke s prijatelji in sodelavci. 
+Najbolj običajen začetek pogovora je izbira sogovornika in klik na ustrezen gumb (Call, OK). 
+Natančen postopek preberite v dokumentaciji izbranega telefonskega programa, saj je različnih načinov preveč, da bi jih lahko opisali v tej knjigi.
+
+• Tipkanje med pogovorom: to je lahko zelo priročna funkcija. 
+Že med samim pogovorom lahko sogovorniku pošiljate kratka sporočila, povezana s temo pogovora. 
+Tako lahko npr. programerji med pogovorom o nekem programu izmenjujejo dele programske kode, avtorji knjig si brez težav podajajo material, med tem pa razpravljajo o naslednjem poglavju...
+
+Pa še to... 
+
+Internet je poln arhiviranih datotek. 
+Te datoteke so nekakšni kontejnerji, ki vsebujejo večje število drugih datotek (včasih tudi sto ali več). 
+Programa, shranjenega v arhivirani datoteki ne morete pognati, dokler te datoteke ne “raztegnete”. 
+Ko to naredite, se v trenutno izbrani “download” mapi pojavi velika množica datotek, ki pripadajo nekemu programskemu paketu. 
+Če ta postopek opravite večkrat, se med kupom datotek, namenjenih različnim opravilom, ne boste več znašli.
+
+Mapo za prenos datotek iz Interneta izberite previdno! 
+
+Spoznajte sistem map! 
+Naučite se upravljati z datotekami in pregledovati drevo map (direktorijev), saj je pametno gospodarjenje s podatki, shranjenimi na trdem disku pogoj za uspešno delo v Internetu. 
+Ne pozabite, da je datoteke pametno shranjevati v mape, ki jih boste kasneje enostavno našli in pregledali. 
+Tako si boste prihranili mnogo sivih las in časa.
+
+.PDF Portable Document Format; datoteka programa Adobe Acrobat, namenjena distribuciji elektronskih dokumentov.
+
+.TXT, .TEXT Datoteka z besedilom; prikaže jo lahko tudi vsak boljši brskalnik (brez pomoči predvajalnika).
+
+.Z UNIX kompresirana datoteka.
+
+Datoteko lahko s kompresiranjem skrčite na neverjetnih 2% originalne velikosti, ob tem pa po raztegnitvi še vedno vsebuje vse potrebne podatke (najbolj pogosto so datoteke skrčene na 40% do 75% originalne velikosti). 
+Krepko je mogoče skrčiti npr. bitne slike, programe ali Windows datoteke pomoči pa manj. 
+Zaradi manjše količine podatkov je prenos kompresiranih datotek preko Interneta veliko hitrejši od prenosa originalnih.
+
+Vrste kompresiranih datotek 
+
+Arhivska datoteka je v splošnem datoteka, ki vsebuje druge datoteke. 
+Ni nujno, da so datoteke, arhivirane v arhivski datoteki, tudi kompresirane, vendar običajno so! 
+Kompresirana datoteka je seveda kompresirana, torej skrčena na manjšo velikost, ne vsebuje pa večjega števila drugih datotek.
+
+.exe Samo-razširitvena datoteka (DOS, Windows)
+
+.Z UNIX kompresija
+
+Kompresirane in arhivske datoteke katerih končnica je značilna za operacijski sistem, ki ga vi ne uporabljate, na vašem računalniku običajno ne bodo delovale, saj verjetno vsebujejo datoteke, ki jih vaš sistem ne prepozna. 
+Tako programi, izdelani za UNIX ali Macintosh v Windows ne delujejo, zato kompresiranih datotek s končnicami .pit, .hqx, .shar, .Z...v Windows ne morete uporabiti. 
+Drugače je takrat, ko kompresirana datoteka vsebuje dokument, ki ga je mogoče prebrati v kateremkoli operacijskem sistemu (npr. .HTM ali .TXT).
+
+Če na neki Internet lokaciji naletite na datoteki z istim imenom, njuni končnici pa sta .ZIP in .EXE, je bolje izbrati tisto s končnico .EXE. .EXE arhivska datoteka ni veliko večja od .ZIP datoteke, njena prednost pa je v tem, da za izluščitev njene vsebine ne potrebujete nobenega posebnega programa. 
+Vsebino datoteke .ZIP morate izluščiti s programom PKUNZIP (v DOS ukazno vrstico vtipkate npr. PKUNZIP ime_datoteke).
+
+Nasveti za varno delo 
+
+Zelo enostavno je ugotoviti, katere datoteke so nevarne. 
+Pravilo je naslednje: če datoteka kaj “dela”, lahko prenaša virus. 
+Samo datoteke, ki lahko po zagonu samodejno opravijo nekatere funkcije (npr. katerikoli program ali datoteke, ki vsebujejo makro ukaze), lahko prenašajo virus. 
+Slike in navadna besedila vas lahko osebno prizadenejo, ne morejo pa škoditi računalniku. 
+Lahko tudi samo-razširitvene datoteke prenašajo viruse? 
+Absolutno! 
+Te datoteke namreč vsebujejo program, ki izlušči njihovo vsebino - po zagonu torej opravijo neko “delo”.
+
+• Ne kopirajte datotek v svoj računalnik “na slepo”! 
+Vedno najprej izberite (in še pred tem izdelajte) mapo, ki bo namenjena samo temu.
+
+V vse računalnike direktno seveda ne morete vstopiti. 
+Vstopite lahko samo v tiste, katerih lastniki vam to dovolijo ali pa to celo želijo. 
+Presenečeni boste, da je takih kar precej! 
+Povezava zopet deluje po sistemu odjemalec-strežnik. 
+Telnet program pretvori vaš računalnik v odjemalca, strežnik pa je tisti računalnik, v katerega vstopate.
+
+HYTELNET je seznam, ki prikazuje vse, kar je v Telnetu dostopno. 
+Dolgo je bilo mogoče v ta seznam vstopiti samo preko Telneta, sedaj pa ga lahko pregledate tudi z običajnim Web brskalnikom, kar je veliko bolj priročno. 
+Poženite brskalnik in vstopite v Web stran z naslovom http://library.usask.ca/hytelnet/ (Pomagate si lahko tudi z naslovom http://radon.gas.uug.arizona.edu/~shunter/hytel.html ali http://www.cc.ukans.edu/hytelnet_html/START.
+TXT.html).
+
+Poglavje 19
+
+Ob prebiranju te knjige ste zagotovo dobili občutek o izjemni razprostranjenosti Interneta. 
+Desetine milijonov uporabnikov, milijoni datotek knjižnice FTP, še več Web strani, ob tem pa še Telnet lokacije, Gopher strežniki, skupine za razpravo, seznami prejemnikov...
+Stvor, ki mu pravimo Internet, je ogromen. 
+Kako za vraga lahko potem navaden smrtnik v njem najde tisto, kar potrebuje?
+
+V Web-u je mnogo različnih imenikov uporabnikov Interneta. 
+Dober začetek iskanja ponuja Netscape s svojo stranjo People (na naslednji sliki). 
+Stran nosi naslov http://home.netscape.com/home/internet-white-pages.html. 
+Če uporabljate brskalnik Netscape, lahko namesto vpisa naslova kliknete kar gumb People, ki vas pripelje na isto stran. 
+Ko odprete stran za iskanje, se na zaslonu pojavi eden od petih imenikov: Who Where?, Four11, IAF, Bigfoot, Switchboard. 
+Zgornja slika na naslednji strani prikazuje imenik “Who Where?”
+
+Netscape s stranjo People.
+
+Če na Yahoo strani People Search ne najdete osebe, ki jo iščete, ne obupajte! 
+Na Yahoo naslovu http://www.yahoo.com/Reference/White_Pages/ boste našli množico bližnjic do različnih imenikov; v času pisanja te knjige je bilo mogoče pogledati v 75 različnih imenikov, mnogi od njih pa so vsebovali še dodatne bližnjice do drugih imenikov.
+
+• Nekatera orodja omogočajo tudi iskanje Web strani po njihovi vsebini, torej po besedah, ki jih te strani vsebujejo. 
+Ko vtipkate besedo in kliknete gumb za začetek iskanja, orodje poišče vse Web strani, ki vsebujejo besedo, ki jo iščete.
+
+Ko preberete navodila, se s klikom na gumb Back vrnite v obrazec za iskanje (stran z okvirjem za vpis besedila). 
+Vtipkajte besedo ali frazo, ki jo želite poiskati in pritisnite Enter ali kliknite gumb Search (v InfoSeek “seek now”). 
+Čez nekaj trenutkov boste na zaslonu opazili stran z rezultati iskanja (na naslednji sliki). 
+Mogoče je, da boste namesto rezultatov dobili sporočilo, da je lokacija za iskanje prezasedena. 
+V takem primeru poskusite še enkrat čez nekaj časa, ali pa izberite drugo lokacijo za iskanje.
+
+Pa še to... 
+
+Ne pričakujte, da bo pomagala država! 
+
+Ni še dolgo tega, ko je nekdo o meni v skupini za razpravo kvasil razne neumnosti, ki niso bile več samo šala. 
+Ta nekdo se je očitno odločil za maščevanje, čeprav še danes ne vem, kaj sem zagrešil. 
+Ko sem v skupini za razpravo odkril neumne komentarje na moj račun, sem v trenutku pomislil: na svetu je vsaj 15000 mednarodnih skupin za razpravo, ob teh pa še na tisoče seznamov prejemnikov. 
+Kaj vse ta nekdo še govori? 
+In kje?
+
+V zadnjem času so se pojavili tudi programi, s katerimi lahko vaš šef zasleduje vaše delo v Internetu. 
+Tako lahko ugotovi, da ste zajadrali predaleč, kljub temu, da po potepu spraznite predpomnilnik in seznam History. 
+Morda se je v službi bolje posvetiti delu!?
+
+Še ena pravljica o Internetu: nakupi v Internetu so nevarni, ker vam lahko kdo ukrade številko kreditne kartice. 
+Drugi del pravljice je resničen; številko kreditne kartice vam lahko v resnici kdo ukrade. 
+Prvi del pa je popolna neumnost. 
+Uporaba kreditne kartice v Internetu ni nevarna. 
+Naj zadevo pojasnim bolj natančno.
+
+Zakon o avtorskih pravicah je mogoče uporabiti tudi ob zlorabah elektronske pošte ali sporočil skupin za razpravo! 
+Poezija v skupinah za razpravo, zgodbe in druga sporočila ne pripadajo vam, če jih seveda niste napisali sami! 
+Lahko ji preberete, ne smete pa jih npr. razmnožiti.
+
+Kljub temu, da je strah pred virusi večinoma odveč, se je pred njimi dobro zaščititi. 
+Na voljo je mnogo dobrih protivirusnih programov. 
+Če boste iz Interneta ob slikah in besedilih kopirali tudi programe, si morate vsekakor omisliti enega izmed njih.
+
+• Če želite izvedeti, kaj o vas v Internetu govorijo drugi, lahko skupine za razpravo preiščete z DejaNews.
+
+• Datoteke v Internetu niso vaše; avtorske pravice so zaščitene!
+
+Zakaj Netscape v Windows 95 ne dela? 
+
+Zgoraj opisana težava je sedaj vedno redkejša, saj so tudi Winsock programi vedno večkrat 32-bitni.
+
+Kako lahko preko Interneta prodajam? 
+
+Če vam je lahko v tolažbo: vsi ti ljudje se prav tako kot vi sprašujejo, zakaj njihov najhitrejši in najnovejši modem tako počasi prenaša podatke. 
+Zakaj potem sploh kupiti najhitrejši (in hkrati tudi najdražji) modem? 
+Ker boste s počasnejšim še počasnejši! 
+In počasni boste tudi v Web straneh, ki niso tako zasedene.
+
+Bo Internet odplaknil televizijo? 
+
+Vse skupaj je še bolj zapleteno. 
+Medtem ko navadnega oglasa v Salomonovem oglasniku ni potrebno še dodatno oglaševati (npr. z obcestnimi plakati z napisom Kokošja farma Golob; telefonska številka v Salomonu na strani 121), je elektronski oglas (Web stran) še kako potreben promocije. 
+Hkrati je popolnoma nesmiselna tudi trditev, da mora biti Web stran izjemno privlačna in dobro oblikovana. 
+Web stran mora služiti svojemu namenu. 
+Če služi svojemu namenu in je hkrati dobro promovirana, jo bo obiskovalo veliko ljudi. 
+Ti bodo v obisk prepričali tudi druge in sčasoma se bo, tako kot vse drugo, tudi vaša Web stran začela promovirati kar sama!
+
+Obstajajo tri stopnje anonimnosti v Internetu. 
+Najbolj enostavno je doseči prvo stopnjo:
+
+• Preberite dokumentacijo. 
+Na voljo je dobesedno na tisoče Internet programov, vsak od njih pa ima svoje značilnosti. 
+V splošnem jih ni težko uporabljati, če seveda pazljivo preberete priložena navodila.
+
+• Če vam vaš ponudnik noče odgovoriti na vprašanja, si izberite drugega!
+
+Želite še več?
+
+Hitrost je v naši civilizaciji vedno bolj pomembna. 
+Stvari, ki jih potrebujemo, želimo dobiti takoj. 
+Potrebujete nov avto? 
+Ste si model že izbrali, vendar želite preveriti, kakšne so njegove prednosti in slabosti? 
+Odprite Web stran z naslovom http://www.edmunds.com/ in si oglejte lepotca z naslednje slike. 
+Če pregledate podatke pod sliko avtomobila, lahko izbrskate celo znesek, ki ga je preprodajalec za ta avto plačal svojemu dobavitelju.
+
+Raziskave 
+
+Želite npr. obiskati, hm, Islandijo? 
+Poženite brskalnik in poglejte v Web. 
+Vstopite v Web stran z obrazcem za iskanje (npr. Yahoo) in poiščite podatke o Islandiji (način iskanja si oglejte v poglavju 19). 
+Naleteli boste na sto ali več Web strani s podatki o Islandiji - o potovanju, športih, kulturi, medijih, nepremičninah...
+
+Skrivanje pred realnostjo 
+
+Shakespeare v Mreži 
+
+Priznati moram, da zdravnikom ne zaupam preveč. 
+Če ste mi podobni, lahko svoje težave rešite s pomočjo Interneta. 
+V njem lahko najdete podatke o homeopatiji, raku, stresu, akupunkturi...
+
+Nakupi 
+
+Sem kaj pozabil? 
+
+Zagotovo! 
+Med brskanjem po Internetu boste naleteli še na mnoge druge teme, prav tako pa se boste mnogih stvari domislili tudi sami. 
+Internet je ogromen in zato zelo raznolik. 
+Je pa tudi vse tisto, za kar ga imate in potrebujete.
+
+Poglejte, kaj v Internetu delajo drugi in, kdo ve, morda bo Mreža kmalu postala del vašega življenja (ne recite, da vas nisem opozoril).
+
+Internet bo napredoval počasneje
+
+Hitre povezave 
+
+Internet bo odprl meje 
+
+** slika ni povsem povezana z vsebino...morda zamenjava?? ** 
+
+Internet in šole 
+
+Najbolj goreči zagovorniki Interneta trdijo, da sčasoma šole ne bodo več potrebne. 
+Zamenjal naj bi jih elektronski sistem učenja, ki bi deloval seveda preko Interneta.
+
+Primer LAN
+
+Zato še moja zadnja napoved: večinoma se napovedi o Internetu ne bodo uresničile, vsaj ne tiste najbolj visoko leteče (to seveda ne velja za moje napovedi, ki se bodo zagotovo v celoti uresničile). 
+Vse tiste napovedi o tem, da bo Internet vzpostavil nov svetovni red, da bo pripomogel k miru in blaginji ter uveljavil novo obliko elektronske demokracije so navadna neumnost.
+
+Del 4
+
+V tem delu knjige boste našli vse potrebne podatke, ki jih boste potrebovali ob delu v Internetu. 
+Pokazal vam bom, kje najti programsko opremo, igre, gonilnike za tiskalnike in še mnogo drugih stvari. 
+Opisal bom, kako najti ponudnika Internet storitev.
+
+Programska oprema
+
+Dodatki in pregledovalniki
+
+Demonstracijski programi in gonilniki
+
+Če ste v Internet priključeni preko ponudnika Internet storitev, lahko preverite njegovo lastno knjižnico programov (mnogi jo ponujajo). 
+Take knjižnice so sicer skromnejše od tistih v priključitvenih servisih, kljub temu pa je v njih mnogokrat mogoče najti natančno tisto, kar potrebujete.
+
+Netscape Navigator: http://www.netscape.com/
+
+Winsite (Windows)
+
+• The WWW Browser Test Page (http://www-dsed.llnl.gov/documents/WWWtest.html).
+
+Ponudnikov Internet storitev je več, vsi pa dostop v Internet ponujajo po približno istih cenah. 
+Lahko vam računajo vsako uro priključitve; v takem primeru boste za uro plačali približno 300 tolarjev, določeno število ur ob začetku sodelovanja s ponudnikom pa bo tudi cenejše. 
+Mogoče pa je, da vam ponudnik svoje storitve zaračuna glede na število prenešenih megabajtov (1 MB približno **vpiši ceno**).
+
+Ob iskanju ponudnika upoštevajte naslednje:
+
+ISDN 
+
+The Complete Idiot’s Guide to the Internet, prvi izvod
+
+Predloga Web strani.
+
+Na CD-ju so shranjene tri različice Microsoftovega brskalnika Internet Explorer. 
+Vse najdete v podmapi Internet Explorer, ki je v mapi ** vpiši ime mape za idiote**. 
+V mapi Internet Explorer so še tri dodatne podmape. 
+Vsaka od njih vsebuje samo-razširitveno kompresirano .EXE datoteko z ustreznim brskalnikom. 
+Postopek namestitve brskalnika opisuje naslednji seznam:
+
+2. 
+Kliknite gumb Start v opravilni vrstici in izberite Run (Zaženi). 
+Odpre se pogovorno okno Run (Zaženi).
+
+chat 
+
+Internet servis, ki omogoča komunikacijo med uporabniki Interneta s pomočjo tipkanja sporočil. 
+Nasprotno kot pri elektronski pošti “sogovornik” chat sporočilo sprejme takoj, ko ga pošiljatelj vtipka. 
+Najbolj popularen chat servis v Internetu je Internet Relay Chat ali IRC.
+
+Priključitev v Internet preko običajnega telefona. 
+Ko vaš računalnik vzpostavi zvezo z računalnikom ponudnika Internet storitev, “vstopite” v Internet. 
+V takem primeru lahko uporabljate programe, ki delujejo na računalniku ponudnika (in ne na vašem računalniku). 
+Vaš računalnik deluje kot terminal ponudnikovega računalnika.
+
+Izraz, ki je v časih BBS-jev (elektronskih oglasnih desk) pomenil isto, kot danes skupina za razpravo.
+
+Internet servis, v katerem lahko Internet pregledujete s pomočjo sistema menijev. 
+Čeprav je zelo priročen ga je zaradi lepšega videza v veliki meri nadomestil Web.
+
+Računalniški navdušenec. 
+Vsakdo, ki večji del svojega časa preživi zakopan v računalnik, dobesedno ali metaforično.
+
+Naslov, ki definira lokacijo strežnika v Internetu. 
+
+Program, ki upravlja z elektronsko pošto. 
+
+Računalnik, ki zbira podatke iz skupine za razpravo (newsgroup) in omogoča njihov pregled.
+
+dodatek 
+
+HTML dokument. 
+Dokument z besedilom, ki ga Web brskalnik na zaslonu predela v Web stran (upodobi).
+
+talk 
+
+Voice-on-the-net 
+
+Whois 
+
+Winsock 
+
+Anarchie (Macintosh), 161
+
+anonimno (varnost pri prenosu podatkov), 745
+
+Bc: (elektronska pošta), 24
+
+WWW, 38 
+
+ukazi, 184 
+
+kopiranje, 201-203 
+
+Carbon Copy, 86 
+
+gesla, 22 
+
+nevarnosti, 32-33 
+
+okna, 24 
+
+Majordomo, 138-139 
+
+SMTP (Simple Mail Transfer Protocol), 23 
+
+vmesniki, 24 
+
+imena, 144 
+
+privatne, 146 
+
+izvorni dokument, 62 
+
+ikone (sporočila skupin za razpravo), 121
+
+ime računa (elektronska pošta), 21
+
+poševna črta nazaj (backslash), 1036 
+
+priključitev, 183 
+
+FTP (File Transfer Protocol), 147-149, 233 
+
+Telnet, 233 
+
+WWW lokacije, 1084-1087 
+
+knjižnice programske opreme, 1044
+
+LISTSERV, 131-138
+
+odjava, 136-137 
+
+MIDI (zvočne datoteke), 82
+
+mreže, 8
+
+naslovi
+
+pregledovalnikov novic, 116 
+
+domača stran, 97 
+
+“že prebrana” sporočila, 120 
+
+ROT 13, 122 
+
+odložišče, shranjevanje URL-jev, 62
+
+brskalniki (več oken), 54-55 
+
+POP (Post Office Protocol), 22
+
+prodaja, 743 
+
+sporočil (elektronska pošta), 23-27 
+
+predpomnilnik, 56-59
+
+pregled, 63 
+
+sporočila, 118 
+
+prihodnost Interneta, 1034, 1039
+
+sateliti, 1053 
+
+stalna, 14 
+
+T1 linije, 1052 
+
+dodatki, 29 
+
+programi, glej programska oprema
+
+knjižnice, 1044 
+
+propadla priključitev, 748
+
+ročno upravljani seznami prejemnikov, 131-135, 139
+
+samo-razširitvene arhivske datoteke, 208
+
+server push, 76
+
+specializirana orodja za iskanje, 232
+
+pošiljanje, 23-27 
+
+kodiranje, 122 
+
+pridobivanje, 121 
+
+javni, 107 
+
+VON (Voice on the Net), 191 
+
+stroški, 1050
+
+VON (Voice on the Net), 189 
+
+emulacija, 217 
+
+iskanje, 233 
+
+WWW dokumentov, 62 
+
+LISTSERVi, 137-140 
+
+ukazna vrstica, 17 
+
+kodiranje, 483 
+
+napačna predstavitev, 484 
+
+tekoči, 85 
+
+VON (Voice on the Net), 198 
+
+napredne funkcije, 196 
+
+strojna oprema, 191 
+
+tabele, 68 
+
+vedno shrani, 65 
+
+History (seznam), 45 
+
+Netscape Navigator, 87 
+
+pregled, 63 
+
+dokumenti, 82 
+
+WWW, 77 
+
+odpiranje datotek, 66 
+
+tabele, 68 
+
+protokoli, 47 
+
+vrste datotek, 48-49
+
+zabava
+
+zvoki
+
+pregledovalniki in dodatki, 81-82
+

@@ -1,0 +1,11 @@
+Lani poleti je Tony Sale vključil paralelni stroj za obdelavo podatkov, ki po hitrosti močno prekaša tudi najsodobnejše osebne računalnike.
+To seveda ni nič posebnega, saj ti lahko izvedejo le po en ukaz naenkrat in se načeloma težko kosajo z napravami, ki zmorejo po več ukazov v enem taktu.
+A Tony Sale je svoj stroj -- popolno kopijo prvega elektronskega računalnika -- izdelal po načrtih iz daljnega leta 1943.
+Baudotova koda je nekakšna prednica sodobnega digitalnega zapisa, ki je vsak znak s teleprinterske tipkovnice pretvorila v petbitno besedo:
+Ko je operater v Tunny vtipkal nek znak, ga je stroj kodiral z dodajanjem dveh drugih znakov -- enega s koles K, drugega s koles S.
+Algoritmi, s katerimi se je Colossus loteval nemških šifer, so šele nedavno dostopni javnosti.
+Program za določanje vzorcev zobcev pa je prišel na vrsto prav zadnji, ker so ga britanske obveščevalne službe prenehale uporabljati šele pred petimi leti.
+Zato je bilo vse skupaj tudi tako strogo varovano: pravzaprav ni nikogar skrbela Colossova računalniška tehnologija, pač pa algoritmi.
+Pokazalo se je, da je Colossus zares močno orožje, ki je omogočilo vpogled v razmišljanje nemškega vojaškega vrha od Kesselringa in Rommla pa vse do Hitlerja.
+Druga različica računalnika -- delovati je začela tik pred izkrcanjem v Normandiji -- je potrdila pravilnost zavezniške strategije.
+Do leta 1945 je v Veliki Britaniji 10 Colossov vsak mesec dešifriralo po 1200 nemških sporočil.

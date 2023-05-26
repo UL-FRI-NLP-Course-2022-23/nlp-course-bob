@@ -1,0 +1,8 @@
+zakonitosti njene tehnične uporabnosti, pri čemer je še posebno presenetljivo, da si o tem niso na jasnem celo nekateri naši fiziki.$
+Risba shematično kaže vrtavko, ki se vrti okoli vodoravne osi #X# oziroma v pokončni ravnini, ki jo oklepata nanjo pravokotni koordinatni osi #Y# in #Z#.
+Opazimo lahko, da se ob tem ne pojavijo nikakršne dodatne sile razen teže kolesa, kar predstavlja 1. pravilo vrtavke.
+Sedaj poskusimo nagniti vrteče se kolo iz pokončne lege z označeno dvojico sil #B#.
+Temu nagibu oziroma vrtilnemu momentu se kolo upira, zato se začne os #X# vrteti okoli smeri #Z#, kot da bi nanjo delovali sili #C#.
+Pojav je
+vodoravni ravnini, zavzame ob lastnem vrtenju in vrtenju Zemlje zaradi precesije tako lego, da je njena os vzporedna zemeljskemu meridianu.
+Pri tem je obrnjeno proti severu tisto krajišče njene osi, iz katerega vidimo vrtenje vrtavke protiurno, tj. enako, kot se vrti Zemlja, če jo opazujemo iznad severnega tečaja.

@@ -1,0 +1,31 @@
+Zgodovina tehnologije -- 45
+
+(Slika 8)
+
+Odgovor je leta 1802 našel angleški zdravnik Thomas Young (1773--1829) -- po njem se modul elastičnosti imenuje kar Youngov modul --, ki ga je bolj od bolnih ljudi zanimalo naravoslovje. 
+Tisto leto je postal profesor naravne filozofije (tako so tedaj imenovali naravoslovje oz. fiziko) na kraljevi ustanovi v Londonu in svoje učiteljsko poslanstvo je jemal skrajno resno. 
+Morda je bil pri tem le malce preveč neuvideven do svoje publike. 
+Predavanja na ustanovi so bila takrat namreč nekakšno znanstveno zabavišče, ki ga je obiskovala smetana družbe oziroma »neumne ženske in diletantski filozofi«, kot je poslušalce neelegantno opredelil neki sodobnik. 
+Young si je za temo svojih predavanj izbral teorijo elastičnosti in njeno uporabo v gradbeništvu. 
+Podrobnosti so seveda nekoliko zapletene, končni rezultat njegove analize pa je, da krivulja, vzdolž katere si lahko mislimo, da delujejo sile v nosilcu, ne sme nikoli zapustiti notranje tretjine premera nosilca. 
+Kljub velikemu praktičnemu pomenu njegovih dognanj in kljub temu, da se je v uvodnih besedah priklonil lepšemu delu občinstva, češ, če ženske že nimajo česa početi, potem je gotovo bolje, da poslušajo predavanja in si nabirajo znanje, je zanimanje za njegova predavanja hitro zamrlo. 
+Tudi zapiski njegovih predavanj nikoli niso postali posebno priljubljeni. 
+Kot je kakih 100 let po njihovem izidu ugotavljal nek bralec, »... med mnogimi velikanskimi dosežki avtorja na področju znanosti in jezikoslovja ne najdemo tudi jasnosti v izražanja z običajnim jezikom«. 
+Kakor koli že, šele ob koncu prejšnjega stoletja se je gradbeništvo iz pragmatične umetnosti prelevilo v panogo, v kateri so Youngovi in njim sorodni napotki, ki sledijo iz dobre teorije, postali praktično uporabni.
+
+Po vsem tem razglabljanju o stabilnosti stavb in teoriji elastičnosti je najbrž vsakomur očitno, kako zahtevna je bila naloga, ki sta jo od cesarja dobila arhitekta. 
+Zgraditi navadno cerkev bi tedaj znal marsikdo; zgraditi nekajkrat večjo, kot so jih bili gradili dotlej, pa je skoraj pretežka naloga. 
+Čeprav za marsikatero versko zgradbo velja, da jo pokonci drži vera, je gotovo neupravičeno pričakovati, da sta Antemij in Izidor med gradnjo Sv. Zofije lahko preprosto računala na takšno pomoč. 
+Kako sta torej lahko upala, če si nista mogla pomagati z računi, da bo zgradba, kakršno sta si zamislila, zares obstala? 
+Obstajata dva načina, kako si pomagati brez računov, ki so ju gradbeniki uporabljali od zdavnaj in ju (vsaj na skrivaj) morda še danes. 
+Prvi je izdelava modela načrtovane zgradbe, drugi pa povečanje podobne zgradbe, ki že stoji. 
+Ne eno in ne drugo ni povsem brez pasti. 
+Model imenitno predstavi videz načrtovane zgradbe, skoraj nič pa se ne da na njegovi osnovi povedati o njeni trdnosti. 
+Gre preprosto za to, da pri povečevanju masa zgradbe (torej tudi njena teža) narašča s tretjo potenco velikosti, trdnost, tj. presek njenih nosilnih elementov pa le z drugo. 
+Napetosti v nosilnih elementih, ki so sorazmerne s težo na enoto površine, torej naraščajo sorazmerno z velikostjo zgradbe: dvakrat večja zgradba, dvakrat večje napetosti itd. 
+Psom in konjem (ki jih je Galilei vzel kot primer za prvo takšno analizo odvisnosti trdnosti od velikosti) ter ladjam, letalom ipd. naraščanje napetosti v njihovih okostjih prav hitro omeji velikost. 
+Pri kamnitih in opečnih zgradbah pa so zidaki tako malo obremenjeni, da nekajkratno povečanje napetosti ne pomeni nikakršne posebne nevarnosti za njihovo varnost. 
+O stabilnosti, ki od povečave ni prav nič odvisna, pa se da soditi na podlagi modelov.
+
+2.
+
