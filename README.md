@@ -27,10 +27,9 @@ As this whole process takes a while, you might want to use the prepared `bigger 
 
 ## Transformer model usage
 
-In order to use our model for pharaphrasing, you first need to create a new environment using `requirements_transformers.txt` file by running:
-
+In order to use our model for pharaphrasing, you first need to create a new environment using `requirements_tf.yaml` file by running:
 ```
-$ conda create --name <environment_name> --file requirements_transformers.txt
+$ conda env create -n <ENV_NAME> -f requirements_tf.yaml
 ```
 
 Since we used PyTorch with GPU enchanchments you also need an Nvidia compatable GPU with installed CUDA 11.4 framework to create this environment. Installation guide can be found [here](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html). If your CUDA version DOES NOT MATCH, the environment can not be recreated.
