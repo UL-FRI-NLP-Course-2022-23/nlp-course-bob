@@ -6,9 +6,9 @@ from tqdm import tqdm
 import os
 
 model_path = 'models/t5_final.pt'
-tokenizer_path = 'models/small'
-phrases_path = "data/paraphrases_30k_filtered.csv"
-destination = 'results/bigger data'
+tokenizer_path = 'models/t5_small'
+phrases_path = "data/bigger dataset/paraphrases_30k_filtered.csv"
+destination = 'results/bigger dataset'
 
 def main():
     #Load model
