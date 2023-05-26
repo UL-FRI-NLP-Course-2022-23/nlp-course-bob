@@ -35,3 +35,21 @@ To run the model on our dataset you need to run `create_pharaphrases.py` from `t
 ## Training new models
 
 For training new models via a pre-trained `t5_small` from [cjvt](https://huggingface.co/cjvt/t5-sl-small), you first need to download pre-trained model using `transformers/download_t5.py` file. Next you can modify training parameters in `transformers/train_transformers.py` or simply run this file to train the model with our parameters. If you lack GPU RAM to train the model, you can reduce `BATCH_SIZE` or `MAX_LENGTH` parameters in `transformers/train_transformers.py`.
+
+
+## Thesaurus - synonyms method usage
+
+In order to use our synonym method - Thesaurus for pharaphrasing, you first need to create a new environment using `requirements_mt.txt` file by running:
+```
+$ conda create --name <environment_name> --file requirements_mt.txt
+```
+
+
+## Metrics usage
+
+In order to use our metrics, you first need to create a new environment using `requirements_mt.txt` file by running:
+```
+$ conda create --name <environment_name> --file requirements_mt.txt
+```
+
+We implemented 3 different metrics: Bert-Score, BLEU and METEOR.
