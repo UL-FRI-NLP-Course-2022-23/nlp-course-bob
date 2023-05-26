@@ -1,5 +1,6 @@
 from transformers import get_linear_schedule_with_warmup
 import torch
+import os
 from torch.optim import AdamW
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -11,13 +12,14 @@ MAX_LENGTH = 150
 BATCH_SIZE = 16
 
 def main():
+    absolute_path = os.path.dirname(os.path.dirname(__file__))
     # Load data
-    data = pd.read_csv('data/bigger dataset/paraphrases_30k_filtered.csv')
+    data = pd.read_csv(absolute_path + '/data/bigger dataset/paraphrases_30k_filtered.csv')
     xy_train, xy_val, xy_test = preprocess_data(data)
     
     # Load models
     print(f'Loading model...')
-    tokenizer, model= load_models("models/t5_small")
+    tokenizer, model= load_models(absolute_path + "/models/t5_small")
     print('Model loaded!')
 
     device = "cpu"

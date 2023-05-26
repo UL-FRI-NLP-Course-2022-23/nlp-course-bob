@@ -5,10 +5,11 @@ from transformers import AutoTokenizer
 from tqdm import tqdm
 import os
 
-model_path = 'models/t5_final.pt'
-tokenizer_path = 'models/t5_small'
-phrases_path = "data/bigger dataset/paraphrases_30k_filtered.csv"
-destination = 'results/bigger dataset'
+absolute_path = os.path.dirname(os.path.dirname(__file__))
+model_path = absolute_path + '/models/t5_final.pt'
+tokenizer_path = absolute_path + '/models/t5_small'
+phrases_path = absolute_path + "/data/bigger dataset/paraphrases_30k_filtered.csv"
+destination = absolute_path + '/results/bigger dataset'
 
 def main():
     #Load model

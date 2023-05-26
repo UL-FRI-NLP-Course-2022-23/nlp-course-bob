@@ -49,8 +49,9 @@ def get_phrases(path):
 
 if __name__ == '__main__':
     print('heeeeyoo')
+    absolute_path = os.path.dirname(os.path.dirname(__file__))
     # _, references, predictions = get_phrases('../small_data_results/second_results')
-    _, references, predictions = get_phrases('../thesaurus/small_data_results')
+    _, references, predictions = get_phrases(absolute_path + '/thesaurus/small_data_results')
     bleu = evaluate.load('bleu')
     meteor = evaluate.load('meteor')
     bertscore = evaluate.load('bertscore')

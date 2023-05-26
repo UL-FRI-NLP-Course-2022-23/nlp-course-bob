@@ -116,10 +116,10 @@ def return_in_csv(x_texts_, y_texts_, para_, path):
 
 if __name__ == '__main__':
     print('heeeeyooo')
-
+    absolute_path = os.path.dirname(os.path.dirname(__file__))
     # paraphrase_path_directory = '../data/second_training_data'
     # paraphrase_path_directory = '../data/first_training_data'
-    paraphrase_path_directory = '../data/data_for_manual'
+    paraphrase_path_directory = absolute_path + '/data/data_for_manual'
 
     # merge_csv_into_one(paraphrase_path_directory)
     x_text, y_text = give_paraphrase_text(paraphrase_path_directory)
@@ -129,9 +129,11 @@ if __name__ == '__main__':
             xml_dict = pickle.load(file)
     else:
         xml_path = os.path.join(os.getcwd(), 'CJVT_Thesaurus-v1.0.xml')
+        xml_path = absolute_path + "/thesaurus/CJVT_Thesaurus-v1.0.xml"
         # xml_obj = pd.read_xml(xml_path)
         # xml_dict = xml_to_dict(xml_obj)
-        xml_dict = deserialize_xml('CJVT_Thesaurus-v1.0.xml')
+        #xml_dict = deserialize_xml('CJVT_Thesaurus-v1.0.xml')
+        xml_dict = deserialize_xml(xml_path)
         with open('xml_dict.pkl', 'wb') as file:
             pickle.dump(xml_dict, file)
 
@@ -159,4 +161,4 @@ if __name__ == '__main__':
 
     # return_in_csv(x_text, y_text, paraphrases, 'small_data_results')
     # return_in_csv(x_text, y_text, paraphrases, 'whole_data_results')
-    return_in_csv(x_text, y_text, paraphrases, 'manual_data_results')
+    return_in_csv(x_text, y_text, paraphrases, absolute_path +'/thesaurus/manual_data_results')
