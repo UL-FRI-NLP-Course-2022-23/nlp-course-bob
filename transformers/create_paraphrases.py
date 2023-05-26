@@ -5,16 +5,17 @@ from transformers import AutoTokenizer
 from tqdm import tqdm
 import os
 
-model_path = 'models/test_01_t5.pt'
-tokenizer_path = 'models/small'
-destination = 'results/bigger data'
+model_path = 'models/t5_final.pt'
+tokenizer_path = 'models/t5_small'
+phrases_path = "data/bigger dataset/paraphrases_30k_filtered.csv"
+destination = 'results/bigger dataset'
 
 def main():
     #Load model
     model = torch.load(model_path)
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
 
-    df = pd.read_csv("data/paraphrases_30k_filtered.csv",header=None, skip_blank_lines=True)
+    df = pd.read_csv(phrases_path,header=None, skip_blank_lines=True)
     _, test = train_test_split(df, test_size=0.20, shuffle=False, random_state = 10)
     results = pd.DataFrame(columns = ['original', 'paraphrase', 'our_paraphrase'])
 
