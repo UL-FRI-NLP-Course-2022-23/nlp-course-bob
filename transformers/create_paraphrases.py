@@ -18,7 +18,7 @@ def main():
     _, test = train_test_split(df, test_size=0.20, shuffle=False, random_state = 10)
     results = pd.DataFrame(columns = ['original', 'paraphrase', 'our_paraphrase'])
 
-    for index, row in tqdm(test.iterrows(), total=len(test)):
+    for _, row in tqdm(test.iterrows(), total=len(test)):
         sentence = row[1]
         tokens = tokenizer.encode(sentence, max_length=150)
         input = torch.tensor([tokens]).to('cuda')
