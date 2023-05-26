@@ -12,9 +12,26 @@ Group public acronym/name: `Ross`
 
 ## Data preparation
 
-The initial unfiltered dataset (ccGigafida) is available in the `data/ccGigafida` folder. To filter out the non-sentences, simply run the `data/join_data.py` script.
+The initial unfiltered dataset (ccGigafida) is available in the `data/ccGigafida` folder. To filter out the non-sentences, simply run the `data/filter_data.py` script.
 This will produce the data present in the `data/gigafidaCleaned` folder.
 
 To generate training data, you need to download and extract the [following zip file](https://drive.google.com/file/d/1VoHoFJv52mxa9Ebr7-vjEXtufiRLoyBp/view?usp=sharing) into any folder. Afterwards, follow the `Deployment` instructions on [this Github repository](https://github.com/clarinsi/Slovene_NMT) inside the extracted folder. When the docker container is setup and has been running for about 5 minutes, the NMT model is ready to translate.
 
 To do so, run the `data/to_english.py` script, which will begin translating the sentences into english. When it is done, or you cancel the script, run the `data/to_slovene.py` script. The training data should now be available in the `paraphrases` directory. The last step is to combine all the files into one big csv file by running the `data/join_data.py` script. The final file is now available as `bigger dataset/paraphrases_all.csv`
+
+## Transformer model usage
+
+In order to use our model for pharaphrasing, you first need to create a new environment using `requirements_transformers.txt` file by running:
+```
+$ conda create --name <environment_name> --file requirements_transformers.txt
+```
+Since we used PyTorch with GPU enchanchments you also need a nvidia compatable GPU with installed CUDA 11.4 framework to create this envirnment. Installation guide can be found [here](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html). If you CUDA version DOES NOT MATCH, the environment can't be recreated.
+
+Next you need to download our model from [here](https://drive.google.com/file/d/14ArLqplnn1WAA34IkjTq3p1jod6fYX4j/view?usp=sharing). To simplify the usage, place the downloaded model in `models/` folder.
+
+To run the model on our dataset you need to run `create_pharaphrases.py` from `transformers/` folder.
+
+
+## Training new models
+
+For training new models via a pre-trained `t5_small` from [cjvt](https://huggingface.co/cjvt/t5-sl-small), you first need to download pre-trained model using `transformers/download_t5.py` file. Next you can modify training parameters in `transformers/train_transformers.py` or simply run this file to train the model with our parameters. If you lack GPU RAM to train the model, you can reduce `BATCH_SIZE` or `MAX_LENGTH` parameters in `transformers/train_transformers.py`.
