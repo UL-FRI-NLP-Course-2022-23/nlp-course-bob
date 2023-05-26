@@ -4,7 +4,6 @@ import os
 import pickle
 from keras.preprocessing.text import Tokenizer
 import xml.etree.ElementTree as ET
-from sklearn.model_selection import train_test_split
 
 
 class Synonym:
@@ -67,7 +66,7 @@ def detokenize(seq, tokenizer_):
     words.insert(0, '')
     detokenized_seq = [words[round(i)] for i in seq]
 
-    print(''.join(['' if (i == '') else i + ' ' for i in detokenized_seq]))
+    # print(''.join(['' if (i == '') else i + ' ' for i in detokenized_seq]))
     return detokenized_seq
 
 
@@ -103,7 +102,7 @@ def get_best_synonyms(seq, tokenizer_, xml_dict_, num):
 
     return best_n_dict
 
-
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
 # naredimo shranjevanje treh stolpcev - fraza, parafraza, nasa fraza
 def return_in_csv(x_texts_, y_texts_, para_, path):
     results = pd.DataFrame(columns=['original', 'paraphrase', 'our_paraphrase'])
@@ -118,9 +117,11 @@ def return_in_csv(x_texts_, y_texts_, para_, path):
 if __name__ == '__main__':
     print('heeeeyooo')
 
-    paraphrase_path_directory = '../data'
+    # paraphrase_path_directory = '../data/second_training_data'
+    # paraphrase_path_directory = '../data/first_training_data'
+    paraphrase_path_directory = '../data/data_for_manual'
 
-    merge_csv_into_one(paraphrase_path_directory)
+    # merge_csv_into_one(paraphrase_path_directory)
     x_text, y_text = give_paraphrase_text(paraphrase_path_directory)
 
     if os.path.exists('xml_dict.pkl'):
@@ -135,12 +136,7 @@ if __name__ == '__main__':
             pickle.dump(xml_dict, file)
 
     tokenizer = Tokenizer()
-
-    if os.path.exists('lstmTokenizer.pickle'):
-        with open('lstmTokenizer.pickle', 'rb') as handle:
-            tokenizer = pickle.load(handle)
-    else:
-        tokenizer.fit_on_texts(x_text)
+    tokenizer.fit_on_texts(x_text)
 
     # print('before:', len(tokenizer.word_index), list(tokenizer.word_index)[:2], list(tokenizer.word_index)[-2:])
     tokenizer.fit_on_texts(list(xml_dict.keys()))
@@ -161,6 +157,6 @@ if __name__ == '__main__':
         if i > num_of_seq:
             break
 
-    if not os.path.exists('Results/'):
-        os.makedirs('Results')
-    return_in_csv(x_text, y_text, paraphrases, 'Results')
+    # return_in_csv(x_text, y_text, paraphrases, 'small_data_results')
+    # return_in_csv(x_text, y_text, paraphrases, 'whole_data_results')
+    return_in_csv(x_text, y_text, paraphrases, 'manual_data_results')
