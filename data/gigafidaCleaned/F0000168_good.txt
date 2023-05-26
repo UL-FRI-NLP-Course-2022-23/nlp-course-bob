@@ -1,0 +1,18 @@
+Sateliti si nezadržno utirajo pot tudi na področje telefonije.
+Novi globalni telefonski sistemi bodo sposobni poiskati naročnika, ki se bo z majhnim prenosnim telefonom premikal kjer koli na Zemlji.
+Cela mreža bo vsebovala 66 satelitov, ki bodo leteli po polarnih orbitah - natančno prek polov.
+Po 11 satelitov bo razvrščenih v šest skupin in vsaka skupina bo letela v svoji ravnini.
+Za nadaljevanje pogovora je postopek še bolj zapleten.
+sateliti v dveh urah obkrožijo Zemljo, se njihov položaj glede na sprejemnika na tleh zelo hitro spreminja.
+Računalniki bodo morali med samim pogovorom preračunavati koordinate vseh satelitov, ki so vključeni v zvezo, in obeh telefonskih naročnikov.
+Ko se bo položaj satelitov toliko spremenil, da bo obstajala nevarnost prekinitve zveze, bodo morali za signal najti drugo pot in jo hitro, za naročnika neopazno, preklopiti.
+Sateliti bodo
+Telefonski aparat, kakršnega razvijajo pri Motoroli, bo komaj kaj večji od današnje telefonske slušalke.
+Poimenovali so ga Iridium Subscriber Unit (Iridiumova naročniška enota) ali kratko ISU.
+Na njem bo nameščen alfanumerični tekočekristalni prikazovalnik, na
+Motorola je v razvoj in načrtovanje satelitske konstelacije že vložila 2 milijona delovnih ur, trdijo pa, da bo projekt v prvih petih letih delovanja odprl prek 40 000 novih delovnih mest.
+Poleg Motorole je veliko število sodelujočih firm že zaposlilo nove strokovnjake.
+Pri Lockheedu načrtujejo proizvodno linijo za satelite, ki jo bodo nato prepeljali v Chandler v Arizono, kjer stojijo Motorolini obrati.
+Raytheon je firma, ki se je uveljavila na področju visokofrekvenčnih komunikacij.
+Njim je bil zaupan razvoj anten za zvezo med zemeljskimi postajami in Iridiumovimi telefoni.
+Kanadski COM DEV razvija hardver za medsatelitske povezave, General Electric pa softver za nadzor in vzdrževanje satelitske konstelacije.

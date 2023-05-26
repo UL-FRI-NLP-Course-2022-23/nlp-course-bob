@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+absolute_path = os.path.dirname(__file__)
 def load_data(path):
     data = pd.DataFrame()
     
@@ -13,7 +14,7 @@ def load_data(path):
         else:
             data = data_new
             
-    data.to_csv('paraphrases_all.csv')
+    data.to_csv(absolute_path + '\\bigger dataset\\paraphrases_all.csv')
     
 if __name__ == "__main__":
-    load_data('initial_data')
+    load_data(absolute_path + '/initial data')

@@ -1,0 +1,1039 @@
+Avtomatizacija -- skupni imenovalec sodobne tehnike
+
+Podatki in polizdelki. 
+V grobem lahko kot predmete delovnega procesa štejemo samo dva dejavnika: podatke in polizdelke. 
+Pojem polizdelka jemljemo nekoliko širše, saj je tisto, kar je za nekoga polizdelek, za nekoga drugega (na primer za izdelovalca komponent) že izdelek, ravno tako pa je polizdelek lahko tudi material, surovina, sklop, podsistem in tako naprej. 
+Govorimo torej o podatku in polizdelku, dveh glavnih predstavnikih informacijskega in materialnega sveta svetov, ki sta si povsem različna, a vendarle drug drugega omogočata, tako kot na primer kokoš in jajce. 
+Z drugimi dejavniki si nam zaradi lažjega razumevanja na začetku ni treba oteževati življenja.
+
+Vse tri poslovne podprocese lahko izvajamo z delovnimi sredstvi, ki jih delimo na dve osnovni kategoriji: oprema in orodja. 
+Oprema je mehanizem, ki upravlja z orodjem in v proces dovaja tudi potrebno energijo. 
+Opremo sestavljajo stroji in naprave. 
+Razlika med strojem in napravo je v tem, da ima stroj gibljive dele za izvajanje svojega glavnega delovanja. 
+(Manjše gibljive dele, na primer gumbe, imajo tudi naprave, vendar to ni bistvo njihovega delovanja.) 
+Orodja so posebna delovna sredstva, ki so neposredno v stiku z dejavniki procesa (s podatki ali polizdelki). 
+Druga delovna sredstva delujejo na proces posredno prek orodja. 
+Naprave lahko v določenih primerih pojmujemo tudi kot stroje brez gibljivih delov. 
+Stroji povzročajo spremembo bolj na polizdelkih, naprave pa bolj spremembe na podatkih, čeprav so možne tudi druge kombinacije.
+
+Sodobno poslovno tehniko z ustreznimi procesi lahko predstavimo na enem samem listu. 
+Če se vam vse skupaj morda sprva zdi malce zapleteno, si sliko izrežite in postavite na vidno mesto. 
+Ko jo boste pogledali večkrat, vam bo postala preprosta kot poštevanka, vaše razumevanje tehnike pa lažje, hitrejše -- in predvsem pravilno.
+
+Da cunami prizadene kopno, mora biti izpolnjenih več pogojev, kar pa se na srečo ne zgodi pogosto. 
+Pravzaprav so cunamiji redki naravni pojavi: v povprečju se v Pacifiku le dva na leto lahko uvrstita med rušilne, cunami, ki vpliva na celoten Pacifik, pa je še redkejši -- pojavi se le enkrat na 10--12 let. 
+Prav zaradi geografske oddaljenosti in redkosti o tem pojavu pri nas ni veliko slišati.
+
+– preplavitev kopnega. 
+
+http://www.geophys.washington.edu/cunami/intro.html
+
+1. januar 1996
+
+Otok Sulawesi
+
+Višina vala: 7,7 m
+
+> 2.200 mrtvih
+
+9. oktober 1995
+
+Višina vala: 5 m
+
+Shema globokomorske merilne postaje
+
+Sidro
+
+Slika 7
+
+Epicenter potresa
+
+Nameščanje boje
+
+Bourdonova cev
+
+TRKI MED ELEKTRONI IN ATOMI
+
+(Slika 2)
+
+Priprava posebne naprave, ki omogoča prehod med super prevodnimi in običajnimi bakrenimi kabli
+
+Ledena pletenica; super prevodni kabel, ki ga uporabljajo v Detroitu, je narejen iz tankih ravnih trakov, ki so oviti okoli cevi, skozi katero se pretaka tekoči dušik. 
+Ti trakovi lahko prenesejo brez kakršne koli električne upornosti oziroma segrevanja tok moči okoli 60 MW. 
+
+Notranja ovojnica superprevodnika 
+
+SONCE LUNA
+
+datum vzhod zahod vzhod zahod datum oblika
+
+Merkur je v drugi polovici meseca viden na jutranjem nebu. 
+Nahaja se v ozvezdju Tehtnice in vzhaja nekaj pred šest uro zjutraj.
+
+OD ZAPONKE DO GUMBA
+
+V 18. in 19. stoletju se je izdelava gumbov mehanizirala. 
+V Angliji je tekmovalnost zagotovila razvoj nove strojne opreme in tehnik izdelave kovinskih gumbov, ki so v uporabi še danes. 
+Hugenotski begunci, znani po svoji čipkarski spretnosti, so v Dorsetu začeli izdelovati tekstilne gumbe in konec 18. stoletja je tamkajšnja obrt že cvetela. 
+Gumbi iz Dorseta so se prodajali po vsem svetu do 19. stoletja, ko so jih izpodrinili strojno izdelani tekstilni gumbi, patentirani ob svetovni razstavi leta 1851. 
+
+Gumbov iz biserne matice pa ne nosijo le člani kraljeve biserne družine. 
+Tudi sodobni klasični in modni gumbi so izdelani iz školjk, stekla, stisnjenega jekla, medenine, roževine, plastike, kosti, keramike ipd. 
+Lahko so leseni, plastični ali kovinski, oblečeni v tekstil ali usnje, vezeni ter klasičnih ali fantazijskih oblik. 
+Otroški gumbi so prave male umetnine. 
+Malčki, zasvojeni z igračami ter junaki iz risank in slikanic, si seveda želijo imeti avtomobilčke, pajacke in rožice tudi na srajčkah in oblekicah, njihovi starši pa si med jutranjo dirko s časom lomijo prste ob vtikanju miniaturnih letalskih kril, mikimiškinih rok ali pecljev rož v gumbnice. 
+Gumbi, najbolj privlačni za oko, so običajno najbolj neudobni za prste. 
+Kako rešiti problem lomljenja prstov med zamudnim zapenjanjem gumbov? 
+Hoditi odpet? 
+Uporabiti varnostno zaponko?
+
+Danes se zadrge uporabljajo povsod: za oblačila, potovalne torbe, šotore, v pohištveni industriji in drugje. 
+Nekdanja učinkovitost izdelave je od 100 m zadrg na dan na stroj (prej omenjeni Sundbackov stroj »S-L« za izdelavo zadrg) narasla na kar 19.000 m na dan na stroj. 
+Zadrge današnjega dne so tako kot tiste izpred 80 let sestavljene iz zobcev, pritrjenih na ojačenih delih dveh trakov, ter ključka, ki omogoča odpiranje in zapiranje zadrge. 
+Spodnja zapora povezuje oba trakova, medtem ko sta zgornji zapori pritrjeni ločeno na obeh trakovih. 
+Trakovi, vključno z ojačitveno nitjo, so različne surovinske sestave; pogosto so bombažni, pa tudi polivinilkloridni, poliuretanski ali celo neoprenski in polietilenski za zahtevnejše, vodoneprepustne ali ognjevarne izdelke. 
+Zadrge so lahko spiralne, s kovinskimi zobci (zlitine CuZn, CuNiZn, AlMg itd.) in tlačno litimi ali brizganimi plastičnimi zobci (poliamidni, poliesterni itd,). 
+
+(Slika 16)
+
+Vodila ključkov zadrg raznih oblik
+
+(Slika 5)
+
+Po koncu gradnje je Frank Crowe z gradbišča odkorakal bogatejši za plačilo v višini 350.000 dolarjev, kar takrat sploh ni bil majhen znesek. 
+Po gradnji se je sicer lotil še drugih projektov, a Hooverjev jez ostaja njegov največji. 
+Podjetje Six Companies si je s predčasno izgradnjo jezu pridobilo sloves, tako da je kasneje sodelovalo še pri mnogih drugih nič manj pomembnih projektih. 
+Hooverjev jez je bil namreč zgrajen kar dobri dve leti pred rokom. 
+Njegova gradnja je zato zahtevala celo manj denarja, kot so načrtovali (ta primer bi bil lahko za zgled današnjim graditeljem), tako da je končna cena vsega projekta, ki vključuje jez, elektrarno, graditev Boulder Citya itd., znašala 165 milijonov dolarjev. 
+Za primerjavo: stroški gradnje jezu Treh sotesk na reki Jangce na Kitajskem, ki je sicer večji, a vendar ne toliko, so bili ocenjeni na nekaj deset milijard (!) dolarjev. 
+Do leta 1976 je Hooverjev jez stroške gradnje z obrestmi vred pokril s prodajo električne energije in tako poplačal vse kredite. 
+Tudi Američani priznavajo, da je gradnja Hooverjevega jezu eden redkih primerov javne gradnje, ki se je izplačala sama od sebe in tako ameriškim davkoplačevalcem iz svojih žepov ni bilo treba plačati nič.
+
+Nekaj dodatnih informacij o Hooverjem jezu je mogoče dobiti tudi na internetu: 
+
+Slika 2: (dias št. 1915)
+
+Slika 5: (dias št. 1926)
+
+Prosta pot do možganov
+
+Triprostorski clio
+
+Oblaki na obzorju
+
+(Slika 6 - Levič)
+
+(Slika 7 - Gspan)
+
+Leta 1928 je Sheaffer poslal na trg nalivnik, ki se je imenoval balance. 
+Zanj je bilo značilno, da je imel težišče pomaknjeno proti konici in ne proti zadnjemu koncu, kot je bilo v navadi dotlej. 
+Takratni balance je imel v notranjosti gumijast rezervoar, ki se ga je dalo napolniti s pomočjo vzvoda na telesu nalivnika (patent W. A. Sheafferja iz leta 1908).
+
+Za spremljanje in krmiljenje poteka izdelave izdelkov v svojih delavnicah je firma SCT Strojegradnja, d. d., iz Ljubljane sama razvila preproste in učinkovite računalniške programe. 
+Krmiljenje proizvodnih delovnih nalogov je zasnovano na principu prioritet dela v proizvodnih enotah (delavnicah), v katerih so postavljena delovna mesta s svojimi kapacitetami. 
+Za naročila oziroma delovne naloge torej najprej postavijo prioritete, ki jih je mogoče natančneje postaviti ali spremeniti še po nižjih ravneh do delovnega mesta. 
+Za pregledovanje še neopravljenega dela je na voljo širok izbor preglednic na zaslonu računalnika ali izpisov na papir. 
+Izdelan je tudi paket programov za pregled, izračun ali naročanje manjkajočega materiala za poljubno obdobje vnaprej.
+
+Uspešnost delovanja v številnih poklicih je odvisna od uporabe sodobnih pripomočkov za sporazumevanje med sodelavci v okoliščinah, ko neposredno glasovno sporazumevanje ni mogoče. 
+Pomislimo le na policiste, reševalce in gasilce. 
+Med osnovno osebno opremo posameznikov zato sodijo slušalke za poslušanje sporočil in navadno v čelado vgrajen mikrofon za posredovanje sporočil. 
+Seveda pa imajo tovrstni sistemi poleg okornosti vsaj eno resno pomanjkljivost: človek je slušno praktično odrezan od svojega neposrednega okolja in zares odvisen izključno od ukazov po radijski zvezi. 
+To pa je marsikdaj lahko neučinkovito ali celo nevarno. 
+Le pomislimo, denimo, na gasilca, ki v zadimljenem prostoru sicer odlično sliši svojega komandirja, ki je oddaljen nekaj deset metrov, ne sliši pa klicev na pomoč poškodovanca, ki je morda oddaljen le nekaj metrov. 
+Ali pa varnostnika, ki lahko po radijski zvezi komunicira s svojim moštvom, zaradi slušalk v ušesih pa ne more slišati, da je morebitni atentator tik za njim repetiral puško.
+
+Žvečilni gumi in učenje
+
+(slika 19 - ant)
+
+Firma Wagner (tel. +49 78 21 94 770) izdeluje več tipov pohištvenih nog iz kombinacije lesa in aluminija, ki jim zares ni mogoče odreči elegance. 
+Samograditelji morajo za posamezno nogo odšteti od tri do šest tisoč tolarjev.
+
+Kaj so starim Egipčanom pomenila ličila? 
+So bila rezervirana zgolj za faraone in bogate? 
+Čemu so ličili kipe svojih bogov? 
+Kakšna ličila so uporabljali? 
+Ali pri iznajdbah nekaterih kozmetičnih sredstev lahko govorimo o začetku prave kemijske znanosti? 
+
+Chinon A-1 je imela plinsko hlajen reaktor. 
+Konec 50. in na začetku 60. let so jih postavili kar 38 -- največ (26) v Veliki Britaniji, 9 v Franciji in po enega v Španiji, Italiji in na Japonskem. 
+Na lokaciji Chinon so zgradili še dva 210 MW plinsko hlajena reaktorja A-2 in A-3. 
+Danes obratuje le še 21 od 26 britanskih in edini japonski plinsko hlajeni reaktor. 
+Preostale so že ustavili: izrinili so jih vodno hlajeni reaktorji, s katerimi imajo lastniki neprimerno manjše vzdrževalne stroške.
+
+Ob vhodu v muzej je odlično pripravljena razstava, ki obiskovalca spomni na najpomembnejše dosežke svetovne tehnologije v obdobju gradnje elektrarne. 
+Konec 50. let je namreč eno od najpomembnejših obdobij v (novejši) zgodovini tehnologije. 
+V vesoljski tehniki v tem obdobju beležimo izredno hiter razvoj: prvi umetni satelit (Sputnik, 1957), prvi posnetek stran od Zemlje obrnjene strani Lune (Luna 3, 1959) in prvega človeka v orbiti (Gagarin, 1961). 
+De Havillandov Comet 4 je v letu 1958 po večletnih preverjanjih prinesel varne in redne čezoceanske potniške polete z reaktivnimi letali na višinah in s hitrostmi, ki smo jim priča še danes. 
+V jedrski tehniki je v tem obdobju prišlo do začetka miroljubne uporabe jedrske energije, ki je doživela razcvet v 70. in na začetku 80. let.
+
+Ventilator
+
+Pogled na Chinon A-1, A-2 in A-3 iz zraka; v ozadju je reka Vienne, ki je zagotavljala vodo za hlajenje kondenzatorjev elektrarne. 
+Njena nestanovitnost je zahtevala zajemanje vode iz posebnega kanala, ki ga je od Vienne ločevala zapornica.
+
+William Crookes (17. 6. 1832 do 4. 4. 1919) je bil pomemben angleški fizik, ki je raziskoval različne pojave. 
+Najprej ga je pritegnila tedaj še mlada metoda -- spektroskopija, s katero je preiskoval stare vzorce rudnin. 
+Ob tem je leta 1861 odkril nov element, ki ga je poimenoval talij. 
+Zelo ga je zanimal vakuum in vse, kar je bilo povezano z njim. 
+Razvil je t. i. radiometer, s katerim je proučeval vpliv svetlobnega sevanja na vrtenje posebne vetrnice v izčrpani cevi. 
+Čeprav se je pokazalo, da njegova teorija o vzroku vrtenja ni bila pravilna, je s svojimi tovrstnimi poskusi in rezultati vseeno podprl teorijo o kinetični teoriji plinov. 
+V cevi mu je uspelo ustvariti vakuum, ki je bil neprimerno boljši od vakuuma, ki so ga v tistem času dosegali v t. i. Geisslerjevih ceveh. 
+Crookesova metoda vakuumiranja je kasneje Edisonu omogočila izdelavo žarnic za splošno rabo. 
+
+Louis Chardonnet (1. 5. 1839 do 12. 3. 1924) je bil francoski kemik, ki je prvi izdelal uporabno umetno vlakno, imenovano rejon. 
+Do zanimivega izdelka je prišel tako, da je raztopino nitroceluloze stiskal skozi drobne luknjice in pustil, da je topilo izhlapelo. 
+Postopek je patentiral leta 1884, t. i. Chardonnetevo svilo pa so kot veliko senzacijo prikazali na pariški razstavi leta 1891. 
+Ime rejon (fr. rayon -- žarek) so tkanini, narejeni iz tega vlakna, dali zato, ker se je tako močno svetila, kot da bi izžarevala žarke svetlobe. 
+Chardonnet je bil torej prvi na poti, ki je kasneje vodila do popolnoma sintetičnih vlaken.
+
+John Ambrose Fleming (29. 11. 1849 do 19 . 
+4. 
+1945) je bil angleški elektrotehnik, ki je med drugim sodeloval z Edisonom in Marconijem. 
+Proučeval je Edisonov pojav, električni tok med razžarjeno nitko in hladno ploščico v evakuirani žarnici. 
+Ob tem je ugotovil, da tok nastane zato, ker elektroni izstopajo iz razžarjene nitke. 
+Elektroni potujejo le takrat, ko je ploščica vezana na pozitivno sponko generatorja, saj le takrat privlači negativne elektrone. 
+Kaj bi se dogajalo, če bi bila plošča izmenično nabita pozitivno in nato negativno? 
+Od tega vprašanja ni bilo več daleč do naprave, v katero je vstopal izmenični tok, iz nje pa izhajal istosmerni. 
+Leta 1904 je Fleming izdelal usmernik, ki ga je sam imenoval ventil. 
+Lee de Forest je kasneje dodal še mrežico in nastal je ojačevalnik ter hkrati tudi usmernik. 
+Svoj pohod je začela elektronika. 
+Fleming je doživel skoraj sto let in videl, kaj se je razvilo iz njegovega usmernika.
+
+Delovanje ojačevalnikov nadzirajo z ampermetrom, ki je takrat, ko sem bil prvič tam, kazal v povprečju 500 A, njihova enosmerna napajalna napetost pa je 230 V. Medsebojno odvisnost visokofrekvenčnega ter modulacijskega signala nadzirajo po znani metodi z osciloskopom. 
+Pri modulaciji pod 100 % (včasih so oddajnike modulirali le do 30 %) ima oscilogram obliko trapeza. 
+Ko modulacija doseže 100 %, je na zaslonu trikotnik, če pa je še močnejša, dobi trikotnik na spodnjem oglišču nekakšen »rep«. 
+Spričo nizke napajalne napetosti torej ni bilo nobene nevarnosti, ko je inž. Gorjan odprl zadnja vrata omar, da sem lahko fotografiral njihovo notranjost. 
+Ko je odprl še vrata na omari, kjer se zbira signal iz vseh treh oddajniških skupin, pa nisem smel fotografirati z bliskavico, saj bi varnostna naprava zaradi bliska takoj izključila celotni oddajnik. 
+Ko sem naslednjič prišel v Domžale, oddajnik ni deloval, ker so merili ozemljitveno upornost, zato sem takrat lahko fotografiral po mili volji. 
+
+ANTENSKA HIŠICA IN ANTENA
+
+(Slika 6)
+
+Za tiste, ki smo bili vajeni, da so radijski oddajniki za velike moči narejeni z vodno hlajenimi visokonapetostnimi elektronkami in s tako velikim modulacijskim transformatorjem, da bi z njim lahko napajali celo mestno četrt, pomeni novi domžalski oddajnik revolucionarno spremembo. 
+Zamisel, kako s 3.840 nizkonapetostnimi MOSFET-i preoblikovati energijo enosmerne napetosti 230 V v visokofrekvenčno modulirano energijo z močjo 300 kW, je zares genialna. 
+Vse do svojega obiska si nisem mogel predstavljati, da bi bil tako močan oddajnik lahko narejen s tranzistorji. 
+Vredno je omeniti, da je bil sedanji domžalski oddajnik prvi take vrste, ki so ga postavili v Evropi. 
+Podjetje Harris je izdelalo prvi tak oddajnik leta 1988. 
+
+Podpisi k slikam:
+
+Sl. 9. 
+
+Koaksialni vod iz žic povezuje oddajniško napravo z antensko hišico.
+
+Če nam je na voljo še manjša gradbena višina (oziroma velja H3 < H2), glavne vzdolžnike glede na tir pomaknemo še višje. 
+Da se pri tem brez višinske omejitve izognemo gradbenemu profilu, ju razmaknemo tako, da leži ta profil po vsej višini med njima, torej b3 > B. Tako dobimo tretji prerezni tip mostu, ki ga ne glede na resnično višinsko lego tira označujemo kot »vozišče spodaj« (risba 5). 
+Njegova glavna konstrukcijska značilnost glede na drugi tip je torej v podaljšanih prečnikih (b3 > b2), kar pri dani dolžini pomeni tudi nadaljnje povečanje lastne teže mostu (g3 > g2) in po načelih statike povišanje glavnih nosilcev (h3 > h2). 
+Iz tega sledi še njegova ekonomska značilnost, da je od vseh treh tipov najdražji. 
+Manj bistvena značilnost takega mostu je v tem, da sta lahko povezani tudi zgornji lameli glavnih nosilcev, če ti po višini segajo nad gradbeni profil. 
+Hodnik za progovno osebje je nameščen znotraj glavnih nosilcev, ker to dopušča presledek med prometnim profilom (A) in glavnima vzdolžnikoma (b3). 
+V to skupino spadajo npr. železniški mostovi čez Savo Bohinjko pri Soteski, čez Savo pri Črnučah in Litiji, čez Dravo pri Ptuju idr. 
+Glavni nosilci so večinoma predalčja, višja tudi zgoraj prečno povezana. 
+
+Risba 1 
+
+Risba 2
+
+Postaviti:
+
+h
+
+b1
+
+Prerez mostu z »ugreznjenim voziščem«
+
+Razporeditev tirnih pragov in prečnikov v vzdolžnem prerezu odseka mostu z »ugreznjenim voziščem«
+
+b1
+
+Ptujska gora je znana predvsem kot vrhunski umetnostnozgodovinski spomenik. manj pa vemo, da je v tamkajšnji okolici miocenski peščenjak, ki so ga rabili kot naravni kamen in iz njega naredili marsikaj. 
+Podatki o takšnih naravnih materialih se vse bolj izgubljajo, zato so zapisi o njih koristni.
+
+(Slika 5)
+
+O kamnoseški obrti iz okolice Ptujske gore je objavljenih nekaj podatkov, čeprav sistematično in dovolj natančno to področje še ni obdelano. 
+J. Curk poroča o delavnicah na Ptujski gori in v Ptuju v članku Ptujski gradbeniki med renesanso in historicizmom (Časopis za zgodovino in narodopisje, 65, 1994). 
+V prvi polovici 18. stoletja je na Ptujski gori delala družina Vernik, v drugi polovici tega stoletja pa Schubadt. 
+Kamnoseki so bili na tem območju seveda že prej, saj so ptujskogorski peščenjak uporabili pri gradnji ptujskogorske cerkve ob koncu 14. stoletja. 
+M. Gramc in L. Šolman leta 1993 pišeta, da so proti koncu 16. stoletja v Ptuj prišli italijanski gradbeniki in kamnoseki, ki so imeli v lasti tudi kamnolome pri Ptujski gori. 
+Tamkajšnje kamnoseštvo je cvetelo še v 17. stoletju. 
+V cehovskih knjigah je zapisanih nekaj kamnosekov iz 17. in 18. stoletja. 
+Tradicija kamnoseštva se je nadaljevala v naslednjih dve stoletjih. 
+Delavnice in kamnolomi so bili raztreseni po okolici Ptujske gore. 
+Leta 1891 je pooblastilo za kamnoseško obrt v Stogovcih dobil Jakob Horvat, leta 1922 pooblastilo za kamnolom Franc Gojkovič z Janškega vrha, leto pred tem pa tudi koncesijo za kamnoseško obrt. 
+To je samo nekaj podatkov, ki kažejo na dokaj živahno kamnoseštvo v okolici Ptujske gore.
+
+Sekira, špice, gladilec, šestilo in drugo orodje, s katerim so v preteklosti ročno obdelovali ptujskogorski peščenjak
+
+Vital Sever
+
+V ta namen je bilo torej treba najti zelo hiter generator naključnih števil, ki bi premogel vse značilne lastnosti naključnega izbiranja števil. 
+Pokazalo se je, da je to lažje reči kot storiti. 
+Težave, povezane z oblikovanjem takšnega generatorja naključnih števil, so zelo podobne težavam, s katerimi se srečamo, če želimo obdržati v navpični legi svinčnik, ki stoji na svoji konici.
+
+Beli šum na zaslonu
+
+Sem in tja je komu z zdravstvenimi težavami treba narediti skanogram možganov. 
+Za to uporabimo NMR-spektroskopijo (ŽIT 1999/1, str. 61). 
+Metoda jedrske magnetne resonance temelji na magnetnih lastnostih atomskih jeder in jo izkoriščamo za slikanje določenih delov človeškega telesa. 
+Če ima bolnik srečo, ti testi izločijo možnost preteče bolezni. 
+V olajšanju, ki sledi, zdravnik pokaže pacientu sliko. 
+Če ta sliko vidi prvič, je precej verjetno, da ga bo pogled nanjo presunil. 
+V nasprotju s slikami drugih organov, ki ponavadi pri ljudeh izzovejo šaljive pripombe (»Poglej, poglej, tole so pa moja jetra!«), slike možganov vzbujajo grozo. 
+Pred vami so vaši možgani z vsemi svojimi brazdami in skrivnostnimi režnji. 
+Podobno neugodno se počutijo študenti medicine, ko pri anatomiji prvič držijo v rokah možgane, in podobno neugodje vodi nevrokirurga, da se med operacijo pošali: »No, pa gredo urice klavirja …,« ko izrezuje sivo snov. 
+Možgani so konec koncev sedež duše, gnezdo zavesti, organ »menosti«. 
+Iz te gmote tkiva, ki spominja na mariniran tofu, izvira osebnost. 
+
+Možgani dosežejo končno velikost že precej prej, kot neha rasti otroško telo. 
+Zato je še posebej zanimivo, kako se lahko pri odraslem človeku nenadoma spremeni velikost kakega dela možganov. 
+Če pogledamo možgane kroničnega alkoholika, vidimo, da je določen predel močno razkrojen; v možganih nekoga, ki je bil izpostavljen velikim količinam organskih strupov, je poškodovan drug možganski del; tretji del možganov pa zadnje čase doživlja veliko pozornosti, saj kaže, da lahko atrofira kot odgovor na določene vrste močnega stresa.
+
+(Slika 2)
+
+Ko so raziskovalci s pomočjo alternativnega modela opazovali raven glukokortikoidov po izbruhu posttravmatskih težav, so na svoje veliko presenečenje ugotovili, da ta sploh ni višja od normalne, ampak celo nižja. 
+Njihovo skrbno raziskovanje je pokazalo, da je to morda posledica dejstva, da so možgani bolj občutljivi za regulacijske učinke glukokortikoidov, kar pomeni manj izločanja le-teh. 
+Tako sindrom razlagajo ne kot posledico povišane ravni stresnih hormonov med travmo, ampak kot posledico pretirane občutljivosti za te hormone po travmi. 
+Pri obeh modelih je zlasti zanimivo to, da so znanstveniki identificirali verjetnega krivca -- s stresom povezani hormon, ki v določenih okoliščinah povzroča škodo hipokampusu in spominu.
+
+S to razliko si lahko pomagamo pri podatkih o stresu in spominu. 
+Stresi, ki trajajo manj kot nekaj ur, težijo k okrepitvi spomina, predvsem kot posledici sproščenega adrenalina. 
+Če pa stresno stanje traja, okrepitev izgine in zamenja jo pozabljivost (predvsem zaradi glukokortikoidov). 
+Če torej nameravate doživeti stres pri končnem izpitu, si zagotovite, da vas bo zajel šele, ko boste sedli in odprli izpitni vprašalnik, in ne že večer pred tem.
+
+Slika 1 (str. 117) 
+
+Na sosednje nebesno telo, če je res podobno Zemlji, bi bilo morda vredno potovati. 
+Toda kako daleč je? 
+Na podlagi Anaksagorove teorije, da je Luna velika kot Peloponez (tj. kakih 200 km v premeru) in ob dejstvu, da jo prekrije majhen kovanec, ki ga držimo v iztegnjeni roki (z drugimi besedami, da je njen kotni premer približno 0,5 ločne stopinje), s pomočjo podobnih trikotnikov lahko hitro izračunamo, da mora biti Luna vsaj 20.000 km daleč. 
+Tako velika številka bi šla Atencem hudo v nos in bi gotovo še podprla njihovo mnenje, da je astronom nevaren brezbožec. 
+V tistem času je bilo namreč splošno znano, da nebesni svod na plečih drži velikan Atlas, ki je lahko velik kvečjemu kot kakšna gora, večji pa gotovo ne. 
+Vendar v klasični Grčiji, kot kaže, tega računa nihče nikoli ni naredil. 
+Luno je na pravo mesto postavil šele nek drug grški astronom, ki je deloval v helenistični Aleksandriji kaki dve stoletji pozneje. 
+Aristarh s Samosa je bil po pripovedovanju sodobnikov velik učenjak in eden redkih mož, ki so bili enako dobro razgledani v vseh znanstvenih področjih -- geometriji, astronomiji, glasbi itd. 
+Kaj malo je dal na ustaljena prepričanja in je bil med prvimi, če že ne kar prvi, ki je menil, da vprašanji o razdalji do Lune in njeni velikosti nista stvar globokoumnega ugibanja temveč meritve. 
+Z meritvijo kota med Luno, Zemljo in Soncem v trenutku, ko je osvetljena natanko polovica Lune, in nekaj trigonometrije je ugotovil, da je Sonce 20-krat bolj oddaljeno od Zemlje kot Luna. 
+Njegova meritev je seveda zelo nenatančna, saj je imel zanjo na razpolago le najpreprostejše instrumente; prava številka je namreč 400. 
+Vendar pa je ugotovil, da je Sonce od Zemlje precej dlje kakor Luna, kar je za nadaljnjo razpravo edino pomembno. 
+V tem primeru sta namreč ob Luninem mrku velikosti Lunine oble in Zemljine sence na njej vidni v istem merilu. 
+Zato je razmerje premerov obeh nebesnih teles takrat prav lahko določiti. 
+Ob neki priložnosti je to seveda tudi storil in ugotovil, da je razmerje 3, torej je premer Lune le trikrat manjši od premera Zemlje. 
+(Če bi mrk lahko fotografiral, bi zlahka prišel do natančnejše številke 4.) 
+
+(Slika 1)
+
+Leta 1865 je priljubljeni francoski pisatelj znanstvene fantastike, Jules Verne, objavil roman z naslovom Potovanje na Luno, ki ga z nekaj širokosrčnosti lahko ocenimo kot prvo »znanstveno« delo o vesoljskih potovanjih. 
+Njegova zamisel je pravzaprav preprosta in takšna, da bi -- vsaj na prvi pogled -- morala delovati: menil je, da se da z dovolj velikim topom na Luno preprosto ustreliti. 
+Zamislil si je kakih 300 m dolg in navpično v zemljo vkopan top s kalibrom (premerom odprtine topovske cevi in tako tudi granate oz. vesoljske ladje) 3 m. 
+Nato bi ga dobrih 70 m globoko nabil z eksplozivom. 
+Tako bi izstrelek iz Columbiada, kot je poimenoval svoj top, po izstrelitvi dosegel hitrost, potrebno za potovanje na Luno. 
+(Ta se tehnično imenuje druga kozmična hitrost in znaša slabih 12 km/s.) 
+Avtor je bil zelo ponosen na domnevno tehnično neoporečnost svoje zamisli. 
+Toda noben, še tako velik top ne more izstreliti granate v vesolje, kaj šele na Luno, ker fizikalne zakonitosti omejujejo hitrosti topovskih izstrelkov. 
+Razlog za ponesrečeni strel pa ni povsem očiten in ga Verne, četudi bi bil učenjak in ne pisatelj, pravzaprav niti ne bi mogel poznati, ker fizika (termodinamika) tiste čase pač še ni bila dovolj razvita. 
+
+Jules Verne si je predstavljal, da bi s svojim topom v vesolje lahko izstrelil ne le običajno topovsko granato, temveč kar pravo vesoljsko ladjo, naseljeno z ljudmi, psi in kokošmi. 
+Danes vemo, da bi posadki takšna izstrelitev -- blago rečeno -- škodila. 
+Če naj bi vesoljska kapsula v 200 m dolgem topu dosegla hitrost 12 km/s, bi se morala gibati s pospeškom, ki je 36-tisočkrat večji od zemeljskega težnega pospeška (v strokovni latovščini bi se temu reklo: s pospeškom 36.000 g). 
+Majhna kokoš bi med takšnim pospeševanjem »tehtala« vsaj 36 t, torej toliko kot dobro naložen tovornjak. 
+Kaj tovornjak naredi s kokošjo, če na cesti zapelje čeznjo, najbrž ni treba podrobneje razlagati. 
+Enaka bi bila seveda tudi usoda posadke v izstrelku. 
+
+(Slika 3)
+
+Originalna naslovna stran knjige Hermana Potočnika Noordunga Problem vožnje po vesolju; nemški raketni pionirji so je zelo cenili, posebno Wernher von Braun, vodja nemškega in kasneje ameriškega raketnega programa. 
+
+3
+
+4
+
+Edwina Aldrina, drugega človeka na Luni, je med sestopom iz vesoljske ladje posnel Neil Armstrong, prvi človek na Luni.
+
+Pred vrnitvijo na Zemljo je bila okolica vesoljske ladje na Luni polna odtisov astronavtskih obuval.
+
+Prvi na Zemlji, prvi na Mesecu
+
+20. julija 1999 je Omega postavila na internet prvi in za zdaj edini interaktivni spletni program o astronomiji, vesolju in njegovem raziskovanju. 
+Imenuje se Space Watch. com in je zaradi preglednosti razdeljen na tri dele. 
+Prvi, Mission Control, Over, nas popelje v skrivnosti človekovih vesoljskih odprav. 
+Prek njega se lahko enkrat tedensko (vsak torek ob 19. uri po srednjeevropskem času) vključite v neposredni program iz vesoljskega centra v Houstonu. 
+Deep Sky ponuja odgovore na mnoga vprašanja iz astronomije, njegovi gostje bodo najuglednejši svetovni astronomi oziroma znanstveniki, v pogovor z njimi pa se lahko zapletete vsako noč s četrtka na petek, ob enih po našem času. 
+V tretjem delu, imenovanem Cosmic Visions, najdete novice, povezane z vesoljem in njegovim raziskovanjem. 
+Občasno si na njem lahko ogledate še ekskluzivne reportaže iz Houstona, Washingtona in Cape Canaverala ali pa pokukate v Nasine arhive, v dokumente Ameriškega nacionalnega arhiva ter celo v najzanimivejše zasebne dokumentarne zbirke.
+
+Slika 3: 
+
+Marko Drenovec
+
+Tadej Čampa
+
+Peter Starič
+
+PTUJSKOGORSKI PEŠČENJAK, NARAVNI KAMEN 68
+
+EFEMERIDE ZA MESEC NOVEMBER 1999 80
+
+»Takoj bom, doktor,« je ubogljivo odvrnila Angelca in se udobno namestila na kavču. 
+»To ni stvor iz nočnih mor. 
+Čeprav je zelo grozen. 
+In popolnoma resničen.« 
+Zazrla se je v strop, da bi videla, ali morda ne visi iz kakega kota, in nadaljevala: »Videti ga je mogoče popolnoma jasno. 
+Ima kratko, škrlatno dlako. 
+Takšno, s kakršno so poraščeni nekateri pajki. 
+Ima štiri noge, ki pa niso enakomerno razporejene ob strani telesa kot pri psih in mačkah, ampak ima vse noge skupaj na osrednjem delu trupa. 
+To so zelo močne noge; precej močnejše, kot jih potrebuje. 
+Lahko skoči tudi tri metre visoko v zrak.« 
+Angelca je spet pogledala dr. Bachmana. 
+»Ali ste vse zapisali?«
+
+»Oh, za božjo voljo! 
+Podzavest! 
+Danes pa res ni moj dan.« 
+Angelca se je kar vdala v usodo.
+
+»A ja? 
+Meni se je to zgodilo, ko sem bila na prostem. 
+Okoli mene se je kar trlo ljudi. 
+Takrat strah pred zaprtim prostorom ni imel nobene zveze z okoljem. 
+Kar naenkrat se mi je zazdelo, da sem se znašla v velikanski sobani, na katero je pritiskala gromozanska teža kamenja in opeke. 
+Nekaj trenutkov se mi je to zdelo tako resnično, da je svet okrog mene kar zbledel.«
+
+»Če ste zaskrbljeni samo zaradi tega, mislim da bi lahko brez kakih posebnih težav odpravili to malenkost,« je suho pripomnil dr. Bachman.
+
+Dr. Bachman je živčno trznil z brado in se ozrl čez rame. 
+»Pošast? 
+Navadna traparija! 
+Kar pa se vašega očeta tiče ...«
+
+Zapis na papirju je bistveno bolj vzdržljiv kot zapis na katerem koli računalniškem mediju. 
+Že po 3--5 letih ni več mogoče prebrati zapisa na disketi, danes najpogosteje uporabljanem mediju za »trajno« hranjenje računalniških podatkov. 
+Papir bo čez 100 let rahlo preperel, pisava bo precej bleda, a še vedno berljiva. 
+Seveda bomo iz povsem praktičnih razlogov še vedno uporabljali računalnike, celo vedno bolj, in zato se je treba zavedati njihove ranljivosti.
+
+(Slika 8)
+
+(Slika 9)
+
+Velikost medija omogoča preprosto arhiviranje večjih količin podatkov. 
+
+95.000 SIT za 2 GB pogon + en medij, 55.000 SIT za 1 GB pogon + 1 medij
+
+300 SIT / 640 MB za medij CD-R 
+
+600 SIT / 640 MB za medij CD-RW 
+
+Potreben nadzor in strokovno vzdrževanje
+
+Brezprekinitveni napajalnik nam obvaruje podatke pred nenadnim izpadom električnega toka.
+
+Slika 8: (disketa)
+
+Avtomobilizem
+
+Po reviji P. M.
+
+Konstruktorjem in generalom je po neuspehu projekta XB-70 postalo jasno, da je želja po čim višjem letenju in s tem večji hitrosti postala nesmiselna. 
+Letenje na velikih višinah je takrat zagotavljalo delno varnost pred lovskimi letali, za sodobne rakete zemlja--zrak pa so bili bombniki lahek cilj. 
+Na podlagi tega spoznanja so prišli do sklepa, da je za prodiranje v nasprotnikov zračni prostor najboljše, če bombnik leti čim nižje, s čimer so nasprotniku dali manj časa za njegovo odkrivanje in napadanje. 
+Poleg tega so takratni protiletalski raketni sistemi pokrivali predvsem večje višine in šele novejši sistemi ter izpopolnjeni protiletalski topovi so lahko napadali tudi cilje, ki so leteli nizko. 
+
+Oznaka bombnika B-52H B-1B B-2A
+
+Višina letala (m) 12,05 10,36 5,10
+
+Normalna masa (t) ? 
+195,7 152,6
+
+Potisk z dodatnim zgorevanjem (kN) -- 4 x 133,40 (533,60) --
+
+(Slika 12)
+
+Podpisi k slikam:
+
+B-52H med odmetavanjem velike količine smrtonosnega tovora. 
+To letalo bo v oborožitvi strateškega letalstva ZDA služilo kar 82 let, čeprav je bil general Le May z njim nezadovoljen, še preden je sploh prišlo v operativno uporabo.
+
+Vzdrževanje bombnika B-52H je zaradi njegovih osmih zastarelih motorjev izredno drago.
+
+Slika10 
+
+Rajko Pavlovec
+
+Anhovem, kjer cementarna pridobiva surovino za proizvodnjo. 
+V visokih stenah kamnoloma vidimo vse premešano -- majhni kosi kamnin so med velikimi. 
+Tudi po sestavi so posamezni kosi in bloki čisto različni. 
+Tu vidimo svetle apnence, tam laporje, drugod rdečkaste peščene laporje in apnence, včasih celo blok sovdana in še kaj. 
+Takšne plasti so tudi ob cesti iz Plav v Vrhovlje, vendar jih tam ne vidimo tako lepo kot v kamnolomu.
+
+Okamnine
+
+Na kamnine na površini vplivajo tudi drugi dejavniki: segrevanje zaradi sonca, zmrzovanje, zajedanje korenin v skale in še kaj. 
+Zaradi vseh teh pojavov, ki jim pravimo preperevanje, kamnine na površini razpadajo -- nekatere bolj, druge manj. 
+Posledica preperevanja je preperina, ki po zapletenih fizikalno-kemičnih procesih pripelje do vrhnjega dela, prsti. 
+Ta je za obstoj in življenje rastlin osnovnega pomena -- tudi v Goriških Brdih. 
+Ker flišne kamnine precej hitro preperevajo, so dobra podlaga za rastline. 
+Zadržujejo namreč precej vlage, kar je pomembno za rast. 
+Poleg tega je v Brdih primerno podnebje. 
+Če vse to povežemo, vidimo, da so na tem območju ugodne razmere za gojenje vinske trte, sadja in še česa. 
+Temeljna dejavnika za to pa sta prav kamninska podlaga in podnebje.
+
+Pajki s kompasom 
+
+(ni slike - grlica)
+
+Skrivnostno izginotje dinozavrov vedno znova buri domišljijo. 
+Dosedanjim teorijam sta se v zadnjem času pridružili še dve, ki pa prav gotovo ne bosta zadnji. 
+Ameriški raziskovalci so razvili povsem svežo teorijo o izumrtju teh pradavnih velikanov: mnoge vrste naj bi v teku evolucije postale preprosto prevelike in zato nesposobne, da bi se še lahko parile. 
+To naj bi pojasnilo, zakaj so manjši potomci zavrov -- krokodili, ptiči in kače -- preživeli do danes.
+
+(slika 6 - ant)
+
+Japonska firma Pioneer, ki je v naših krajih znana predvsem po kakovostnih avtoradijih in drugih akustičnih komponentah, se želi prebiti med vodilne izdelovalce sodobne elektronike tudi z drugimi izdelki. 
+Gre za novost, ki pa jo bodo imeli zaradi cene 38 tisoč mark (kolikor stane tudi zelo spodoben avto srednjega razreda) v domačem stanovanju le redki Slovenci, je ploščat televizijski plazmatski zaslon PDP-502MX z diagonalo 50 palcev (127cm). 
+Zgolj za primerjavo povejmo, da je to skoraj dvakrat več od diagonale današnjih velikih »klasičnih« televizorjev, ki meri diagonala »le« 29 palcev (73 cm). 
+Novi zaslon se ponaša še z izjemno ostro sliko.
+
+Obolenja prostate pestijo vse večje število moških. 
+Žal je med dokaj pogostimi obolenji tudi rak prostate, ki se ga zdravniki skušajo lotiti z različnimi sredstvi.
+
+(slika 11)
+
+X pomeni prihodnost
+
+Projekti, ki so sedaj v teku, kažejo na 10-kratno zmanjšanje stroškov in 100-kratno povečanje varnosti in zanesljivosti. 
+Sedanja zanesljivost raket, ki znaša 90--98 %, je premajhna za reden potniški promet v vesolje. 
+Prototipi prihodnjih vozil, ki naj bi odpravila naštete težave, so dobili oznake X-33, X-34, X-37 in X-38. 
+Letalo X-36, katerega razvoj je tudi v teku, je le prototip naslednjega ameriškega lovskega letala, zasnovanega na revolucionarnih konceptih, in ni v neposredni zvezi z drugimi projekti. 
+Črka X na začetku oznake pomeni, da gre za eksperimentalno letalo, s katerim preizkušajo nove tehnologije. 
+Prvo tako letalo je bilo X-1, s katerim je testni pilot Chuck Yeager leta 1947 prebil zvočni zid (ŽIT 1997/10, str. 35). 
+Naslednja so pripomogla k razvoju različnih vojaških letal, kot je F-100, in različnih civilnih potniških letal, kot so na primer boeing 707, concorde in DC-8.
+
+Motorji bodo namenjeni tudi za spreminjanje smeri, saj je mogoče spreminjati potisk posameznih segmentov motorja, kar pomeni, da X-33 ne bo potreboval mehanskega sklopa za premikanje motorja. 
+Pričakujejo, da bo z enim motorjem mogoče opraviti okoli 100 vzletov. 
+Zaradi standardiziranega tovornega modula je vgradnja tovora razmeroma preprosta in neodvisna od vzdrževanja vozila. 
+Modul se vgradi v X-33 tik pred vzletom in poskrbi za vse strukturne, toplotne, energetske in komunikacijske potrebe tovora. 
+VentureStar bo sposoben dvigniti 25 t tovora v nizko orbito, s pomočjo dodatnih stopenj pa lahko tovor doseže tudi druge orbite.
+
+(Slika 8)
+
+Prototip je dolg 6 m, širok 4 m, visok 1 m, tehta 600 kg, poganja pa ga motor F112. 
+Ob pomoči kamere, ki je pritrjena na X-36, lahko pilot z daljinskim upravljačem krmari letalo kar iz oporišča na zemlji.
+
+#http://www.boeing.com/defense-space/space/futurex/index.html# (program Future-X)
+
+Slika 4 (na disketi):
+
+Slika 6 (slika na strani 79 zgoraj):
+
+Črpalke
+
+Operacije v okviru enega cikla plovila X-33: 1 -- priprave na polet in vzlet, 2 -- vzpon, 3 -- izključitev glavnih motorjev, 4 -- spust, 5 -- približevanje letališču in pristanek, 6 -- 
+
+Včasih je najtežje najti največje stvari. 
+Kako si lahko drugače razlagamo nepazljivost celih generacij nigerijskih in evropskih arheologov, ki so spregledali preostanke obzidja mesta Eredo, tisoč let starega kraljestva ljudstva Sungbo -- in to niti uro vožnje od Lagosa. 
+Ostanki so namreč velikanskih izmer: ilovnat zid z jarkom je dolg 160 km in sega na nekaterih mestih sedem nadstropij visoko, zajema pa tudi kanale, stražnice in vojašnice. 
+Vse skupaj obkroža območje velikosti Londona s predmestji oziroma 30-kratno površino Manhattana. 
+
+Čeprav nobena posamična zgradba v beninskem omrežju ni večja od Ereda, ga skupaj presegajo večkratno. 
+Skupno se raztezajo v dolžino 16.000 km in sestavljajo mozaik nad 500 med seboj povezanih mejnih nasipov med naselbinami. 
+Pokrivajo površino 6.500 km2 in vse je izkopalo ljudstvo Edo. 
+Vse skupaj so štirikrat daljše od Kitajskega zidu, zanje pa so uporabili stokrat več gradiva kot za Keopsovo piramido. 
+Za njihovo izkopavanje so porabili kakšnih 150 milijonov ur in pomenijo verjetno največjo samostojno arheološko najdbo na svetu. 
+Nič čudnega ni, da mu jih je uspelo kartografirati vsega skupaj kakšno desetino. 
+
+(Slika 3)
+
+Ob pomoči antropologov, vključno z Danom Ben-Amosom, afriškim strokovnjakom z državne univerze v Pensilvaniji, je začel Darling sestavljati tako socialni kot fizični ustroj teh naselbin. 
+Naselbine vključujejo kraje, kot je Ohovbe, selitveni tabor kakih 7 km vzhodno od Benin Cityja, skupino naselbin pod skupnim imenom Oka, ki si delijo skupna mejna obzidja, in mesto Udo, ki je nekoč tekmovalo z Beninom ter se ponaša z 10-kilometrskim obrambnim zidom, zgrajenim iz pol milijona kubičnih metrov zemlje. 
+
+(Slika 2)
+
+Postaviti:
+
+A njena želja se ni uresničila. 
+Gledalci njenega vzleta z letališča Lae so bili zadnji, ki so videli Amelio in njenega navigatorja. 
+Nekje nad Pacifikom je namreč letalo izginilo brez sledu, s čimer sta Amerika in svet izgubila svoj idol ženskega poguma in vzdržljivosti. 
+Toda Amelia Earhart je še danes prav tako slavna kot pred 62 leti. 
+Njena usoda ostaja ena od nerešenih in v skrivnosti zavitih ugank, ki so se napletle okoli njenega zadnjega poleta. 
+Razni namigi in »dokazi« o ostankih razbitin letala se na različnih koncih južnega Pacifika pojavljajo skoraj tako pogosto, kot pričevanja o pojavih NLP v ameriški Novi Mehiki. 
+Vztrajnost te legende o Ameliji je posledica dejstva, da je ena redkih junakinj z neomadeževanim ugledom, ki z leti samo še narašča.
+
+(Slika 4 - č/b)
+
+V okviru projekta World Flight 1997 je bil izdelan prilagodljiv učni program z naslovom »You Can Soar«, ki je bil namenjen učencem od 5. do 8. razreda. 
+Program je vseboval materiale za učitelje, dokumentarec o ženskih junakinjah letalstva, vaje na internetni domači strani projekta in obiske Linde Finch v krajih pristanka med poletom. 
+Učenci so v okviru programa proučevali številna znanstvena področja v povezavi z letalstvom in raziskovanjem, konstruirali »sanjske« modele letal in kabin, izdelovali vremenske postaje, se ukvarjali s kartografijo ipd. 
+Nekatere šole so imele možnost sprotnega spremljanja poleta. 
+Podatke so posredovale drugim šolam po svetu, te pa so jim pošiljale nazaj vremenske napovedi za kraje na črti poleta, ki so jih te šole po elektronski pošti posredovale Lindi na letalo. 
+Tako so učenci dejansko lahko postali del odprave.
+
+(Slika 3)
+
+Slika 2- National Geographic, januar 1998, stran 121 - spodaj
+
+Podvigi Amelie Earhart
+
+Južni Atlantik
+
+11.--25. 4. 1997
+
+Poleti Amelie Earhart
+
+(ob črni črtici)
+
+(popravki imen mest - od leve proti desni)
+
+V Z J
+
+Prvi prelet ženske čez Atlantik kot sopotnice dveh moških kolegov pilotov je začel pohod Amelie Earhart na časopisne naslovnice -- čeprav na tem poletu ni pomenila kaj več kot »vrečo krompirja na zadnjem sedežu«, kot se je v javnosti rada pošalila na svoj račun.
+
+Slika 10 -stran 26
+
+Prekop Göta uporabljajo tudi vojaške ladje.
+
+Delček napredne tehnologije med prsti
+
+Medicina
+
+Hkrati upada urejenost na novo nastajajočih plasti kožnih celic. 
+V plasti neposredno pod površino kože -- v dermisu -- trdnost tkiva zagotavljajo kolagenska vlakna. 
+Med staranjem prožnost povezav med temi molekulami upada, saj protein elastin, ki koži zagotavlja prožnost, z leti začenja trdeti. 
+Hkrati upada raven delovanja lojnic in znojnic, zaradi česar postaja koža bolj ranljiva za sušenje ter čezmerno pregrevanje. 
+V maščobni plasti -- hipodermisu, ki leži pod dermisom, skupno število celic med staranjem sicer upada, medtem ko se na nekaterih delih telesa -- pod očmi, ušesi in podbradkom -- oblikujejo čezmerne zgostitve teh celic. 
+Zaradi tanjšanja maščobne plasti postajajo na preostalih delih obraza vse bolj vidne žile in kosti. 
+Koža postaja vedno bolj bleda, ker je tik pod površino kože vedno manj kapilar, medtem ko se pigmentne celice začenjajo povečevati ter zgoščati v starostna kožna znamenja.
+
+Redna vadba pomaga ostarelim ljudem pri ohranjanju gostote kosti ter moči mišic. 
+Za slednje velja pravilo: »Uporabljaj jih, da jih ne izgubiš!«. 
+Zanemarjene mišične celice prehajajo v vezno ter maščobno tkivo. 
+Toda ne glede na količino vadbe mišična moč zlagoma upada. 
+Temu botrujeta slabša prekrvljenost mišičnega tkiva in manj učinkovito delovanje živčnega sistema. 
+V starosti lahko upade tudi učinkovitost energetskih središč celic, t. i. mitohondrijev. 
+Sposobnost srca, da pošilja kri po telesu, upada zaradi odebelitve sten levega prekata. 
+Zaradi kopičenja kalcija in kolagena postaja debelejše ter bolj togo tudi gladko tkivo v stenah žil, kar prav tako ovira pretok krvi po telesu. 
+Pri arteriosklerozi se arterije še dodatno mašijo zaradi odlaganja maščobnega tkiva na notranjih stenah teh žil.
+
+Pri vseh doslej raziskanih vzorcih poskusnih oseb je bil od obravnavanih genov najbolj pogost gen 3, temu po pogostosti sledi škodljivi gen 4, najredkeje pa se pojavlja gen 2 z dobrodejnim učinkovanjem. 
+Zastavlja se vprašanje, kako je to mogoče? 
+Ali evolucija morda ne teži k izločanju vpliva škodljivih genov? 
+V odgovoru na to vprašanje se skriva tudi odgovor na vprašanje, zakaj je staranje neizogibno: alzheimerjeva bolezen in srčna obolenja se pojavijo v razmeroma poznem življenjskem obdobju, tako da imajo lahko le omejen vpliv na sposobnosti za razmnoževanje.
+
+Zaradi življenja v nevarnem okolju učinkovitost zakona naravne izbire z naraščajočo starostjo upada. 
+To pomeni, da še preden zakonu naravne izbire uspe iz genske zasnove opazovane vrste izločiti gene, katerih škodljivost pride do izraza šele v poznejših obdobjih življenja, edinke vrste že zaplodijo naraščaj, ki te gene podeduje. 
+Gen te vrste je na primer gen, ki povzroča huntigtonovo bolezen. 
+Sunkoviti gibi, govorne motnje in naraščajoča blaznost, ki so značilni spremljevalci te bolezni, se pokažejo šele v obdobju srednjih let, ko je bil genski povzročitelj bolezni po vsej verjetnosti že davno predan potomcem. 
+To je še toliko bolj verjetno, če gre za gen, ki ima za stranski učinek povečanje sposobnosti za razmnoževanje.
+
+Evolucijske teorije zagovarjajo stališče, da se procesu staranja kljub sposobnostim telesa za samoobnavljanje ni mogoče izogniti. 
+V skladu s temi teorijami kaže, da si z redno telovadbo in uživanjem vitaminov ljudje ne morejo niti za dan podaljšati zgornje meje dolžine življenja. 
+To črnogledo stališče do neke mere potrjujejo tudi opazovanja na živalih. 
+Vadba lahko malenkostno poveča povprečno dolžino življenja pri podganah, nima pa prav nobenih učinkov na vrednost zgornje meje dolžine njihovega življenja. 
+Fizični napori pri ljudeh povečujejo fizično pripravljenost ter moč mišic in kosti ter zmanjšujejo maščobne obloge telesa. 
+To sicer do neke mere preprečuje značilne bolezni srednjih let ter ugodno vpliva na kakovost samega življenja, samo po sebi pa ne odvzame kaj prida k tegob, ki jih pozna pozna starost. 
+Podobno velja za protioksidacijska vitamina A in C, ki imata le malenkosten učinek na staranje in sta v pretiranih količinah celo škodljiva. 
+Videti je, da sadje in zelenjava podaljšujeta povprečno dolžino življenja, ni pa nikakršnih dokazov, da bi njihovo uživanje na kakršen koli način pomagalo k rušenju rekorda gospe Calment v dolžini življenja.
+
+Mitohondrij 
+
+Postrv
+
+Cayley je natančno izmeril debelino postrvi na različnih mestih vzdolž njenega telesa. 
+Nato je vse podatke delil s tri (za pretvarjanje angleških dolžinskih enot so dovoljeni prav vsi, še tako nečedni triki) in na podlagi tako dobljenih števil izdelal lesen, osno simetrični »model« postrvi. 
+Poskus mu je uspel skoraj bolje, kot bi bilo pričakovati. 
+Celih 100 let kasneje je Theodor von Karman, sloviti nemški raziskovalec aerodinamskih pojavov, presenečen ugotovil, da je Cayleyjeva oblika skoraj natančno enaka tisti, ki jo je sam določil na podlagi sodobne hidrodinamske znanosti. 
+Sir George je podobne meritve kasneje ponovil še pri delfinu, vendar pa so njegovi poskusi s postrvjo mnogo bolj znani.
+
+3.
+
++ oglas za knjigo »Naravna tehnologija”, TZS, Ljubljana, 1999
+
+Na Zemlji je vladala zmeda. 
+Bolnišnice so bile nabito polne. 
+Skoraj dve uri so bili vsi Zemljani brez zavesti. 
+Zgodilo se je velikansko število prometnih nesreč. 
+Eksplozije jedrskih central so po vsem planetu povzročale oblake radioaktivnega prahu in smrtonosnega sevanja. 
+Prebivalci so preklinjali katastrofe, ki so jih doletele, znanstveniki pa svojo lastno nemoč, da bi lahko pomagali. 
+
+Mehanski lovec
+
+»Hočem tistega medveda. 
+Pa naj se zgodi kar koli,« je zatrdil Joe McAlister.
+
+»To že ... 
+No, če bo samo ena manj, se ne bo veliko poznalo. 
+Pomisli na kožuh ... 
+Kakšna trofeja bo to za najino dnevno sobo! 
+Prepričan sem, da bo naredila vtis na vsakogar, ki naju bo obiskal.«
+
+Medveda je bilo precej skupaj. 
+Skoraj tričetrt tone. 
+Vendar se je tako kot kak ptič, zajec ali kača raje ogibal tujim in velikim stvarem. 
+Tudi sedaj jo je ubral proti kraju, kamor se je vedno zatekel; k drevesu, kjer se je rad čohal. 
+Domov. 
+Tekel je hitro in tiho, mehanski lovec pa ga je zasledoval.
+
+»Priden kuža. 
+Daj ga, kuža,« ga je spodbujala Ruthie. 
+
+»Saj si mi rekel, naj stojim tik za teboj,« je odvrnila Ruthie.
+
+Joe se je sprehodil okoli medveda in z nogo obrnil njegovo glavo. 
+»Prav imaš. 
+To bo velika svinjarija. 
+Odiranje ... 
+Do komolcev v krvi in iztrebkih. 
+Čisti obup.«
+
+»No, pridi že! 
+Pred večerjo bi se rada še skopala.« je rekla Ruthie in pobrala svoj nahrbtnik.
+
+Mark Clifton
+
+Povedati moramo tudi, da je nekaj osebkov, ki so se rodili med letoma 1850 in 1900, sicer še pri življenju, čeprav so se vdali grozljivi zasvojenosti s paradižniki, vendar pa je njihovo zdravstveno stanje izredno skrb vzbujajoče. 
+Njihove kosti so krhke, izredno težko se gibljejo, imajo razbrazdano in zgubano kožo, pešajo jim oči, izpadajo jim lasje in v večini primerov so izgubili kar vse zobe. 
+
+<I>Za dosego najboljših rezultatov posebej predlagamo uporabo eksperimentalnih osebkov, ki so dodobra seznanjeni z logiko, opisano v zgornjih vrsticah, in jo po možnosti tudi sami uporabljajo:
+
+-- <I>Reklamni agenti<I>. 
+Izjemno previdna in težko ulovljiva človeška podvrsta; predvsem zaradi tega, ker imajo ti primerki številne izkušnje z raznimi tožbami zaradi lažnivih trditev, obrekovanja in sleparij.
+
+V koncertnih dvoranah, gledališčih in cerkvah je odlična akustika na prvem mestu. 
+Največkrat je doseganje dobrega rezultata prepuščeno dolgotrajnemu poskušanju, ki na koncu lahko obrodi sadove -- ali pa tudi ne. 
+Stvari so se obrnile na bolje, ko so strokovnjaki podjetja BOSE blizu Bostona sestavili superračunalnik z zapletenim programom, ki lahko že na stopnji načrtovanja predvidi najboljše akustične razmere.
+
+V podjetju BOSE na seminarjih povabljenim strokovnjakom na računalniku pokažejo primer določanja akustike cerkvene stavbe v tridimenzionalnem prikazu, tako da je mogoče korak za korakom spoznati delovanje njihovega superračunalnika. 
+Poslušalec se s pomočjo računalniške miške »usede« na poljuben stol v cerkvi, nato pa se prikažejo črte zvočnih valov do poslušalca. 
+(Tem črtam pravimo žarki; z njimi označujemo smer širjenja valovanja.) 
+Okna v cerkvi skoraj idealno odbijejo zvok z dušilnim koeficientom 0,1; oblazinjen sedež pokaže vrednost 3,5, kar kaže, da je odličen »požiralec zvoka«; še večji koeficient dosega človek -- od 4 do 5. 
+Nato preizkušajo različne materiale in oblike odbojnikov ter njihovo razmestitev. 
+Ob vsaki vneseni spremembi se izrišejo nove črte zvočnih valov do poslušalca. 
+Akustika je idealna, ko poslušalec sprejema zvok prav iz vseh smeri. 
+Številni odboji kažejo, da le 10 % vseh zvočnih valov pride do poslušalca neposredno od oddajnika zvoka, velika večina pa pride do njega po številnih odbojih. 
+S premikanjem miške (»poslušalca«) na druge sedeže se pokaže, ali je akustika prostora dovolj dobro urejena, da je na vseh sedežih sprejem zvoka enako kakovosten.
+
+Pri širjenju govornega zvoka je treba upoštevati tudi ustrezni odbojni čas (odmev). 
+Da govor še lahko razločno razumemo, se mora zvok izgubiti v eni sekundi, pri rokovski glasbi to traja dve sekundi, pri orgelski pa dve sekundi in pol. 
+Računalnik pokaže, kako je treba razporediti odbojne plošče in zvočnike za ustrezen čas trajanja zvoka. 
+Akustiko posluša oseba pred računalnikom in med dvema zvočnikoma v obliki blazine, da so čim bolj izločeni vsi morebitni zunanji zvoki. 
+Tisti, ki so med opisanim poskusom poslušali orgelsko glasbo, so jo zaznavali tako polno in nasičeno, kot da bi resnično sedeli v veliki katedrali. 
+
+Naravna barvila so lahko živalskega ali rastlinskega izvora. 
+Številčno so najbolj zastopana rumena naravna barvila, vendar imajo slabše tehnološke in uporabne lastnosti kot rdeča, modra in črna barvila. 
+
+-- derivati pirana, npr. flavonoidi (rumeni katanec, kvercitin, barvilni rumenik),
+
+-- derivati kinona, npr. antrakinoni (kermes, košeniljka, broč oz. alizarin, turško rdeče),
+
+-- kromani (logvud),
+
+Črna sintetična barvila so zaradi slabših lastnosti posamezne komponente običajno mešanica dveh ali več barvil. 
+Naravno barvilo se zaradi odličnih lastnosti še vedno uporablja za nekatere namene, npr. za barvanje svile in usnja.
+
+Uporaba čistih ekstraktov naravnih barvil pri barvanju je redkejša. 
+Najpreprostejši postopek barvanja je obdelava tekstilije v ekstrakcijski kopeli barvila pri temperaturi vrenja. 
+Čas barvanja določa izbrano barvilo in lahko traja tudi več dni. 
+V barvalno kopel lahko dodamo tudi glauberjevo sol, ki deluje kot egalizator in hkrati povečuje stopnjo izčrpanja. 
+Z dodatki baz ali kislin lahko niansiramo, saj so mnoga naravna barvila občutljiva za pH. 
+Za uravnavanje alkalnega medija se največ uporabljata amoniak in tudi soda, za kisel medij pa oksalna, mravljična in ocetna kislina. 
+Pri barvanju bombaža je priporočljivo uporabiti taninsko kislino, ki se nahaja v lubju dreves in grmičevja. 
+
+Naravna barvila imajo slabo svetlobno obstojnost, zato so barve muzejskih tekstilij navadno drugačne kot ob njihovem nastanku. 
+Na skali med 1 (najslabše) in 8 (najboljše) imajo rumena barvila svetlobno obstojnost 1--2, rdeča 3--6, indigo 5--6 in črno barvilo iz tropskih dreves 6--7. 
+
+rdeča sandalovina (Al) navadna košeniljka (Al) broč (Sn, Al)
+
+pražiljka (Al) 
+
+rjava navadna sandalovina (Cu, Fe) košeniljka (Cu, Fe) 
+
+pražiljka (Cu)
+
+Viri:
+
+Od leve proti desni: rumeni katanec <I>(Reseda luteola L.)<I>, barvilni rumenik <I>(Carthamus tinctorius L.)<I> in žafran <I>(Crocus sativus L.)<I>
+
+Slika 6: 
+
+Slika 8: 
+
+Sušenje z indigom pobarvane preje
+
+Megažerjav za megatovore
+
+(Sliki 1 in 3 )
+
+(Slika 2) 
+
+(Sliki 4 in 5)
+
+Postaviti: 
+
+<I>Merkur<I> januarja ni viden.
+
+Zdravniki uporabljajo haptiko pri vadbi manj nasilne, »endoskopske« kirurgije. 
+V nasprotju s posegi konvencionalne kirurgije, ki na človeškem telesu puščajo brazgotine in prinašajo nevarnost infekcij, »endoskopska« kirurgija uporablja le drobcene vreze, skozi katere kirurg vstavi endoskop (dolg, ozek pripomoček za gledanje, ki je priključen na videokamero) in posebne kirurške instrumente. 
+
+Za določitev začetka in konca para dolgih klešč, ki se na računalniškem zaslonu pojavijo med tridimenzionalnim prikazom pljuč, trebušne votline, črevesja in jeter, je mogoče uporabiti dva fizično sestavljena Phantoma. 
+Ko pritisnemo ali povlečemo s takimi virtualnimi kleščami, čutimo prožnost tkiva, poleg tega pa tudi vidimo, kako se organ pod pritiskom deformira. 
+Seveda je to, kar vidimo ali čutimo, zgolj približek, saj mehanski parametri mehkega tkiva še niso dobro znani. 
+
+To je le ena od stvari, ki jih je treba storiti, če hočemo izboljšati haptično tipalno tehnologijo. 
+Izziv, ki še posebej zaposluje Srinivasana in njegove kolege, je, kako razširiti tipalni vmesnik prek enotočkovnega Phantoma, ki je za Srinivasana, kot bi se »s palico dotikal resničnega sveta«. 
+Razviti želijo množico tipalnih senzorjev in ročic, ki bi se raztezali čez celotni kvadratni centimeter. 
+
+Pravo revolucijo je pripravilo dansko podjetje LEGO (<I> www.lego.com<I> ), ki je na trg poslalo zbirko Mindstorms (<I> www.legomindstorms.com/<I> ). 
+Osnovni gradniki se na prvi pogled skoraj v ničemer ne razlikujejo od navadnih lego kock. 
+Pravi čar zbirki daje peščica posebnih elementov (razna tipala, elektromotorčki in predvsem mikroprocesorska kontrolna enota); ti namreč omogočajo, da mehanska stvaritev oživi. 
+Najbrž ni treba posebej omenjati, da je zbirka namenjena raziskovanju robotike. 
+Z njo naj bi ustvarjali predvsem otroci (od 12 leta dalje), vsekakor pa je bodo veseli tudi njihovi očetje. 
+Kdor misli, da je dovolj robot le sestaviti, ga priključiti na napajanje in uživati v igri, se zelo moti. 
+Zbirka namreč ne nosi brez razloga imena »Možganski vihar«, kajti že pri izdelavi najbolj preprostega projekta iz zbirke je treba precej napeti možgane. 
+Ko je robot sestavljen, sledi najzanimivejši in obenem najzahtevnejši del -- programiranje njegovega delovanja. 
+To naredimo kar na osebnem računalniku s pomočjo priložene programske opreme, ki je plod dolgoletnega sodelovanja med podjetjema LEGO in Media Lab. Program delovanja sestavimo s pomočjo blokov, od katerih vsak pomeni en ukaz. 
+Ko nato posamezne bloke povežemo v celoto, dobimo program, ki ga prek infrardečega vmesnika prenesemo iz osebnega računalnika v robotov mikroprocesor. 
+S tem je robot pripravljen na svoje poslanstvo. 
+Zbirka vsebuje izčrpna navodila za izdelavo 12 projektov, z veliko domišljije in spretnosti pa jih lahko izdelamo še več. 
+Na voljo sta tudi dva dodatna paketa, ki omogočata konstruiranje zapletenejših robotov. 
+
+Ko se je angleški inovator Trevor Baylis lotil razvijanja cele vrste električnih naprav, ki za svoje delovanje ne potrebujejo baterij, je mislil predvsem na odročne predele Afrike, kjer so sveže baterije prava redkost. 
+Eden zanimivejših sadov njegovega dela je radijski sprejemnik Freeplay (<I> www.freeplay.net<I> ), ki potrebno električno energijo pridobiva iz malega električnega generatorja, gnanega prek polžaste vzmeti. 
+Če želimo poslušati radio, ga s pomočjo male ročice preprosto navijemo kot običajno mehansko budilko, kar zadostuje za približno eno uro delovanja. 
+V sončnih dneh, ki jih v Afriki prav gotovo ne primanjkuje, pa niti navijanje ni potrebno, saj ima radio kot dodaten vir napajanja vgrajene sončne celice. 
+Radio je na voljo tudi v izvedbi s prozornim ohišjem, ki omogoča vpogled v njegovo zanimivo notranjost.
+
+(Slika 1)
+
+(Slika 4)
+
+(Slika 1 b)
+
+(Slike 3 a, b, c) 
+
+(Slike 4 a, b v skupnem okvirju!)
+
+(Slike 5 a-d)
+
+(Slika 10)
+
+SLIKI 6 a in b: 
+
+Pot od zasnove do izdelave kompozitnega okvirja s pomočjo sodobnih tehnologij je precej dolga in izredno draga. 
+Za boljšo predstavo povejmo, da samo izdelava enega samega kalupa lahko krepko preseže 50.000 DEM, skupni stroški pa lahko dosežejo tudi nekaj sto tisoč DEM. 
+S tem seveda še ni rečeno, da je tak novi okvir res kos vsem zahtevam. 
+V najslabšem primeru je treba začeti vse znova. 
+Zato razvijalci celotno zasnovo okvirja in uporabljeno tehnologijo skrbno skrivajo pred tekmeci, s čimer skušajo čim bolje zavarovati v razvoj vloženi denar. 
+Tako je tudi bolj razumljivo, zakaj so cene kompozitnih okvirjev, ki so ta čas na trgu, toliko višje od cen kovinskih in aluminijastih okvirjev. 
+Večja kakovost ima pač svojo ceno.
+
+<I>Okvirji koles Trek.<I> Trekovi okvirji so narejeni po tehnologiji OCLV (angl. Optimum Compaction Low Void), ki vključuje obdelavo s smolo prepojenih ogljikovih vlaken pod tlakom in s temperaturo v kalupu. 
+Tak postopek zmanjša količino zračnih mehurčkov, ki pomenijo oslabitev kompozita, na manj kot 1%. 
+Uporaba sodobnih procesov modeliranja je Trekovim tehnologom omogočila izredno natančno določitev usmerjenosti s smolo prepojenih ogljikovih vlaken v okvirju glede na razporeditev sil, ki nastanejo med vožnjo. 
+Udarce med vožnjo odlično duši čvrsta spodnja diagonalna cev. 
+Kar se tiče zdržljivosti in teže ta kompozit zlahka prekaša kateri koli obstoječi material, čeprav cevi, iz katerih so narejeni okvirji OCLV, nimajo nobenih ojačitev. 
+
+<I>Cannondale -- okvir Raven 2.<I> Okvirje Raven 2 izdelujejo na popolnoma drugačen način. 
+Dve polovici, ki sta narejeni iz s smolo prepojenih ogljikovih vlaken, ročno položijo v kalup. 
+(Točno pozicioniranje oziroma usmerjenost vlaken jim je omogočil računalniški program CAD.) 
+Polovici nato prilepijo na posebno oblikovan magnezijev nosilec, ki kot nekakšno rebro poteka vzdolž celotnega okvirja. 
+Le na mestih, kjer so posebni nastavki za vpetje zadnje nihajke in sedežne podpore, se njegova oblika spremeni in ojači. 
+Zadnje nihalne vilice okvirja so v celoti iz aluminija.
+
+1 a, b in c: (katalog)
+
+Posamezni sestavni deli Colnagovega modela C-40 pred lepljenjem v celoto (levo) in slika zlepljenega okvirja na centrirni mizi (desno)
+
+Tekmovalni okvir OCLV-HC firme Trek
+
+Magnezijeva osnova nosilca okvirja, zlepljeni del okvirja, vpetje zadnjih nihalnih vilic, pogled na celotni okvir in sestavljeno kolo Cannondale
+
+Snežni plazovi vsako leto zasujejo kar precej ljudi. 
+Občasno se sicer zgodijo večje nesreče, ko plaz -- tako kot lani v Avstriji in Franciji -- zasuje celo naselje, kljub vsemu pa je največ žrtev med planinci in turnimi smučarji, ki večinoma vsaj približno vedo, v kakšne okoliščine se podajajo. 
+Zato se ozaveščeni planinci in turni smučarji vse bolj množično opremljajo z lavinskimi žolnami -- majhnimi radijskimi oddajniki, ki po zasutju oddajajo signale, s pomočjo katerih reševalci dokaj hitro najdejo in odkopljejo zasutega planinca. 
+Seveda uporaba lavinskih žoln temelji na nekaj pomembnih predpostavkah: da plaz osebe med kotaljenjem ne poškoduje preveč, da plaz ne zajame cele skupine planincev in da zasutega rešijo, še preden mu pod plazino zmanjka zraka.
+
+Opisani pripomoček v kombinaciji z lavinsko žolno utegne zares znatno izboljšati možnosti za rešitev iz snežnega plazu. 
+Bomo videli, kaj bodo pokazale prve izkušnje v resničnih razmerah ...
+
+Ogljikova vlakna spadajo v železni repertoar sodobnih materialov, saj so dokaj lahka, imajo odlične fizikalne lastnosti in niso predraga (glej str. 51). 
+Zato jih na široko uporabljajo pri izdelavi vozil, športnih pripomočkov in drugod, kjer je potrebna velika trdnost ob zmerni teži.
+
+V okviru enega izmed podprojektov projekta Eureka v laboratoriju LETI (Laboratoire de Electronique, de Technologie et d'Instrumentation) v Grenoblu razvijajo povsem novo obliko elektronske priponke za označevanje najrazličnejših izdelkov.
+
+Glavna zahteva je, da morajo biti nove elektronske priponke tako poceni, da jih ob prodaji ne bo treba odstranjevati z blaga. 
+Bistvo novega sistema, ki je že v poskusnem obratovanju, je v tem, da je elektronska priponka brez lastnega vira električne energije. 
+Vanjo je vgrajena le tuljavica, v kateri električni tok inducira magnetno polje, ki ga ustvarja čitalnik novih priponk.
+
+Proizvodna cena novih priponk naj bi znašala kakih deset tolarjev, uporabne pa bi bile marsikje -- od poštnih znamk do označevanja paketov in prtljage na letališčih ...
+
+Na vrhu »miške«, ki jo uporabnik premika sem in tja po podlagi, je namreč 256 izboklin, ki se dvigajo in spuščajo glede na »sliko«, ki bi jo radi pokazali slepemu. 
+»Prikaz« znakov z reliefnimi znaki dopolnjuje še sistem sintetiziranih glasovnih sporočil. 
+Slepi uporabniki, ki imajo navadno izjemno razvite druge čute, se »branja« in dela z novim računalniškim pripomočkom menda dokaj hitro privadijo in večino opravil z računalnikom lahko kmalu opravljajo z zavidljivo hitrostjo.
+
+Avtomobilski izdelovalci v zadnjih letih posvečajo izredno veliko pozornost varnosti v avtomobilih. 
+Potem ko se je večina kupcev nekako naveličala pretirano »vesoljskih« oblik avtomobilov in le redko uporabnih vrhunskih tehničnih zmogljivosti, zaradi razmeroma dobre oskrbe z gorivom pa tudi varčnost ni več na prvem mestu med zahtevami trga, so se prodajalci -- in takoj za njimi seveda še razvijalci -- usmerili v varnost. 
+Po skoraj 20 letih, ko so se s povečevanjem varnosti potnikov ukvarjale le nekatere firme, kakršni sta na primer Saab in Volvo, se danes praktično vsi proizvajalci glasno hvalijo z varnostjo svojih avtomobilov.
+
+Dejanski razlog za lomljenje tako velikih kosov ledu še ni popolnoma razvozlan, znanstveniki pa upajo, da jim bodo omenjeni posnetki pomagali pri razreševanju uganke. 
+Seveda obstaja več hipotez, ki vključujejo različne razlage -- od močnih vetrov do klimatskih sprememb --, vendar nobena še ni potrjena.
+
+Uničujoči potresi v Turčiji, Grčiji in na Tajvanu dajejo vtis, da se je Zemlja v letu 1999 še posebno močno tresla. 
+Dejansko pa je bila mirnejša, le potresi so pogosteje pretresali naseljena območja. 
+V 20. stoletju je po ocenah med potresi umrlo okrog milijon ljudi. 
+Glede na to, da ima po več kot 8 milijonov prebivalcev že danes 27 megamest in da jih skoraj polovica (Bombay, Istanbul, Džakarta, Kalkuta, Karači, Lima, Los Angeles, Manila, Mexico City, New Delhi, Teheran in Tokio) stoji na potresno nevarnih tleh, bodo zemeljski potresi zaradi naraščajoče urbanizacije v prihodnosti zahtevali še več žrtev.
+
+Pri nas po parkiriščih še nimamo vtičnic, vendar marsikdo parkira avto pred hišo ali pa v neogrevani garaži. 
+Zato je podjetje Termotehnika iz Braslovč (tel. 063/ 702-247) sklenilo na slovenski trg pripeljati grelnike norveške znamke DEFA. 
+Komur je dovolj opisanih zimskih nevšečnosti, bo lahko že to zimo z grelnikom opremil jeklenega konjička. 
+Cene komponent, ki vključujejo tudi montažo, se gibljejo od 46 do 98 tisoč tolarjev, odvisno od izvedbe.
+
+Telesni stražar
+
+Novi protipiratski dodatki
+
+Zadnjo različico operacijskega sistema Windows 98 in zbirke Office 2000 Small Business, ki sta nameščena v novih osebnih računalnikih, so pri Microsoftu zaščitili s tremi novimi protipiratskimi dodatki, ki olajšajo prepoznavanje legalnosti programske opreme. 
+Če je bila namreč v vaš novi računalnik brez vaše vednosti nameščena nezakonita programska oprema, ima to lahko za posledico računalniške viruse ter tehnične in celo pravne težave. 
+
+Iskanje neznanih živali
+
+(Sliki 6 in 7)
+
+Da bi našli neznane, skrite živali so poleg sodobne iskalne opreme potrebni tudi obsežen program, precejšnja finančna sredstva, znanstvena ekipa in njihovo dolgotrajno delo v okviru posameznega projekta. 
+Raziskovalci se morajo sami podati v negostoljubno okolje ter tam ujeti ali vsaj dobro proučiti žival. 
+Sumljivi posnetki in pripovedovanje »prič« v zoološki znanosti nimajo nobene veljave, za kriptozoologe pa so lahko namig in spodbuda za iskanje. 
+Ne smemo tudi mimo dejstva, da so nekatere živali na daleč videti zelo podobne (to velja predvsem za različne dele dneva in v različnih vremenskih razmerah), zato ni vedno gotovo, ali je očividec res videl kako novo žival, ali pa morda takšno, ki jo že poznamo, vendar pa je prav tisti trenutek nanjo padala svetloba pod nekoliko drugačnim kotom. 
+Obstajajo tudi različice znane vrste, ki nas lahko zavedejo k napačnemu sklepanju o novi vrsti (npr. »kraljevski gepard«). 
+Ko je znameniti alpinist Reinhold Messner v eni izmed svojih knjig zapisal, da je jeti pravzaprav medved, je med kriptozoologi, za katere sta prav jeti in Nessie glavni »zvezdi«, izzval pravi vihar ...
+
+-- Gorila (<I>Gorilla gorilla<I>), največji znani (živeči) primat, je bila odkrita v Gabonu (Afrika) leta 1847.
+
+(Sliki 3 in 13)
+
+-- poročila o podobnih živalih v severnih geografskih širinah (»jezerske pošasti«), kot so v jezeru Loch Ness ter drugih škotskih, irskih, švedskih, ameriških, kanadskih in ruskih jezerih;
+
+(Slika 10)
+
+(Slika 12)
+
+Nobenega dvoma ni, da bomo v prihodnje še odkrivali doslej neznane in skrivnostne živali, saj temu v prid govorijo tudi poročila in statistika. 
+Verjetnost, da bi bila to kakšna velika in spektakularna kopenska bitja, pa je zaradi razlogov, omenjenih na začetku tega prispevka, iz dneva v dan manjša. 
+Zlasti ne gre pričakovati najdbe kake doslej še neznane skupine velikih kopenskih vretenčarjev. 
+Zato pa je ta možnost precej večja v mnogo slabše raziskanih morskih globinah. 
+
+http://illustrissimus.virtualave.net/dimfront.html (Dinosaur Illustrated Magazine)
+
+Slika 1:
+
+Slika 13:
+
+(Slika 4)
+
+Oblečeni vsiljivec 
+
+Sami pri sebi si mehurčki pravzaprav želijo postati kapljice; površina, ki bi jo bilo treba varovati, bi bila pri kapljicah precej manjša in energetsko učinkovitejša. 
+Da se sesede sam vase, mehurčku zadostuje že neznaten vbod s šivanko. 
+Svinčniku, prevlečenemu z milnico (ta preizkus lahko opravite tudi sami doma) pa mehurček uspe prevarati in ga prepričati, da gre pravzaprav za del samega mehurčka. 
+Zato ga lahko uporabimo kot dobro ročico za prenašanje in premikanje mehurčkov. 
+
+Ostri koti
+
+Prav tako kot je izumrtje dinozavrov naredilo prostor za razmah malih, gibčnih sesalcev, bo tudi konec obsežnih misij, kakršna je Cassini, odprl možnosti za majhne, a zmogljive raziskovalnike.
+
+Nasini znanstveniki, ki se spopadajo z omejeni možnostmi financiranja, takšnih sanj še nočejo vzeti za svoje. 
+A to Bishopa ne moti: »Vesolje bo prej ali slej postalo domena zasebnih investitorjev (ŽIT 1999/1, str. 26 in ŽIT 1999/7--8, str. 74). 
+Uradniki prav gotovo ne bodo kolonizirali Osončja.« 
+
+Po reviji Discover
+
+<I>Alfred Werner (12. 12. 1866 do 15. 11. 1919)<I> je bil nemško-švicarski kemik, ki je leta 1891 začel razvijati koordinacijsko teorijo molekularne strukture. 
+Njeno bistvo je spoznanje, da povezave med atomi niso omejene le na valenčne vezi. 
+Atomi ali skupine atomov se lahko razporedijo okoli središčnega atoma tudi glede na določena geometrijska načela, ne glede na valenco. 
+S to teorijo je bilo moč razložiti množico do takrat še nepojasnjenih dejstev. 
+Wernerja so leta 1913 nagradili z Nobelovo nagrado za kemijo. 
+
+<I>Vesto Melvin Slipher (11. 11. 1875 do 8. 11. 1969)<I> je bil ameriški astronom, ki je proučeval naš sončni sistem. 
+Bil je prvi, ki je naredil dobre fotografije Marsa, na podlagi absorpcijskih spektrov, ki jih je naredil za planeta Jupiter in Saturn, pa je drugim uspelo ugotoviti, da je v njuni atmosferi veliko amoniaka in metana. 
+Kasneje je Slipher dokazal, da je metan tudi v Neptunovi atmosferi. 
+Z meritvami je ugotovil, da se edino meglica v Andromedi bliža Zemlji, vse druge pa se od nje oddaljujejo s hitrostmi, ki so precej večje od radialnih hitrosti navadnih zvezd. 
+Ker se oddaljevanje pokaže v spektru s premikom absorpcijskih črt proti rdečemu delu spektra, se je po Slipherjevi zaslugi udomačil med astronomi izraz “rdeči premik”.
+
+(Vir: Sandi Sitar: Sto slovenskih znanstvenikov, zdravnikov in tehnikov; Prešernova družba v Ljubljani, 1987.)
+
+Okvir:
+
+V debele dolomitne neprepustne plasti je ujeta voda, ki je skozi razpoke pritekla s površja.
+
+Višina morske gladine
+
+http://www.ksc.nasa.gov/shuttle/missions/sts-99
+
+Logotip projekta SRTM za radarski zajem topografskih podatkov našega planeta, ki bo potekal v decembru 1999
+
+Slika 5 - datoteka SRTM05 (30 % velikost)
+
+Diferencialna razdalja določa topografijo.
+
+č2
+
+Docela nov način dela
+
+Za hitrejši premik v tej smeri pa bo treba premagati še eno oviro -- pomanjkljivo stopnjo medsebojne usklajenosti orodij CAE. 
+Na nekaterih vrstah računalnikov ni mogoče uporabljati orodij CAD/CAM in orodij za obdelovanje tehnične dokumentacije, pomanjkljiva pa je tudi usklajenost med različnimi programskimi paketi te vrste. 
+Prenašanje in pretvarjanje datotek CAD/CAM v oblike, ki jih uporabljajo posamezne vrste teh programov, je pogosto povezano s težavami. 
+Zato navidezna okolja za skupinsko delo na daljavo za zdaj še ne morejo hkrati uporabljati več med seboj različnih programov CAD/CAM.
+
+(Slika 2)
+
+12.
+
+Zaslon širine 6,5 m in višine 2,2 m lahko prikaže sliko z visoko stopnjo ločljivosti (3.200 pik v vodoravni smeri in 1.200 pik v navpični smeri). 
+Videoprojektorji so nameščeni za velikim zaslonom, tako da lahko predavatelj stoji pred zaslonom in s tem ne moti same projekcije. 
+
+ko sonce zopet prevzame svoje pešajoče dneve,
+
+Mars 0,0000023
+
+Ker je na odprtem morju plima, ki jo povzročata Sonce in Luna, visoka kakih 75 cm, bi bil skupni učinek vseh združenih planetov lahko največ 4 stotinke milimetra. 
+Ker se bodo planeti zbrali na drugi strani Sonca, kot bo tedaj Zemlja, bo konjunkcijski cunami dejansko še 10-krat šibkejši. 
+Tako majhen plimski val, da se njegove višine ne da niti pomeriti, pa Zemlje najbrž ne bo uničil. 
+
+Lakota ni nič manj uničujoča nadloga, kot so vojne. 
+Najpogostejši razlog zanjo je suša in na primer samo leta 1870 je zaradi lakote v Indiji in na Kitajskem umrlo vsaj 15 milijonov ljudi. 
+Čeprav na svetu še vedno približno pol milijarde ljudi nima dovolj hrane in so zato na drugi strani meje lakote, pa je sodobno kmetijstvo koso tega jezdeca močno skrhalo. 
+Mnogi menijo, da je zlepa ne bo mogel znova uporabiti.
+
+»Oglejmo si Batmana 40,« je predlagal Pinky.
+
+Čeprav smo vse to le podoživljali, je bilo še vedno zelo grozljivo. 
+Takrat, ko je pilot letala, ki je sedel na padajoči bombi, začel mahati s svojim kavbojskim klobukom, je le malo manjkalo, da nisem začel bruhati, Ivan pa je svojo žvečilko kar pogoltnil.
+
+Ko je bilo filma konec, ko so se iztekli že vsi napisi in so se prižgale luči, smo kar obsedeli na stolih. 
+Nihče od nas ni črhnil niti besede, ampak smo kar vstali in nekako odtavali do vrat. 
+Čim je Pinky zaslišal dobro znani trušč, ki je prihajal s promenade, je kar šinil naprej. 
+Medtem smo se Ivan, Rachel in jaz še obotavljali ter se nekako skušali znebiti občutka groze, ki se nam je vtisnila v obraz. 
+Ivan se je še zadnjič zazrl v prazno opazovalnico s štirimi sedeži in zastrtim zaslonom ter zašepetal: »Za božjo voljo!« 
+Zmajal je z glavo, se obrnil in jo mahnil za Pinkyjem. 
+Z Rachel sva še nekajkrat globoko vdihnila in stopila za prijateljema, ki sta bila že pri izhodu. 
+Medtem se je popoldne prevesilo v večer, in ko sva šla mimo stare pankerice, mi je ta pomahala z letakom. 
+Vzel sem ga in videl, da gre res za orbitalno postajo z nebeškim dvigalom. 
+Bala se je, da bi dvigalo padlo na zemljo. 
+Čisto malo je manjkalo, pa bi ji začel dopovedovati, da ni razlogov za skrb, vendar sem zadnji hip le zastal. 
+Ženska je živela v tistih časih, ki smo jih malo prej videli v filmu. 
+Nič čudnega torej, da se boji stvari, ki padajo z neba, me je prešinilo.
+
+Janeza Puharja 10
+
+Datum:12.7.1999
+
+orodja -računalniški -CAD - CAM -avtomatizirana -računalniški -CAD-CAM -avtomatizirana -protokoli -CAE, CAPP -transportna orodja
+
+brusi… elektrode… 
+-tipkovnice,miši 
+
+Reklama za ŽIT 99/10
+
+Ob začetku šolskega oziroma študijskega leta omogočamo šolarjem, dijakom, študentom (ter seveda tudi vsem drugim) nakup 12 priročnikov Tehniške založbe Slovenije po še ugodnejših cenah, do katerih so kot naročniki revij ŽIVLJENJE IN TEHNIKA ali TIM upravičeni sicer. 
+Popust velja le do 20. novembra.
+

@@ -1,0 +1,383 @@
+Epsonov malček je v osnovi le preimenovani model Stylus Color 480, ki se je na lanskem preizkusu odrezal zelo dobro.
+V majhnem, lahkem, nekoliko plastičnem ohišju se skriva Epsonova tiskalna glava, ki je za rod ali dva starejša od sedanjih modelov, zato se ne gre čuditi, da je tiskalnik precej počasen, še posebej pri tiskanju v barvah.
+Nizko ločljivost tiskalne glave (720 × 720 pik na palec) nadomešča z večkratnimi prehodi, a odtis je na koncu dokaj dober.
+Predvsem pri tiskanju bitne slike, kar traja celih 22 minut, je končni izdelek zelo dober, za ta razred tiskalnikov naravnost odličen.
+Enako velja za fotografijo na svetlečem papirju (7 minut).
+Posamezne pike so komajda vidne, prelivi pa lepi in skladni.
+Tudi pri vektorski sliki, ki lepo pokaže barvne prelive, je videti, da je tiskalnik dovolj natančen, vendar za svoje delo potrebuje veliko časa (kar 11 minut).
+Na drugi strani je tiskanje besedila precej slabo, saj so črke dokaj nazobčane in »kosmate«, preglednost podrobnosti, kot je besedilo velikosti dveh pik, pa je vendarle nekoliko boljša.
+Nasploh s tiskanjem na navaden papir nismo bili najbolj zadovoljni, saj se je tiskalnik obnesel slabše kakor konkurenti v tej kategoriji.
+Ker je tiskalnik za polovico dražji od modela C20UX, je verjetno na mestu vprašanje, ali ga je sploh smiselno kupiti.
+Še posebej, ker je tudi cena tiskanja enaka; besedilo je zelo poceni, barvno tiskanje pa povprečno.
+In isto, kar smo zamerili tiskalniku C20Ux, zamerimo tudi modelu C40Ux menjava kartuš je zelo nerodna.
+Kljub temu je tiskalnik večinoma nadpovprečno hiter tudi za srednjo kategorijo teh naprav.
+Besedilo in poslovna poročila tiska enako hitro kakor model 940c, nekoliko hitrejši je pri tiskanju celostranskih bitnih in vektorskih slik.
+Tiskalna glava je zelo »visoka« oziroma ima veliko šob, saj je predvsem tiskanje besedila videti tako, da tiskalnik hkrati tiska pas, velik tri centimetre.
+Žal kakovost takega odtisa ni popolna, zato Epsonov gonilnik pri tiskanju v običajni kakovosti (»normal«) zahteva dva prehoda.
+Zato je počasnejši, kakor bi od takega načina tiskanja pričakovali.
+Hitrost je opaznejša pri tiskanju fotografij.
+Uporablja pigmentne barve, zato so odtisi na navaden papir zelo spodobni, odtisi na poseben papir, predvsem fotografije, pa so že skoraj odlični in jih prekašajo le še Epsonovi modeli Photo.
+Uporablja ločene barvne kartuše, zato je pri ponavljajočih se vrstah odtisov lahko precej cenejši od konkurence s skupno barvno kartušo (saj ni treba zavreči vseh treh barv, lahko zamenjamo le eno).
+Kljub temu so kartuše nekoliko predrage, ne sodijo namreč med najcenejše, ampak nekam v zlato sredino.
+Najmočnejši Hewlett-Packardov model je Deskjet 990CXi.
+Navzven je zelo podoben modelu 960c, le da je srebrne barve in je vanj serijsko vgrajen obračalnik (duplex), s katerim lahko tiskamo tudi na obe strani.
+Pri besedilih in dopisih je to lahko zelo praktično, za grafično zahtevnejše strani, ki terjajo poseben papir, pa je bolj ali manj neuporabno.
+Poseben papir je ponavadi (ne vedno) uporaben le na eni strani, navaden papir pa se ob veliko barvah tudi nekoliko ukrivi in pomečka, tako da na drugi strani ni uporaben.
+Posebnost modela 990CXi je tudi infrardeči vmesnik, ki omogoča tiskanje z mobilnih naprav (ročnih in prenosnih računalnikov, telefonov).
+Epsonova serija tiskalnikov Stylus Photo že od vsega začetka redno dobiva nagrade za zelo lepe odtise fotografij.
+Šestbarvno tiskanje z zelo drobnimi barvnimi kapljicami se obrestuje tudi pri najnovejši različici Photo 890, ki smo jo sicer že enkrat preizkusili.
+Res pa je, da tiskanje fotografij ni temeljno poslanstvo tega tiskalnika.
+Mišljen je predvsem za tiskanje poslovnih besedil, poslovnih poročil in morebiti izpisov iz spleta, in pri tem se zares dobro odreže.
+Omeniti velja, da gonilniki omogočajo barvno kalibracijo.
+To smo s pridom uporabili tudi na preizkusu.
+Ko smo skladbo posneli na disk, jo s kodirnikom stisnemo v datoteko mp3.
+Številni programi naredijo oba koraka, vsaj kar zadeva uporabnika, hkrati.
+Na seznamu skladb označimo, katere bi radi kot mp3 posneli na disk, nastavimo stopnjo stiskanja in počakamo nekaj minut, da program opravi svoje.
+Račun je enostaven zjutraj v trgovini kupimo zapisovalnik CD-R, ki ga dandanes dobimo že za manj kot 30 tisočakov, in škatlo praznih plošč, ki stane manj kot dva tisočaka, na poti domov si od prijatelja sposodimo deset glasbenih plošč CD, jih presnamemo in do kosila se nam je zapisovalnik že izplačal.
+Nič nenavadnega torej, da so se zapisovalniki CD-R tako bliskovito razširili in da glasbenim založnikom sivijo lase.
+Zvočne posnetke lahko tudi tako ali drugače obdelamo.
+Navadno se s tem srečamo v dveh primerih pri snemanju plošč CD iz analognega vira (recimo gramofona) in pri snemanju plošč CD iz datotek mp3.
+V prvem primeru lahko s programom za digitalno obdelavo zvoka odstranimo morebitne poke in šume, ki se jim pri snemanju s klasičnega gramofona skoraj ne moremo izogniti.
+Vsi boljši urejevalniki zvoka, na primer že omenjeni Cool Edit 2000, pa tudi v številne programe za snemanje CD-R, na primer Feurio, so vgrajena orodja za samodejno odstranjevanje takih napak.
+Uspeh je odvisen od velikosti napake, večinoma pa lahko tudi ročno posredujemo.
+Ko je Adobe pred leti izdal prvo različico InDesigna, ni bil deležen pretiranega navdušenja.
+Videti je bilo, kakor da želi podjetje na vsak način izdati program, ki še ni dokončan.
+Precej večjo pozornost je vzbudil njegov popravek z oznako 1.5, različica 2.0 pa bi lahko bila celo uspešnica.
+V najnovejši različici je uporabniški vmesnik rahlo spremenjen in dopolnjen.
+Prvo, kar opazimo, so »ploske« ikone, ki jih poznamo iz, recimo, Microsoftovih izdelkov.
+Med programi za namizno založništvo gre za novost, ki pa ne pomeni prav nič drugega kakor to, da Adobe sledi modnim zapovedim.
+InDesign je med vsemi konkurenti najkompleksnejši in najbolj obsežen in to se krepko pozna pri zagonskem času.
+Program se nalaga skoraj enkrat dlje kakor katerikoli tekmec, nekoliko počasnejši pa je tudi pri vsakdanjem delu.
+Sicer pa daje vtis solidnega izdelka, ki je zanesljiv in udoben.
+Ind2_pdf.tif: Pretvorba v Acrobatov zapis PDF poteka brez Distillerja.
+Koliko Slovencev uporablja internet?
+V zadnjem času se množijo hitrejše alternative za modeme in vmesnike ISDN, tudi za rabo doma.
+V ospredju so seveda omrežja s podporo kabelskim modemom in ADSL.
+Prav tu lahko pričakujemo v bližnji prihodnosti še precej sprememb in novosti, saj so vsa omrežja z novimi tehnologijami večinoma še v povojih.
+Kot poudarjajo tudi sami ponudniki dostopa do interneta, so brezžične povezave primerne predvsem za tista podjetja, ki potrebujejo širokopasovni dostop, a bi bila povezava z najetim vodom bistveno dražja, kabelskega dostopa ali ADSL pa nimajo.
+Tu so cene še bolj odvisne od posameznih primerov kot pri najetih vodih, saj je pomembno tudi to, v kateri smeri od najbližje antene je podjetje.
+Antene za brezžični prenos podatkov namreč dosegajo najboljšo pasovno širino v določeni smeri.
+Trenutna razdelitev trga velja zlasti za sedanje tehnologije.
+Najbrž ni več dvoma, da je boj za kupce s klicnim dostopom do interneta že končan.
+Tu lahko torej pričakujemo bolj malo sprememb.
+Izjema so le ponudniki, ki ponujajo internet po drugačnem prodajnem modelu (Voljatel), vendar morajo ti šele pokazati, kako bodo lahko po tej poti ustvarili dobiček, s tem pa tudi zagotovili svoj obstoj, razvoj in kakovost storitev.
+Priznati pa je treba, da je ravnanje Telekoma in njegove hčerinske družbe SiOL kljub včasih spornim potezam večinoma skladno z veljavnimi zakoni in odredbami.
+Ti kljub spremembam še vedno ne zagotavljajo popolne liberalizacije trga telekomunikacij, na primer strogega ločevanja med ponudniki vodov in ponudniki storitev, ki vode uporabljajo kot temelj svojega delovanja.
+Dokler bo mogoče denar prelivati iz enega žepa v drugega, se bodo tekmeci le stežka odločali za alternativne (drage) naložbe.
+Dolgoročno pa zato trpi končni uporabnik.
+Zato smo pri ocenjevanju uporabljali zelo kompleksno tabelo z ocenami vseh lastnosti, ki so pri odločanju za nakup brizgalnika bistvene.
+Pri vsakem tiskalniku smo v različnih kakovostih in na različen papir odtisnili besedilo, poslovno poročilo, vektorsko sliko, bitno sliko velikosti A4 in bitno sliko velikosti fotografije 10 × 15 cm.
+Pri vsakem tiskanju smo merili čas, ki ga je tiskalnik potreboval za odtis, in vrednosti zapisali v tabelo.
+Opozoriti velja na hude razlike v hitrostih, ki jih navajajo izdelovalci, in tistimi, ki smo jih izmerili sami.
+Razlike ne pomenijo, da izdelovalci navajajo lažne podatke ali da smo se zmotili mi, ampak razliko v tehnologiji merjenja.
+Za zgled povejmo, da Epson za svoj model C80 navaja hitrost 20 (besedilnih) strani na minuto, vendar so merili tiskanje dopisa z vsega nekaj vrsticami besedila (plus naslov in podpis), predvsem pa v najslabšem načinu, »draft«.
+Ker menimo, da uporabniki ta način uporabljajo le izjemoma, saj večinoma tiskajo v načinu, ki jim ga ponudi gonilnik, sami preizkušamo v tem, srednjem načinu, predvsem pa za preizkus uporabljamo polno stran besedila.
+Hitrost 20 strani na minuto iz prejšnjega primera se tako hitro zmanjša na tri strani na minuto (kar je za tovrstne tiskalnike vendarle zelo hitro!).
+Že nekaj časa pa so v rabi tudi šestbarvni tiskalniki, ki so jim dodali še svetlo modro zeleno in svetlo škrlatno barvo.
+Prvi je s takim tiskalnikom pred leti poizkusil Hewlett-Packard (danes ima HP le štiri barvne tiskalnike), danes pa šestbarvne tiskalnike trži (in to zelo uspešno) le Epson v svoji seriji tiskalnikov Photo.
+Majhna pika, možnost različno velikih pik in šest barv se je pri teh tiskalnikih izkazalo za rešitev, ki omogoča tiskanje skorajda s fotografsko kakovostjo.
+Med foto tiskalniki konkurence pravzaprav ni.
+Imamo le Epsonove Styluse Photo, »konkurenca« HP Photosmartu pa to v resnici ni.
+Najboljši je torej Epson Stylus Photo 890 ali Photo 1290, če potrebujemo tiskanje velikosti A3.
+Lastnost, ki so jo pri Quarku napovedali kot najpomembnejši dodatek v različici 5.0, je razširljivi opisni jezik XML (Extensible Markup Language).
+Ta naj bi omogočil ločevanje vsebine in oblike, s tem pa bi lahko isti dokument uporabil tako za tiskane kot spletne in elektronske dokumente.
+A izkazalo se je, da Quark podpore XML ni uspel vgraditi v sam program, ampak je enostavno primaknil stari programski dodatek (XTension) avenue.quark.
+Ta je v tem trenutku za uporabnike programa zanesljivo najboljše orodje za delo z naprednimi »naddokumenti«, kljub temu da je na voljo še nekaj neodvisnih rešitev.
+Žal pa delo z avenujem ni niti približno enostavno in zahteva dobro poznavanje jezika XML.
+Ko govorimo o elektronskem založništvu, ne moremo mimo Acrobatovih dokumentov PDF.
+Te QuarkXPress v novi različici obvlada bolje, a vendar ne tako dobro kot PageMaker.
+Podjetje Motorola je že pred časom predstavilo svoj »pametni telefon« (sprva znan pod kodnim imenom Tai Chi), kot se bolj zveneče imenujejo take naprave, zdaj pa je že na voljo njegov naslednik, ki sliši na ime Accompli 008.
+Telefon je po obliki podoben modelu StarTac istega izdelovalca, torej gre za telefon, ki ga po sredini zložimo, kadar ga ne uporabljamo.
+Ker ima zunanjo anteno in je precej debel, je dokaj neroden in ne bo šel v ožje žepe.
+V škatli dobimo poleg telefona in napajalnika še slušalke, torbico, sponko za pas, priklopno postajo, podatkovni kabel in CD s programsko opremo in gonilniki.
+Ko telefon odpremo, najdemo namesto številčnice sivinski zaslon, občutljiv za dotik, z ločljivostjo 240 × 320 pik, in štiri gumbe.
+Z njimi vklapljamo/izklapljamo telefon in navigiramo po menujih, kadar ne želimo uporabiti prstov ali peresa na spodnji desni strani.
+Kot telefon se Accompli po zmožnostih skorajda ne razlikuje od »navadnih« telefonov; njegove prednosti se pokažejo šele, ko ga uporabimo kot ročni računalnik.
+Novosti pri Hewlett-Packardu so bolj uporabniške kot tehnološke.
+Močnejši tiskalniki (960c, 990Cxi, CP1700) imajo namreč ob tiskalnih glavah tudi poseben optični bralnik, ki zna sam preveriti, kakšna vrsta papirja je pod njim.
+Tako je HP zelo učinkovito prizanesel uporabniku z izbiranjem vrste papirja s seznama kakih dvajsetih podprtih vrst.
+Enako vgrajeni bralnik pomaga pri začetni kalibraciji tiskalnih glav, ki je potrebna pri vseh brizgalnikih.
+Pri vseh brizgalnikih je sistem tak, da tiskalnik izpiše določene vzorce, uporabnik pa v gonilnik vpiše številke vzorcev, ki se mu zdijo najboljše.
+Novi HP vse to opravijo sami natisnejo vzorec, ga optično preberejo in ustrezno popravijo interne vrednosti.
+Res pa je, da optično branje papirja pred vsakim tiskanjem nekoliko upočasni tiskanje optično branje namreč traja približno 15 sekund (lahko se ga rešimo, če papir v gonilniku ročno izberemo).
+Iz rezultatov preizkusa hitro ugotovimo, da tiskanje z brizgalnimi tiskalniki nikakor ni poceni.
+Stran A4 navadnega črnega besedila, natisnjena v srednji kakovosti, nas bo olajšala vsaj za 18 tolarjev, pri nekaterih tiskalnikih pa celo za 75 tolarjev (!).
+Cena barvne strani je še za faktor (ali več!) dražja, saj bomo za barvno stran A4 (testni dokument je po porabi barvila nekje med fotografijo in poslovnim poročilom z barvnimi grafikoni) odšteli med 57 in 246 tolarji.
+Če bomo tiskali pri visoki kakovosti, bo cena seveda še veliko višja, treba pa bo prišteti še ceno posebnega papirja.
+Nemški gigant BASF ali EMTEC, kot je del podjetja za proizvodnjo magnetnih podatkovnih medijev postal znan, potem ko so ga kupili Korejci, je vpliven marsikje (nosilci CD-R, papirji ...), ponuja pa tudi združljive kartuše za Epson in Canon.
+Preizkusili smo kartuše za Epsonove C20/40 in starejši Stylus Color 480.
+Številni programi za zapisovanje omogočajo uporabo le nekaterih omenjenih zapisov, redki pa kar vse, zato razmislek pred nakupom nikakor ne bo odveč.
+Programi se med seboj tudi precej razlikujejo po stopnji podrobnosti, ki jih lahko nastavljamo (na primer podaljšano zapisovanje overburn), kar bodo cenili predvsem bolj izkušeni in zahtevnejši uporabniki.
+Na drugi strani pa opazimo, kako zelo se podjetja trudijo, da bi programe in postopke zapisovanja čim bolj približala tudi manj izkušenim.
+Pri tem bo verjetno nadvse pomembna tudi cena, saj so med posameznimi paketi lahko kar precejšnje razlike.
+Že pred časom smo lahko zasledili napovedi, da bodo v kratkem začeli izdelovati tudi 90- in celo 99-minutne plošče CD, vendar so se te obljube uresničile šele junija 2000.
+In kako je pravzaprav mogoče spraviti toliko podatkov na ploščo CD, ki je po velikosti povsem enaka »navadnim«?
+Odgovor je dokaj preprost, enak postopek pa so uporabili že pri izdelavi 80-minutnih plošč CD.
+Spirala, ki se vije od notranjega roba plošče do zunanjega roba, je gostejša in je zato lahko daljša kakor pri 80-minutni plošči CD. 99-minutne plošče CD pa so zaenkrat še redkost (v Sloveniji trenutno lahko kupimo le 90-minutne) in le malo je zapisovalnikov in tudi bralnikov, ki omogočajo uporabo takih plošč.
+Kot pri vseh novostih bo tudi pri tej treba počakati še nekaj časa, preden bodo razvijalci strojne in programske opreme novi standard sprejeli.
+Kot kaže, pa ne bo nič z namigovanji nekaterih izdelovalcev, ki so obljubljali celo 120-minutne nosilce.
+Najbrž zato, ker bi jih le malo zapisovalnikov in bralnikov znalo zanesljivo uporabljati.
+Toda na pohodu so že drugačni nosilci, kot sta DDCD (Double Density CD, 1,3 GB na nosilec) in ML (2 GB na nosilec), a zanje bo treba uporabljati posebej prirejene enote in bralnike.
+Prazni nosilci CD se med seboj ne razlikujejo le po različnih zmogljivostih, ampak jih ločimo tudi po barvi spodnje strani (to je tista stran, na katero se zapisujejo podatki).
+Različne barve, ki jih lahko opazimo, če nosilec obrnemo na hrbtno stran, so posledica dveh dejavnikov, ki vplivata drug na drugega.
+Prvi je za svetlobo odbojna zgornja plast nosilca CD, to je tista stran, ki je ponavadi potiskana, s spodnje strani pa deluje podobno kakor zrcalo in je lahko zlata ali srebrna.
+Drugi dejavnik, ki vpliva na barvo, pa je organska snov med zgornjo plastjo in prozorno spodnjo plastjo, na katero se zapisujejo podatki.
+Če imamo tako na primer zlato zgornjo odbojno plast in organsko snov modre barve, ima nosilec zeleno spodnjo stran.
+Pri izbiri praznih nosilcev CD smo uporabniki pogosto postavljeni pred težko odločitev, katerega izbrati, da bo zapisovanje potekalo brez težav in da bodo podatki kar najvarneje shranjeni.
+Glavnino ponudbe na našem trgu sestavljajo nosilci zlate, zelene in pa modre barve različnih odtenkov, ki se od izdelovalca do izdelovalca lahko tudi nekoliko razlikujejo.
+In kakšne so značilnosti posameznih vrst?
+Izdeluje: Roxio Inc., www.roxio.com.
+Nero pri vsakem opravilu vedno pušča uporabniku možnost izbire in mu med izvajanjem nenehno zagotavlja popoln nadzor nad dogajanjem.
+Pri presnemavanju glasbenih plošč CD lahko, denimo, izberemo kopiranje posnetkov na disk oziroma zapisovanje kar neposredno na CD.
+Nero celo dopušča presnemavanje plošč CD, na katerih so napake, če pred tem seveda tako določimo, in sodi med peščico programov, ki dovolijo zapisovanje čez uradno določeno zmogljivost plošče CD (overburning).
+Osnovna oblika stiskanja podatkov je s stalno hitrostjo (CBR constant bitrate).
+Kodirnik v tem primeru zvok, ne glede na njegovo zapletenost, vedno stisne z enako stopnjo stiskanja.
+Vendar količina zvočnih podatkov v na določenoi časovnoi enotoi ni vedno enaka.
+Pri piščalki ali trianglu je, recimo, precej manjša kot pri simfoničnem orkestru v polnem zamahu.
+Zatoradi tega je pri zahtevnih delih zvočnega posnetka poslabšanje zvoka bolj opazno, saj mora kodirnik izpustiti ali poenostaviti precej več zvočnih podatkov.
+Mojstri za stiskanje so zaradi tega razvili spremenljivo stopnjo stiskanja (VBR variable bitrate).
+Pri tem kodirnik stopnjo stiskanja prilagodi zapletenosti zvočnega posnetka.
+Pri zahtevnejših delih uporabi manjšo stopnjo stiskanja, pri enostavnejših pa si privošči večjo.
+Poslabšanje kakovosti je tako pri celotnem posnetku približno enako, končni izkupiček pa bodisi boljša kakovost pri enaki velikosti ali manjša velikost pri enaki kakovosti.
+Večinoma večini primerov je združeni stereo način ustrezen, v nekaterih redkih primerih, ko sta kanala na originalnem izvirnem posnetku zelo različna, pa povzroči neželena popačenja in v tem primeru se je pač treba odločiti za povsem ločeni stereo način.
+Da bi ohranili splošno kakovost posnetka, je v tem primeru koristno zmanjšati stopnjo stiskanja, na recimo 160 Kb/s.
+Slika WinAmp: WinAmp ni samo eden od najbolj priljubljenih, ampak sodi tudi med tehnično najbolj dovršene zvočne predvajalnike.
+Tudi mp3PRO je nekakšen izboljšan mp3.
+Njegova največja prednost je, poleg večje učinkovitosti, združljivost z običajnimi navadnimi predvajalniki mp3.
+Kakovost posnetka je sicer ob pri enaki velikosti boljša samo, če ga predvajamo z ustreznim predvajalnikom mp3PRO, a če tega nimamo, lahko posnetek slišimo z vsakim predvajalnikom.
+Podobno kot kakor AAC je tudi mp3PRO patentiran postopek, kodirnik pa stane približno 5000 pet tisoč tolarjev.
+Pri snemanju mp3 z glasbenih plošč nam delo zelo olajšajo internetne glasbene zbirke.
+V njih namreč predvajalnik poišče podatke o naslovu plošče in skladb in jih izpiše na zaslonu, kar je že samo po sebi priročno, saj vidimo, katero skladbo poslušamo, še bolj koristno pa je, ker znajo programi za snemanje mp3 te podatke uporabiti pri poimenovanju datotek.
+Ni nam torej treba ročno vpisovati imen skladb in izvajalcev, ampak je vse postorjeno samodejno.
+Ko imamo na disku zbrane vse skladbe, uporabimo program za snemanje plošč CD-R. Najboljše rezultate bomo dosegli s programi, ki so namenjeni prav snemanju glasbenih plošč.
+Eden takšnih je Feurio, pa tudi že omenjeni Exact Audio Copy sodi mednje.
+Skladbe na glasbenih ploščah CD-jih so namreč posnete nekoliko drugače kot kakor datoteke na računalniških ploščah in nekateri splošni programi vseh posebnosti glasbenih plošč ne podpirajo, vsaj ne najbolje.
+Slika CoolEdit: Z urejevalniki zvoka, kakršen je CoolEdit, lahko popravimo napake na zvočnih posnetkih, odstranimo šum, prilagodimo glasnost in postorimo še marsikaj.
+(Draytek DynDNS.tif; Podpora servisom dinamičnega DNS je v usmerjevalnikih ADSL še redkost.)
+Fm6_pdf.tif: Program je zelo zmogljiv pri pretvorbi v Acrobatov zapis.
+Pred nekaj leti ustanovljeno podjetje Danger, ki se ukvarja z razvojem in izdelavo pametnih telefonov, je predstavilo prvi izdelek, imenovan Hiptop.
+Pametni telefon s celotno tipkovnico QWERTY omogoča povezovanje z računalnikom prek USB in infrardečega vmesnika, podpira pa tudi hitra prenosa podatkov GPRS (v izvedbi GSM) ali 1XRTT (v izvedbi CDMA).
+Bistvena prednost Hiptopa pred konkurenčnimi izdelki, kot sta Nokiin Communicator in Handspringov Treo, je v podpori storitvam 2,5 rodu mobilne telefonije in razmeroma nizki ceni, poglavitna šibkost pa je črno-beli zaslon.
+Operacijski sistem telefona temelji na javanskih programih.
+Izdelovalec pričakuje, da bo najuspešnejši program za elektronsko kramljanje, saj v ZDA ne delujejo kratka sporočila SMS.
+Nizozemski mobilni operater KPNMobile je končno natančneje določil datum začetka uvedbe storitve i-mode, ki jo na Japonskem že poldrugo leto uporablja četrtina prebivalstva.
+Po zagotovilih podjetja je z uvedbo GPRS infrastruktura pripravljena za i-mode, marca pa bodo na voljo tudi prvi mobilni telefoni.
+Izdeloval jih bo NEC, ki je tudi eden izmed poglavitnih dobaviteljev takih telefonov za japonski NTT DoCoMo.
+Prvo serijo telefonov bo poleg podpore i-modu odlikoval tudi barvni zaslon.
+KPNMobile se dogovarja tudi z drugimi izdelovalci telefonov.
+Po besedah predstavnikov operaterja je že poskrbljeno tudi za vsebine, saj so sklenili pogodbe že s stotimi podjetji, med drugim tudi z Reuters in raznimi radijskimi postajami.
+Po ocenah KPNMobile naj bi storitve prinesle le deset odstotkov prihodka, 90 odstotkov pa naj bi iztržili od povečanega prometa.
+Cene za i-mode še niso znane, najverjetneje pa bodo podobne japonskim, torej okrog 600 tolarjev na mesec.
+Računalniku je priložena lična priklopna postaja, ki podpira vmesnik USB.
+Jornada pa se od modelov tekmecev nekoliko razlikuje tudi po programski opremi.
+Osnova je sistem PocketPC 2002 z vsemi značilnimi gradniki, HP pa jim je dodal še program za izdelavo varnostnih kopij, pregledovalnik slik, program za preklop z enega delujočega programa na drugega, program za menuje, v HP razvit javanski navidezni stroj HP Microchai, znanstveno računalo in elektronsko denarnico.
+Omenimo še program za zajemanje slik, za katerega pa potrebujemo dodatno video kamero (izvedba za kartico).
+Najboljša novost InDesigna je, kot rečeno, prosojnost.
+Gre sicer za lastnost, ki jo bodo uporabljali le najbolj zahtevnejši oblikovalci, katerim paa saj je program tako ali tako namenjen prav njim.
+S prosojnostjo lahko poljubni element na strani besedilo, rastrsko ali vektorsko sliko naredimo deloma prozoren.
+Z drugimi besedami to pomeni, da se skozenj vidijo predmeti pod njim.
+Adobe je prosojnost v InDesignu naredil izvedel povsem enako kot kakor v Illustratorju.
+To, kar pomeni, da jo lahko uporabimo tudi z gradientnimi polnili in maskami, predmeti pa imajo lahko zmehčane robove ali sence.
+Prosojnost je odlično orodje, s katerim enostavno, a zelo učinkovito združujemo besedilo in grafiko ali pa ustvarjamo zanimive učinke.
+Tako kot število različnih tehnologij se je v minulih letih raslo povečalo tudi število ponudnikov dostopa do interneta.
+Ti se zZa kupce se borijo potegujejo z različnimi paketi ponudbe in kupcu je vvčasih je že kar težko presoditi, kateri je j je najboljšie zanj.
+Če k temu dodamo še dejstvoto, da so posamezne ponudbe lahko zelo krajevno omejene in pogojene z različnimi dejavniki, je vredno se vsekakor splača skrbno razmisliti opretehtati alternativeah, ki so na voljo.
+Seveda ima vsaka ponudba svoje dobre in slabe strani, analizo in nekaj primerjav pa vam predstavljamo ponujamo prav v tokratnem prispevku.
+Arnesov položaj ima na tem delu trgžišča je tako trdenmočan položaj predvsem zato, ker je brezplačen, pravico do dostopa pa imajo dijaki, študentje, profesorji in drugi, ki se ukvarjajo z raziskovalnoimi ali kulturnoimi dejavnostjomi.
+TodaKljub temu ob tem niso redkoi primeri, dako vsacela družina za dostop do interneta uporablja Arnesov račun, ki ga je dobil dijak.
+Čeprav gre v tem primeru za zlorabo Arnesovih pravil, se pri Arnesuponudnik zavedajo, da ne morejo preverjati, kaj točno počnedela vsak njegovihov uporabnik, pa tudi promet, ki ga ti uporabniki ustvarijo, ne predstavlja pomeni večje obremenitve.
+Vsi uporabniki, ki do njihArnes dosegajotopajo prekopo telefonuskih linij, namreč skupaj ustvarijo zgolj pet odstotkov prometa.
+Toda vsa podjetja niso enaka, zlasti v Sloveniji.
+Čeprav imajo podjetja tipično drugačne potrebe po uporabi interneta kot domači uporabniki, pa obstaja mnogo imed njimi so tudi številne izjeme, predvsem pri manjšaih podjetjiha in samostojnih podjetnikih, ki se jih po načinu rabe lahko primerjamjo z domačimi uporabniki po domovih.
+Ker številna mala podjetja in podjetnikimnogi tudi dejansko uporabljajo navadne uporabniške pakete, je težko oceniti, koliko uporabnikov sodi na področje rabe domače in koliko na področje poslovne rabe.
+V praksi se izpokaže, da na tem področju ceniki le niso vselej povsem dorečenidelani, ampaktemveč jih ponudniki sproti prilagajajo posameznim potrebam povpraševalcev.
+MIzmed podjetiji, ki so nam želela posredovalati svoje cenike za pravne osebe, ima najnižje cene Netsi.net, vendar pa je različne ponudbe zelo težko primerjati med seboj ocenjevati različne ponudbe, saj ker vsak ponudnik v svoje pakete vključuje dodaja različne storitve, zna katere bi težko postavili točno določeno ceno.
+Amis.net, denimo, ponuja v paketu za neomejen dostop za do omrežja prek po dveh ISDN kanalihov ISDN tudi postavitev osnovne spletne strani in registracijo internetne domene.
+Tako bi, denimo, podjetje, ki kateregaima v sosednji stavbi svojega ponudnika dostopa do interneta je v sosednji stavbi, plačevalo bistveno manj od podjetja, ki ima poslovne prostore na drugi strani mesta.
+Minimalna cena, ki jo mora podjetje plačati za 64 kb/s povezavo preko po najetemga vodua, seje prične pri 35 tisoč tolarjevih, vendar vključuje zajema zgolj dostop do interneta, ne pa tudi povezave do omrežja ponudnika.
+Nekateri ponudniki dostopa do interneta nato zaračunajo še količino prenesenih podatkov, ki v povprečju znaša nekaj nad več kot 50 tisoč tolarjev za 1 GB.
+Trenutna razdelitev trga velja zlasti za obstoječe sedanje tehnologije.
+Najbrž ni več dvoma, da je bojitka za kupce s klicnim dostopom do interneta že končana.
+Na tem področju Tu lahko torej pričakujemo bolj malo sprememb.
+Izjema so lahko le ponudniki, ki nudijo ponujajo internet poz drugačneim prodajneim modeluom (Voljatel), vendar morajo ti šele pokazati, kako bodo lahko po tej potina ta način ustvarili dobiček, s tem pa tudi zagotovili svoj obstoj, razvoj in kakovost storitev.
+Februarja 2001 je tako v Sloveniji internet uporabljalo okoli 19 % aktivnega prebivalstva.
+To, kar sicer ni malo (leta 1998 je bilo le 9 %), kljub vendar temu pa smo s tem dosežkom pod evropskim povprečjem, kisaj to znaša je 31 %.
+S tem rezultatom smo sicer Resda smo pred Grčijo (10 %), toda zaostajamo za Portugalci (21 %), Španci (22 %) in Francozi (25 %).
+Na vrhu lestvice najdemo Švedsko, kjer internet uporablja 58 % prebivalcev.
+Sledijo Danska (54 %), Nizozemska (53 %), Finska (51 %) in naši severni sosedi Avstrijci (48 %).
+Zanimivo je, a morda pa ne presenetljivo pa je, da med tistimi, ki najhitreje zapirajo vrata, najdemo predvsem ponudnike brezplačnega dostopa do interneta.
+Najbolj zgovornejšeo je stanje v ZDA.
+Še leta 2000 je take storitve uporabljalo več kotčez 14 milijonov uporabnikov, lani pa se je ta številka zmanjšala na slabih pet5 milijonov.
+PogGlavitni razlogvzrok za to je: slaba kakovost storitev.
+Nekakšno aAlternativo internetnim kavarnam pripravlja snuje kar država.
+Eden izmed osnovnih poglavitnih ciljev mMinistrstva za informacijsko družbo je namreč omogočanje omogočiti dostopa do elektronskih storitev vsem državljanom.
+V okviru tega ciljaTako že poteka več projektov, med katerimi sta najbolj znana vzpostavitev omrežja infomatov in odprtih šol.
+Po napovedih ministra Pavla Gantarja naj bi infomati počasi zamenjali telefonske govorilnice, ki jih danes, v dobi mobilne telefonije, ne potrebujemo več.
+Danes je storitev QoS še zelo malo slabo razširjena in v osnovi zelo draga, še posebej.
+To še posebej velja pri zagotavljanju kakovostnih povezav na velike razdalje, med državami in celo kontinenticelinami.
+Poleg tega sama zasnova interneta in njegovih protokoliov (na čelu sz TCP/IP) niso zasnovania tako, da bi take storitve olajševaliuje, prej nasprotno.
+Toda ker je storitev QoS še vedno cenejša in bolj učinkovitejša od najetih vodov, zlasti na velike razdalje, lahko pričakujemo, da bodo ponudniki poskrbeli tudi za toa vidik.
+Najbrž zlasti manjši, ki nenehno iščejo tržne niše z visoko stopnjo donosa.
+Dober mesec po predstavitvi smo napravo že lahko preizkusili.
+Predvajalnik meri 6,2 × 10,2 × 2 cm (velik je kot zavojček kart), tehta pa 185 g. Njegovo ohišje po obliki nedvomno spominja na prenosni računalnik iBook, saj je sprednja stran odeta v belo plastiko, zadnja pa je kovinska.
+Sedemvrstični prikazovalnik LCD z ločljivostjo 160 × 128 pik zaseda skoraj vso zgornjo polovico naprave, pod njim pa najdemo krmilne gumbe, ki so domiselno nameščene v krogu.
+Štirje gumbi (za predvajanje, premikanje naprej in nazaj ter gumb za priklic menujev) so razporejeni po zunanjem krožnem obodu.
+S srednjim drsnikom v obliki kolobarja se premikamo po menujih in spreminjamo jakost zvoka, s središčnim gumbom pa potrjujemo izbiro menuja.
+Na vrhu predvajalnika najdemo stikalo za zaklepanje krmilnih gumbov, vhod za slušalke in vtičnico firewire.
+Za prenašanje digitalne glasbe iz Maca v iPod potrebujemo program iTunes 2 za MacOS 9 ali MacOS X, ki ga na Maca namestimo kar z diska novega iPoda (ali s priložene plošče).
+Zadostuje, da s kablom firewire povežemo iPod in Maca.
+Na Macovem namizju se prikaže iPod kot dodatni disk, pripravljen za delo.
+Ob vsakem naslednjem priklopu predvajalnika se bo program iTunes samodejno zagnal, na programski nadzorni plošči pa bo med viri glasbe naveden tudi iPod.
+Skratka, še eno spletišče, ki ga, preden kupite novo računalniško opremo, skoraj morate obiskati.
+Vas zanima, kako je bil videti splet pred desetimi leti?
+Iz nostalgičnih razlogov ali ker bi se radi prepričali, ali je res, kar vam pripovedujejo stari.
+O internetnem arhivu (www.archive.org) smo pisali že prejšnji mesec, tokrat pa si oglejmo še nekaj rešenih internetnih fosilov.
+V spletu je bilo takrat komaj okoli 50 spletnih strani, tekstovnih jasno, kajti prvi grafični spletni brskalnik Mozaic so naredili šele naslednje leto.
+Nekateri prakiberščaki so v tistih časih znali na pamet vse spletne naslove.
+Oracle je že leta 1994 načrtoval napravo, ki bi omogočala tako imenovano interaktivno televizijo, leto zatem pa je skupaj s Sunom začel razvijati omrežni računalnik, network computer, ki naj bi za desetino cene navadnega osebnega računalnika omogočal tako rekoč vse, kar potrebuje povprečen uporabnik, predvsem pa dostop v internet.
+A to je bil račun brez krčmarja ali, bolje rečeno, uporabnikov, in projekt je prav veličastno propadel.
+Lani novembra je začel prodajati igralno napravo Xbox, ki jo marca pričakujemo tudi v Evropi.
+Igralnik enostavno priključimo na televizor, vklopimo in se igramo.
+Nič strašljivo računalniškega ni na njem, pa še poceni je.
+A že bežen pogled v elektronsko drobovje daje slutiti, da Xbox pravzaprav ni samo igralnik.
+733-megaherčni Pentium III, 64 MB pomnilnika, osemgigabajtni disk ter omrežni vmesnik so oprema, ki bi je bil marsikdo vesel v domačem pecejčku.
+Xbox torej ni nič drugega kakor nekoliko oskubljen osebni računalnik, preoblečen v igralno napravo.
+Microsoft tega sicer ne obeša na veliki zvon, a ker je bilo tako očitno, je konec novembra Steve Ballmer priznal, da je Xbox več kot le zmogljiv igralnik.
+O pravih ciljih pa pri Microsoftu še kar skrivnostno molčijo.
+Izdeluje: Symantec, www.symantec.com.
+Microsoftova želja, da bi standardizirali ogrodje .NET, se vendarle uresničuje.
+13. decembra je organizacija ECMA (European Computer Manufacturers Association) potrdila specifikaciji za dve ključni Microsoftovi tehnologiji: programski jezik C# in CLI (Common Language Infrastructure), obe sestavni del ogrodja .NET.
+Potrditev specifikacij je rezultat več kot leto dni trajajočega procesa standardizacije.
+Konec oktobra 2000 je namreč Microsoft skupaj z družbama Intel in Hewlett-Packard predložil predlog standarda za obe omenjeni tehnologiji.
+Ta predlog so nato revidirale članice ECMA, med katerimi so najpomembnejše: Fujitsu Software, Hewlett-Packard, Intel, IBM, Netscape in celo Sun Microsystems.
+Standardizacija v okviru ECMA je pomemben korak k uveljavljanju ogrodja .NET kot platforme za spletne storitve.
+Pomembna je tudi, ker zagotavlja hitrejšo pot do standarda ISO, za kar si bo Microsoft prizadeval v prihodnosti.
+Kljub spodbudnim besedam pa ne bo odveč spremljati dogajanja v prihodnosti in videti, koliko bo Microsoft dovolil zunanjim partnerjem vplivati na razvoj omenjenih tehnologij.
+Precej novosti je bilo tudi pri napravah za zvesto predvajanje zvoka, pri avtomobilski akustiki in še kje, več o tem pa si preberite v februarski številki revije PC&mediji.
+Adobe je napovedal novo različico programa za izdelavo animacij in posebnih učinkov After Effects 5.5.
+Med najpomembnejšimi novostmi so natančnejši nadzor nad učinki (večkratni pogled, uporaba obarvanih senc, osvetlitev s svetlobo, padajočo skozi obarvano steklo) ter Advanced 3D Renderer za delo s prekrivajočimi se plastmi.
+Video, obdelan z učinki, lahko izvozimo v pretočni zapis RealMedia ali Quick Time ali pa ga vstavimo v programa Maya ali 3DStudio Max. After Effects ponuja orodja za prilagodljiv tok delovnega procesa za vse, ki se profesionalno ukvarjajo z vidnimi učinki za film, digitalni video, večpredstavne vsebine ali splet.
+Uradno napoved NV25 lahko pričakujemo v začetku leta 2002, prve grafične kartice, ki bodo temeljile na njem, pa v drugem četrtletju 2002.
+To pomeni zgolj eno leto po predstavitvi procesorja Geforce 3.
+No, zgodba se tu še ne konča, saj bo za omogočanje teh spletnih storitev najverjetneje treba plačevati mesečno naročnino.
+Analitiki ocenjujejo, da bo prav strežnik za domača omrežja tista naprava, ki bi lahko Microsoftu omogočila reden prihodek od storitev, nekateri celo menijo, da bo plačevanje naročnine nujno za delovanje naprave.
+Čeprav poznavalci trga in tudi sami izdelovalci računalnikov menijo, da bi taka naprava lahko bila uporabna, pa niso povsem prepričani, ali bodo tako menili tudi uporabniki.
+Sploh če bodo morali plačevati naročnino zanjo.
+Pri Motoroli so napovedali že več procesorjev iz naslednjega rodu (G5), a ti niso namenjeni računalništvu, ampak avtomobilizmu in komunikacijam.
+Glede na promocijo procesorja Apollo in izkušnjam z napovedmi prejšnjih procesorjev ni pričakovati, da bodo prav kmalu začeli izdelovati procesorje G5 za Applove PowerMace.
+V primerjavi z dosedanjimi različicami Windows NT Embedded in Windows 2000 Embedded bo novi Windows XP za naprave precej bolj modularen, saj ga bo sestavljalo več kot deset tisoč delov (moduli in gonilniki), ki jih bodo izdelovalci vgradnih sistemov lahko posamično dodajali v paket za distribucijo z izdelkom in izločali iz njega.
+Zanimivo, da bo za upravljanje vseh teh komponent skrbela posebna zbirka podatkov SQL, po potrebi pa celo Microsoft SQL Server.
+Čeprav je bila poteza pričakovana, je razburila številne uporabnike, katerih poslovni sistemi temeljijo na strežnikih Windows NT Server 4.0.
+Marsikdaj prehod na platformo Windows 2000 poleg stroška nadgradnje sistema povzroči tudi težave z združljivostjo.
+Messenger lahko povežemo s programi za elektronsko pošto in za klepetanje (IRC), pošiljamo sporočila na mobilne telefone in odzivnike ter vzpostavimo telefonski klic iz računalnika na telefon.
+Bistvena novost je tudi odprtost Messengerja, saj je pripravljen na vstavljanje dodatkov tudi drugih izdelovalcev, ne zgolj Microsofta.
+Windows Messenger 4.6 je že na voljo brezplačno, a le za Windows XP.
+Bo Dell končal cenovno vojno?
+Po mnenju lastnikov patentov bi jim moral Dell plačevati patentne pravice za prodane računalnike z enoto DVD-ROM in programsko ali strojno opremo za odkodiranje video zapisa MPEG-2.
+Take pogodbe imajo namreč sklenjene z lastniki patentov izdelovalci računalnikov Compaq, Apple in Hewlett-Packard.
+Tožniki niso povedali, kolikšno odškodnino želijo, iz Della pa so sporočili, da tožbe še niso videli in je zato ne morejo komentirati.
+Razprtije med računalniškima gigantoma Microsoftom in Applom se vlečejo že skoraj dvajset let.
+Leta 1998 so se strasti začasno pomirile in na presenečenje številnih zapriseženih privržencev jabolk je Microsoft vložil stomilijonsko dolarsko vsoto v Apple.
+Dogovorili so se še, da bo velikan iz Redmonda do leta 2003 skrbel za izdajanje svojih programov tudi za Mace.
+Adobe je leta 1999 izdal InDesign, svoj novi program za namizno založništvo, ki so ga menda napisali povsem na novo.
+Namen programa je bil en sam: prevzeti tiste uporabnike QuarkXPressa, ki nad svojim izdelkom niso (več) najbolj navdušeni, in hkrati ponuditi več dosedanjim uporabnikom PageMakerja.
+Adobe je ob tem naznanil, da slednjega, ki so ga pred davnimi leti dobili z nakupom podjetja Aldus, ne nameravajo več razvijati.
+Kot v slovo pa so izdali njegovo prenovljeno in dopolnjeno različico 6.5 Plus.
+PageMaker 7.0 je torej presenečenje, ki ga bodo veseli predvsem dolgoletni uporabniki programa.
+Hkrati nova različica programa kaže, da se InDesign ni »prijel« tako, kot bi si Adobe želel, in da kokoši, ki nese zlata jajca, nima smisla uničiti.
+Med najboljšimi novostmi programa so izboljšani in novi vhodni pretvorniki in filtri.
+PageMaker po novem prebere polni zapis PhotoShopa in Illustratorja, pri tem pa ohrani vse lastnosti teh grafičnih programov, tudi plasti.
+To pomeni, da lahko ustvarimo živo povezavo med programi in se izognemo ravnanju (Flatten Image) pred uvozom.
+Program prepozna in postavi tudi datoteke PDF, vendar pri tem nima pretirane sreče.
+Datoteke namreč postavi kot sliko, tega pa si uporabniki praviloma ne želijo.
+Precej boljši so, recimo, filtri za Word, skupaj z najnovejšimi različicami, obogateno besedilo in druge pogostejše zapise.
+Da želi PageMaker pridobiti tako zahtevne uporabnike kot tudi tiste po domovih, dokazujeta tudi zmogljiva pretvornika za QuarkXPress in MS Publisher.
+pm7_separacije.tif V namiznozaložniških programih lahko tiskamo vsako barvo posebej.
+Spletni brskalniki za Palme so vsi po vrsti nekoliko omejeni, razlog pa je omejenost platforme Palm (majhen zaslon, majhen pomnilnik, počasen procesor) in počasna povezava v internet, ki jo ponuja GSM (in njegove nadgradnje).
+Kljub vsemu najdemo brskalnike, ki so spodobni in celo uporabni.
+Eden prvih takih je bil ProxiWeb, ki se pod novim lastnikom zdaj imenuje Browse-It.
+Vendar pa ima nekoliko več nastavitev, ki omogočajo »lepše« brskanje.
+Med drugim lahko nastavimo prikazovanje slik v 65 tisoč barvah (in si s tem povezavo še dodatno upočasnimo...).
+Shranjevanje spletnih bližnjic je sicer preglednejše kakor pri Browse-It, vendar na drugi strani ni omogočeno razporejanje teh bližnjic po kategorijah.
+Tudi pri obdelavi zvoka so se precej potrudili.
+Izboljšan je način za prilagajanje razmerja stopenj jakosti glasbe, zvočnih učinkov in izvirnega zvoka, ločiti je mogoče izvirno posnet zvok in sliko.
+Glasbeno ozadje oblikujemo z orodjem Smart Sound, glasbo pa enostavno dodajamo z zgoščenk ali iz datotek .mp3.
+Montaža je enostavna, saj sličice kadrov iz Albuma le prenašamo na časovno os in tako nastaja video, ki mu nato dodamo še učinke in besedilo, rezultate pa si je mogoče (brez dolgotrajnega preračunavanja) neposredno ogledati v oknu Player .
+Kot rečeno, je logično, da država jemlje bogatim podjetjem, in Mobitel je zelo bogato podjetje.
+Zasluži veliko denarja in ima velike dobičke.
+Glede na to, da je Slovenija pred desetimi leti bolj ali manj soglasno sprejela kapitalistični sistem, ki ima denar in dobiček za temeljni vrednoti, s tem verjetno ni nič narobe.
+Narobe je vsaj dvoje.
+Prvo je načelna problematičnost velikega kapitala.
+Mobitel sicer ni v isti ligi kakor velike nadnacionalne (ali ameriške) korporacije, kot so razne kokakole in mikrosofti, je pa zelo velik za svoje okolje.
+Še pomembneje pa je to, da mu denar priteka tako hitro, da niti ne ve, kako bi vsega porabil.
+To dokazujejo tudi vsaj na prvi pogled nevtralna dejanja, kot je nedavni Mobitelov nakup solin, ali celo dobrodelna in hudo koristna dejanja, kot je subvencioniranje slovenske astronomske revije Spika.
+Vendarle pa je veliki kapital problematičen zaradi svoje moči, ki spodkopava demokracijo.
+Če je demokratična družbena ureditev poskus, kako bi zagotovili disperzijo moči in čim večjo širino zastopanih interesov, je veliki kapital prav negacija tega načela, saj vpliva neposredno brez volitev in brez demokratičnih predstavnikov.
+Monitor Sony Multiscan E230 izstopa predvsem po zelo ostri in kontrastni sliki.
+Zamerimo pa mu napake v konvergenci in enakomernosti, tako da na splošno s prikazano sliko ne izstopa iz povprečja.
+Sonyjevi monitorji načeloma sodijo med dražje, toda E230 po ceni ne izstopa pretirano.
+Resda med bolj »brezimnimi konkurenti« najdemo tudi cenejše modele, a na njih ne piše Sony…
+Programska povezava s podatki v zbirki je ena najpogostejših možnosti za pripravo spremenljivih, dinamičnih spletnih strani.
+Spletne strani v obremenjenem javnem strežniku ponavadi črpajo podatke iz zmogljivih strežnikov podatkov, pri razvoju spletišča pa je včasih bolj praktično uporabiti manj zmogljivo, a pogosto za uporabnika prijaznejšo zbirko.
+Ena najprimernejših za dejavne strežene strani je prav gotovo namizna zbirka Microsoft Access, še posebej, ker jo je preprosto uporabljati.
+V pognanem pripomočku izberemo naše spletišče in z desno tipko miške prikažemo sprotni menu, s katerega izberemo zadnjo možnost, Properties.
+V prikazanem pogovornem oknu bomo pod jezičkom Custom Errors našli seznam kategorij napak in pripadajočo spletno stran.
+Želeno kategorijo napake najprej izberemo, zatem pa z gumbom Edit Properties prikažemo nastavitve.
+V njih lahko spremenimo nastavitev datoteke s sporočilom o napaki.
+S prenosom spletnih strani iz strežnika IIS 4.0 v novega IIS 5.0, ki je del Oken 2000, so bili nekatere presenečeni nad navidez počasnejšim delovanjem.
+Vzrok je drugačna privzeta nastavitev medpomnjenja (buffering), ki je bilo pri IIS 4 izključeno, pri petici pa je po privzeti nastavitvi vključeno.
+Če so nam prednosti medpomnjenja všeč, moti nas le počasni odziv, pa si lahko pomagamo tudi z vmesnim praznjenjem izravnalnika.
+Pri vključenem medpomnjenju lahko na določenih mestih v kodi dejavne strani pokličemo stavek:
+Jezik nam omogoči opis projekta od zajemanja informacij o željah stranke do končne vzpostavitve informacijskega sistema.
+Dokument UML je zbirka slik in besedila.
+Sam po sebi je UML slikovni jezik, vendar ima vsak znak določeno veliko število lastnosti, ki se opišejo z besedilom.
+Tako nam zadostuje pogled na sliko, da zaobjamemo celoto, podrobnosti pa iščemo v spremnem besedilu.
+Slika 7: Diagram sodelovanja bolj izpostavi obremenjene predmete kavomat
+Slika 9: Trije računalniki, ki sestavljajo naš sistem
+Krivdo za zZamudo je menda moč pripisati naprtiti počasnemu razvoju ustreznih gonilnikov.
+Karticama, ki smo ju preizkusili,V času testa tako pravi gonilniki sploh niso bili priloženi pravi karticam.
+Za okolje Windows 98/ME je gonilnik že končannared, pri v okolju Windows 2000 pa smo morali uporabljati še nedokončano različico.
+Toda to ni oviralo poteka preizkusa.
+Proti: USB 2.0 je trenutno na voljo le prek razširitvenih kartic, ne podpira prenosa podatkov neposredno med dvema napravama.
+Predmet SecurityIdentity ima prav tako kolekcijo Item, ki tudi obsega nekatere zanimive prvine.
+Z njimi izvemo naziv klicateljevega računa, njegov SID, izbrani SSP, stopnjo overjanja in poosebljanja.
+Te prvine so prikazane v drugi tabeli.
+Ponovimo, da COM+ shranjuje navedene informacije in obsega potrebne metode, predvsem zato, da lahko izdelamo skoraj poljuben sistem sledenja.
+Ta način ne omogoča vzajemnega overjanja: entiteta B ve za entiteto A, toda entiteta A ne ve nič o B. Vzajemno overjanje dosežemo, če tudi entiteta B pošlje svoj javni ključ entiteti A in shranjuje svoj zaupni ključ.
+V tem primeru morata torej obe entiteti imeti svoj javni in svoj skrivni ključ.
+Če obstajajo ustrezna potrdila, strežnikovo ali strežnikovo in odjemalcev, lahko uporabljamo HTTPS.
+HTTPS ni nič drugega kot HTTP s SSL.
+Te storitve temeljijo na naslednjih opravilih:
+• razdeljevanju potrdil CA (CA Certificate Distribution)
+Zahteva po varnosti je postala pri resni rabi v času omrežnega in medomrežnega računalništva nedvomno najpomembnejša.
+V Microsoftovih operacijskih sistemih so jo dolgo zanemarjali, nazadnje pa so vendarle nekako poskrbeli zanjo.
+Ogledali si bomo mehanizme, na katerih ta varnost temelji, za konec pa natresli še nekaj praktičnih napotkov.
+A začnimo s temeljnimi pojmi.
+Varnost v Oknih 2000 bolj ali manj temelji na zaupanju (concept of trust).
+Pravzaprav avtorji pričakujejo, da zaupamo v vse, na kar nimamo vpliva.
+Zaupati moramo, da so naša gesla varno shranjena, da je overjanje pravilno, uporabniki in računalniki morajo zaupati v svoj krajevni in/ali domenski overitelj ter njegove upravitelje, krajevni overitelj računalnika mora zaupati v domenski overitelj itd.
+Prednastavljeni računi (preconfigured accounts) nastanejo samodejno, ko se ustvari zbirka podatkov prijav.
+Ob nastanku dobijo določena pooblastila in pravice do dostopa, od katerih mnogih ni mogoče spremeniti.
+Pri krajevnem overitelju prednastavljeni računi nastanejo ob namestitvi operacijskega sistema, domenski prednastavljeni računi pa skupaj z domenskim overiteljem takrat, ko strežnik določimo za domenski nadzornik.
+S tem nastane tudi nova domena.
+Zdaj si oglejmo interaktivno sejo.
+Kadar se uporabnik prijavi v krajevnem računalniku, krajevni overitelj zanj ustvari interaktivno sejo (če overjanje uspe).
+Sistem zatem ustvari primerek lupinskega okenskega programa (EXPLORER.
+EXE), katerega žeton izvira iz uporabnikove interaktivne seje.
+Če uporabnik iz lupine požene nov namenski program, sistem kopira žeton iz enega procesa v drugega, oba pa kažeta nazaj na uporabnikovo interaktivno sejo.
+Na drugi strani pa z vnosi v DACL lastnik sredstva določi, kateri žetoni (oziroma kateri SID) imajo dovoljenje za dostop ter kakšne operacije smejo izvajati.
+Toda omenjena tehnologija utegne biti v resnici vredna še precej več.
+Pomislimo le, kako preprosto bi bilo z njo iskati informacije in brskati po internetu, pa ne le doma in na delovnem mestu, temveč tudi v avtomobilu, na ulici, v trgovini.
+V hipu bi približala uporabo sodobnih informacijskih naprav množicam ljudi (recimo starejšim), ki imajo dandanes zaradi takih in drugačnih predsodkov in težav močan odpor do računalnika.
+Januar je mesec, ko se v računalništvu dogaja bolj malo.
+Podjetja praviloma šele sprejemajo nove proračune za IT, posamezniki pa so tako ali tako večino tistega, kar so mislili, kupili že pred prazniki.
+A letošnji januar je bil nekoliko drugačen, zlasti na svetovni ravni.
+Zimskega spanja je bilo bolj malo ali skoraj nič in novosti so se začele vrstiti druga za drugo.
+Kakor da bi hoteli čim prej nadomestiti slabo letino 2001.
+V poljubni namestitvi imamo še dodatne možnosti določanja velikosti razpoložljivega pomnilnika, uporabo navideznega novega diska, navideznega že nameščenega diska in uporabo fizične razdelitve na disku.
+Pri nastavitvi velikosti navideznega diska moramo biti pozorni na velikost, ki jo potrebujemo (velikost operacijskega sistema in vsi nameščeni programi), saj po namestitvi ni mogoče več spremeniti največje velikosti diska.
+Po teh korakih je namestitev navideznega računalnika končana.
+Program VMware je zelo uporabno orodje, o tem smo se lahko že prepričali v prejšnjih različicah, z novo pa se njegove zmogljivosti samo še povečujejo.
+Ostaja uporaben za vse, ki poleg standardne namestitve operacijskega sistema, ki ga uporabljajo, potrebujejo še dodatno namestitev.
+Vsekakor je to boljša možnost in vsekakor bolj prilagodljiva, kakor da bi imeli več namestitev posameznih operacijskih sistemov v enem računalniku ali celo več računalnikov.
+Žal pa program za optimalno (resno) delo še vedno zahteva zelo hiter računalnik z veliko prostega pomnilnika.

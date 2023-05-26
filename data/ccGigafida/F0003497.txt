@@ -1,0 +1,31 @@
+Sestavnih delov nukleonov se je oprijelo ime #kvarki#. 
+Za opis vseh znanih jeder v naravi sta dovolj dve vrsti kvarkov: #u# in #d#. 
+Kvark #u# nosi pozitiven naboj, ki je enak + 2/3 #e#0, kjer #e#0 = 1,6 x 10-19 As (As = Amper-sekunda) pomeni osnovni naboj, ki je po absolutni vrednosti enak naboju elektrona ali protona, kvark #d# pa negativni naboj - 1/3 #e#0. 
+S kombinacijama treh kvarkov se da sestaviti oba nukleona. 
+Kombinacija #uud# tvori proton z nabojem #+ e#0 in kombinacija #udd# nevtron z nabojem 0.
+
+Doslej smo se omejili le na opis osnovnih gradnikov snovi, ne da bi se ozirali na sile med njimi. 
+Od sil je odvisno, kako se osnovni gradniki med seboj povezujejo v sestavljene delce, kako posamezni delci razpadejo in kaj se zgodi, ko dva delca trčita. 
+Pri tem medsebojnem sodelovanju ali #interakciji#, kakor temu pravimo, so kvarki in leptoni izpostavljeni naslednjim štirim silam: gravitacijski, elektromagnetni, šibki in močni. 
+
+Če bi ju skušali ločiti, bi morali vlagati čedalje več energije, dokler njena vrednost ne bi tako narasla, da bi bila dovolj velika za nastanek novega para kvark-antikvark. 
+Tako bi namesto ločenega kvarka in ločenega antikvarka dobili dva mezona. 
+Zdi se torej, da kvarkov sploh ne moremo opazovati posamezno. 
+
+1. 
+Poenostavljena shema atoma, sestavljenega iz jedra in elektronov. 
+Jedro nosi skoraj vso maso atoma in ga sestavljajo nukleoni (protoni in nevtroni). 
+Nukleone sestavljajo po trije kvarki. 
+Na vprašanje, ali so elektroni in kvarki osnovni gradniki snovi ali pa so tudi sami sestavljeni, še ne vemo odgovora.
+
+6. 
+Energija, ki jo vložimo v mezon, da bi ločili kvark in antikvark, narašča z razdaljo toliko časa, da doseže vrednost, ki je dovolj velika za tvorbo še enega para kvark-antikvark.
+
+Jedro
+
+Elektron
+
+NEVTRON d d u
+
+- 1/3 e0 - 1/3 e0 + 2/3 e0
+

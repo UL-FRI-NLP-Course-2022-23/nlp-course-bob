@@ -1,0 +1,19 @@
+Drobcena integrirana vezja naj bi sedaj povezovala vse, tudi jogurtove lončke
+
+Vendar pa se doba črtne kode izteka, kajti svet, o katerem sanjajo raziskovalci Fraunhoferjeve družbe, tvorijo v mrežo povezane tube zobnih past, hladilnike, ki si pošiljajo e-maile, in Armanijeve kravate, ki skrivaj izklepetajo navade svojih lastnikov. 
+Če bo vse potekalo tako, kot so si zamislili raziskovalci Fraunhoferjeve družbe, naj bi »zebre« zamenjale »smart labels« - »inteligentne etikete,« ki naj bi jih bilo mogoče vgraditi v skoraj vsak izdelek. 
+Ti nevidni malčki bodo vsakdanje predmete opremili s tisočkrat več informacijami, kakor jih danes s tiskanjem pritrjujejo na banane ali skodelice za kavo.
+
+Transponderji obstajajo že kar nekaj časa. 
+Kot elektronske pasje značke jih pripenjajo domačim živalim za ušesa ali pa jih uporabljajo pri individualnih izračunih pristojbine za odvoz smeti. 
+Novi malčki sedaj združujejo čip in tuljavo na površini, ki meri le 2 krat 2 milimetra. 
+In če si pod pojmom »čip« predstavljate nekaj togega, morate spremeniti mnenje: nova polprevodniška vezja so tako tanka in prožna, da jih je mogoče vgraditi v običajen papir.
+
+Nove čipe so lahko izdelali zato, ker osnovni material, silicij, z zmanjševanjem debeline spreminja svoje lastnosti: če je ploščica debelejša od 100 mikrometrov (1 desetinka milimetra), je toga in trda. 
+Če jo stanjšamo, postane najprej lomljiva in krhka. 
+Pod 30 mikrometri pa jo je nenadoma mogoče upogibati: 10-mikronski čip lahko ovijemo okrog svinčnika. 
+Strokovnjakom iz münchenskega Fraunhoferjevega inštituta za zanesljivost in mikrointegracijo (IZM) je sedaj uspelo zjedkati serijo tako tankih čipov. 
+Za primerjavo: navaden pisarniški papir je debel kakih 80 mikrometrov. 
+Še en dosežek: če hočemo na tanki čip pritrditi tuljavo, ne moremo več spajkati, to bi bilo že preveč. 
+Zato je bilo treba razviti tako imenovana anizotropno prepustna lepila, ki na točno določenih mestih vzpostavijo električni stik.
+

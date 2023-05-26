@@ -1,0 +1,423 @@
+Dobrodošli v knjigi Naučite se sami: Linux v 24. urah.
+Verjetno razmišljate “Le zakaj želijo, da ostanem pokonci in se učim to stvar?”
+No, to ni čisto res.
+V tej knjigi smo uporabili novo metodo učenja tega zanimivega izdelka: 24 enournih lekcij, ki so bile izoblikovane tako, da ne boste izgubili zanimanja in se boste hkrati veliko naučili.
+Ker je učni proces razdeljen na majhne enote, ne boste prevzeti nad celovitostjo nekaterih novih tehnologij, ki se danes pojavljajo na trgu.
+Vsaka enourna lekcija je sestavljena iz veliko novih in starih informacij, ki vam bodo pri delu pomagale.
+Prvih deset minut vsake ure je namenjenih pregledu tem in znanja, ki ga boste osvojili do konca ure.
+Natančno boste vedeli, kaj vaš v tej uri čaka.
+Na koncu ure vam bo verjetno ostalo še nekaj vprašanj, na katera naletite vsak dan, pa ne najdete odgovorov.
+V tem primeru vam lahko pomaga Q&A (vprašanja in odgovori).
+Z odgovori na najpogostejša vprašanja v tej uri, Q&A ne odgovarja samo na vaša vprašanja, ampak daje podroben pregled vsega, kar ste se v tej uri naučili.
+Linux-a bi se morali naučiti iz številnih dobrih razlogov.
+Razširili boste vaše znanje o računalniški strojni opremi, kar vam lahko pomaga pri reševanju morebitnih problemov.
+Naučili se boste osnov uporabe UNIX-u podobnega operacijskega sistema.
+Ko boste združili znanje o programski in strojni opremi, boste na dobri poti, da postanete izkušen uporabnik računalnika.
+Ob misli na avtomehanika preletite tri korake, ki so obdelani v tej uri:
+Sedaj pride najzahtevnejša strojna oprema – komponente, ki so nameščene znotraj vašega računalnika.
+Strojna oprema je zelo različna in uporablja se veliko akronimov (kot SCSI, IDE, BIOS, itd.), vendar ne bo težav, če boste delali po korakih.
+Zvočna kartica Pri namestitvi ni pomembna.
+Če uporabljate Creatve Labs Sound Blaster, lahko zvok relativno enostavno nastavite.
+Na sliki 1.1 je prikazan primer diska, ki je bil razdeljen na štiri različna področja, z uporabo ene primarne particije in ene podaljšane particije, ki je bila naprej razdeljena na tri logične enote.
+Za namestitev samega Linux-a potrebujete na trdem disku minimalno 60 MB prostora.
+Bolj realna ocena je okrog 250 MB, celotna namestitev pa zavzame okrog 600 MB.
+Ta del vas vodi skozi postopek ustvarjanja prostora na trdem disku s primerom, kako bi to potekalo na namišljenem 1GB trdem disku s 1024 cilindri.
+Disk ima 600 MB praznega prostora.
+Alt-F5 Sporočila pri formatiranju diska in nekaterih drugih programov.
+Začetni zaslonski menu vsebuje koristna navodila kako začeti z namestitvijo in pred samim zagonom omogoča dostop do drugih menujev pomoči.
+Za dostop do teh menujev uporabite eno izmed funkcijskih tipk, ki so izpisane na dnu zaslonskega menuja in razložene v tabeli 2.2.
+Tu pride do majhnega zastoja zaradi branja podatkov z diskete.
+Lokalni CD-ROM Je privzeta metoda namestitve Linux-a na trdi disk.
+Pri tej metodi ne rabite dodatne diskete.
+FTP Metoda omogoča namestitev z FTP strežnika
+Če ste izbrali namestitev s CD-ROM-a, potem vstavite CD v pogon.
+Program samodejno poišče IDE CD v vašem sistemu.
+Če ga ne najde, vas vpraša, kakšen tip CD-ROM-a uporabljate.
+Izbirate lahko med:
+Ko izberete vrsto namestitve, bo namestitveni program poskušal sam najti SCSI naprave.
+Če mu to ne uspe, vas vpraša ali v vašem računalniku uporabljate kakšno SCSI napravo.
+Če jo imate izberite Yes in navedite katero.
+V naslednjem zaslonskem menuju se odločite za avtomatsko testiranje ali za ročno nastavljanje opcij.
+Večina SCSI adapterjev ne potrebuje dodatnih opcij.
+V primeru, da SCSI naprave ne uporabljate, izberite No in pritisnite Enter.
+Geom [C/H/S] Kapaciteta diska, kot jo je zaznal program Disk Druid.
+Razdeljena je na število cilindrov, glav in sektorjev.
+Primerjajte te podatke s tistimi, ki ste si jih izpisali iz BIOS-a.
+Če se podatki ne ujemajo, boste morali uporabiti fdisk.
+Cancel Z izbiro tega gumbu, se dodajanje particije prekine.
+Z opcijo Cancel se program Disk Druid zaključi.
+Izgubili boste vse nove spremembe.
+Pojavi se okno, v katerem izberete nadaljnji korak namestitve.
+Ta način izbire ni primeren za začetnike.
+Če je program kartico zaznal, se pokaže nov zaslonski menu, v katerem boste nastavili svoje omrežje.
+V primeru uporabe bootp strežnika, ki nastavlja IP naslove in druge podatke za vaš računalnik, potrdite potrditveno okno []Configure device with bootp in izberite OK.
+Če je ne zazna, vnesite podatke, ki ste jih dobili od administratorja omrežja.
+V naslednjem oknu boste videli vse izbrane vrednosti za tiskalnik.
+Če ste z izbiro zadovoljni, izberite 'Done' in pritisnite Enter.
+Drugače izberite 'Edit' in vrnili se boste na začetek procesa namestitve tiskalnika.
+Prišli ste do zadnjega dela namestitve.
+V tem delu izberete način zagona računalnika po namestitvi.
+Pri izbiri nastavitev za vaš monitor bodite zelo previdni.
+Izbira napačnih vrednosti lahko monitor resno poškoduje.
+Na zaslonu se pojavijo zelo veliki X-i
+Podrobnejše informacije o Linux ukazih lahko najdete v imeniku /usr/doc, ki vsebuje datoteke HOWTO, oz. “Pogosto zastavljena vprašanja” (Frequently Asked Questions ali FAQ).
+Fundacija Free Software, ki izdaja GNU programske pakete, mnogo svoje dokumentacije izdaja v posebnem Hipertekst info formatu.
+Nato poskusite s klicanjem pwd na naslednji način:
+Da bi našli nove ali modificirane datoteke, ki so stare dan ali več v imeniku /usr/bin, lahko uporabite
+Datoteke se skoraj v trenutku izpišejo na ekranu.
+Mogoče se vam bo zdela uporaba ukaza locate celo enostavnejša od ukaza find.
+Tukaj pa obstaja zanka: find bo takoj deloval, medtem ko je potrebno za uporabo ukaza locate najprej zgraditi bazo podatkov vseh datotek na vašem sistemu.
+Ampak naj vas ne skrbi, ker je ta postopek skoraj avtomatiziran.
+cp fgrep more setserial zcat
+Obstaja pa še drug, boljši pripomoček za prikaz drevesne strukture sistema, ukaz tree, ki je obravnavan kasneje v tej uri.
+Ali vam je všeč način izpisa imenikov s pomočjo opcije –aF?
+Ali vam je ljubše, če bi ukaz ls vedno uporabljal barve?
+Več informacij boste našli v 6. uri.
+Sedaj že znate pregledati vsebino domačega imenika.
+Mogoče pa vas zanima struktura imenikov na sistemu ali struktura za točno določen imenik (na primer /usr/X11R6).
+Z ukazom ls –R boste sicer izpisali imenike, ampak kako so ti imeniki medsebojno povezani?
+2 Cat je verjetno najenostavnejši urejevalec teksta.
+1 Ta tekstovna datoteka je bila kreirana z ukazom cat.
+Tudi ta je bila kreirana z ukazom cat.
+4 To je zadnja vrstica teksta v tej datoteki.
+To je zadnja vrstica datoteke
+# more dolgadatoteka.txt
+Datoteka newfile2 ima 10 minut mlajšo časovno oznako.
+Datum in čas nastanka datoteke lahko nastavite tudi v arbitrarnem zapisu, na primer:
+Ta ukaz je eden izmed osnovnih orodij (poleg cp in mv), s katerimi boste organizirali vaše podatke.
+Oglejmo si nekaj primerov.
+Naslednji preprost ukaz kreira en sam imenik:
+Ta primer kaže, da je bila s preimenovanjem datoteke file1 v file2 kreirana varnostna kopija file2 z oznako ~.
+Moralo bi biti jasno, da je datoteka file1 zamenjana file2.
+Da bi se izognili temu problemu (razen če datoteko res želite prepisati), uporabite stikali –b in –i, ki delujeta isto kot v ukazu mv.
+Oglejte si primer:
+cp: overwrite 'file2'? n
+Z ukazom lahko uporabite tudi –p stikalo, ki ima podobno funkcijo kot pri ukazu mkdir.
+Kadar kopirate datoteko znotraj številnih imenikov v nek drug imenik, se običajno prekopira samo ta datoteka.
+V naslednjem primeru bomo prekopirali samo datoteko temp1file1 v imenik tempdir3:
+Linux podpira trde in simbolične povezave.
+Čeprav ni pomembno, da razumete kako povezave v Linux-u delujejo, pa je potrebno, da razumete razliko med obema tipoma povezav in kako jih lahko v Linux-u uporabljate.
+Trdo oz. simbolično povezavo ustvarite z uporabo ukaza ln (link – povezava).
+Vidite, da puščica kaže od datoteke file2 na file1.
+To pomeni, da med obema datotekama obstaja simbolična povezava.
+Opazite tudi, da je datoteka file2 krajša od file1.
+Oba tipa povezav se razlikujeta po tem, da je simbolična povezava samo drugo ime za originalno datoteko.
+Če simbolično povezavo zbrišete, ostane originalna datoteka nespremenjena.
+Če pa zbrišete originalno datoteko, simbolična povezava ne bo več uporabna:
+Ker originalna datoteka ne obstaja več, ne morete do njene vsebine preko simbolične povezave.
+Kakor koli že, simbolične povezave imajo določene prednosti pred trdimi povezavami.
+S pomočjo simbolične povezave lahko nakažete določen imenik na datotečnem sistemu.
+Če boste v naslednjem primeru poskušali kreirati trdo povezavo do imenika /usr/local/games, bo ukaz ln javil napako in končal:
+Do sedaj ste se naučili uporabljati ukazno vrstico.
+Če ste bolj navajeni uporabljati grafične vmesnike, vam bo naslednji program zagotovo všeč.
+• Omogoča uporabo prilagojenih menujev, zgradite lahko svoje ukaze
+Regularni izrazi so vzorci, ki uporabljajo posebno sintakso, za iskanje zadetkov (običajno v tekstu datotek, razen če ne iščete imen datotek).
+Obstajajo tudi podaljšani regularni izrazi, ampak naj vas razlika, ki je pomembna za sintakso, ne odvrne od dragocenih lekcij, s katerimi boste lahko konstruirali vzorce, ki bodo avtomatsko poiskali želene vrednosti.
+To je še posebej pomembno, če iščete tekstovne datoteke in kritično, če izvajate nevarna opravila, ko je na primer obsežno brisanje datotek po sistemu.
+Ker ste v iskalnem vzorcu podali območje znakov, oz. v tem primeru številk, se kot rezultat izpišejo vse datoteke, ki v imenu vsebujejo številke.
+Z regularnimi izrazi lahko gradite tudi krajše izraze, ki opravljajo isto opravilo, na primer:
+617:software since the original Space War, or, more recently, Emacs.
+Ker ste uporabili tudi stikalo za oštevilčevanje vrstic, se mora to nahajati pred stikalom –f, drugače bi grep javil napako, da ni mogel najti datoteke n in končal.
+• Podpira tudi nekatere starejše formate arhivov
+Zelo malo, če sploh kakšen, programskih Linux paketov se nahaja v cpio formatu.
+Lahko se zgodi, da pri iskanju nove programske opreme na Internetu sploh ne boste naleteli nanj.
+Če pa vas vseeno zanima, si preberite cpio priročnik.
+V tej uri boste spoznali lupino.
+Čeprav je bil trend v zadnjih 10 letih odmakniti se od ukazne vrstice k 'pokaži in klikni' vmesniku, se lupina v Linux-u še veno veliko uporablja.
+• Ali si lupina zapomni predhodne ukaze?
+endsw eval exec exit fg filetes foreach
+unalias uncomplete unhash unlimit unset unseten wait
+Poiščite vrstico
+Čeprav ta vrstica mogoče izgleda šifrirana, je to definicija za spremenljivko okolja $PS1.
+Ta niz lahko spremenite in s tem definirate kakršen koli tip pozivnega niza.
+Definicija je podana v naslednji obliki:
+V tem primeru smo uporabili izhodni zaporedje za xterm X11 terminalu (najdete ga lahko z ukazom printenv; najprej pa si oglejte $TERMCAP spremenljivko) in s tem bo uporabniško in gostiteljevo ime v pozivu podčrtano.
+Več primerov in drugih pozivnih nizov najdete v priročnikih lupine.
+Iz primera je razvidno, da so začasno zaustavljena tri opravila, pine program za elektronsko pošto, sc tabele in emacs urejevalec.
+Prav tako bi morali opaziti, da smo program sc tabele, namesto da bi ga ponovno zagnali z navedbo številke opravila, postavili v ospredje z uporabo ukaza fg % skupaj z imenom opravila.
+Tukaj lahko vidite, kako prekiniti program z ukazom kill in številke procesa.
+Tak način je veliko enostavnejši kot ukaz ps, še posebej če v ozadju teče veliko programov ali drugih procesov.
+Ni potrebno, da ste programer, če hočete pisati Linux ukaze.
+Ko boste obvladali različne programe in boste določene ukazne vrstice vedno znova vnašali, jih shranite v tekstovno datoteko in jih spremenite v ukaz.
+V najpreprostejši obliki je ukaz lupine lahko samo ena ali nekaj ukaznih vrstic, ki jih pogosto uporabljate.
+Oglejte si naslednji primer:
+kar je vsekakor enostavnejše!
+Vrstni red spremenljivk ni pomemben.
+Sedaj ko zaženete ukaz, lahko imena programov vstavite v ukazni vrstici.
+Glavne komponente te datoteke vam omogočajo naslednje nastavitve:
+Bolj celovita izpeljanka fvwm2 upravljavca oken, ki uporablja fvwm2 upravljavec je AnotherLevel, katerega avtor je Greg J. Badros.
+Upravljavec oken AnotherLevel fvwm2 je privzeto X11 namizje za Red Hat Linux.
+Našli boste skoraj osupljivo dovršen sistem menujev, nastavite lahko skoraj vse parametre izgleda oken in tudi način, kako upravljavec obravnava tipkovnico ali miško.
+Najprej naredite na domačem imeniku imenik z imenom .wmconfig.
+Nato v ta imenik prekopirajte datoteke, ki se nahajajo v imeniku /etc/X11/wmconfig, na primer:
+S temi vrsticami ne boste nastavili samo barv namizja, ampak tudi odprli dva terminalska okna na točno določenem mestu zaslona.
+Okna bodo vsebovala vse posebne gumbe, ki ste jih omogočili.
+Prav tako lahko nastavite odziv oken na miškin kazalec.
+Ponavadi je potrebno za aktiviranje okna najprej klikniti nanj, vendar lahko to spremenite z odstranitvijo znaka za komentar v .fvwm2rc datoteki, na primer:
+V upravljavcu oken fvwm lahko uporabljate navidezno namizje, ikone in okrašene okvirje oken in kontrol.
+• Ne podpira Tehtronix 4014 emulacije, ki ni potrebna za samostojne Linux X11 delovne postaje.
+Na primer, če bi radi zagnali rvxt terminal v zgornjem levem kotu zaslona, uporabite:
+S tem boste spremenili izgled kazalca v desno!
+Če pa ste levičar, lahko uporabite kazalec, ki kaže v levo, hand2!
+Aplikacijo xmodmap lahko uporabite tudi za zamenjavo in spremembo tipk na tipkovnici.
+Več podrobnosti boste našli v xmodmap priročniku.
+Ostale nastavitve za miško lahko prilagodite z uporabo aplikacije xset.
+Na primer, če bi radi večjo hitrost miškinega kazalca, preskusite naslednje nastavitve:
+Če bi radi naredili še več kot samo kopirati majhne delce grafike ali teksta, lahko zajamete slike na celotnem oknu ali na namizju.
+V naslednjem odstavku boste spoznali kako zajeti, shraniti in prikazati slike iz vašega X11 namizja.
+To je primeren način za zajemanje večje serije slik, delujočih aplikacij, za prikaz najboljših rezultatov iger ali za kreiranje predstavitev.
+Datoteka je v X11 window dump formatu, uporabite pa lahko številne aplikacije za ogled slik.
+Ena izmed teh je xwud aplikacija.
+Za ogled vašega namizja uporabite:
+Barvo ozadja lahko spremenite z xsetroot, oz. pomočnikom korenskega okna, ki se nahaja v imeniku /usr/X11R6/bin.
+Izbira barv, kot sem že prej omenil, je odvisna od globine barv vašega X11 strežnika.
+Če uporabljate SVGA strežnik, boste imeli na izbiro 256 barv.
+Na primer, barvo lahko spremenite z
+Če je čista barva pretežka za vaše oči, ali preveč enostavna za vaš okus, lahko za nastavitev vzorca namizja uporabite enega izmed skoraj 90 različnih hitrih grafičnih datotek iz imenika /usr/include/X11/bitmap/.
+Na prime, če bi radi vzorec basket-weave na vašem pmizju, uporabite
+Prihranite čas
+V imeniku /usr/X11R6/bin boste našli še X11 aplikacijo ical, ki pa je pripomoček za osebno načrtovanje z večjim prikazom koledarja.
+Podrobnosti boste našli v 18. uri.
+Spremenite /etc/ profil in dodajte naslednji vrstici:
+Način dela mwm lahko določite s spremembo datoteke Mwm, ki se nahaja v app-defaults imeniku (našli ga boste v LessTif imeniku).
+Na srečo lahko Red Hat distribucijo CDE zaženete tudi iz konzole ali ne-X11 prikaza.
+To storite tako, da kreirate tekstovno datoteko, ki vsebuje naslednjo vrstico:
+Dokumentacija za KDE in njene programe se nahaja v imeniku /opt/kde/share/doc/HTML/en, pomoč pa lahko najdete tudi v vsaki aplikaciji in namizju.
+Več o KDE lahko izveste na:
+Prihranite čas
+Modem lahko nastavite tudi s pomočjo X11 nadzorne plošče.
+Prepričajte se, da ste prijavljeni kot korenski uporabnik in zaženite aplikacijo nadzorne plošče.
+Ko kliknete na ukaz modemtool v nadzorni plošči, se zažene program modemtool, ki se nahaja v imeniku /usr/bin/ in izpiše spisek serijskih vhodov.
+Izberite enega in kliknite na OK.
+Program minicom, katerega avtor je Miquel van Smoorenburg in se nahaja v imeniku /usr/bin, je prijazen komunikacijski program s katerim lahko kličete in se povezujete z drugimi računalniki ali BBS-ji.
+Program lahko uporabljate brez X11, sicer pa boste morali uporabljati zapis xminicom, ki se nahaja v imeniku /usr/bin.
+Ukaz fax avtomatsko zažene X11 grafični program za ogled in tiskanje faksov.
+Prva naloga je kreiranje fax.allow in fax.deny datotek, če še ne obstajata.
+V fax.allow datoteko vnesite imena uporabnikov, ki jim želite omogočiti uporabo faks storitev.
+Vnesite vsaj dve imeni: ime korenskega uporabnika in vaše ime.
+Priporočam, da uporabite PPP povezavo iz številnih razlogov:
+• Daje varnost na obeh koncih povezave
+• Je dovolj fleksibilen, da z njim lahko uporabljate različne tipe povezav
+Naslednja stvar, ki jo morate upoštevati, je hitrost modema.
+Nekateri izmed vas se boste spomnili časov, ko so bili 2400 ali 9600-baud modemi največja inovacija.
+Če še vedno uporabljate 9600 ali 14.4 modem in ga nočete nadomestiti z novejšim 56K modemom, ga še vedno lahko uporabljate za povezovanje na Internet PPP, ker se bo uskladil z novejšimi prijavljenimi modeli.
+uporablja ISP za (poleg ostalih stvari) prevajanje imen gostiteljev, kot je na
+V tem odstavku se ne bomo spuščali v podrobnosti
+• DIALER_SCRIPT – Popolna pot do vašega klicnega zapisa, ki uporablja pppd chat program.
+Ta program vrši klicanje, povezovanje in prijavljanje.
+Če ne najdete kopije tega zapisa z imenom ppp-on-dialer, poglejte v imenik /usr/doc/ppp-2.2.of-3/scripts.
+(V Seznamu 10.2 je prikazan ppp-on-dialer zapis.)
+Če ISP-jev računalnik ne prikaže login: in password: pozivov, boste morali v tem zapisu spremeniti zaporedji login: in password:, da bosta ustrezali ISP-jevim.
+Nadalje preverite pppd ukazno vrstico v ppp-on zapisu, in spremenite /dev/modem tako, da bo ustrezalo napravi, na katero je priključen vaš modem.
+Če želite, lahko za kreiranje simbolične povezave od serijskih vrat do /dev/modem uporabite pristop, ki je opisan v 9.
+Pa še nasvet: če imate 14.4 modem, uporabite za številčno vrednost 19200; če uporabljate 28.8 ali 33.6 modem preizkusite 57600.
+Mogoče se boste lahko povezali pri višji hitrosti, se posebej je to verjetno pri novejših modemih.
+V tem odstavku se boste naučili, kako vzpostaviti zvezo z ISP-jem in pričeti z obiskom Interneta.
+Obstaja več načinov.
+Prvi način, ki ga boste spoznali, je najosnovnejši, najenostavnejši način za vzpostavljanje zveze s programom minicom in brez uporabe zapisov, ki ste jih kreirali.
+Nato se boste naučili, kako uporabljati PPP povezovalni zapis, ppp-on.
+V primeru težav lahko pregledate posamezne dele zapisa med delovanjem vašega ali ISP-jevega modema.
+Verjetno bo šlo vse po sreči, če pa imate težave pri vzpostavljanju ali nastavljanju zveze, si vzemite čas in preberite chat in pppd priročnike, skupaj z dokumenti PPP-HOWTO in PPP-FAQ.
+• - - premakni se na prejšnje sporočilo
+Ko prejmete pošto, jo program prebere in izpiše na način, prikazan na sliki 11.4 (prav tako kot to stori program pine).
+Ta ukazna vrstica nadzoruje procmail, namesto uporabniškoime pa navedite vaše uporabniško ime.
+S pomočjo ukaza chmod nato napravite datoteko .forward , ki jo bo lahko prebral ves svet in vaš domač imenik, ki ga bodo lahko vsi našli.
+Oglejte si naslednji primer (prepričajte se, da se nahajate na domačem imeniku):
+Ali želite več informacij o procmail, o procmail navodilih in o filtriranju pošte?
+Poiščite Filtering Mail FAQ, katere avtorica je Nancy McGough in se odpošilja redno na comp.mail.misc, copmp.mail.elm, comp.mail.pine in na druge skupine novic.
+Branje novic iz Usenet-a je tema naslednje ure!
+Vsi programi za branje novic nudijo osnovne funkcije za
+Opazite lahko, da spisek ni urejen po abecedi.
+Na koncu vsake skupine novic mora biti dvopičje.
+Z razvojem svojega spiska skupin boste občutno pospešili delo.
+Berite naprej, če želite zvedeti več o programih tin in slrn.
+ISP-jev NNTP strežnik lahko v programu tin določite tudi s pomočjo spremenljivke okolja NNTPSERVER.
+Kreiranje spremenljivk okolja je obravnavano v 6. uri, “Uporaba lupine”.
+Eden izmed načinov za kreiranje NNTPSERVER spremenljivke, če vedno uporabljate bash lupino, je, da se prijavite kot korenski uporabnik, potem pa spremenite datoteko z imenom profile, ki se nahaja v imeniku /etc. Vtipkate naslednje v datoteko, prepričajte se, da se spremenljivka NNTPSERVER nahaja v izrazu export, na primer:
+Glede na podatke v slrn priročniku so te barve lahko
+Program pine predstavlja dva programa v enem.
+Čeprav bo večina ljudi uporabljala program za upravljanje sporočil, ga lahko uspešno uporabljate tudi za branje novic in s tem prihranite prostor na disku, če nimate več veliko prostora za druge programe (še posebej če uporabljate prenosni računalnik).
+Nekateri ukazi, ki vam bodo všeč, še posebej če bi radi dobili programe ali izvorno kodo iz Linux spletnih strani, so
+Ta ukaz uporabite pred zajemanjem komprimiranih Linux datotek.
+Vidite lahko, da sem, preden sem se prijavil, najprej prelistal trenutni imenik in nato spremenil imenik v pub.
+Ko sem pregledal še tega, sem spremenil imenik v software in nato v operating-sys imenik.
+Če bi poznal celo pot do datoteke, ki jo želim, bi jo lahko podal v enem samem cd uakzu, na primer:
+Lynx brkljalnik ima 66 različnih opcij ukazne vrstice, a je vseeno enostaven za uporabo.
+Če ste pravilno nastavili sistem in vzpostavili PPP povezavo, lahko pričnete z brskanjem, če v ukazni vrstici navedete naslov spletne strani (URL), na primer:
+s čimer boste zagnali program, ki bo skušal vzpostaviti povezavo s svojo domačo spletno stranjo .
+Če program zavzema preveč zaslona, lahko uporabite X11 toolkit geometrijsko nastavitev in s tem nastavite manjše okno, na primer:
+S tem boste brkljalnik zagnali, boljši način nastavljanja programa Netscape pa je, da kreirate simbolično povezavo do bolj običajnega imenika, kot je na primer /usr/local/bin:
+Veliko teh opcij je zelo koristnih.
+Na primer, kot sem v tej uri že poudaril, lahko spremenite velikost začetnega okna brkljalnika.
+Veliko boljša opcija, še posebej za uporabnike prenosnih računalnikov, je uporaba –component–bar opcije, na primer:
+S tem boste zagnali Netscape, aplikacija in dodatne komponente pa bodo prikazane v majhnem vertikalnem plavajočem oknu, ki ga lahko poljubno pomikate po zaslonu.
+Želeno komponento lahko poženete z enim klikom na ikoni.
+Netscape Communicator je eden najpopularnejših brkljalnikov, in podpira večino Netscape vključkov.
+Ta ukaz bo s pomočjo ZMODEM komunikacijskega protokola poslal datoteko filename.tgz.
+Vaši komunikacijski programi bi morali z uporabo tega protokola začeti avtomatsko sprejemati datoteko, (vsaj večina komunikacijskih programov).
+Če ste povezani preko Internet povezave, bi moral program rz avtomatsko začeti prejemati datoteko.
+Če ne, lahko program rz sami zaženete.
+Več informacij boste našli v sz in rz priročniku.
+Urejevalce teksta uporabljajo zelo različni ljudje.
+Občasni uporabniki, pisci, programerji in sistemski upravitelji bodo uporabljali urejevalce teksta, v takšne ali drugačne namene.
+Vsekakor morate vedeti, kako spremeniti tekstovne datoteke za oblikovanje Linux-a, da bo deloval tako, kot vi želite.
+Sledi spoznavanje različnih urejevalcev teksta in tekstovnih orodij, ki jih lahko uporabljate skupaj z Linux-om.
+Shrani kot C-x C-w
+Večina dokumentacije za vim se nahaja v vgrajeni pomoči, 21 tekstovnih datotek, ki vsebujejo obsežna navodila v imeniku /usr/share/vim.
+Urejevalec pico, ki je v programu za elektronsko pošto pine, je celovit, učinkovit in enostaven za uporabo.
+Navadno se uporablja za pisanje in odgovarjanje na elektronska pisma.
+Je dobro nadomestilo za vse vaše potrebe, še posebej je uporaben, če potrebujete zanesljivega urejevalca, pa nimate veliko prostora na disku (na primer na prenosnih računalnikih).
+V verziji joe-a na vašem CD-ROM-u je napaka, ki je pojavlja v konzolah ali X11 pri nastavljanju dimenzij okvirjev večjih od 80 znakov krat 25 vrstic.
+Program nadgradite v novejšo verzijo z namestitvijo datoteke joe-2.8-10.i386.rpm.
+Dobite jo lahko na spletu na naslovu:
+Glavne nastavitvene datoteke urejevalca se nahajajo v imeniku /usr/lib/jed/lib in svoje prilagoditve lahko nastavite v datoteki .jedrc, ki se mora nahajati na domačem imeniku.
+Prekopirajte datoteko jed.rc, ki se nahaja v imeniku /usr/lib/jed/lib na vaš domač imenik, jo poimenujte z .jedrc ter preoblikujte po vašem okusu.
+Te filtre lahko uporabljate za spreminjanje teksta v dokumentih, ampak urejevalci poteka, kot je na primer sed ukaz, ponujajo boljši pristop za urejanje teksta iz ukazne vrstice.
+V prejšnjem primeru o licenci, se za opis programskega paketa uporablja izraz This Package.
+Če ste programer nove igre, Nano-Warrior in ne želite izgubljati časa za pisanje lastniške licence, lahko hitro in enostavno zamenjate brez uporabe urejevalca teksta, vse izraze This Package z Nano-Warrior:
+Ukaz ispell, ki ga najdete v imeniku /usr/bin, je interaktiven program za preverjanje črkovanja in ga lahko uporabljate samostojno ali z urejevalcem teksta.
+Več urejevalcev, ki so v vaši Linux distribuciji, kot na primer emacs in pico, je nastavljenih tako, da avtomatsko uporabljajo ta program za preverjanje črkovanja.
+Na primer za kontrolo črkovanja v datoteki myfile.txt uporabite:
+Za izdelavo lepo oblikovanega dokumenta z uporabo priloženih Linux programov, morate izvršiti tri stopenjski proces.
+Najprej napišete dokument v urejevalcu teksta.
+Za želen učinek, opremite tekst z ukazi za nastavitev teksta, ko boste filtrirali dokument skozi program za oblikovanje.
+Druga stopnja je obdelava dokumenta s programom za nastavitev teksta.
+Dobili boste oblikovan tekst.
+Tretji korak pa je preverjanje oblike teksta oz. tiskanje, če ste prepričani v rezultat oblikovanja.
+V 14. uri ste spoznali nekatere tekstovne filtre za spreminjanje izpisa različnih programov ali vsebine dokumenta.
+Če se ne želite učiti uporabe obsežnih programov za oblikovanje, ali ne želite uporabljati zapletenih ukazov za nastavljanje teksta, vam ti filtri lahko pomagajo pri oblikovanju dokumentov in so primerni za hitro opremljanje dokumentov z glavami in nogami, robovi in številkami strani.
+Ukaz pr oblikuje tudi izbrano tekstovno zaporedje.
+Zelo uporabno je lahko ustvarjanje oblikovanih stolpcev.
+Če imate na primer odstavek, lahko s kombinacijo filtrirnih programov in oblikovanjem teksta z uporabo –COLUMN opcije ukazne vrstice hitro ustvarite tekstovne stolpce.
+Če ste tiskalnik namestili med procesom namestitve Linux-a, bo definiran v datoteki /etc/printcap.
+Ta datoteka je ASCII baza podatkov o vaših sistemskih lokalnih in omrežnih tiskalnikih, in opisuje zmožnosti vsakega.
+Obstaja veliko načinov pretvarjanja grafičnih datotek v različne formate z uporabo programov, ki se nahajajo na vašem sistemov.
+Mnogo programov za slikanje in risanje, obravnavanih v tej uri, pretvarja grafiko.
+Veliko programov v tabeli 16.1 deluje tudi kot filtri v usmerjevalnih ukazih (za podrobnosti glej 6.
+Če ne želite eksperimentirat s celovitimi preusmerjevalci, lahko uporabite ukaz convert, ki je eden izmed sedmih programov v ImageMagic paketu (obravnavali ga bomo kasneje v delu “Popravljanje grafike s programom ImageMagic”.
+Uporaba ukaza convert je nadomesten način za pretvarjanje dokumentov.
+Program, ki se nahaja v imeniku /usr/bin je sposoben pretvoriti več kot 75 različnih formatov datotek (celo takih, ki niso v tabeli 16.1).
+Program za pretvarjanje deluje tako, da v ukazni vrstici prepoznava različne končnice datotek, kot je prikazano v naslednjem primeru.
+Za kreiranje X11 window dump grafike zopet uporabite xwd aplikacijo.
+Nato uporabimo ukaz convert, ki ustvari datoteko .tiff s pripenjanjem .tiff končnice na drugo, oz. novo datoteko v ukani vrstici.
+Za podrobnosti o uporabi ukazov za pretvarjanje, preberite ImageMagic priročnik in priročnik za ukaze, ki so namenjeni pretvarjanju.
+To je celovit in sposoben program z veliko dodatnimi funkcijami.
+Če ste že delali s programi za urejanje slik na drugih operacijskih sistemih, vam bodo vsebovana orodja in filtri že poznani.
+Program GIMP vsebuje
+Ukaz gv je namenjen preverjanju in branju PostScript grafike ali dokumentov pred samim tiskanjem.
+Program dela le v X Window sistemu.
+Ukaz gv, nahaja se v imeniku /usr/X11R6/bin, katerega avtor je Johannes Plass je zelo izpopolnjen in je osnovan na prejšnjem ghostview programu, katerega avtor je Tim Theilson (simbolično povezavo z imenom ghostview, ki kaže na gv, boste našli v imeniku /usr/X11R6.
+Program se zažene, odpre sliko v urejevalnem oknu in prikaže plavajoče okno z orodji (glej sliko 16.5).
+S programom lahko uvažamo 8 in izvažamo 10 različnih grafičnih formatov.
+Odprtih lahko imate tudi več oken z različnimi slikami za obdelavo.
+Ukaz dc (desk calculator) je kalkulator v ukazni vrstici, ki uporablja RPN način za izračunavanje in ima več kot 30 različnih operatorjev in ukazov.
+Primer kaže, da za seštevanje dveh števil najprej vnesete številki, potem operator in nazadnje ukaz p za izpis vrednosti.
+Z ukazom q končamo program.
+Ta metoda izračunavanja ni tako neprijetna kot si mislite.
+Recimo, da pregledujete čeke, ki ste jih napisali skozi mesec in želite preveriti vaše stanje.
+To lahko storite na primer tako:
+Za uporabo ukaza kot rpn kalkulator uporabite:
+Programe lahko uporabljate tudi za predvidevanje ali izračune tipa “kaj če”.
+To vam lahko pomaga pri ocenjevanju posojil za avtomobil, hipotek in celo pri domačih opravilih.
+Uporabo teh programov omejuje samo vaša domišljija in ni nujno, da vam služijo samo kot kalkulatorji.
+Uporabljate jih lahko tudi za prikaz grafični tabel.
+Kot alternativa programu sc, lahko preizkusite teapot PZONP, katerega avtor je Michael Haardt.
+Programski menu se nahaja na dnu zaslona, kjer lahko najdete skoraj vse funkcije programov sc in xspread.
+Program teapot vsebuje še naslednje lastnosti:
+Več informacij in posodobitev lahko najdete na spletni strani:
+Vse obravnavane programe oz. tehnike lahko izvršite s pomočjo programske opreme, ki se nahaja na tem CD-ROM-u.
+Ko boste predelali to lekcijo, boste našli še dodatne načine uporabe orodja in tehnik za večjo storilnost.
+Ta vrstica poišče vse spremenljivke okolja (obravnavane v 6 uri, “Uporaba lupine”) in izpiše vrednost spremenljivke DISPLAY.
+“End-of-text” v spisku pomeni, da morate za izbiro ukaza pritisniti Ctrl-D in vnesti delo.
+Če naredite napako pri vnosu ukaza, boste dobili sporočilo o napaki ob predvidenem času.
+Če uporabljate X11, lahko z ukazom at opremite opominjevalce s spreminjanjem barv namizja, na primer:
+Iz primera je razvidno, da so za 7. december predvidena tri opravila in eno za 25. december.
+Ko razporejate opravila z ukazom at, se kreira zapis lupine, ki vsebuje ukaze v imeniku /var/spool/at.
+Ukaz at pogleda v ta imenik in izpiše opravila na vašem zaslonu.
+Ta ukaz izvrši ukaz ob 7:30 vsakega 25. decembra.
+Ukazi, ki jih podajate vi, so lahko tudi sistemski pripomočki ali celo zapisi lupine.
+Za izpis cron nastavitev lahko uporabite –l (list) opcijo ukazne vrstice, na primer:
+Prihranite čas
+Za shranitev datoteke uporabite menu 'File'.
+Potem kreirajte emacs dnevnik z zagonom koledarskega načina.
+Ko ste omogočili emacs koledarski način, kliknite v oknu koledarja na želeni dan, pojdite v menu 'Diary' in izberite 'Insert Daily.
+Vaš scratch buffer se bo spremenil v “diary”, vaš kazalec pa bo sledil tekstu, ki vsebuje izbran datum.
+Ko boste pritisnili Enter, boste morali vnesti sporočilo. vnesite tekst opominjevalca in ponovno pritisnite Enter.
+Čas je da se malce sprostite in pozabavate.
+Obstajajo možnosti, da ste izpustili vsa ostala poglavja knjige in da je to prvo.
+Nič hudega, ker vsi dobro vemo pravi razlog zakaj smo kupili računalnik, kaj ne?
+Da bi pobili čimveč nezemeljskih sovražnikov, ki drvijo čez zaslon!
+Za premaknitev kmeta navzgor za dve polji, vnesite e2 in pritisnite Enter.
+Nato je na potezi računalnik.
+Pozicije figur se posodobijo.
+Program ima več kot 23 opcij ukazne vrstice, in omogoča namige in igranje na čas.
+Za podrobnosti si preberite gnuchess priročnik.
+Ta ukazna vrstica zažene igro.
+V > poziv vnesite ukaze kot na primer inventory, look ali go east.
+Za konec avanture vnesite besedo quit.
+Več iger za emacs boste našli v imeniku /usr/share/emacs/20.2/lisp/play.
+Za podrobnosti lahko dobite tudi izvorno kodo iger z namestitvijo LISP kode.
+V tem primeru ukaz izpiše samo informacije o povezanih Linux sistemih datotek.
+Spisek veljavnih sistemov datotek, ki jih lahko podajate z ukazom df, se nahaja v mount priročniku.
+Ukaz du zbere podatke o zasedenosti diska in o tem, koliko prostora zasedajo posamezni imeniki.
+Čeprav lahko v ukazu uporabite več kot 20 stikal ukazne vrstice, boste v tem delu spoznali le nekaj najpomembnejših, ostale raziščite sami.
+Ukaz lahko uporabite samostojno ali z navedbo specifičnega imenika oz. poti, na primer:
+To poročilo (niso prikazani vsi imeniki) prikazuje vsebino domačega imenika, ki skupno zaseda 27.199 1-kilobytnih stolpcev.
+Če vam to ni razumljivo, lahko ukaz izpiše velikosti tudi v bytih, na primer:
+Informacije o navideznemu pomnilniku z ukazom vmstat
+Ukaz ps izpiše trenutno delujoče programe in njihove procesne številke, oz. PID-e.
+Te informacije lahko uporabite za prekinitev procesa z ukazom
+Ukaz uptime je namenjen ugotavljanju, kako dolgo Linux deluje, koliko uporabnikov ga uporablja in njihova povprečna obremenitev sistema, na primer:
+Program mailstat, katerega avtor je S.
+R. van den Berg in se nahaja v imeniku /usr/bin, je primeren za preverjanje elektronske pošte in se lahko uporablja za pisanje poročil o uporabi elektronskega nabiralnika.
+Potem, ko ste kreirali novega uporabnika, mu morate dodeliti še geslo s pomočjo ukaza passwd.
+Ukaz po napravil nov vnos v passwd tekstovni bazi podatkov, ki se nahaja v imeniku /etc. V naslednjem primeru je prikazana datoteka passwd, v kateri lahko vidite nov vnos.
+Kako je organiziran Linux?
+Kot lahko vidite, struktura imenikov ni tako zapletena.
+Pomembno je, da veste, kje se med vodenjem nahajate.
+Ko namestite programsko opremo, še posebej če ne uporabljate rpm paketno–upravljalnega ukaza (ki ga boste spoznali v 22. uri, “Red Hat Orodja”), bi morali vedeti, kam naj se določena programska oprema namesti.
+Mnogi programi zahtevajo nameščanje različnih komponent programske opreme v različne dele imenikov.
+Med zagonom Linux-a se lahko avtomatsko povežejo tudi drugi filesystems datotek, lahko pa jih povežete tudi ročno z uporabo ukazov mount in unmount.
+Linux ukaz mount prepozna in poveže (v odvisnosti od nastavitve jedra) več kot deset različnih sistemov datotek.
+V tem delu se bomo omejili le na najpogostejše, kot so ext2 za Linux, msdos za DOS ali Windows in iso9660 za CD-ROM-e.
+S tem ukazom povežete vse filesystems, ki so opisani v /etc/fstab (razen NFS sistemov; za podrobnosti poglejte v mount priročnik).
+Datoteka /etc/ftab je kratka tekstovna datoteka:
+V tem delu boste spoznali tri programe, ki jih potrebujete za formatiranje disket v Linux-u in posamezne korake, potrebne za ta proces.
+Podatki vam bodo v pomoč v primeru, ko boste nameščali nove z disket ali pri kreiranju varnostnih kopij.
+Prav tako se boste morali naučiti formatirati in nato povezati diskete v Linux osnovnem formatu s pomočjo ext2 filesystem (ki se uporablja za Linux particijo in korenski oz. / imenik).
+Vedeti morate, da lahko nižji format napravite z uporabo specifične disketne naprave, na primer:
+Zadnja skupina znakov je sestavljena iz dovoljenj za branje, pisanje in izvajanje, ki jih lahko omogočite drugim uporabnikom.
+Preden preidete na uporabo programa chmod, si oglejte nekaj primerov.
+S to spremembo lahko datoteko berete in spreminjate samo vi, ker ste omogočili branje (4) + spreminjanje (2) samo vam.
+Če želite postaviti vrednosti na prvotno nastavitev, omogočite branje (4) + spreminjanje (2) sebi (6), vaši grupi (6) in ostalim samo branje (4), uporabite število v osmiškem sistemu 664, na primer:
+Kot lahko vidite, uporaba osmiškega zapisa v ukazu chmod le ni tako zahtevna.
+Odločiti se morate le, komu bi radi omogočili dostop in kakšne vrste dostopa bodo imele vaše datoteke.
+S tem ukazom lahko uporabite tudi naslednjo obliko ukazne vrstice:
+Iz primera je razvidno, da vi in cloobie pripadate vsaj eni skupini z imenom users.
+Da bi določili neko vašo datoteko skupini users in s tem omogočili cloobiju dostop do nje, lahko uporabite sintakso user:group, na primer:
+Ta zbirka Red Hat orodij dokazuje, da je upravljanje sistema postalo lažje in se približuje grafičnim orodjem za upravljanje sistema v komercialnih verzijah UNIX operacijskih sistemov.
+Če imate izkušnje z drugimi operacijskimi sistemi, vam bodo Red Hat orodja mnogo enostavnejša.
+Nekateri izmed orodij kontrolne plošče imajo vgrajeno pomoč.
+Več informacij boste našli v control-panel priročniku.
+Ukaz kernelcfg nudi okno, v katerem se nahajajo trenutno naloženi sistemski moduli.
+Ukaz glint običajno dodatne programske pakete, ki jih želite namestiti, išče v imeniku /mnt/cdrom/RedHat/RPMS.
+Če bi radi namestili programski paket iz drugega medija, ali če se paketi nahajajo v drugem imeniku, uporabite gumb 'Configure', s katerim podate pot do datotek.
+Slika 22.5. ukaz helptool išče dokumentacijo glede na vaš vnos
+Ukaz cabaret se uporablja za nastavljanje sistema datotek, za dodajanje novega sistema, kot je na primer CD-ROM ali flash memory kartica, za spreminjanje tipa sistema datotek na obstoječih particijah in za povezovanje in prekinjanje trdih diskov ali drugih naprav.
+Po navedbah Red Hat Software naj bi se ta ukaz uporabljal namesto ukaza ftool.
+• Kakšen medij (na primer disketa ali trak) je potrebno uporabiti?
+Ukaz tar kreira tračni arhiv.
+Arhiv lahko zapišete na trdi tisk, magnetni trak ali skoraj na vse ostale Linux naprave.
+Ukaz uporabite za hitro kreiranje rezervnih kopij uporabniških domačih imenikov.
+Na žalost v Linux-u ni nobenih pripomočkov za formatiranje magnetnih trakov.
+To boste še vedno morali opravljati v DOS ali Windows pripomočkih.
+Temu pa se lahko izognete, če nabavite že formatirane trakove.
+Arhiv obnovimo z uporabo –i opcijo ukazne vrstice:
+Taper Program, katerega avtor je Yusaf Nagree, se uporablja za kreiranje komprimiranih in nekomprimiranih arhivov izbranih datotek ali imenikov.
+Komunikacija s programom poteka preko vmesnika.
+Za kreiranje rezervnih kopij lahko uporabljate tudi druge medije.
+Uporaba ukaza taper je enostavna.
+Vrsto medija podajte s –T opcijo.
+Glede na najnovejšo dokumentacijo ukaz podpira naslednje:
+Pripomoček BRU 2000, ki je namenjen shranjevanju in obnavljanju, lahko upravljate s pomočjo menujev in gumbov.
+Če bi radi slišali čas vsako minuto (čeprav vam lahko uniči živce!), lahko uporabite

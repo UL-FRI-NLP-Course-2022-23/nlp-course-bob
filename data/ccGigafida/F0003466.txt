@@ -1,0 +1,649 @@
+Bric je tudi opozoril na čedalje večje zaostajanje Slovenije pri novih tehnologijah, zlasti pri elektronskem poslovanju. 
+To nekoliko preseneča, saj je trgovina v Sloveniji zelo pomembna dejavnost in vendar se stvari tu dogajajo prepočasi, tako na nivoju države (deregulacija, sprejem zakonodaje …) kakor podjetij, ki se premalo pripravljajo na globalizacijo tržišč. 
+V zadnjem času so nas prehitele države, ki so bile še pred petimi leti krepko za nami. 
+
+Dell je ob predstavitvi novih procesorjev predstavil nov zmogljiv prenosnik Latitiude CPx. 
+Računalnik je opremljen s 500 MHz procesorjem Pentium III, premore zaslon velikosti 14,1 palca z ločljivostjo 1024 × 768 pik, grafični pospeševalnik z vodilom AGP in 8 MB pomnilnikom, preostali deli pa so po izbiri. 
+Posebnost je krmilna naprava DualPoint, ki v istem računalniku združuje sledilno ploščico in krmilno palico. 
+Najmanjša različica s 64 MB RAM, 4,8 GB diskom in enoto CD-ROM 24 stane v ZDA 3000 dolarjev. 
+
+Tistim, ki želijo čim več za čim manj denarja, Compaq odslej ponuja model Armada V300, ki nadomešča Armado 1500. 
+Ohišje je podobno kakor pri modelu E500, glavna razlika pa je v procesorjih. 
+Armada V300 uporablja do 466 MHz procesorje Celeron, osnovni model pa ima 32 MB RAM in 4,3 GB disk. 
+Druge lastnosti so enake kakor pri modelu E500. 
+Osnovni model stane v ZDA 1500 dolarjev.
+
+Vladimir Djurdjič
+
+Tipkovnica sodi nekako v povprečje in ima dobro razporeditev kakovostnih tipk (le vnašalka je nekoliko premajhna). 
+Še bolje se odreže sledilna tablica s parom srebrnih tipk, ki pa sta bolj lepi kakor uporabni. 
+Oba računalnika sta s strojne plati zelo dobro opremljena, morda le z izjemo uporabljenih procesorjev. 
+V modelu L7400 CD je vgrajen 300 MHz procesor Celeron, v modelu L7400 DVD pa 300 MHz Pentium II. 
+Za današnje razmere (sploh pa glede na druge sestavne dele) je to nekoliko nizka frekvenca, ki pa še vedno zagotavlja spodobno hitrost delovanja. 
+
+Podjetje Basing prodaja prenosne računalnike z lastno tržno znamko, pod katero se skriva družina računalnikov tajvanskega izvora. 
+Preizkusili smo dva skoraj enaka modela 3504A in 3504C, ki se razlikujeta le po hitrosti vgrajenega procesorja in velikosti diska. 
+Gre za prenosnike, ki jih srečamo tudi pri nekaterih drugih slovenskih prodajalcih računalnikov, seveda pod drugačnim imenom. 
+Prepoznamo jih po razmeroma velikem, oglatem, ne preveč visokem ohišju zelenkasto sive barve. 
+
+Glede na majhne razlike sta imela računalnika podobne hitrostne rezultate. 
+Razlike so bile nekoliko večje le pri meritvah hitrosti procesorja in diska. 
+Težko pa razložimo, zakaj se je na papirju močnejši računalnik s procesorjem Celeron 466 pri merjenju zmogljivosti poslovne grafike slabše odrezal od modela s procesorjem Celeron 400. 
+Pri preizkusu Winbench Graphics Winmark Hi-End so bili rezultati ponovno podobni. 
+Merilni program Winstone je v obeh primerih pokazal skoraj enaka (skromna) rezultata. 
+Cena računalnikov je glede na vsebovane dele razmeroma nizka, vendar prenosniki za vloženi denar vendar ne ponujajo toliko, kolikor bi lahko.
+
+Očitna razlika med sistemoma pa je v uporabljenem operacijskem sistemu. 
+Model Latitude CPt je bil opremljen z okoljem Windows 95, v Latitude CPi-R pa smo poganjali okolje Windows Nt 4.0. 
+Pri Dellu so vse manjkajoče lastnosti operacijskega sistema dopolnili z dodatnimi programi, ki skrbijo za nadzor nad porabo energije, razširitveni karticami, priklopnimi postajami in siceršnjem delu v računalniku. 
+Celota deluje brezhibno, Dell pa je obenem že potrdil, da so prenosniki združljivi z operacijskim sistemom Windows 2000.
+
+Dell je imel doslej v svoji ponudbi praznino, oziroma razkorak med računalniki Latitude CP in mini prenosniki, torej pri tankih prenosnikih normalne širine in globine. 
+Razkorak je bil očiten, čeprav so nekateri modeli iz družin računalnikov Latitude CP precej tanjši od večine tekmecev. 
+Poleti je nato prišel odgovor v obliki računalnika Latitude CS, ki združuje v lahkem in tankem ohišju številne lastnosti zmogljivejših modelov.
+
+Razlika glede na druge Dellove prenosnike na testu pa je v zmogljivosti akumulatorja, ki kljub prostorsko velikemu modulu zmore le 3,1 Ah. 
+To se kaže tudi pri porabi, saj smo dosegli komaj kaj več kot dve uri delovanja. 
+Latitude CS nas je prijetno presenetil na hitrostnih testih, kjer je bil celo za spoznanje hitrejši od zmogljivejšega brata CPi-R in je bil eden najhitrejših. 
+Temu primerna je cena, ki sodi med najvišje med preizkušenimi računalniki.
+
+V računalniku najdemo relativno zmogljiv grafični pospeševalnik Neomagic MagicMedia 128XD z 2 MB RAM, zaradi skromnih mer ohišja pa le del vmesnikov. 
+Enota PC Card sprejme le eno kartico tipa II, poleg nje so vgrajeni še infrardeči vmesnik, dva vmesnika USB, priključki za zvočno kartico in celo modem s hitrostjo 56 Kb/s. 
+Za druge vmesnike (zaporedni, vzporedni, VGA, PS/2 in disketnik) je treba na zadnjo stran pritrditi majhen priložen podvojevalnik vmesnikov. 
+Ko sežemo po akumulatorju, nas preseneti, da ima zmogljivost kar 3,2 Ah, celo več kakor pri mnogih precej večjih prenosnikih. 
+Ta zagotavlja skoraj tri ure in 20 minut neprekinjenega dela, kar je za tak računalnik izvrsten rezultat. 
+
+Tipkovnica je pri obeh prenosnikih zelo kakovostna, z velikimi in dobro postavljenimi tipkami, ki na videz delujejo slabše kakor na otip in dajo dober občutek pri tipkanju. 
+Tudi sledilna tablica, ki je nameščena skupaj s tipkami pod tipkovnico, je zelo kakovostna. 
+Prenosnika E352 in E360 sta si v marsičem enaka, razlikujeta pa se po velikosti in kakovosti vgrajenih zaslonov z aktivno matriko. 
+Manjši model ima vgrajen 12,1-palčni zaslon z ločljivostjo 800 × 600, večji pa 13,3-palčni z ločljivostjo 1024 × 768 pik. 
+Zadnji je nekoliko boljši: je sicer enako svetel kakor manjši, vendar ima boljšo sliko. 
+
+V primerjavi z manjšim modelom HPC Note 5033 je HPC-jev prenosnik Note 6133S precej bolj prepričljiv računalnik. 
+Proizvajalec je uspel vanj vgraditi kakovostnejše dele in je celota zato celo nekoliko manjša in lažja. 
+Čeprav po osnovnih potezah spominja na manjšega predhodnika, mu svoj pečat dajeta srebrna barva ohišja in nekoliko drugačna razporeditev sestavnih delov.
+
+Za IBM-ov prenosnik ThinkPad 600 lahko rečemo, da dobro kljubuje času. 
+Na tržišču je njegova zasnova pravzaprav že nekaj mesecev zastarela, saj se ThinkPad prodaja že več kakor dve leti. 
+Tudi to priča, da je bila zamisel IBM-ovih načrtovalcev zelo dobra. 
+Prenosnik še danes sodi med najtanjše modele z vgrajeno enoto CD-ROM. 
+Nekoliko starejši datum nastanka se kaže predvsem v tem, da je enota CD-ROM izmenljiva z drugimi sestavnimi deli, vendar je disketna enota še vedno na voljo le kot zunanja enota, kar nekaterim morda ne bo všeč. 
+
+Siemensov Scenic Mobile je najmanjši Siemensov računalnik. 
+Kdor je bral dosedanje Monitorjeve teste, se bo morda spomnil, da sta njegova predhodnika, Scenic Mobile 320 in Scenic Mobile 350 požela zlate Monitorje v svojih skupinah, zato smo si z zanimanjem ogledali model, ki ju zamenjuje. 
+Siemens pri snovanju novega modela ni preskušal novih poti, ampak je stavil na že znano osnovo. 
+
+Scenic Mobile 510 AGP v dosedanjem Siemensovem programu prenosnikov sodi v sredino ponudbe. 
+Za ta prenosnik lahko rečemo, da je značilen Siemensov izdelek, ki temelji na zasnovi, znani že izpred nekaj let. 
+Ohišje je za današnje razmere nekoliko nenavadno, saj je klinaste oblike z višjim zadnjim in nižjim sprednjim delom, obenem pa ima tudi glavno Siemensovo značilnost izpred nekaj let zeleno barvo plastike. 
+
+Kakor že ime pove, ima prenosnik vgrajen grafični pospeševalnik z vodilom AGP (Neomagic MagicMedia 256), ki zagotavlja dobro grafično zmogljivost. 
+To se pozna tudi pri preizkusu, saj je bil računalnik med hitrejšimi v svojem razredu. 
+Glede na vse, kar ponuja, in glede na velikost akumulatorja, se zdi trajanje delovanja nekaj manj kakor tri ure dobro, vendar ne izjemno. 
+K sreči lahko to preprosto podvojimo z drugim akumulatorjem. 
+Cena je razmeroma visoka, vendar primerljiva s tekmeci.
+
+Najzmogljivejši Toshibin model iz družine 4000 je različica Satellite 4090 XCDT. 
+Tudi ta se od predhodnikov razlikuje le v nekaterih podrobnostih. 
+V primerjavi z modeli 4060 in 4070 ima vgrajen še hitrejši procesor Celeron s hitrostjo 400 MHz, kar pomeni še večjo zmogljivost, dokazano tudi pri našem preizkusu hitrosti (indeks Winstone znaša 16,7). 
+Tako kakor pri modelu 4060 XCDT je zaslon 14,1-palčni in zanj veljajo enake pohvale (kakovost slike) ter graje (poraba energije). 
+Zaradi tega deluje skoraj enako dolgo kakor model 4060. 
+Kljub hitrejšemu procesorju je ta prenosnik celo nekoliko cenejši od modela s procesorjem Pentium II. 
+
+Disk
+
+Toda omenjene razlike so se začele v zadnjem času hitro manjšati, predvsem pa so zasloni LCD postali bolj odzivni. 
+Najhitrejši so primerni tudi za igranje najhitrejših iger. 
+Eden od razlogov za napredek je tudi dejstvo, da proizvajalci v spodobne prenosnike vgrajujejo predvsem zaslone z aktivno matriko, ki so precej hitrejši od tistih s pasivno.
+
+Grafični pospeševalniki za prenosnike zaostajajo za navadnimi grafičnimi karticami tudi kar se tiče količine vgrajenega pomnilnika. 
+Medtem ko se pri navadnih karticah le redko srečamo z modeli z manj kot 8 MB, pri prenosnikih najboljši modeli vsebujejo kvečjemu 4 MB, večina prenosnikov pa je opremljena le z 2 MB (2,5 MB pri izdelkih družbe Neomagic). 
+To je sicer povsem dovolj, saj prenosnikov ne moremo uporabljati pri večjih ločljivostih od 1024 × 768 (razen na zunanjih monitorjih), pa tudi globina barv je marsikje omejena na manj kakor 24-bitno grafiko (262 tisoč barv, kar v praksi pomeni uporabo 16-bitne barvne ločljivosti). 
+
+Zaslon
+
+Kar nekaj prenosnikov pa ima dodatno strojno podporo za pospeševanje predvajanja videoposnetkov, tudi tistih v zapisu MPEG-2. 
+Pogosto gre za delno pospeševanje, pri katerem lep del dela nato opravi programska oprema, ponekod pa za prave strojne odkodirnike, kakršne so na dodatnih karticah za namizne računalnike. 
+Take rešitve srečamo predvsem v zmogljivejših prenosnikih, ki imajo vgrajene tudi enote DVD-ROM in jih lahko poslovneži na potovanju lahko uporabljajo tudi za kratkočasenje s filmi DVD.
+
+Toda teh dobrot je deležna le peščica prenosnikov. 
+Prav vsi pa imajo vgrajene zvočne kartice zadovoljive kakovosti, čeprav zmogljivostno šibkejše od najsodobnejših kartic za osebne računalnike. 
+Najbolj pogosto srečamo izdelke podjetja ESS, ki so dovolj poceni in zmogljivi za rabo v prenosnikih. 
+Skoraj vsi prenosniki vsebujejo tudi podporo za zvočne table (wavetable), vendar skoraj izključno v obliki dodatnih programskih modulov, kar pomeni, da za simulacijo glasbil skrbi centralni procesor. 
+Število priključkov je spremenljivo in sega od osnovnih dveh (mikrofon, slušalke) do štirih. 
+Ponekod srečamo tudi vmesnik MIDI, pri najzmogljivejših z odkodirniki MPEG-2 pa tudi digitalni izhod Dolby Digital. 
+
+Prav zelo kmalu še ne moremo pričakovati, da se bo kaj bistveno spremenilo, saj so nove tehnologije shranjevanja električne energije šele v poskusnem obdobju. 
+Več lahko pričakujemo od nadaljnjega zmanjševanja porabe energije posameznih delov računalnika. 
+Načrtovalci si precej obetajo od novih zaslonov LCD, ki so danes največji porabniki energije (predvsem zaradi dodatne osvetlitve). 
+Prototipe zaslonov, ki uporabljajo za osvetlitev dnevno svetlobo, smo že videli, vendar bo najbrž minilo še nekaj časa, da se bodo pojavili tudi v praksi. 
+Ob uspešnem zmanjšanju porabe pri nekaterih porabnikih energije lahko pričakujemo, da se bo povprečno delovanje z današnjih 4 ur povečalo na 6 do 8 ur. 
+Kar bo bolje, bo že mejilo na revolucijo.
+
+Kljub temu da pri prenosnikih najprej pogledamo zaslon ali tehnične lastnosti računalnika, bi se morali pravzaprav zazreti v tipkovnico. 
+Ta je morda najpomembnejši del za udobno delo z računalnikom, bolj pomemben od velikosti in teže prenosnika, morda celo od kakovosti zaslona. 
+Slaba tipkovnica, morda z nenavadno razporejenimi tipkami, nam lahko hitro zagreni življenje, zlasti če prenosnik ni edini računalnik, ki ga uporabljamo pri svojem delu. 
+
+Razlike vsekakor so. 
+Glavna prednost krmilne palice je, da za uporabo ni treba dvigati rok s tipkovnice in izkušeni uporabniki z njimi prej opravijo svojo nalogo. 
+Sledilne tablice pa so bolj natančne, primernejše za manj izkušene, poleg tega pa v večini primerov za delovanje ne potrebujemo tipk (simuliramo jih s hitrimi pritiski na tablico). 
+V praksi so med različnimi proizvajalci kar opazne razlike, tako glede velikosti ploščic (večje kot so, boljše so), občutljivosti (ki se da pogosto, vendar ne vselej zadovoljivo nastavljati) ter položaja na računalniku.
+
+V tretjo skupino smo uvrstili prenosnike, ki so namenjeni zahtevnejši poslovni rabi in imajo vgrajeno najsodobnejšo tehnologijo. 
+Po teh bodo segli vsi, ki potrebujejo zmogljiv sistem, in jim velikost, teža in cena niso najpomembnejši. 
+Zlati Monitor prejme prenosnik Dell Latitude CPi-R. Prenosnik se lahko pohvali z bogato opremo, je hiter, pa tudi čas delovanja je zgleden, čeprav je lažji in tanjši od številnih tekmecev. 
+Cena seveda ni nizka, vendar tudi ne pretirana. 
+Tesno mu sledita Gateway Solo 9300 XL in Siemens Celzius Mobile. 
+
+<OKVIR>
+
+Ceno za najzmogljivejšo različico Windows 2000 DataCenter Server bodo pri Microsoftu sporočili naknadno. 
+Tak kakor doslej bo Microsoft imel tudi posebne cene za nadgradnje s konkurenčnih operacijskih sistemov, kot je na primer Novell Netware. 
+
+Podjetje Navision Software je objavilo izid paketa Navision Financials 2.5, ki vsebuje opcijo za strežnik Microsoft SQL Server 7.0 Uporaba namenskega programa Navision Financials 2.5 v strežniku Microsoft SQL Server ponuja srednje velikim podjetjem tehnologijo, ki omogoča povezljivost s široko paleto proizvodov. 
+Opcija Microsoft SQL Server omogoča enostavno povezavo z drugimi sistemi v podjetju, vsebuje pa tudi podatkovno skladiščenje in funkcionalnost OLAP. 
+Prehod na strežnik Microsoft SQL Server je mogoč z enostavnim postopkom prenosa podatkov. 
+Vse uporabniške spremembe so pri tem samodejno vključene. 
+Z dodatkom opcije za strežnik Microsoft SQL Server lahko Navision Financials uporablja varnostno kopiranje, dinamično zaklepanje in upravljanje. 
+Sočasno so pri Navision Software objavili enoten model oblikovanja cen za vse rešitve Navision Financials na vseh platformah in strežnikih zbirk podatkov. 
+Enostavnejši model oblikovanja cen temelji na funkcionalnosti in številu uporabnikov. 
+Cena za strežnike Navision Server in Microsoft SQL Server 7.0 bo enaka. 
+Navision tudi pospešeno pripravlja novo različico paketa Navision Financials v slovenskem jeziku, ki bo predvidoma nared v prvih mesecih leta 2000.
+
+Microsoft je predstavil nov programski paket z imenom Vizact 2000, ki omogoča uporabnikom učinkovitejšo komunikacijo z dodajanjem dinamičnih značilnosti spleta v dokumente HTML. 
+Z novo tehnologijo Vizacta 2000 lahko uporabniki prek Officovega vmesnika dodajajo spletnim dokumentom večpredstavne značilnosti, kot so časovno usklajevanje, animacija in odzivnost, s čimer jih spremenijo v »dejavne dokumente«. 
+Z Vizactom 2000 lahko avtorji dokumentov nadzorujejo funkcionalnost (besedilo, slike in zvok), da pritegnejo pozornost h ključnim sporočilom ter bralcu olajšajo njihovo razumevanje in pomnjenje. 
+Z orodjem Vizact Timeline lahko uporabniki določijo, kdaj naj se posamezni elementi prikažejo in izginejo, nadzorujejo njihovo gibanje in reakcijo na uporabo miške. 
+Ker je Vizact videti in deluje kot družina programov zbirke Office, lahko novi uporabniki delajo z njim hitro in preprosto. 
+Vizact vsebuje čarovnike in predloge, s katerimi pridejo uporabniki do učinkovitih rezultatov, ne da jim bilo treba obvladati tehnologijo v ozadju. 
+Vizact 2000 je že na prodajnih policah za okvirno maloprodajno ceno 149 dolarjev (priporočena Microsoftova cena za ZDA).
+
+Toshiba je v doslej malo znani tožbi, vloženi na teksaškem sodišču marca letos, pristala na poravnavo, v kateri bo izplačala skoraj milijardo dolarjev. 
+Japonskega proizvajalca sta letos tožila dva uporabnika, z obrazložitvijo, da jim je Toshiba prodala pokvarjene izdelke. 
+Tožba se specifično sklicuje na napako v disketni enoti ali krmilniku, ki lahko privede do izgube podatkov. 
+Zanimivo, da omenjena uporabnika ne trdita, da sta zaradi tega izgubila podatke, predstavniki Toshibe pa kljub priznanju teoretične možnosti za izgubo napake niso uspeli vselej konsistentno ponoviti v svojih laboratorijih. 
+Kljub temu so se pri Toshibi odločili poravnati tožbo, ki bi jih lahko sicer stala kar 9,5 milijarde dolarjev, s čimer bi ogrozili obstoj družbe. 
+Po mnenju opazovalcev so Japonci tako ravnali tudi iz strahu pred ameriško poroto, ki v podobnih primerih nima posluha za tuje (zlasti japonske) proizvajalce. 
+Toshiba bi tako v celoti morala plačati 2,1 milijarde dolarjev skoraj vsem uporabnikom prenosnikov in računalnikov, ki so kupili Toshibine izdelke v zadnjih 12 letih. 
+Kljub temu ocenjujejo, da bo za povračilo porabila le okrog milijardo dolarjev. 
+Toshiba bo škodo uporabnikom in kupcem izplačala na več načinov. 
+Lastniki starejših sistemov bodo lahko dobili brezplačne kupone za nakup opreme in računalnikov, lastniki novejših in tistih, ki so še v garanciji, pa bodo poleg tega lahko dobili povrnjen del kupnine v gotovini. 
+V celoti je prizadetih več milijonov računalnikov. 
+
+Tržni analitiki so ob tej novici presenečeni, saj doslej še nobeno sodišče ni prisodilo tako visoke odškodnine ali proizvajalec pristal na tako visoko poravnavo v tožbi s tako specifično in malo verjetno napako. 
+Zato menijo, da ima lahko ta sodni proces velik pomen za potek reševanja sporov v prihodnosti. 
+Toshiba je zaradi pristanka na poravnavo sporočila, da bo letošnje leto sklenila z izgubo v višini 476 milijonov dolarjev.
+
+iARHIV Oddaljeno arhiviranje prek interneta
+
+www.microsoft.com
+
+Angleški proizvajalec računalnikov, Carrera Technology, je kot prvi proizvajalec napovedal osebni računalnik s procesorjem, ki bo deloval s hitrostjo 1 GHz. 
+Carrera je znan po sistemih, ki uporabljajo zmogljive sisteme za hlajenje procesorjev Athlon, tako hitrost pa bodo dosegli s 750 MHz AMD-jevim procesorjem Athlon, ki jo bodo ob primernem hlajenju povečali na 1 GHz. 
+Računalnik Octan FrioSuperG bo v prodaji v začetku decembra za okrog 5800 angleških funtov. 
+Poleg hitrega procesorja bo kupec za ta denar dobil 256 MB pomnilnik, 18 GB disk, grafični pospeševalnik 3Dlabs GVX1 s 32 MB videopomnilnikom, enoto DVD-RAM in 22-palčni monitor Iiyama. 
+
+www.motorola.com
+
+www.mirodisplays.com
+
+Manj kakor štiri mesece po izidu operacijskega sistema Microsoft Windows 98 Second Edition je izšla tudi njegova poslovenjena različica, s čimer se Slovenija še naprej uvršča v razmeroma majhen krog držav s podomačenim operacijskim sistemom. 
+Druga izdaja Windows 98 je posodobitev Windows 98 z najnovejšimi tehnologijami interneta, domačega omrežnega računalništva in strojnih tehnologij. 
+
+Compaq pospešeno pripravlja osebni računalnik z delovnim imenom Vista, ki bo predstavljal prvi dejanski razkol s preteklostjo in že odsluženimi vmesniki. 
+Novi računalnik ne bo imel 16-bitnih razširitvenih rež ISA, zaporednih, vzporednih in vmesnikov PS/2. 
+Za priključitev naprav (tudi miške in tipkovnice) bo imel le vmesnik USB. 
+Računalnik Vista bo na voljo z različnimi operacijskimi sistemi, kot sta Windows 98 in Windows 2000. 
+
+USB in ISDN
+
+Matjaž Klančar
+
+3COM ISDN Pro TA
+
+Kaj: zunanji vmesnik ISDN. 
+Zahteve: Windows 98. 
+Izdeluje: Zyxel, www.zyxel.com. 
+Distributer: Datacom, www.datacom.si, (061) 155 14 80. 
+Cena: 29.800 tolarjev. 
+Za: Zelo enostavna uporaba in namestitev. 
+Proti: Deluje le v Windows 98.
+
+Bakrene »telefonske« napeljave danes v glavnem uporabljamo za telefonijo ali podatkovne komunikacije, ki za prenos s hitrostjo 56 Kb/s izrabljajo le del zmogljivosti celotne napeljave. 
+Tehnologija ADSL in njej sorodne različice DSL pa za prenos podatkov izkoristijo širše frekvenčno območje in zmorejo skozenj prenašati tudi do 60 Mb/s, vendar na krajših razdaljah. 
+
+Druga možnost
+
+kraticaimehitrostdosegsimetrični DSLIDSLISDN DSL2 × 64 + 16 Kb/s7 kmHDSLHigh data rate DSL2,048 Mb/s3,5 kmS-HDSLSingle HDSL1,024 Mb/s3,5 kmSDSLSymmetrical DSL1,024 Mb/s3,5 kmRADSL (ADSL)Rate adaptive ADSL1,5-9 Mb/s (16640 Kb/s)5 kmnesimetrični DSLVDSLVery high data rate DSL13-52 Mb/s (1,52,3 Mb/s)0,3 km
+
+Zgodnje različice VDSL bodo za ločevanje komunikacijskih kanalov uporabljale tehniko FDM, pozneje pa verjetno tudi Echo Cancellation zaradi povečanih zahtev po zmogljivosti in morebitne simetričnosti prepustnosti. 
+Tudi VDSL bo, enako kakor ADSL, verjetno uporabljal tehnologijo FEC za nadzor in popravljanje napak, vendar še ni jasno, ali se bodo podatki za FEC (le-teh je tudi do 8 % zmogljivosti povezave) prenašali znotraj delovnega frekvenčnega območja FEC, ali pa jim bo dodeljen poseben frekvenčni pas. 
+Popravljanje napak pri prenosih po VDSL je zelo pomembno, saj je povezava zelo občutljiva tudi zaradi kratkega dosega in dovzetna za zunanje radijske motnje. 
+Pri ADSL uporabljajo podatki za ločeni frekvenčni pas FEC. 
+
+Zaradi razmeroma visokih stroškov in zato omejene ciljne publike tehnologija VDSL zagotovo ni tako zanimiva kakor ADSL, ki je cenejši predvsem zaradi daljšega dosega in zato bolj centraliziranega začetnega stroška operater javnega omrežja ponuja storitve širšemu krogu in se mu začetna investicija hitreje povrne, operater krajevnega omrežja pa mora vlagati v hitro optično povezavo. 
+Poleg tega je osnovna infrastruktura za povezave ADSL že tu bakrene telefonske napeljave z optičnimi kabli povezane omrežne enote pa bi bilo treba šele zgraditi, kar bi bil orjaški finančni zalogaj, obenem pa še ni niti zadovoljivih standardov in tehnologije. 
+
+iBook in iMac za video
+
+Apple je revolucionarni iMac prenovil in posodobil, predvsem pa izboljšal nekaj motečih lastnosti (predvsem je novi iMac tišji in manj tresoč, ko vrti CD). 
+Ravno iMac je namreč po nekajletnem slabem poslovanju Applu vrnil blišč in slavo ter mu omogočil uspešen konec poslovnega leta. 
+Zato ni čudno, da so se vodilni s Stevom Jobsom na čelu odločili temeljito izkoristiti priljubljenost iMaca tudi pri izkoriščanju drugih tržišč. 
+Zato so ponudili tudi iMacovski prenosni računalnik z imenom iBook.
+
+iBook prenosni iMac
+
+Pogoni CD-ROM so danes vedno hitrejši. 
+Čeprav je povečevanje hitrosti od 32x navzgor v praksi praktično neopazno, proizvajalci ne čakajo križem rok, ampak morajo kakor pri vseh drugih vejah računalniške industrije vsakih nekaj mesecev povečevati hitrost pogonov. 
+Vse za dobro prodaje.
+
+(slikca)
+
+Windows CE je Microsoftov poizkus najti dodatno tržišče za svoje operacijske sisteme, tržišče, ki je mnogo večje od ozko računalniškega. 
+Univerzalnost tega operacijskega sistema naj bi omogočala vgradnjo tudi v tako neračunalniške naprave, kot so hladilniki in celo avtomobili. 
+Kljub vsemu pa lahko ta operacijski sistem večinoma najdemo v raznih različicah ročnih PC-jev. 
+Največji med njimi so uradno poimenovani Handheld PC Professional in Compaqov Aero 8000 sodi mednje.
+
+Priključimo lahko zunanjo miško ali tipkovnico (razdelilnik PS/2, ki bi omogočal hkraten priklop obeh, ni priložen), od zunanjih vmesnikov pa so na voljo še zaporedna vrata za priklop zunanjega modema (ali morebiti vmesnika ISDN). 
+Vgrajen je tudi izhod VGA, ki omogoča priklop zunanjega monitorja, kar je pomembno predvsem za predstavitve. 
+Naloženi program Pocket Powerpoint namreč lepo prikazuje predstavitve, ki smo jih naredili na »velikem« PC-ju. 
+
+Strokovnjaki ocenjujejo, da je na svetu le okrog 5 % vseh podatkov v elektronski obliki, a je v računalnikih shranjena količina človeškega znanja vseeno ogromna. 
+Žal znamo te podatke kljub temu zelo slabo izkoristiti. 
+Še posebej zato, ker jih programska oprema, ki jo uporabljamo, pogosto ne zna prikazati tako, kakor želimo. 
+Ta problem je še posebej pereč v vodstvih velikih podjetij, kjer naj bi imeli pregled nad celotnim dogajanjem, vključno nad vsemi podatki. 
+Zaradi tega je pred časom nastala kategorija programske opreme, ki skuša iz velike količine podatkov izluščiti bistvo, najpomembnejše stvari, v obliki poročil, tabel, grafov. 
+Govorimo o direktorskih informacijskih sistemih, na tem področju pa je eden najmočnejših ponudnikov družba SAS Institute.
+
+Namestitev paketa je enostavna in je izčrpno opisana v dokumentaciji. 
+Namestimo lahko posamezne module za vlogi izvora in cilja v računalniku, grafična nadzorna modula za nadzor delovanja (Management Console in Failover Center), besedilne različice nadzornih programov (za Windows in Solaris), ter vso dokumentacijo v obliki Adobe Acrobat. 
+Paket je zapisan na plošči, na kateri zaseda le 80 MB prostora, kakor je to že običajno, pa je zaščiten z aktivacijskim geslom, ki ga vnesemo ob namestitvi. 
+Dobimo dva tiskana priročnika: prvi izčrpno opisuje namestitev, drugi pa je splošni uporabniški priročnik.
+
+Delo z datotekami na izvoru in cilju urejamo s posameznimi podvojevalnimi nizi. 
+Po namestitvi paketa lahko s »čarovnikom« opredelimo prvi podvojevalni niz. 
+V ta namen moramo podati ime izvornega strežnika vključno z izvorno lokacijo datotek in ime ciljnega strežnika vključno s ciljno lokacijo datotek. 
+Prenosu podatkov med izvorom in ciljem lahko navedemo omejitve (časovne, prepustnost mrežne povezave), da ne preobremenimo povezave. 
+Podamo lahko interval samodejnega preverjanja enakosti datotek med izvorno in ciljno lokacijo (v primeru razlik je možna samodejna sprožitev vnovičnega zrcaljenja datotek od izvora k cilju). 
+Nastavimo ukrepe ciljnega računalnika za primer, da le-ta opazi izpad izvornega. 
+Pri tem je pomembno, da lahko ciljni računalnik po določenem intervalu prevzame identiteto izvornega (naslov IP, omrežno ime, omrežno deljene mape). 
+To lahko izvede samodejno ali po odobritvi nadzornika.
+
+Ciljni strežnik se lahko ves čas »pogovarja« z izvornim strežnikom, da bi zaznal njegovo odsotnost (izklop, zrušitev operacijskega sistema, prekinjene omrežne povezave). 
+Če cilj za določen čas izgubi izvornega »sogovornika«, lahko prevzeme njegovo identiteto (hitro dodajanje identitete, tako da je ciljni strežnik istočasno izvor in cilj, je podprto le v Windows NT 4.0, v NT 3.51 in Solarisu pa ne v teh dveh operacijskih sistemih lahko le zamenja identiteti po vnovičnem startu sistema). 
+Cilj lahko prevzame omrežno deljene mape z izvora. 
+Namen te dvojne osebnosti na cilju je jasen: v primeru okvare izvora cilj skoraj takoj prevzame njegove datoteke, ter se prestavi omrežju (tudi) kot izginuli izvor.
+
+Zgornji praktični opis je nastal na podlagi preizkušanja v dveh strežnikih, v katerih smo vzpostavili podvojevanje datotek v skupni velikosti okrog 150 MB. 
+Pri delu smo opazili le dve večji težavi: morebitne zbrisane datoteke na cilju med izpadom izvora se ne osvežijo pravilno nazaj na obnovljeni izvor. 
+V primeru nezanesljive omrežne povezave med izvorom in ciljem (npr. občasna preobremenitev s prometom drugih uporabnikov, kar povzroči »izpad« povezave) pa pride do izpada »pogovora« med izvorom in ciljem, kar sproži reakcijo cilja (Failover) ter prevzem identitete. 
+Ko se npr. promet na omrežju umiri, omrežna povezava ponovno deluje in naenkrat imamo na omrežju dva računalnika z istim naslovom in imenom IP! 
+Med preizkušanjem se je to dogajalo vsaj enkrat na dva dni. 
+Delnih rešitev je več: povečati nastavljeni čas do izpada pogovora ali pa nastaviti ročno potrditev prevzema identitete … 
+(če do neskladja v omrežju le pride, lahko vklopimo FailBack v Failover Control Centru ali v sistemu odjavimo odvečne naslove IP).
+
+Eden na enega (oba aktivna): Enako kakor zgoraj, le da imamo vsaj dva podvojevalna niza (vsak v eno smer, dve ločeni lokaciji datotek). 
+Rezultat je boljša izkoriščenost obeh strežnikov, ki pa sta oba obremenjena s podvojevanjem datotek. 
+V primeru izpada enega drugi prevzeme njegovo delo (in nasprotno).
+
+Kaj pa se skriva za zaveso?
+
+Swisscom pripravlja posebno spletno mesto http://www.easy-roam.com, ki bo informacijsko in storitveno središče za vse uporabnike svetovne vnaprej plačane mobilne telefonije easyRoam. 
+
+TELEFONI
+
+Prodaja: Svema, (061) 306 55 00.
+
+ATI-jevo prebujenje
+
+V preizkus smo dobili najnovejšo kartico s čipom ATI Rage 128 Pro, ki pride v prodajo šele konec leta.
+
+Pozabiti ne gre še podjetja S3 s čipom Savage2000, pa tudi 3DFX bo na sejmu Comdex 99 (točneje 15. novembra) končno predstavil karakteristike svojega novega in dolgo pričakovanega grafičnega procesorja Napalm.
+
+ATI Rage Fury 128 Pro 
+
+Gorazd Konc
+
+Podjetje Inetis iz Celja je predstavilo prvo slovensko WAP storitev WapSi. 
+Imetniki prenosnih telefonov in drugih prenosnih napravic, ki podpirajo WAP 1.1, lahko prek storitve WapSi tako spremljajo sveže novice slovenske tiskovne agencije STA. 
+
+Telekomunikacije postajajo vse pomembnejše in mnogi jih vidijo kot najpomembnejšo tehnologijo in najhitreje razvijajočo se dejavnost v naslednjih nekaj letih. 
+Tako vidi telekomunikacije tudi Miran Kramberger, podpredsednik uprave Telekoma Slovenije, človek, ki je zadnja leta verjetno največ prispeval k razvoju Telekoma iz okostenele socialistične ustanove v živahno in sodobno podjetje, ki tesno sledi razvoju v razvitem svetu. 
+Postavili smo mu nekaj vprašanj o njegovih pogledih na nadaljnji razvoj telekomunikacij v Sloveniji in v širšem svetu.
+
+Kramberger: Ne gre za nadomeščanje. 
+Seveda bomo vedno več govorili po prenosnih telefonih, zanimivo pa je, da se tudi uporaba fiksne telefonije ne zmanjšuje, ali pa kvečjemu zelo počasi. 
+Skupni promet pač raste, ena oblika telefonije bolj ali manj stagnira ali le rahlo pada, druga pa močno raste.
+
+Kramberger: Država tu nima nobenih interesov, ker jih ne more imeti.
+
+Kramberger: No, to je gotovo pretirano. 
+Telekom se zaveda, da je mobilna telefonija v tem trenutku nosilni del telekomunikacijskih operaterjev po vsem svetu. 
+O prodaji manjšinskega deleža pa se resno razmišlja. 
+Eden od osnovnih razlogov je, da mora Telekom razviti sebe, in ker prihaja konkurenca, je ne moremo pričakati preveč zadolženi. 
+Zato bo verjetno Telekom še potreboval nekaj sredstev, dobi pa jih lahko s prodajo deleža v Mobitelu. 
+Poleg tega ima tudi Telekom interese v drugih državah, recimo pri privatizaciji kakih drugih telekomov, ali da bi se Telekom pojavil še kje drugje kot operater.
+
+Monitor: Morda nov protokol prenosa po obstoječem fizičnem omrežju?
+
+Lotusovci so predstavili tudi svojo razvojno strategijo za sistem enovitega sporočanja UM (Unified Messaging), ki jo razvijajo skupaj s strateškimi družabniki, kot so Nokia, AVT, Fujitsu, NEC, IBM, Compaq, Dialogic, Hall-Mark, Big Sky Technologies, PhoneSoft in Telekol. 
+Z novo Lotusovo tehniko UM naj bi uporabniki imeli dostop do glasovnih, e-poštnih, faksirnih in pozivnih (pager) sporočil s katerokoli standardno komunikacijsko podatkovno napravo, pri tem pa izkoriščali prednosti Lotusove organizacije informacij in znanja znotraj zgradbe Notes/Domino. 
+Poleg tega so govorci napovedali niz novih dodatnih rešitev, ki nadgrajujejo obstoječe informacijske zmožnosti Notesa, in sicer:
+
+Lotus Raven
+
+Raven bo vseboval tudi orodjarno za razvijalce namenskih rešitev, ki bodo združevali zmožnosti Ravena in drugih informacijskih sistemov. 
+Mednje sodijo, denimo, zbirke podatkov IBM, sistemi za prenašanje znanja Lotus LearningSpace, relacijske zbirke podatkov tretjih proizvajalcev ... 
+Lotus napoveduje, da bo leto 2000 postalo leto tehnologij in metodologij za upravljanje znanja v podjetjih širom po svetu. 
+Pri tem obljublja svojim strankam vso pomoč pri nadgraditvi sistemov za obdelavo informacij v globalne rešitve Lotusa in IBM-a za ravnanje z znanjem.
+
+DISS je podjetje iz Ljubljane, ki zastopa svetovnega giganta Compaq. 
+V enem letu poslovanja je doseglo solidne rezultate pri distribuciji računalnikov, sporazum z Minolto pa bo po mnenju predstavnikov pripomogel k promociji in distribuciji njihovih proizvodov.
+
+www.oversee2000.com
+
+Koledarji
+
+www.euro2000.com
+
+Večina spletnih strani, posvečenih praznovanju leta 2000, je ameriških, a da se ne bi izgubljali med spiski veselic v zakotnih ameriških mestecih, si raje oglejte spletno stran, na kateri boste videli, kako in kje se bomo veselili na Stari celini. 
+Novodobniki z vseh koncev sveta se bodo na primer zgrnili v Stonehange. 
+Novoletne zabave željni raverji pa se bodo odpravili v mrzli Novosibirsk na Novosibirsk Millennium Rave, kjer bodo za popestritev večera izstrelili čisto pravo raketo. 
+Gneča bo menda tudi v londonski Tisočletni kupoli (Millennium Dome), ampak kje je pa pravzaprav ne bo?
+
+Nekaj let sem imel potem mir, dokler se ni pred petimi ali šestimi leti podobna debata razvnela v eni od elektronskih konferenc AdriaNeta, omrežju slovenskih BBS-ov. 
+Moderator konference je bil širokosrčnejši in burne razprave ni prekinjal, udeleženci pa so bili, kakor se je za zgodnje kiberščake spodobilo, še bolj vneti od dopisovalcev Sobotne priloge. 
+A rezultat je bil na koncu zelo podoben. 
+Namreč, tudi po dolgotrajnem in izčrpnem prepričevanju smo uspeli le malo onih, ki jih je okrogla letnica 2000 tako zelo očarala, prepričati, da se bo tretje tisočletje začelo šele 1. januarja 2001. 
+Takratne e-debate se še najbolj spominjam po izjavi, ki sem jo zapisal proti koncu da namreč že vem, s čim se bom večinoma ukvarjal leta 1999. 
+S podobnimi razpravami o pravilnem štetju let namreč. 
+Ampak sem se, kakor bomo videli v nadaljevanju, enkrat za spremembo, zmotil.
+
+Telefon sicer nima pokrovčka za tipke, kar bo morda kdo pogrešal, tipkovnico pa lahko hitro zaklenemo ali odklenemo s pritiskom glavne izbirne tipke in zvezdice. 
+To pride še posebej prav, če smo ga vajeni prenašati kar v hlačnem žepu ali v nahrbtniku, pri čemer se pogosto zgodi, da kak telefon brez zaščite tipk kar sam pokliče poljubno izbiro v imeniku, ali neznano samodejno vtipkano številko. 
+
+Rage Mobility 128 za prenosnike
+
+Tiskalnika tiskata s hitrostjo do 10 barvnih ali 12 črno-belih strani na minuto po protokolu HP PCL 3 in omogočata ločljivost tiska do 2400 × 1200 pik na palec s tehnologijo za glajenje robov PhotoREt III. 
+Vgrajen je 4 MB pomnilnik ter vzporedni in vmesnik USB, uporabniki pa lahko modelu 1100 dokupijo tudi obračalnik listov za dvostransko tiskanje in omrežni vmesnik, ki olajša rabo v omrežju. 
+Oba tiskalnika imata vgrajena tudi dva predala za papir, tako da lahko za tiskanje izmenično uporabljamo običajen papir in papir fotografske kakovosti.
+
+www.microsoft.com
+
+IBM-ovi orjaki
+
+Šifrirani GSM
+
+Kaj: Modem V.90 z zaporednim in vmesnikom USB. 
+Zahteve: USB vmesnik zahteva Windows 98, z zaporednimi vrati pa omejitev ni. 
+Izdeluje: Zyxel, www.zyxel.com. 
+Prodaja: Datacom, www.datacom.si, (061) 155 14 80. 
+Cena: 34.510 tolarjev. 
+Za: Enostavna namestitev, hitrost, zanesljivost na slabih povezavah. 
+Proti: Nenavadna zunanjost.
+
+By its very nature, Usenet groups may carry offensive, harmful, inaccurate or otherwise inappropriate material, or in some cases, postings that have been mislabeled or are otherwise deceptive. 
+We expect that you will use caution and common sense and exercise proper judgment when using Usenet. <
+
+slika telefona MORE: Enostavnost, prilagojena ciljnim uporabnikom.
+
+Prvenstvo v programiranju
+
+Več o tekmovanju lahko izveste na naslovu http://www.educa.fmf.uni-lj.si/acm/priprave99/prip99.htm.
+
+Preizkusni profesionalec
+
+Matjaž Klančar
+
+Angleški izdelovalec žepnih računalnikov Psion je predstavil nov vrhunski žepni računalnik Revo.
+
+Revo ni naslednik uspešne serije 5, ki je pred nedavnim dobila izboljšanega člana 5mx. 
+Veliko manjši je od modelov iz serije 5, saj zaprt meri le 15,7 × 7,9 × 1,8 cm, tehta pa 200 g (model 5mx: 17 × 9 × 2,3 cm, 354 g). 
+Kljub temu da je toliko manjši, ohranja pomembne vrhunske odlike. 
+Enako hiter je kakor 5mx (ima enak procesor 32-bitni ARM 710T s taktom 36 MHz), kar pomeni, da na odpiranje malo večjih datotek in zahtevnejših programov ni treba več kaj dosti čakati. 
+Notranji pomnilnik (8 ali 16 MB) je dovolj velik tudi za precej zahtevnega uporabnika. 
+Predvsem pa sta resnično nenadkriljiva zaslon in tipkovnica. 
+Zaslon z ločljivostjo 480 × 160 nima para med žepnimi računalniki. 
+Sicer je res sivinski, kar morda komu v dobi barvnih žepnih zaslonov ne zadošča, vendar ima zelo dobro ločljivost in je dobro viden tudi pri slabi osvetlitvi. 
+Zaslon tudi zelo dobro reagira na dotik, vsekakor bolje kakor pri starejših modelih.
+
+Red Hat Linux lahko od različice 6.1 naprej nameščamo tudi v slovenščini, a žal malce čudni. 
+Nekatera sporočila so ostala na pol prevedena, v grafičnem načinu manjka slovenska tipkovnica, v tekstovnem pa niso vidne črke s strešicami. 
+Stanje ni nič boljše pri drugih jezikih, kar kaže na to, da se pri Red Hatu morda sploh ne zavedajo pasti lokalizacije. 
+Tudi po namestitvi imamo težave z našimi črkami, a tedaj si lahko pomagamo s spisom Slovenian-HOWTO. 
+Če smo namestili paket HOWTO-jev, seveda, kajti namestitev ni privzeta. 
+
+Red Hat Linux 6.1 ponuja običajno paleto programov za Linux, ki so jih v novi izdaji posodobili kar lepo število. 
+Izboljšani okenski strežnik XFree86 3.3.5 pozna še več grafičnih kartic in monitorjev srednjega in visokega razreda. 
+Na strežniškem področju poleg drugih omrežnih strežnikov še naprej kraljujeta spletni strežnik Apache 1.3.9 z dodatki za jezika PHP3 in Perl, ter Samba 2.0.5a, ki skrbi za povezljivost v okoljih Windows. 
+Dodana je zbirka podatkov PostgreSQL 6.5.2 z gonilnikom ODBC in vmesniki za Perl in Python. 
+
+Razvijalci se bodo razveselili boljše podpore za C++ in strežnika ORBit 0.4.95, ki je posrednik zahtev po predmetih (angl. Object Request Broker) za tehnologijo porazdeljenega računanja CORBA, knjižnic Qt 2.0.1, s katero lahko hkrati pišemo programe za Unix/X11 in Windows NT/9x, in GTK+, orodja za nadzor različic izvorne kode CVS 1.10, pa tudi zadnji krik mode, predmetno usmerjeni tolmač Python 1.5.2, ki ga pogosto primerjajo s Perlom, Tcl in Javo. 
+Priljubljeni programerski urejevalnik Emacs 20.4, ki pri nekaterih razvijalcih skorajda nadomešča terminalsko okno, prvič prihaja z uradno podporo za slovenski jezik. 
+
+Podjetja lahko uporabijo Red Hat Linux, če potrebujejo razvojno platformo, spletni ali poštni strežnik ali delovno postajo. 
+Jedro 2.2.12 je dovolj zanesljivo, da bo ostalo eno zadnjih jeder pred različico 2.4, sistem pa lahko nadgrajujemo s programi neodvisnih proizvajalcev. 
+
+Red Hat Linux 6.1
+
+Morda se sliši zadnja misel močno pretirana, a niti ni tako zelo neobičajna. 
+Celo precej razširjena je. 
+Čeprav ni nobenih resnih podlag za prepričanje, da je Slovenija v čemerkoli posebna, se stalno pojavljajo tovrstna razglabljanja. 
+Slovenci smo se v vsej svoji zgodovini nekomu udinjali in se prilizovali zdaj enim, zdaj drugim, večjim od sebe, sklepali zveze, v katerih smo videli korist zase, pa potem čakali celo večnost, kdaj jih bomo lahko razdrli in sklenili nove. 
+
+Nemško podjetje ProVisio, avtor programa SiteKiosk, uvršča svoj izdelek med brskalnike. 
+V bistvu je SiteKiosk popoln zaščitni sistem za javno dostopne računalnike in terminale, ki uporabnikom omogočajo brskanje po predstavitvenih spletnih straneh na raznih sejmih, prireditvah in v informacijskih središčih. 
+Vgrajeno ima tudi posebno podporo za terminale z zasloni, ki so občutljivi za dotik. 
+Domači uporabniki po tem programu gotovo ne bodo segali.
+
+Po ploski cevi tudi ploski monitor
+
+Pri ločljivosti 1024 × 768 pik (85 Hz), pri kateri smo preizkušali monitor, se je pokazala zelo kontrastna slika. 
+Tudi ostrina je bila nadpovprečno dobra, vendar je ob robovih nekoliko padla. 
+To je običajno za monitorje s ploskim zaslonom. 
+Tudi nekoliko težav s konvergenco (rdečkast rob) smo opazili ob robovih, vendar ni bilo hudega. 
+Slika ni bila popolnoma enakomerna, kar pa je bilo videti predvsem na popolnoma beli podlagi. 
+Monitor ni občutljiv za utripanje in svetlost, kar mu štejemo v dobro. 
+
+Sony Multiscan 200G
+
+Telecom 99 + Interactive 99
+
+Samsung je predstavil več novih telefonov CDMA, nova pa sta tudi telefona SGH-2400 in SGH-A100, ki delujeta tako v omrežju GSM 900 kakor tudi GSM 1800. 
+SGH-2400 tehta komaj 90 gramov, oblikovno pa je naslednik telefonov SGH-600 in SGH-2100. 
+SGH-A100 tehta 5 gramov več in je zložljiv zaslon telefona pokriva in ščiti tipkovnico. 
+Vsebuje funkcije za časovno načrtovanje, orodje za ustvarjanje pozivne melodije in infrardeči vmesnik. 
+SGH-810 podpira WAP in tako kakor internetni telefon SCH-M100 omogoča dostop do elektronske pošte in omrežnih storitev. 
+Novi SPH-M2100 lahko predvaja glasbene datoteke v obliki MP3, predvajanje pa se samodejno ustavi ob dohodnem klicu. 
+Shrani lahko do 30 minut glasbe, omogoča tudi prenos glasbe iz spleta, vendar se glede na velikost datotek in hitrosti podatkovnega prenosa v mobilnem omrežju za kaj takega obetajo zelo visoki telefonski računi. 
+Na vso srečo je vnos glasbe možen tudi z osebnega računalnika. 
+Cena novinca, ki deluje zaenkrat le v omrežjih GSM 900, bo presegala sto tisoč tolarjev.
+
+Hewlett-Packard je napovedal reorganizacijo v dve neodvisni podjetji z veljavnostjo od 1. novembra. 
+Od sedanjega Hewlett-Packarda se bo ločil Agilent Technologies, ki bo proizvajal preizkuševalno, merilno in nadzorno opremo ter polprevodniške in optične komponente. 
+S Ciscom Hewlett-Packard razvija platformo za naprednejše storitve VOIP (Voice over IP), z Oraclom pa bo sodeloval pri razvoju elektronskega poslovanja med podjetji. 
+Oraclove internetne rešitve bodo uporabljali na platformi HP, prav tako bodo sodelovali pri prodaji in trženju skupnih rešitev. 
+Za razvoj prenosnih internetnih rešitev za podjetja pa bo Hewlett-Packard sodeloval s finskim proizvajalcem Nokia. 
+Nokiin strežnik WAP bo sicer na voljo tako za okolje HP-UX kakor za Windows NT, vendar bo prodaja obeh potekala prek posrednih in neposrednih HP-jevih prodajnih kanalov po vsem svetu.
+
+Prepoznavanje govora presega okvire samostojnih programov, saj postaja del avtomatiziranih, uporabniku prijaznih storitev. 
+Uporablja se pri samodejnem izbiranju telefonskih številk, bančnih postopkih, informacijskih servisih, novi primeri rabe pa se pojavljajo praktično vsakodnevno. 
+Spletne strani pa se lahko pogovarjajo z uporabnikom in ravnajo v skladu z izgovorjenimi ukazi. 
+Prenos govora prek podatkovnih omrežij omogoča združitev spleta in klicnih centrov, primere pa smo lahko videli na stojnicah telekomunikacijskih operaterjev in razvijalcev programskih rešitev, pri katerih komunikacija s klicnimi centri poteka neposredno s spletnih strani. 
+
+Srdjan Cvjetović
+
+Lotus pa v Evropi ne sodeluje samo z Nokio, temveč tudi z dobavitelji GSM brezžične izmenjave podatkov in sporočil SMS (Short Message Service), kot so Telefónica Móviles, KPN in Libertel. 
+Pomemben kamenček v mozaiku Lotusove pobude za enovito sporočanje je tudi programski sveženj mobilnih storitev za Domino ali MSD 1.0 (Mobile Services for Domino 1.0), ki ga je Lotus pripravljal za prodajo med berlinsko prireditvijo. 
+MSD omogoča uporabnikom Notesa in Domina, da sprejemajo in pošiljajo sporočila po mobilnih omrežjih in dostopajo do informacij v strežnikih Domino z napravami WAP, ki imajo vdelane mikrobrskalnike Phone.com. 
+Programska oprema MSD samodejno pretvarja sporočila vrste Notes, SMTP, cc:Mail in X.400 s popolnoma običajnimi e-naslovi v obliko, ki je primerna za pošiljanje mobilnim napravam. 
+Sporočilne storitve MSD delujejo z vsemi glavnimi sistemi za klicanje (paging) in celično telefonijo na svetu, kot so GSM, CDMA, TDMA, iDEN, Flex/ReFlex, ERMES in Mobitex.
+
+Tele@svetovalnica
+
+in 6110 ni razlik, razen da lahko pri modelu 6110 namesto žice uporabljamo tudi IR vmesnik (seveda samo pod Windows 95). 
+Naj vas opozorim še na majhno napako: na strani 4 (oktobrskega TeleMonitorja) v tabelici omrežnih skupin ni navedena današnja omrežna skupina 69.
+
+Pozdrav, 
+
+Gregec
+
+Pravzaprav ne vemo, kaj bi vam odgovorili, saj podobnega primera še nismo nikjer zasledili. 
+Ali ste prepričani, da je vzrok težav prav bazna postaja? 
+Ali imajo računalniki težave samo na tej lokaciji ali tudi kje drugje? 
+Kakšne težave pa imajo na pošti? 
+Prepričan smo, da bi oni v primeru dokazane krivde SI.Mobilovega oddajnika že ukrepali, pa tudi prav oni verjetno imajo opremo in kadre, ki bi to lahko natančneje opredelili.
+
+Zelo smo ponosni na svojo neodvisnost in si bomo z vso močjo prizadevali, da jo tudi vnaprej ohranimo. 
+Vam pa želimo obilo prijetnega branja ob vseh naših revijah.
+
+Glede na izvedbo programske opreme obstajajo trije različni načini in pri vsakem telefonu deluje le eden. 
+Pri najnovejših telefonih (po 19. maju 1998) naj bi deloval naslednji način:
+
+Datoteke s podaljškom .MOV so praviloma filmi v zapisu Apple Quicktime. 
+Vse različice zapisa je sposoben predvajati Applov predvajalnik, ki ga lahko brezplačno prenesemo s spletnega naslova http://quicktime.apple.com/, večino različic zapisa .MOV pa zna predvajati tudi Microsoftov Media Player 2, ki je ravno tako na voljo brezplačno, namesti pa se z novo različico spletnega brskalnika Internet Explorer. 
+Tudi ta je na voljo brezplačno na Microsoftovih spletnih straneh, http://www.microsoft.com/mplayer/
+
+Srdjan Cvjetović
+
+Preberi tu in tam
+
+Na podoben način lahko nastavimo zvočne učinke tudi za druge dogodke.
+
+Komentarji vedno
+
+Excel si lahko prilagodimo tako, da nam komentarje prikazuje vedno. 
+V menuju Orodja/Tools izberemo ukaz Možnosti…/Options…, ki prikliče pogovorno okno nastavitev. 
+Izberemo stran pod jezičkom Pogled/View in nastavimo želeno stikalo v okvirju Komentarji/Comments. 
+Na voljo imamo popolno izključitev prikaza komentarjev, privzeto nastavitev s simbolom in trajno prikazovanje okvirjev, ki ga ponazarja stikalo Komentar in kazalec/Comment & Indicator.
+
+Poženemo ga tako, da v začetnem menuju izberemo ukaz Run… in vnesemo ukazno vrstico: 
+
+<slika WMSD.
+TIF >
+
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\CrashControl
+
+(winnt.tif) Okna NT vsebujejo pripomoček za nadzor zmogljivosti delovanja sistema. 
+Možnosti nadzora je kar nekaj, vendar vse niso takoj na voljo. 
+Če želite natančno nadzorovati dejavnost diskov, v ukazno vrstico vnesite ukaz:
+
+Potem počakamo največ eno minuto in pognal se bo Task Manager, ki bo tekel pod računom SYSTEM in nam bo omogočal narediti prav vse.
+
+ŽUŽKI
+
+(bug.tif) AMD ima očitno res prehitre procesorje. 
+V računalniku s procesorjem Athlon 700 in omrežno kartico 3Com Etherlink III ISA lahko naletimo na hude težave, saj program za nastavljanje parametrov kartice (prekinitev, naslov V/I …), ki deluje v DOS-u, odreče poslušnost z neslavno napako deljenja z nič (Divide by 0). 
+Ne pomaga niti najbolj sveža različica programčka, trenutno objavljena na spletnem mestu 3Com.
+
+< /OKVIR >
+
+Nove okoliščine so dodobra prevetrile računalniško industrijo. 
+Tržni analitiki so izrisali nove grafikone in mnogi med njimi prerokujejo svetlo prihodnost dvema ponovno oživljenima pogledoma na samodejno obdelavo podatkov, ki sta bila pred nedavnim že odpisana. 
+To sta centralizirana obdelava podatkov z mogočnim strežnikom in množico bolj ali manj »neumnih« terminalov, danes poimenovanih lahki odjemalci, in 30 let stari minimalistični operacijski sistem Unix.
+
+Naslednji korak v prepustnosti se obeta v novi štiričrkovni kratici, ADSL. 
+ADSL za današnje pojme obeta resnično velikanske hitrosti prenosa. 
+Vendar smo lahko skoraj popolnoma prepričani, da bo že takrat, ko bo ta tehnologija dovolj poceni, da ne bo predstavljala resne zapreke za posameznega uporabnika, že spet prepočasna. 
+
+Montaža, ekstaza
+
+Cut & paste v najbolj dobesednem pomenu besede torej. 
+Odložišče je bila tista deščica, s katere je visel razrezan film. 
+Tudi montaža »zaresnih« filmov ni bila videti dosti drugačna, le širši film in bolj dovršena orodja za rezanje in lepljenje so uporabljali profesionalci. 
+Pa kakšen za današnje čase prav kamenodobni posebni učinek smo si lahko privoščili, to je bilo pa tudi vse. 
+In potem so prišli video in računalniki in nič več ni bilo tako, kakor prej.
+
+Večina videourejevalnikov omogoča izdelavo filma od zajema prek montaže in zvočne opreme do priprave za predvajanje, seveda pa se med seboj precej razlikujejo po zmogljivostih in enostavnosti rabe. 
+A čeprav boste poleg videokartice skoraj gotovo dobili tak ali drugačen videourejevalnik, se pogosto zgodi, da z njim ne boste mogli storiti vsega, kar bi radi, in bo torej treba kupiti zmogljivejšega. 
+Še posebno, ker so včasih karticam priložene okleščene različice. 
+Poleg tega je koristno vedeti, v čem se posamezni programi razlikujejo, saj lahko tudi priložena programska oprema vpliva na našo odločitev pri nakupu videokartice. 
+Še nekaj je treba vedeti. 
+Tako kakor marsikateri drug sodoben program, na primer urejevalnik besedil, je tudi zmogljiv videourejevalnik zelo obsežna zadeva s številnimi zmožnostmi, od katerih marsikatere povprečen uporabnik morda še opazil ne bo vse dokler je nekega lepega dne ne bo potreboval.
+
+Pri montaži imamo seveda še kup drugih možnosti. 
+Posameznim kadrom lahko na primer spremenimo hitrost ali ga zamrznemo. 
+Program omogoča vse standardne in tudi nekaj bolj nenavadnih načinov videomontaže, a v podrobnosti o tri- ali štiritočkovni montaži, različnih vrstah rezov in podobnih zadevah se tu ne bomo spuščali.
+
+Če smo se med delom zmotili, uporabimo ukaz za razveljavitev (undo), ki seže 32 korakov v preteklost. 
+Nastavimo lahko tudi samodejno shranjevanje, v obeh primerih pa je treba upoštevati zmogljivost našega računalnika in predvsem velikost diska. 
+Delo z videom namreč zahteva veliko prostora na disku, ki se meri v gigabajtih. 
+Za udobno delo pri Adobe priporočajo najmanj 6 GB prostora na disku, vse pa je seveda odvisno od dolžine filma, ki ga ustvarjamo.
+
+Ko je lani izšla težko pričakovana različica 5.0, so bili mnogi uporabniki precej razočarani, saj je bila precej nezanesljiva in polna različnih bolj ali manj neprijetnih hroščev. 
+Na srečo so pri Adobu hitro reagirali in izdali popravek 5.1 in nato letos še 5.1b, ki ga lahko dobimo tudi na Adobovi spletni strani. 
+Med delom z novo različico nismo naleteli na nobeno omembe vredno težavo, kar je vsekakor pohvalno. 
+Je pa za udobno delo koristno imeti precejšnjo zalogo računalniške moči in čeprav naj bi program deloval že z 32 MB pomnilnikom in ga pri Adobu priporočajo 64, se veselje začne šele pri 128 megabajtih. 
+Čim hitrejši procesor je seveda prav tako dobrodošel, s 400 MHz pa se da že prav lepo delati. 
+Za silo je dovolj tudi precej manj, če ste le dovolj potrpežljivi in ne nameravate montirati celovečercev. 
+Velikost diska ali diskov je seveda odvisna od velikosti projektov, ki se jih nameravate lotevati, vedeti pa morate, da so »surovi« videoposnetki, s kakršnimi delamo pri urejanju, bistveno večji od obdelanih ali stisnjenih. 
+
+Takoj nam pade v oči ena od glavnih razlik med obema videourejevalnikoma. 
+Medtem ko je Premiere narejen kot enoten program, v katerem so različna vgrajena orodja namenjena različnim opravilom, je MediaStudio Pro pravzaprav programski paket, ki ga sestavlja več programov. 
+Zajemu videoposnetkov in digitalizaciji je namenjen Video Capture, filmski montaži Video Editor, posebnim grafičnim učinkom Video Paint, obdelavi zvoka Audio Editor in izdelavi napisov CG Infinity. 
+Mnenja o tem, kateri pristop je boljši, so tudi med strokovnjaki deljena, precej pa je odvisno od uporabnikovega okusa in predvsem njegovega načina dela. 
+Predvsem začetnikom je namenjen čarovnik Video Vizard, ki zelo olajša prve korake in uporabnika popelje skozi vse osnovne postopke pri izdelavi videofilma. 
+Čeprav pri programu, ki ni namenjen ravno začetnikom, takšen čarovnik ne pride najbolj do izraza.
+
+Posamezne elemente filma potem prenesemo v časovnico. 
+Na njej sta dve glavni stezi, namenjeni montaži, med njima je steza za prehode med kadri, pod njimi pa še 99 »prekrivnih« (overlay) stez, na katerih gradimo posebne učinke, uporabljamo različne filtre in podobno. 
+Časovnico lahko, tako kakor pri Premieru, v precejšni meri prilagajamo, saj lahko izbiramo različne velikosti stez in določimo, kako naj bodo videoposnetki na njih vidni. 
+Na časovnici kadre natančno obrežemo in jih zložimo v dokončni vrsti red, med njimi določimo prehode, uporabimo filtre in sploh z videoposnetki počnemo vse, kar pač z njimi želimo početi. 
+Vgrajenih je kar 107 različnih prehodov, ki jih lahko v precejšnji meri prilagajamo svojim potrebam (naredimo si lahko tudi nove), ter 59 video in 13 zvočnih filtrov.
+
+Skoraj smo že končali z izdelavo našega filma, samo še z napisi ga moramo opremiti. 
+Da se bo vedelo, kdo ga je zrežiral. 
+Delu s takšnimi in drugačnimi napisi je namenjen program CG Infinity. 
+Opravka imamo z zmogljivim vektorskim grafičnim programom, kar pomeni, da so vsi z njim narejeni napisi, pa tudi logotipi in drugi grafični elementi, neodvisni od ločljivosti videoposnetka. 
+Z njim bomo brez težav naredili prav imenitne napise, ki jih lahko tudi poljubno premikamo, vrtimo ali na druge načine animiramo. 
+Program sicer ni tako zelo zmogljiv kakor samostojni vektorski grafični programi, na primer Corel Draw!, njegova prednost pred njimi pa je v tem, da je posebej prilagojen za opremljanje videoposnetkov. 
+Skratka, še eno zelo koristno orodje, na katerega moramo misliti, ko primerjamo cene videourejevalnikov.
+
+Za: Enostavnost rabe, delo z zvokom, grafiko in napisi.
+
+Za: Cena, enostavnost rabe.
+
+VideoWave se je v praksi izkazal kot za rabo zelo enostaven program, ki poleg tega omogoča tudi precej ustvarjalne svobode. 
+Da imamo opravka z razmeroma zmogljivim programom dokazuje tudi priročnik za rabo, ki je približno trikrat obsežnejši od priročnika njegovega največjega tekmeca, VideoStudia. 
+Zamerimo mu lahko le to, da je bil od vseh tu preizkušenih programov najmanj zanesljiv. 
+Kar seveda ne pomeni, da se z njim ni dalo prav udobno delati, se je pa vseeno nekajkrat, meni nič tebi nič sesul. 
+Morda smo navajeni zmogljivejših programov in smo od njega zahtevali preveč, na vsak način pa je koristno biti nekoliko bolj previden pri sprotnem shranjevanju. 
+Še posebno, ker samodejnega shranjevanja ne omogoča. 
+A ne glede na nekaj manjših pomanjkljivosti je VideoWave program, na katerega moramo najresneje računati, ko razmišljamo o cenovno dostopnem videourejevalniku.
+
+Po drugi strani je kakovost filma precej bolj kakor od programa, s katerim smo ga montirali, odvisna od našega znanja in ustvarjalnosti. 
+Kakor ob pogledu na hišo nikoli ne moremo vedeti, kateri program je za njeno načrtovanje uporabljal arhitekt, tudi ob ogledu filma ne moremo vedeti, s katerim programom je nastal. 
+Kar z drugimi besedami pomeni, da je odločitev za ta ali oni program odvisna predvsem od uporabnikovega okusa.
+
+Slike:
+
+Video Paint, program za grafične posebne učinke pri MediaStudiu Pro
+
+Simon Ručigaj
+
+Pognali smo tudi program ZiffDavis Business Winstone 99, ki izmeri hitrost nekaterih najpogosteje uporabljenih pisarniških programov v Oknih. 
+Preizkuse smo opravili pri ločljivosti 1024 × 768 pik, 16-bitnih barvah in 85 Hz. 
+Navidezni računalniki so imeli dodeljen 64 MB pomnilnik (od skupno 128 MB), ter 1 GB navidezni disk. 
+Za primerjavo smo vzeli rezultate, dobljene v gostujočem operacijskem sistemu (Windows NT 4.0 in Linux) s 64 MB in 128 MB pomnilnikom, ter seveda s precej večjim (6,4 GB), predvsem pa »pravim« (in zato verjetno tudi hitrejšim) diskom. 
+
+Rezultati so potrdili naše občutke o počasnosti dela v navideznih računalnikih, tako da bi za nekoliko bolj resno delo verjetno potrebovali precej zmogljivejši procesor in večji pomnilnik. 
+Sicer pa težav s poganjanjem programov znotraj navideznih računalnikov nismo imeli, pa tudi z zanesljivostjo sistema in delovanjem omrežja ne.
+
+Program se je nedvomno izkazal kot zelo koristno orodje, ki ga bo marsikdo sprejel odprtih rok in si z njim veliko pomagal pri svojem delu (nekateri pa ga žal zaradi nekaterih njegovih omejitev ne bodo mogli uporabiti). 
+Toda napovedane revolucije v računalništvu vsekakor ne gre pričakovati in programi, kot je System Commander in podobni, še niso za v koš.
+
+Peter Reškovič
+
+VMware for Windows NT and Windows 2000 1.0, VMware for Linux 1.1
+
+vmware_poweron_bios.
+TIF: Vmware ima svoj BIOS.
+
+linux_v_winnt.
+TIF: Zanimiv pogled: Linux v Windows NT.
+
+Pri simuliranju večjih obremenitev, pri katerih bi delo, ki ga opravlja WebLoad generator, presegalo zmogljivosti enega samega računalnika, lahko WebLoad generator namestimo v več računalnikov. 
+Ti bodo obremenitev ustvarili z družnimi močmi. 
+
+WebLoad 3.0
+

@@ -1,0 +1,4 @@
+Čas najkrajšega čakanja v vrsti sledi iz že omenjenega pogoja, da je #n#b = #n#a, torej #s t#b - #n#0 = #k t#2a in #t#2b = (#k t#2a + #n#0)/#s#. 
+Po risbi je #t#m = #t#b - #t#a, nakar dobimo #t#m = (#k t#2a + #n#0)/#s# - #t#a. 
+Če vstavimo v ta izraz vrednost #k# = #n#z/#t#2z in #n#0 = #s t#z, sledi ob upoštevanju obrazca št. 1 ter ustrezni preureditvi izraza čas najkrajšega čakanja v obliki 
+

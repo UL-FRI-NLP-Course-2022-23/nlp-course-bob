@@ -1,0 +1,476 @@
+ISDN usmerjevalnik, ki ga zelo enostavno namestimo.
+Brez dvoma je hitrost eden tistih dejavnikov, ki največ prispeva k večjemu udobju tiskanja in uporabe dokumentov.
+Nekoč smo tiskali le, ko smo bili v to popolnoma prepričani.
+Danes najprej natisnemo in šele nato razmislimo.
+Mnogi uporabniki počnejo to celo za spletne strani raje namreč berejo besedila na papirju kakor na zaslonu.
+Če odmislimo hitrost tiska in ceno izpisa, je pri sodobnih laserskih tiskalnikih ključne prednosti mogoče najti v zasnovi mehanike in elektronike.
+Jasno, boljša mehanika pomeni manj okvar, boljša elektronika pa hitrejši tisk, lepši izpis in tako dalje.
+Precej boljša izbira je vmesnik USB, čeprav so tudi tu izjeme.
+12 Mb/s je nekajkrat večja prepustnost od tiste pri zaporednem vmesniku, pa še laže je tiskalnik priključiti na računalnik.
+Žal se v praksi USB ne izkaže vselej tako, kakor bi pričakovali.
+Znani so primeri, v katerih je bila slaba izvedba vmesnika ali gonilnika kriva za podpovprečno hitrost prenosa podatkov celo počasnejšo kakor pri vzporednih vmesnikih.
+A v večini primerov so izpisi hitrejši, vse bolj pa se uveljavlja predvsem v skupini izdelkov, namenjenih rabi doma.
+Proizvajalci ga pri zmogljivejših modelih nekoliko ignorirajo.
+Če ga kdo prav zares želi, ga dobi za doplačilo, sicer pa ni standardni del opreme zmogljivejših tiskalnikov.
+Da bi karseda poenostavili in pocenili laserske tiskalnike, so nekateri proizvajalci krmilnik za rasterizacijo dokumenta prenesli iz tiskalnika v računalnik in ga izvedli programsko.
+Podatkov ni več treba pošiljati v enem od opisnih jezikov in jih nato obdelovati v tiskalniku, temveč jih obdelamo v računalniku.
+Prenesenih podatkov je zato nekaj več, toda zato v tiskalniku skoraj ne potrebujemo pomnilnika in elektronika je lahko preprostejša.
+Obremenjevanje računalnika je bila včasih lahko precejšnja težava, a pri današnjih hitrih računalnikih je obdelava v računalniku hitrejša kakor s povprečno zmogljivim procesorjem v tiskalniku.
+Težave lahko nastopijo zaradi združljivosti tovrstne programske opreme.
+Tiskanje GDI je namreč tesno povezano z Microsoftovim okoljem Windows, pa še to se od izvedbe do izvedbe razlikuje.
+Če nimamo pravih gonilnikov, tiskanje najbrž ne bo mogoče ali pa bo povzročalo težave drugim programom.
+Žal podpore za druge operacijske sisteme ni.
+GDI zaradi specifičnosti delovanja seveda ni primeren za omrežno rabo, zato se uporablja predvsem v tiskalnikih za rabo doma.
+Norveško podjetje ASK že neka časa sodi med vodilne ponudnike prenosnih digitalnih projektorjev, pred časom pa so prešli v lastništvo družbe InFocus, ki je poleg tega prevzela tudi družbo Proxima.
+Tako so se vse tri nekoč morda najbolj znane znamke projektorjev znašle pod isto lastniško strukturo.
+Posamezne znamke imajo danes v ponudbi večinoma precej različne modele, v bodoče pa lahko pričakujemo poenotenje proizvodnje tudi zaradi nižanja proizvodnih stroškov.
+ASK M5 je eden najnovejših modelov v ponudbi tega proizvajalca.
+Projektor je zelo majhnih mer in kompakten, kljub temu se ponaša z lastnostmi in kakovostjo slike, ki ga dvigajo nad povprečje.
+Ohišje je dokaj pravokotno in ima objektiv, ki je v celoti vgrajen v ohišje ter tako na varnem pred morebitnimi udarci med prenašanjem.
+Projektor zmore prikazovati sliko z ločljivostjo 1024 × 768 pik, za tako majhen izdelek pa zmore visoko svetilnost, kar 1100 lumnov.
+Slika je pri ločljivosti 1024 × 768 pik izjemno ostra, med najboljšimi od preizkušenih projektorjev.
+Tudi barve so pravilno predstavljene.
+Pri ločljivosti 800 × 600 je še vedno precej dobra, črke so enakomerne, čeprav morda nekoliko preveč mastne.
+Pri ločljivosti 640 × 480 pik je precej občutljiva na frekvenco osveževanja, nastavljeno na kartici, in se počuti bolje pri višjih frekvencah.
+Priloženi daljinski upravljalnik je sila osnoven.
+Je majhen, a ergonomsko oblikovan, s tipko za miško pod daljincem.
+Za posnemanje miške skrbi krmilna palica.
+Ostane le še desna tipka miške, tipka za priklice menuja, hitrega menuja (le osnovne funkcije, na primer svetloba, glasnost).
+Razen teh sta tu le še tipki imenovani Zap1 in Zap2, ki sta programsko nastavljivi in jima lahko določamo različne funkcije.
+Zaslonski menuji so zelo pregledni in bogati, pa tudi krmiljenje med njimi je lepo rešeno.
+Daljinski upravljalnik je podolgovat in ima del tipk skrit pod pokrovom na spodnji enote.
+Tam so sekundarne tipke, na primer za vklop menujev, izbiro vira signala in celo za zaslonsko pomoč (priročno za manj izkušene).
+Na odprtem delu so tipke za zamrznitev slike in utišanje zvoka, predvsem pa velika krmilna palica s kar petimi tipkami.
+Na teh so postavljene posebne funkcije, kot je elektronski kazalec (boljši bi bil laserski kazalec), označevalnik delov zaslona z barvnim kvadrom, risalo črt ter funkcija za prostoročno risanje.
+Zabavno, toda le pogojno uporabno, ker je rokovanje s takim sistemom zamudno.
+Ohišje je značilno za družbo InFocus, kar pomeni, da ima projektor zaobljene robove in napredne rešitve, s katerimi izstopa iz povprečja in stereotipa drugih projektorjev.
+Pohvali se lahko s čistimi potezami in preprostimi, a učinkovitimi rešitvami.
+Recimo s kablom za monitor, ki premore tudi vmesnik USB za posnemanje miške.
+Za razliko od večjega modela LP350 nima dodatnega priključka za zunanji podvojevalni vmesnik, s katerimi lahko na projektor priključimo tudi zelo dolg kabel.
+Ima pa vse drugo, vključno z zvočnim vhodom, S-video in kompozitnim videopriključkom.
+Zanimivo torej, da manjši model premore več priključkov od večjega brata.
+To je koristno predvsem pri prenašanju, saj nam ni treba nositi številnih dodatkov.
+Slika je pri ločljivosti 1024 × 768 pik zelo svetla in zasenči celo najboljše tekmece.
+Še toliko večja razlika je v primerjavi z manjšimi modeli U3.
+Slika je sicer dokaj enakomerna, vendar ne tako ostra kakor pri (na primer) ASK-u M5.
+Tudi geometrijsko jo je treba malo nastavljati, preden smo zadovoljni.
+V nekaterih okoliščinah je mogoče zaslediti tudi manjši šum, vendar to opazi le ostro oko.
+Toshibin projektor je dokaj klasične oblike, podolgovat in z elegantnimi potezami.
+Za nastavitev naklona ohišja je na voljo le ena nožica, kar je premalo, če moramo izravnati tudi stranski nagib.
+Na zadnji strani so vsi običajni priključke: VGA, kompozitni in S-video, dva avdiovhoda in izhod za miško.
+Vgrajeni objektiv nima ročnega zuma, zato moramo projektor premikati skladno z želeno velikostjo slike.
+Delno pomaga, da je objektiv primerno umerjen in zato projektorja ni treba preveč oddaljevati od zaslona.
+Na projektorju so tudi vse potrebne tipke za dostop do menujev, vklop, nekoliko bolj nepredvidljiva pa je le tipka z izbiro vira, ki deluje z rahlim zamikom.
+Dobrodošlo pa je to, da so tipke osvetljene in s tem lahko vidne tudi v temi.
+Pri analizi tehničnih podatkov, meritvah in subjektivni oceni slike kljub vsemu nekateri modeli izstopajo iz skupine sicer pretežno kakovostnih izdelkov.
+Najbolj projektor ASK M5, ki se odlikuje z dobro svetilnostjo, odlično sliko, pa kljub temu še vedno skromnimi merami in težo.
+Zato temu projektorju podeljujemo zlati Monitor.
+DOM-ov predmetni model deluje točno tako.
+XML pretvori v drevo in nam omogoča, da se po njem sprehajamo in ga spreminjamo.
+Koren drevesa je vedno tipa Document, ki je edinstven za vsak dokument posebej.
+Njegov edini otrok je vedno tipa Element.
+To, da mora imeti natančno enega otroka, sledi iz tega, da mora obstajati natančno en korenski element.
+Prav tako so nekakšna posebnost atributi.
+Iz vsakega atributa nastane predmet Attrib, ki pa se ne vstavi v drevo.
+Pri predmetih tipa Element jih lahko dobimo z metodo getAttributeNode(ime_atributa).
+V drugih predmetih pa atribute dobimo iz lastnosti attributes, ki je tipa NamedNodeMap.
+Ključ je ime atributa, vrednost pa je preprosto vrednost atributa.
+Tu bi morali omeniti še, kako se obravnavajo napake.
+Specifikacija zahteva, da se ob določenih napakah zgodijo oz. sprožijo izjeme.
+Vendar specifikacija ni vezana na programski jezik, in ker nekateri jeziki nimajo podpore za izjeme (recimo C ali pascal), so rešitve tam pač prirejene jeziku.
+Načeloma napaka nastane, če zmanjka pomnilnika, če poizkušamo dobiti element iz seznama, ki ne obstaja (če zahtevamo sedmega otroka od elementa, ki ima le dva), če kršimo pravila hiearhije (npr. predmet Text ne sme imeti otrok) ali pa če poizkušamo predmetu dodeliti vrednost, ki bi dokument XML postavila v neveljavno stanje (recimo predmetu Comment dodeliti vrednost z dvema zaporednima minusoma).
+To sicer niso vse možne napake, a naj bi jih bilo dovolj za navadno uporabo.
+Po rezultatih sodeč krmilnik pri polju RAID 0 dokaj dobro izpolnjuje pričakovanja glede hitrosti, pri polju RAID 1 pa lahko vidimo, da je hitrostni učinek manjši, bolj bistven pa je vidik zanesljivosti (varnosti).
+Glede na visoko stopnjo uporabe procesorske moči računalnika (do 99 %) ocenjujemo, da krmilnik sam najverjetneje ne zmore vseh operacij, povezanih z uporabljanjem polja RAID (preračunavanje), ter tako močno obremenjuje procesor pri intenzivni uporabi.
+Pri določanju razsežnosti, ki je povezana sama s seboj, smo imeli nekaj težav, saj je strežnik zahteval, da naj bodo vsi nazivi vseh vrednosti v izvornih podatkih med seboj različni.
+V primeru hierarhične strukture izdelkov, ki smo ga preizkušali, se je v vhodnih podatkih večkrat pojavil naziv »Ostalo«, ker je nastopal pri več skupinah izdelkov v različnih ravneh hierarhije, zato nismo mogli določiti razsežnosti z nazivi izdelkov.
+Dovoljeno pa je bilo določiti hierarhijo brez upoštevanja naziva, torej le s šiframi izdelkov, saj so bile te enolične.
+Slika 2: Razsežnost je povezana sama s seboj prek odnosa oče-sin
+Tretje tisočletje se je za marsikoga začelo v znamenju zabavne elektronike.
+V Las Vegasu se je namreč 5. januarja začela največja svetovna razstava zabavne, ali kakor pravijo Američani, potrošne elektronike CES 2001.
+Consumer Electronics Show, že 35. po vrsti, je v svetovno prestolnico zabave privabil čez 122.000 obiskovalcev, tako ali drugače povezanih z industrijo zabavne elektronike.
+Na nekaj več kakor 11 hektarih razstavnih prostorov je svoje izdelke in storitve predstavljalo tako rekoč vsako podjetje, ki v svetu zabavne elektronike kaj pomeni, in tudi veliko takšnih, za katere večina obiskovalcev ni še nikoli slišala.
+Internetne aparate v različnih stopnjah pripravljenosti za tržišče so predstavljali skoraj vsi »veliki«, na primer Sony, Philips, Compaq, Intel, IBM, Samsung, veliko pa je bilo tudi novincev, ki so zaslutili priložnost za uspeh.
+Naprave se med seboj sicer razlikujejo, večina pa ima vendarle nekaj skupnih značilnosti.
+Miška, na primer, je stvar računalnikov in jih pri teh napravah v glavnem ne bomo videli.
+Vse po vrsti imajo namreč za dotik občutljiv barvni zaslon, ki je poleg tega pri nekaterih modelih pokončnega formata, kakor so pač višje kot širše tudi mnoge spletne strani.
+Vojne zapisov smo na CES 2001 lahko opazovali še na drugih področjih.
+Zapisljivi DVD bo prej ali slej izpodrinil klasične analogne videorekorderje VHS, a izdelovalci se bodo morali prej odločiti, ali bo to DVD-RW, DVD+RW ali DVD-RAM.
+Za napovedi je še prezgodaj, morda pa bo prišlo tudi do takšnega ali drugačnega poenotenja.
+Pri Sonyju so na primer napovedali, da bodo gordijski vozel vsaj deloma presekali s snemalnikom, ki bo združljiv z DVD-RW in DVD+RW.
+Za konec našega sprehoda po razstaviščih CES 2001 omenimo samo še eno od bolj odmevnih svetovnih premier Microsoftovo dolgo napovedovano in težko pričakovano igralno napravo X-Box, ki jo je v svojem otvoritvenem nastopu Bill Gates prvič predstavil javnosti.
+Obiskovalci v veliki dvorani hotela Hilton so bili po odzivih sodeč navdušeni, pa čeprav je šlo le za razvojni prototip, ki prave zmogljivosti naprave, kakršno bodo enkrat proti koncu leta začeli prodajati, sploh še ne dosega, igrici, ki smo ju lahko videli, pa tudi nista bili videti nič bolje od tistih, ki jih lahko že danes igramo na vsakem malo boljšem PC-ju.
+Slika: Računalniki prodirajo v avtomobile.
+Založba Moderna organizacija, ki deluje znotraj Fakultete za organizacijske vede v Kranju, je izdala ploščo dr. Zvoneta Balantiča z naslovom Človek delo učinek.
+Večpredstavna vsebina, izdelana v MS Powerpointu, je lična in privlačna kombinacija teoretičnega znanja na temo človeka v delovnem procesu ter praktičnih prikazov iz realnega sveta industrije in sorodnih okolij.
+Z delovnimi postopki in organizacijo se predstavljajo taka podjetja, kot so na primer Pivovarna Union, Žito Gorenjka, Unitas, Riko hiše.
+Govori mi digitalno
+Poleg tega dobimo za DS-150 še program IBM ViaVoice Millennium Edition, ki naj bi tekoč govor (angleščino, francoščino in nemščino) pretvoril v tipkano besedilo.
+Že pripravljene knjižnice izrazov sproti prilagaja uporabnikovemu glasu in se uči na lastnih napakah.
+Po naših izkušnjah se program dobro obnese, le na izgovorjavo smo morali paziti.
+Zadevi zamerimo le to, da smo morali sami poiskati ter pognati nastavitve, čeprav navodila obljubljajo, da bo za to poskrbela namestitev.
+Mere so 166 × 40 × 16 mm, teža pa le 45 g (z baterijami).
+Posnamemo lahko 33 ali 90 minut zvoka.
+Kakorkoli že, pri Executivu so izdali šesto različico Diskeeperja, ki prinaša nekaj manjših novosti, predvsem pa je bistveno hitrejši (prav hitrost je bila doslej glavna prednost konkurenčnega Speed Diska).
+Proizvajalec trdi, da je šesta različica Diskeeperja do šestkrat hitrejša od pete in naš preizkus je to potrdil program je res bliskovit.
+Žal pa bo marsikdo tudi ob uporabi šeste različice dejal saj program pravzaprav nič ne naredi.
+Res predvsem na razdelkih NTFS moramo imeti zelo veliko prostora, da bo program vsaj delno zmanjšal razdrobljenost.
+Vsakokrat, ko se obrtna izdelava prelevi v industrijo, se zgodba ponovi.
+Ne, ne bomo posegali v čase industrijske revolucije, zadostuje skok za dobro desetletje nazaj, ko so še obstajali programerji, ki so program izdelali filigransko ja, vključno s programiranjem najbolj pomembnih rutin v zbirniku.
+Dobili ste hiter in zanesljiv program, ki na tržišču preprosto ni imel možnosti.
+Industrija zahteva količino in obrtniki niso mogli več tekmovati.
+Če je program počasen, pač kupite nov računalnik.
+Če zadosti hiter ne obstaja, obtožite izdelovalce strojne opreme.
+Prvi zagon sedanje ali prejšnje različice nas s številom in razporeditvijo svojih oken na prvi pogled osupne (bi rekli propagandisti), resnici na ljubo pa nas bolj zmede.
+V redu, programu se pozna, da prihaja z Maca, vendar se mu pozna vsaj še nekaj: da prihaja z ogromnih, ampak res ogromnih monitorjev, na kateirh lahko številne orodjarne položite nekam v kot in še vedno vidite, kaj delate.
+Lastniki monitorjev, ki v domačem zavetju veljajo za velike, pa bodo lahko le preklinjali orodjarne in pod njimi iskali delčke, ki jih pravkar obdelujejo.
+Dreamweaver01.tif: S številom in razporeditvijo svojih oken nas Dreamweaver na prvi pogled osupne kakor bi rekli propagandisti, vse preostale pa bolj zmede.
+Dlink-1.jpg: Program AVI Reader omogoča (precej špartansko) zajemanje in shranjevanje videoposnetkov.
+Izdeluje: D-Link, www.dlink.com.
+Poglavitna novost pri peti Eudori je posebni protokol (Eudora Sharing Protocol ESP), s katerim si več uporabnikov (razen tistih z lahko različico) v skupini deli sporočila in datoteke.
+Vsak lahko povabi v skupino nove člane, ki morajo prav tako imeti nameščeno peto različico Eudore (za PC ali Maca), kar je največja pomanjkljivost.
+Vsak član skupine ima na svojem disku kopije dokumentov, ki jih ESP na zahtevo nenehno usklajuje.
+Gre torej za svojevrstno orodje za skupinsko delo, ki pa ga večina uporabnikov Eudore najbrž ne bo uporabljala.
+Kot poštno-seznamski strežnik (list server) večinoma ne pride v poštev, saj ga ne morejo uporabljati tisti, ki Eudore nimajo.
+Tudi za deljen dostop do datotek najdemo v spletu boljše in enostavnejše rešitve.
+Zagovorniki politično korektnega besednjaka bodo navdušeni nad Eudorinim nadzornikom jezika (MoodWatch).
+Ta bdi nad sporočili, ki jih nameravamo poslati drugim in nam predlaga, da ton besedila omilimo, če to vsebuje »prepovedane« besede.
+MoodWatch tudi označi (z ikono v obliki feferona) prejeta sporočila, ki vsebujejo žaljive besede.
+Uporaben je samo za angleško besedilo (za zdaj), občutljivosti pa ne moremo nastavljati.
+Ljubiteljem številk je namenjena možnost pregledovanja statistike prejetih in odposlanih sporočil, ki jo bodo vsi drugi uporabniki Eudore brez slabe vesti spregledali.
+Eudora.jpg: Eudorin novi protokol (ESP) omogoča podrobne nastavitve za dostop do deljenih poštnih predalov in datotek.
+Flashu je priložena dokaj obsežna elektronska dokumentacija in vodiči v obliki učnih lekcij, ki so zares nazorni.
+To zna prevagati v primeru odločanja med Flashem in kakšnim drugim programom za spletno slikarstvo (npr. Jamba).
+S podobnimi sistemi se je do danes ukvarjala predvsem avtomobilska industrija.
+Kljub zadovoljivi natančnosti ima avtomobilska navigacija nekaj pomanjkljivosti.
+Zbirka podatkov, predvsem gre za zemljevide, je shranjena v pomnilniškem nosilcu (običajno CD-ROM) in je ni mogoče tako preprosto in sproti osveževati.
+Omejenost zgolj na zemljevide (in ceste) uporabniku ravno tako ne omogoča iskanje drugih bolj ali manj pomembnih turističnih informaciji, kot so hoteli, restavracije, muzeji, turistične zanimivosti, ipd.
+Najprimernejša platforma je zaradi svoje funkcionalnosti ročni računalnik, kateremu so vodniki navsezadnje tudi namenjeni.
+Primerne zmogljivosti (močan procesor, velik zaslon), združljivost z dodatno opremo (mobilni telefon, sprejemnik GPS) in odprt operacijski sistem omogočajo razvijanje novih odzivnih namenskih programov, kamor sodijo tudi elektronski vodniki.
+Navigacijo je mogoče izvajati tudi na strani strežnika oziroma ponudnika storitve.
+Struktura mobilnega omrežja je namreč zasnovana na t. i. celicah ali baznih postajah, ki so lahko različno na gosto posejane (zaradi motenj in ovir so v naseljenih območjih posejane bolj na gosto).
+Signal mobilnega telefona zato običajno seže do več baznih postaj hkrati.
+Na osnovi časovnega zamika signala, ki potuje do uporabnika in nazaj, lahko dovolj natančno določimo oddaljenost uporabnika od bazne postaje.
+Če je uporabnik na območju, na katerem se prekrivata dve ali več baznih postaj, je mogoče določiti kraj bolj natančno (glede na presek območja znotraj baznih postaj), a še vedno manj kakor pri satelitski navigaciji.
+Kljub temu takšna metoda odlično deluje tudi v poseljenih območjih in zgradbah, saj signal GSM tja seže (pravzaprav bolje, saj je koncentracija baznih postaj tam večja).
+Storitev je seveda obračunana večkratno (glede na število porabljenih časovnih intervalov) in glede na čas povezave.
+Ne smemo tudi pozabiti, da potrebujemo za hitrejše prenose temu primeren mobilni telefon (ali razširitveno kartico PCMCIA).
+Uporabnik ima pri načrtovanju poti popolnoma proste roke, saj se lahko sam odloča v skladu s ponudbo in željami.
+Če pride do nezaželenih odstopanj na poti, lahko izgubljeni čas tudi primerno izkoristi.
+Sistem lahko uporabnika sproti obvešča o ključnih točkah, medtem ko se premika ali ko se zaustavi (posreduje ključne podatke o mestu, takoj ko izstopi iz letala ali vlaka, če se pripelje z avtom na zemljevidu prikaže proste parkirne hiše, itd.)
+Prenos in shranjevanje podatkov o lokaciji uporabnika sta lahko tarča marsikaterih zlorab in predstavljata uporabniku storitve v določenih pogojih tudi resno nevarnost.
+S sprotnim prestrezanjem podatkov lahko uporabniku nadvse preprosto sledimo.
+Da bi se izognili takšnim nevšečnostim, omogoča sistem sprotno šifriranje podatkov med strežnikom in uporabnikom.
+Tretji preizkusni dokument je že dolgo znani dokument v Corel Drawu (7.0), s katerim preverjamo sposobnosti izpisa vektorske grafike.
+Ta je vedno najtrši oreh za laserske tiskalnike, saj z njim lahko analiziramo najmanjše podrobnosti izpisov, kot so na primer črke velikosti dveh pik, natančni barvni prelivi in različno debele črte, izpisane v različnih okoliščinah (vzporedno, blizu druga drugi, poševno …).
+Ta preizkus smo pri vsakem tiskalniku opravili pri največji možni ločljivosti.
+Matlab 6 je del novega rodu izdelkov MathWorks, ki jih skupno imenujejo kar Release 12.
+Poleg Matlaba 6 je v tej dvanajsti izdaji tudi Simulink 4, novih je pet knjižnic, večina drugih pa je prenovljenih.
+Skupaj je menda izboljšanih kar 60 izdelkov.
+Matlab 6 je gotovo najpomembnejša novost v tej izdaji, sploh če upoštevamo, da je bil Matlab 5 predstavljen že davnega marca 1997!
+Tudi to (poleg cene, seveda) kaže, da ne gre za izdelek, ki bi v se gorečem konkurenčnem boju za naklonjenost širokih množic moral pojavljati vsakih nekaj mesecev z »revolucionarno, novo« izdajo, ki pa razen polikanosti vmesnika, vrste bolj ali manj potrebnih novih možnosti in odpravljenih najbolj grobih napak prinaša tudi zahteve po zmogljivejši strojni opremi in množico novih, še bolj skritih hroščev.
+Izboljšav je bil deležen tudi vgrajen urejevalnik .m zbirk (M-file Editor), ki sedaj prikazuje številke vrstic, omogoča (od)komentiranje več vrstic hkrati in prilagoditev sintaksnega barvanja ter trajno shranjuje prekinitvene točke.
+Nič dramatičnega torej, kar pa ne velja za prenovljeni sistem pomoči (Help Browser), ki se (končno) zgleduje po sorodnih sistemih drugih okenskih programov in vključuje iskalno orodje ter prečne sklice.
+Teme pomoči so pregledno organizirane v dinamičnem kazalu, v ozadju so prvič dokumenti HTML.
+Morda se bo ob tem dosedanji sistem pomoči, temelječ na komentarjih v .m zbirkah, komu zdel prav arhaičen, vendar bodo izkušeni uporabniki prav gotovo cenili MathWorksovo odločitev, da ga v nespremenjeni obliki vzporedno ohrani še naprej.
+Za Macintosh, OpenVMS in SunOS 4 je na voljo Matlab 5.2 (R10).
+Osnova je skupno izvajalno okolje za programske jezike (CLR Common Language Runtime).
+Kot že ime pove, je to okolje za nizkoravenske storitve za izvajanje programov.
+Zelo zanimiv pa je način, kako CLR izvaja programe.
+CLR vpeljuje vmesni jezik (IL Intermediate Language, tudi MSIL).
+Izvorna koda programov se po novem ne prevede v strojno kodo, pač pa v vmesno kodo.
+Pri zagonu namenskega programa se vmesni jezik pretvori v strojno kodo.
+Za to se običajno uporabi prevajalnik JIT (Just in Time).
+Zadeva je sumljivo podobna vmesni kodi platforme java.
+In dejansko je Microsoft tukaj povzel koncept, ki ga je vpeljala java in ga dopolnil z nekaterimi zanimivimi stvarmi.
+V ogrodju .NET se v vmesni jezik prevajajo vsi programski jeziki, pisani za .NET.
+To pomeni, da lahko uporabimo praktično katerikoli jezik.
+Celo več, zaradi vmesnega jezika so zabrisane meje med programskimi jeziki na tak način, kakor smo si že od nekdaj želeli.
+Zgolj za primerjavo si na naslednjem izpisu lahko ogledate klasični zgled Hello World v C# in javi:
+ADO+ temelji na ADO, dobro poznani predmetni abstrakciji podatkovnega modela.
+Vendar je pomembno razumeti, da ADO+ ni zgolj ovoj okrog ADO, pač pa se ponaša z arhitekturo, skladno z .NET.
+Izdeluje: jazPiper, www.jazpiper.com.sg.
+Izdeluje: TEAC, www.teac.com.
+Spletni imenik je le del, čeprav verjetno najbolj obiskan, Slowwwenie.
+Tu je še oddelek z novicami, in to ne samo spletnimi.
+Čisto pravi dnevnik boste našli tu, z novicami iz domačih in tujih krajev, politiko, gospodarstvom, športom, vremenom in kar je pač še novičarskih področij.
+In še kakšna malenkost se najde na Slowwwenii, recimo strip Uporabnikom prijazni (User Friendly) ali poseben izbor najbolj obiska vrednih tujih spletnih strani.
+Če torej na kratko povzamemo Slowwwenia sicer ni Yahoo ali Excite, je pa za naše razmere kar primerno izhodišče za vsakdanje brskanje po spletu.
+Mat'kurja in Slowwwenia sta imenika, ki pa jima manjka pravi spletni iskalnik.
+Brskamo ali iščemo lahko namreč le med spletnimi stranmi, ki so vanju vpisane.
+Iskalniki zahtevajo drugačno in predvsem zahtevnejšo programsko ter strojno opremo, a lastniki slovenskih spletnih imenikov bi se lahko zgledovali po tujih.
+Tudi tam večina imenikov in velikih dveri že nekaj časa ne uporablja svojih iskalnikov, ampak izkoriščajo storitve najbolj zmogljivih, recimo Googla ali Inktomija.
+Ali pa so morda samo čakali, da tudi pri nas dobimo spodoben spletni iskalnik.
+Prispevek je nastajal malce pred novim letom in v iskalnik smo vtipkali kar dedek mraz.
+Najdi.si je naštel natanko 323 zadetkov, kar je bolje od Googla, ki jih je našel 259.
+Tudi pri njihovem razvrščanju se je odrezal malce bolje.
+Ko smo vpisali PC&mediji, se je po številu zadetkov prav tako odrezal nekoliko bolje od Googla (540 proti 332), na prvo mesto pa sta oba postavila pravo stran.
+Vpišemo Ljubljana in Google sedaj najde veliko več zadetkov, kar 218.000 v primerjavi s 100.459, kolikor jih je našel Najdi.si.
+Pozna se pač, da se Ljubljana ne pojavlja samo na slovenskih spletnih straneh.
+Je pa zato Najdi.si ljubljansko domačo stran (www.ljubljana.si) postavil tja, kamor sodi, na prvo mesto, Google pa na tretje.
+Nekoč smo na teh straneh opisovali spletno stran Slapa ob Idrijci in smo ga torej vpisal v oba iskalnika.
+Najdi.si je sedaj spet našel nekaj več zadetkov, a je Google na prvo mesto postavil pravo stran, naš iskalnik pa »šele« na drugo.
+Za dobro mero vpišemo še Martin Krpan in Google na prvo mesto postavi Levstikovo povest, Najdi.si pa tekmovanje za najmočnejšega Slovenca, povest pa na drugo.
+Pri Eonu se ukvarjajo predvsem s spletnim poslovanjem, zato ni nič nenavadnega, da enega pomembnejših delov njihovih dveri predstavljajo spletne trgovine.
+Tu je zbranih nekaj čez 30 spletnih trgovin in čeprav nekaj večjih manjka, je trgovski del Eona kar primerno izhodišče za spletne nakupe.
+Televizor in tak ali drugačen glasbeni sistem je dandanes sestavni del opreme vsakega gospodinjstva, računalnik pa bo to postal, ko se bo enkrat v prihodnjih letih z delovne mize preselil v dnevno sobo, med televizor in radio.
+In takrat se bodo verjetno tudi največji optimisti končno nehali truditi z nadomestki za pravo stvar.
+Lahko pa se seveda tudi motim.
+Manjkajočo polovico gospodinjstev bi prej kakor z oskubljenimi računalniki dosegli z zelo zmogljivimi, ki bi se bolje kakor v pisarni znašli v dnevni sobi, med televizorjem in glasbenim stolpom.
+In medtem ko morajo proizvajalci »klasičnih« telekomunikacijskih sistemov svoje naprave podvreči strogim meritvam in atestom, se kot gobe po dežju pojavljajo ponudniki cenenega prenosa govora po omrežjih IP ter ponujajo okrnjeno storitev uporabnikom, ki se v slepi veri v napredno tehnologijo lovijo na limanice.
+In ko ugotovijo, da morajo med pogovorom vsak stavek po dvakrat ponoviti, da ne morejo klicati z vseh telefonov, da med pogovorom odmeva, kakor da se pogovarjajo v alpski dolini, se šele zavedo, da le ni vse tako lepo, kakor je sprva kazalo.
+Bolj ali manj je tudi jasno, da si bo telefonija IP najprej našla prostor v povezavah na velike razdalje, šele veliko pozneje v dostopovnih omrežjih (Access Networks), kjer bo klasična tehnologija kraljevala še nekaj časa.
+Videti je, da je končno prišel trenutek streznitve, ki bo tudi telefonijo IP postavil na pravo mesto.
+Predvsem pa jo bo treba uvajati z veliko mero zdravega razuma in pragmatizma, saj so se prenekateri z njo že opekli.
+In kdo ve, katera nova tehnologija nas čaka za vogalom.
+Vloga in položaj Telekoma naj tudi po morebitnem prihodu novih akterjev ne bi bila ogrožena, saj naj bi bil Telekom s celostno ponudbo konkurenčen tudi vnaprej.
+Po podatkih, ki jih je predstavil mag. Miran Kramberger, podpredsednik uprave Telekoma, sodi Slovenija med telekomunikacijsko nadpovprečno razvite države sveta, še posebej pri uporabi interneta, pri čemer naj bi bila naša država s 26 uporabniki na sto prebivalcev kar na devetem mestu na svetu.
+Velike zasluge za tako razvitost naj bi po Krambergerjevem mnenju nosil tudi Telekom.
+Prodaja se je vztrajno večala vse leto, od 1,8 milijona prodanih fotoaparatov v prvem četrtletju, do 4 milijonov v zadnjem.
+Glede na leto 1999 se je prodaja digitalnih fotoaparatov povečala za kar 109,5 odstotka, kar je le 200 tisoč digitalcev manj od predvidenih 11 milijonov.
+Letos naj bi se po ocenah NMA prodaja povečala še za 71 odstotkov na dobrih 18 milijonov.
+Analitiki ocenjujejo, da bo največji skok v prodaji opazen v Evropi in Aziji, kjer se digitalni fotoaparati še niso tako prijeli kakor v ZDA in na Japonskem.
+Zaradi hitrega razvoja tehnologije in s tem nižanja cen predvidevajo, da se bodo najbolje prodajali fotoaparati z ločljivostjo dveh milijonov slikovnih elementov, saj dosegajo solidno kakovost fotografij za domače uporabnike, hkrati pa so jim cenovno vse bolj dostopni.
+Za Great Plains Software bo moral Microsoft odšteti kar 1,1 milijarde dolarjev, kar bo pokril z izmenjavo delnic.
+Po prevzemu bo Great Plains postal samostojen oddelek znotraj Microsoftovega oddelka za poslovne rešitve.
+Ameriško podjetje WRQ, ki sodi med vodilne proizvajalce programskih rešitev za povezovanje in omrežja, je izdalo novo različico rešitve za brezžična omrežja NetMotion 2.0.
+Nova izdaja programske opreme ima med drugim povečano stopnjo šifriranja podatkov med brezžično povezavo in podporo za ročne računalnike.
+Protokol XML (extensible markup language), ki naj bi prek spleta omogočil povezave različnih platform, programskih jezikov, omrežij in storitev, je še vedno v razvojni fazi, glavna akterja, Microsoft in Sun Microsystems, pa sta prešla že v povsem resen dvoboj za postavitev novih standardov.
+Novi zapis naj bi si pot izboril tudi v druge naprave.
+Kenwood poleti načrtuje prihod predvajalnika CD DPC-MP727, ki bo lahko z ene plošče predvajal čez 22 ur glasbe v zapisu WMA, japonsko podjetje NTT pa že prodaja brezžični predvajalnik in snemalnik Eggy za zapis Windows Media za zdaj zgolj na Japonskem.
+Prenovljeni Windows Media naj bi bil dokončan do prihoda Whistlerja ob koncu letošnjega leta, dotlej pa bo na voljo kot preizkusna različica.
+JEITA uspešne rezultate pripisuje predvsem večji priljubljenosti interneta, elektronskega poslovanja, večjemu povpraševanju po digitalni avdio-vizualni opremi, prenosnih telefonih in zaslonih LCD.
+Rast proizvodnje naj bi se povečala tudi v letu 2001, po napovedih JEITE za krepkih 7,1 odstotka.
+Microsoft je že lep čas tarča različnih hekerjev, ki skušajo dokazati, da je tudi velikan med programskimi hišami ranljiv pri zaščiti sistemov.
+Potem ko je nizozemskemu hekerju uspelo celo dvakrat zapored vdreti v Microsoftovo omrežje v ZDA, je bil tarča hekerjev nedavno tudi spletni strežnik slovenske podružnice Microsofta, ki ima svoje spletne strani v spletnem strežniku www.microsoft.si, v upravi podjetja ReproMS.
+Z vdorom v sistem je heker spremenil povezavo na pravo stran spletnega strežnika in jo nadomestil s povezavo na svojo stran, na kateri je bil izpisan kratek slogan v slogu filma Trainspotting, proti Microsoftu in za Linux.
+Heker je izkoristil slabosti strežnika IIS in nepazljivost pri nastavitvah.
+Leto 2000 do proizvajalcev računalniških izdelkov ni bilo preveč prijazno.
+Po rekordnem letu 1999, v katerem je prodaja dosegla vrhunec tudi zaradi strahu pred menjavo letnic v računalniških sistemih, je prodaja v minulem letu močno padla.
+Travmatičen je bil predvsem prvi del leta, na kar so proizvajalci tudi računali.
+Sredi leta se je nato prodaja povečala, a se proti koncu leta, zlasti v predbožičnem obdobju, ni stopnjevala tako, kakor so predvidevali in želeli proizvajalci.
+Nova različica ima tudi boljšo spletno podporo, preko odprtega formata DWG pa je uporabnikom na voljo ogromna količina različnih risb in načrtov.
+Svoje izdelke je mogoče na spletu s pomočjo vgrajenih funkciji tudi zelo preprosto objaviti.
+Profesionalna različica vsebuje tudi zmogljiva orodja za načrtovanje in podporo za Visual Basic.
+Le pet mesecev po izdaji prejšnje različice je Autodesk predstavil četrto različico programa za trirazsežno načrtovanje mehanike Autodesk Inventor, ki naj bi omogočal lažji prehod od dvorazsežnega na trirazsežno načrtovanje.
+Več kot 150 izboljšav bo med drugim prispevalo tudi k boljši povezavi med AutoCAD-om in Inventorjem, večji produktivnosti, združljivosti z odprtim formatom DWG, z uporabo izboljšanih tehnologij pa naj bi uporabnikom omogočali lažje ustvarjanje in posredovanje podatkov o načrtih.
+Poleg tega so povečali tudi število oblik, ki so načrtovalcem na voljo, vsem oblikam pa je mogoče po novem določiti tudi površino.
+Autodesk Inventor je trenutno naprodaj v ZDA in Kanadi, na voljo pa je kot večuporabniška licenca v različicah za Microsoft Windows 98, 2000 in NT.
+Ob tej predstavitvi so pri Intelu tudi uradno potrdili govorice, ki so neuradno krožile že nekaj tednov: začetek prodaje cenejše različice najnovejšega procesorja Pentium 4, ki bo odslej poleg različic s taktom 1,4 in 1,5 GHz na voljo tudi v izvedbi s taktom 1,3 GHz.
+Novi procesor je cenejši (409 dolarjev v količinah po 1000), naredili pa so ga predvsem na željo proizvajalcev računalnikov.
+Z njim naj bi laže zapolnili praznino med 1 GHz Peniumom III in 1,4 GHz Pentiumom 4, pri katerih je AMD z Athloni doslej imel kar nekaj manevrskega prostora.
+Proizvajalci naj bi z novim modelom uspeli narediti računalnike s ceno izpod 1500 dolarjev, kar je Intelov odgovor na kritike, da je Pentium 4 predrag.
+Hiter napredek digitalne glasbe (prej ali slej pa tudi filma) ter nenadzorovano širjenje in kopiranje vsebine v digitalnih zapisih je lani pognalo srh v kosti glasbene in filmske industrije.
+Reakcija je bila hitra in večplastna od tožb do izdelave novih, »varnih« zapisov, kakršen je na primer sistem za nadzor SDMI, s katerimi naj bi nadzor vrnili v prave roke.
+Toda dosedanji poizkusi očitno niso bili učinkoviti, saj se ni nič spremenilo.
+Proizvajalci predvajalnikov in računalniških dodatkov sicer spoštujejo zakonodajo, vendar z ničimer ne omejujejo nelegalnega širjenja posnetkov.
+Večina predvajalnikov še naprej podpira nezaščiteni zapis MP3.
+Za preglednost nad vsebino zapisov MP3 skrbi zaslon LCD, ki prikazuje 30-znakovne naslove skladb.
+S pritiski na funkcijske tipke lahko poleg tega neposredno izbiramo med 12 podimeniki, v katerih so na primer skladbe določenega izvajalca.
+Novi model JVC KD-SH99R prihaja na trg v prvi polovici leta, tedaj pa bo znana tudi njegova cena.
+Ob vstopu v novo leto je večina ljudi že pozabila na (računalniški) problem leta 2000, toda težave se pojavljajo še danes, povezane pa so z letom 2001.
+Tokrat ne gre za pomanjkljivo kodo, ki preprečuje pravilno predstavitev letnice 2000, temveč za napako v algoritmih za izračun prestopnega leta, kamor sodi tudi letošnje leto.
+Zaradi teh napak se je po svetu zgodilo že kar precej nevšečnosti.
+Na ta izziv so se doslej odzvali številni proizvajalci, med katerimi sta Compaq in Fujitsu Siemens.
+Compaq je ponudbo tankih strežnikov nedavno razširil z modelom ProLiant DL320, ki se lahko pohvali z višino 1 U, predstavlja pa cenejšo alternativo dosedanjemu modelu ProLiant DL360.
+Strežnik je lahko opremljen z enim procesorjem Pentium III s taktom od 800 MHz do 933 MHz, 128 MB do 2 GB pomnilnikom in do dvema diskoma Ultra2SCSI z možnostjo zamenjave med delovanjem.
+Strežnik ima vgrajena dva omrežna vmesnika s podporo za preklop na drugega v primeru težav, sistem za ločeno zamenjavo procesorskih modulov in diskov ter sistem za pametno in učinkovito razporeditev priključnih kablov.
+Nortel je sklenil sodelovati z družbami Sierra Wireless in Xircom, s katerimi namerava razviti nove modeme za brezžično telefonijo tretjega rodu.
+Podjetji Sierra Wireless in Xircom bosta tako razvili modeme za standarde UTMS/GPRS, ki bodo omogočali hitrosti, skladne z nastajajočimi standardi, predvidoma s hitrostmi do 2 Mb/s. Modemi bodo na voljo v obliki kartic PC Card, CompactFlash, pa tudi kot moduli za vgradnjo v bodoče mobilne telefone.
+Začetek prodaje napovedujejo za prvo polovico leta 2002.
+Podjetje Red Hat vnovič dokazuje, da je preprosta prenosljivost Linuxa ena velikih prednosti tega operacijskega sistema.
+Pred koncem leta 2000 so objavili prvo razvojno različico Red Hat Linuxa, pripravljenega za 64-bitni Intelov procesor Itanium.
+V paketu je poleg Linuxa z jedrom 2.4 tudi okrog 700 programov, prenesenih na novo platformo.
+Čeprav za Itanium operacijske sisteme razvijajo tudi vsi drugi pomembnejši proizvajalci (vključno z Microsoftom), je bil Red Hat z Linuxom prvi, ki ga ponuja končnim uporabnikom.
+Težava zna biti le v tem, da računalniki s procesorjem še niso na voljo, vsaj ne po običajnih prodajnih kanalih.
+Internetni protokol za mobilne telefone WAP dobiva tekmeca.
+Organizacija W3C je nedavno objavila specifikacijo XHTML Basic, ki je optimalizirana za rabo v mobilnih telefonih, odzivnikih in internetnih terminalih za uporabo v televizorjih.
+XHTML Basic je podmnožica lani objavljenega standarda XHTML 1.0, ki združuje lastnosti dosedanjih jezikov HTML in XML.
+XHTML Basic ima manj gradnikov, je preprostejši in optimaliziran za skromnejšo strojno opremo in prenosne hitrosti.
+Novi standard so razvili tudi na podlagi predlogov članov WAP Foruma, ki medtem pripravlja novo specifikacijo WAP 2.0.
+V projekt plačilnega prometa BiH je vključenih 40 komercialnih bank in je zaživel v petek 5. januarja 2001, ko so se zaprla vrata Agencije za plačilni promet.
+Glede na odlično sodelovanje pri projektu v BIH sta se podjetji Logica in Halcom dogovorili o skupnem nastopu v državah, ki prenavljajo svoje sisteme plačilnega prometa.
+Kar nekaj držav je že napovedalo obisk Centralne banke Bosne in Hercegovine, da bi si ogledale plačilni promet in napovedale možnost uvajanja v svoje okolje.
+Podjetje IBM je začelo prodajati nove največje računalnike (mainframe), kar pomeni velik korak v razvoju tega tipa računalniških sistemov.
+Družina računalnikov zSeries (imenovana tudi G7) bo nadomestila dosedanje sisteme G5 ter G6 in njen največji dosežek je brez dvoma povečanje naslovnega prostora s sedanjih 31-bitov na 64-bitov.
+Korak je bil potreben za učinkovito delo z največjimi zbirkami podatkov.
+Novost je tudi povečana prepustnost podatkov v procesnem modulu, saj so v primerjavi z dosedanjim rodom hitrost prenosa podatkov povzdignili z 8 GB/s na 24 GB/s.
+Tudi model HL-1270N je na videz zelo podoben drugim Brotherjem, le da je vanj vgrajen še omrežni vmesnik hitrosti 10/100 Mb/s in da ima lastno različico Postscripta (BRScript 2), kar ga uvršča razred više, med omrežne tiskalnike v srednje velikih podjetjih.
+Predvsem omrežni vmesnik je za to najpomembnejši, občasno pa pride prav tudi Postscript.
+Slednji bi prišel še posebej prav uporabnikom DTP, vendar pa smo pri preizkusu naleteli na težave z združljivostjo.
+Adobe Pagemaker, ki slovi kot eden najzahtevnejših postscriptnih programov, je namreč povzročil, da je tiskalnik izpisal sporočilo o napaki namesto želenega izpisa.
+V načinu PCL je tiskanje istega dokumenta lepo delovalo (seveda pa je bil element EPS slabši, kar je za običajno za »ne-postscriptno« tiskanje).
+Enako kakor pri modelu 1250 je tiskanje iz Pagemakerja (PCL) pri ločljivosti 1200 × 600 pik dodalo nepotrebno črto.
+Postscript je povzročal težave tudi pri tiskanju iz Corel DRAW-ja, vendar le pri ločljivosti 1200 × 600 (tiskalnik ni natisnil ničesar).
+Tiskalnika tiskata zelo ostro besedilo (tudi velikosti 2 pik), vendar pa imata precejšnje težave z enakomernostjo sivinskih prelivov.
+Tako v vektorski sliki kakor v bitni sliki so bili namreč precej slabi lisasti in temačni.
+Tiskalnik je precej hiter, še posebej pri odtisu prve strani.
+Proizvajalec sicer navaja, da naj bi ta trajal le 6 sekund, vendar se naše meritve bolj približujejo 13 sekundam (odvisno od tipa izdelka).
+Tiskalniku zamerimo nekoliko nejasne ikone na zaslonu LCD.
+Nashuatec P7020 in Ricoh AP2100 smo združili pod en opis, saj gre za zelo podobna, skoraj enaka tiskalnika.
+Kakor smo že zapisali, je Ricoh lastnik Nashuateca, Ricohu enakovreden model pa je pravzaprav P7021 (ki ga nismo preizkusili).
+Razlika od modela P7020 je le v tem, da ima Ricoh 2100 (in P7021) malenkost hitrejši mehanizem (21 strani/min) in več pomnilnika in je zato ob isti ceni nekoliko boljši.
+Tiskalnika sta kljub nekoliko drugačnih strojnih lastnostih na zunaj videti le kot malo razširjen model P7014.
+Tudi zmogljivost glede papirja je enaka 250 listov in dodatni podajalnik za 100 listov.
+Treba pa je opozoriti, da je glavna kaseta za papir namenjena le papirju velikosti A4, medtem ko moramo za papir velikosti A3 uporabljati podajalnik.
+To pomeni, da je zmogljivost le 100 listov A3, poleg tega pa je ravnanje pri tiskanju A3 precej težavno.
+Poleg tega, da moramo tiskanje A3 nastaviti v gonilnikih (kar je seveda običajno), moramo tako velikost tudi ročno nastaviti na tiskalniku iz menujev na zaslonu LCD.
+Ker menuji temeljijo na ikonah (kakor pri modelu P7014) je to, vsaj na začetku, dokaj težko.
+Če želimo resno tiskati na papir A3, bo verjetno smiselno kupiti dodatno kaseto velikosti A3.
+Tudi sicer smo imeli s tiskanjem A3 kar nekaj težav, saj se nam je večkrat zgodilo, da je tiskalnik papir slabo povlekel in s tem naredi zastoj.
+Zanimivo je, da to velja le za Nashuatec, za novejši Ricoh pa ne.
+S papirjem velikosti A4 teh težav tudi pri Nashuatecu ni bilo.
+Najmočnejša preizkušena Nashutecova tiskalnika sta modela P7027 in P7045.
+Pravzaprav je bil model P7045 nasploh najhitrejši tiskalnik.
+Vsaj po hitrosti tiskalnega mehanizma sodeč, saj ta zmore kar 45 strani/min!
+Vseeno je zanimivo, da je bil pri nekaterih preizkusih vendarle malenkost hitrejši Lexmarkov tiskalnik iz serije W, ki je imel deklarirano hitrost »le« 35 strani/min.
+Kakor smo zapisali že pri Lexmarku hitrost mehanizma vendarle ni vse.
+Tiskalnik se je sprva pokazal kot zelo počasen.
+Že samo prvo stran navadnega besedila iz Worda je tiskalnik tiskal dobrih 50 sekund, kar je občutno preveč.
+Izkazalo se je, da je krivec (privzeta) nastavitev pošiljanja pisav v krivuljni obliki.
+Ko smo vklopili pošiljanje v bitni obliki, je tiskalnik postal bistveno hitrejši in normalno hiter.
+Vendar pa to velja le za gonilnike PCL.
+Pri tiskanju Wordovih dokumentov s postskriptnimi gonilniki je tiskalnik natisnil le sporočilo o napaki ...
+Fotoaparata je enostaven za rabo in prvi stik uporabniku ne predstavlja nobenih težav.
+Prav tako je zaradi enostavnosti ohišja fotografiranje preprosto in nastavljanje prek menujev nezahtevno.
+Fotografiramo lahko z vsemi Nikonovimi objektivi, vendar pri nekaterih starejših modelih samodejno ostrenje ne deluje.
+Fotoaparat poganjajo tri vrste baterij in vsake skrbijo za določen del.
+Seveda je takšna zasnova malce nerodna, a se je pri daljšem fotografiranju izkazala za koristno.
+Navadne baterije AA poganjajo ohišje, dve litijevi digitalni del, najmanjša gumb-baterija pa skrbi za uro in datum.
+Pri preizkušanju fotoaparata smo uporabljali objektive Nikkor D 24/2,8, D 20/2,8 in D 28/2,8.
+Torej ukazov za neposredno naslavljanje vhodno-izhodnega prostora in glavnega pomnilnika tako rekoč ni ali niso opisani.
+K sreči jih ni težko napisati z vgrajenim zbirnikom.
+Spodnji primer kaže 6 podprogramov, s katerimi lahko hkrati preberemo ali zapišemo 1 bajt, 2 bajta ali 4 bajte.
+Komponenta TDLPortIO vsebuje naslednja polja: pot do knjižnice DLPORTIO.dll (DLLPath), pot do gonilnika DLPORTIO.sys (DriverPath), dovoljenje za pisanje v strojno opremo (HardAccess), ime (Name) in oznako (Tag).
+Najpomembnejše je gotovo polje ime, v katerem nastavimo ime predmeta, ki ga zgradimo s komponento.
+Prednastavljena vrednost je DLPortIO1, mi pa smo se odločili, da jo zamenjamo s PortIO, na kar se nanašajo tudi primeri in opisi v nadaljevanju.
+Čeprav smo navajeni, da komponente same poskrbijo za pripravo za delovanje, pri komponenti DLPortIO ni tako.
+Preden jo začnemo uporabljati, moramo izvesti naslednja ukaza:
+Za privržence Quarka je pomemben tudi filter PDF, ki ga je podjetje pripravljalo kar precej časa.
+Dokaj zanesljiv programčič ustvari datoteko PostScript in jo nato pošlje Adobovemu Distillerju.
+To seveda ni prav nič narobe, vsekakor pa ni najbolj elegantno in pomeni dodatne stroške nakup Acrobata in možne težave.
+Filter PDF omogoča nastavitve dokumenta, lahko celo zaobide nekatere privzete vrednosti Distillerja, to pa je tudi vse.
+Za kako bolj neposredno možnost pa bodo morali uporabniki XPressa počakati na različico 5.0.
+Razmere so idealne za vse zvrsti in pasme plenilcev, roparjev in goljufov, ki obvladajo umetnost, kako del vrednosti, ki se pretaka od proizvodnje in lastnine v državne in občinske blagajne, po stranskih tirih preusmeriti k sebi.
+V prvi vrsti teh plenilcev so seveda kar najvišji državni uslužbenci, začenši s poslanci v parlamentu.
+Namesto da bi naprezali vse sile, da hitro postavijo učinkovito in trdno zakonodajo, ki bo koristna za državljane in posredno za državo, velik del svojih intelektualnih sposobnosti porabijo za iskanje koristi zase, od zgodnje upokojitve in višje plače do stanovanj, avtomobilov in vrste drobnih bonitet, ki bi morale biti politiku zunaj tropske Afrike v sramoto.
+Verjetno dovolj, da bi v normalnem okolju, kjer državljani skozi institucije od policije do inšpektorjev in sodstva in nazadnje do parlamentarnih komisij in volitev nadzirajo svojo »oblast«, takemu posamezniku onemogočili, da s svojimi prsti pride blizu državnega ali javnega denarja.
+A to še ni vse.
+Tancig je kot minister za znanost in tehnologijo leta 1992 kljub ostrim in skoraj enoglasnim protestom strokovne javnosti odobril nakup superračunalnika, ki ni nikoli ničesar pametnega počel in je bil nekaj let pozneje odpisan kot kup starega železa.
+Za marec pri Pošti napovedujejo znamke s podobami stripovskih junakov kavboja Pipca in Rdeče Pese.
+Ta tabor je prvi tovrstni tabor, ki bo potekal zunaj meja Evropske zveze, prireditelji pa upajo, da bodo s pomočjo sponzorjev nabrali sredstva, ki jih še potrebujejo za zahtevno opremo.
+Tuneliranje se uporablja, če je strežnik v drugem delu omrežja kakor ATM, pri čemer je učinkovitost nekoliko nižja.
+Pri tem mora strežnik podpirati IP tuneliranje.
+Preostale lastnosti so podobne kakor pri neposredni povezavi.
+TurboLinux Cluster Server 6, izdelek kranjskega podjetja ActiveTools, je prejel že mnoge nagrade, med drugim priznanje za najboljši izdelek na Infosu 2000.
+TLCS podpira preverjanje delovanje strežnikov, storitev in ATM.
+Ob izpadu TLCS lahko obvesti po elektronski pošti.
+Osnovno preverjanje strežnikov je dosegljivost s programom ping.
+Če se strežnik ne odzove, mu ATM ne posreduje zahtev.
+Pomembno je, da imajo vsi strežniki za neko storitev enako vsebino (podatke).
+Le tako je za odjemalca vseeno, kateri mu streže.
+Priložen je program, ki iz ATM prekopira podatke v strežnike.
+Strežniki morajo imeti le pravilno nastavljen SSH.
+Če so streženi podatki dinamični, se moramo znajti sami.
+Rešitev, od poceni NFS ali uporaba enega upravljalnika zbirk podatkov, do dragih omrežnih diskov (NAS/SAN), prilagodite načrtovanim zahtevam.
+Razlika zmogljivosti med neposredno strežbo enega strežnika brez TLCS in strežbo enega strežnika prek ATM ni opazna.
+Pri preizkusu se je izkazalo, da uporaba dveh strežnikov namesto enega poveča največje število strežb zahtev, a ne sorazmerno.
+En strežnik je zmogel največ 270 zahtev na sekundo, dva pa sta zmogla do 380 zahtev na sekundo.
+Pri tem je neznana obremenjenost omrežij.
+Strežba statičnih strani je bolj odvisna od zmogljivosti omrežja kakor strežba dinamičnih strani, saj se zahteve hitreje obdelajo.
+A pri vseh različnih preizkusih se je pokazalo večanje zmogljivosti pri dveh strežnikih namesto enega.
+Izdeluje: ActiveTools, http://www.activetools.si/.
+(pchw.tif) Ali je mogoče na prostem trgu kupiti ploščo s procesorjem x86 za poganjanje vsaj Windows 95 ali Linux, ki ne bi bila večja od 12 × 12 in bi vsebovala grafično kartico (min 1 MB), na katero bi bilo možno priključiti prikazovalnik LCD, zvočno 16-bitno kartico, pomnilnik in disk in bi imela izhod USB?
+Popravljanje Oken 98 z Windows Update ne pomaga!
+(winNT.tif) Morda bo ta nasvet za uporabnike procesorjev Pentium II in operacijskega sistema Okna NT 4 prišel malo pozno, toda iz izkušenj vemo, da bo marsikdo nad njim še vedno navdušen.
+Pentium II je namreč v istem ohišju s procesorjem vseboval tudi 512 kB drugostopenjski predpomnilnik (L2 Cache), ki pa ga Okna NT po privzeti nastavitvi ne znajo izkoristiti.
+Kaj vse prinaša drugi paket popravkov za Okna 2000 in kaj vse je narobe z Okni 2000 tudi po SP1, lahko preberemo na spletnem naslovu: http://www.activewin.com/win2000/sp2bugs.shtml
+Prva težava se lahko pojavi z osnovno ploščo z naborom vezij Intel 440BX, na katero je vsajena grafična kartica Matrox G200 AGP.
+Računalnik z Okni 2000 se lahko pritoži, da grafične kartice ne najde.
+Rešitev je nadgradnja BIOS-a grafične kartice.
+Nadgradnjo je mogoče najti na Matroxovih spletnih straneh.
+Tudi danes, v času resne krize, Applov vrelec drznosti ne usahne.
+Novi najmočnejši računalniki so spet prvi ponudili pravo stvar DVD zapisovalnik za dostopno ceno.
+Tako kakor je bil pred desetletji laserski tiskalnik resnično razodetje za oblikovalce, ki si niso mogli privoščiti kot žafran dragih stavnih naprav, odpirajo čisto sveži PowerMaci nova obzorja vsem ustvarjalcem animiranih in videovsebin.
+Kdo sumi, da bodo zapisovalnikom DVD začele sedaj strmo padati cene in jih bomo kmalu videli v vsakem drugem PC-ju?
+Za konec pa si privoščimo še majhno špekulacijo z Applovo prihodnostjo, ki jo lahko podkrepimo z zgledom iz »polpretekle« zgodovine.
+Menda je javna skrivnost, da je bila ena od glavnih skrbi razvijalcev novega Mac OS X enostavna prenosljivost na platformo x86.
+Recimo, da Microsoft zares razcepijo.
+Bo Apple potem stavil vse na prenos operacijskega sistema in druge programske opreme na množico konkurenčnih osebnih računalnikov … ter postal samo še programska hiša, tako kakor Jobsovo prejšnje podjetje, NeXT?
+Toda prepoznavanje govora ni najvišji cilj.
+To mesto pripada nadzorovanju računalnikov z mislijo.
+Ta lahko zagotovi brez dvoma najhitrejši pretok podatkov.
+Čeprav se zdi zamisel še znanstvena fantastika, poizkusi že potekajo.
+Na ameriški univerzi Duke je tako mala opica z imenom Belle z vmesnikom, vgrajenim v možgane, že uspešno premikala križec na računalniškem zaslonu.
+Toda strokovnjaki s tem šele spoznavajo, kaj pomenijo in kako delujejo »signali« v telesih živih bitij.
+Čeprav imamo danes pomisleke nad posledicami tovrstne tehnologije pri tem ni dvoma, da je lahko zelo koristna.
+Invalidi bi tako lahko s tovrstno tehnologijo nadzirali delovanje udov in morda nekega dne povsem nadomestili naravne.
+Primerov uporabe je še mnogo.
+Na uvodni strani potrebujemo:
+Nato se lotimo slik.
+Tu se vsaj minimalnim tehnikalijam ne moremo izogniti.
+Za zapis slik obstaja mnogo standardov, vendar splet brez težav prebavi le dva: GIF in JPEG (dostikrat okrajšan kar v JPG).
+Slike morate torej nujno shraniti v enem od obeh zapisov, pri tem pa naj vam pomaga tole enostavno pravilo, zaradi katerega me bodo mnogi znalci pljuvali, saj samo o tej tematiki obstajajo cele knjige: za barvne fotografije uporabite JPG, za risbe pa GIF.
+Zdaj si grem obrisat čelo.
+5. pokradete jih
+Risal kar sam?
+Že ob misli me strese srh!
+A če ste talentirani in imate izkušeno roko, potem zagotovo uporabljate kak spodoben risarski program.
+Kajti, tisti Slikar, ki je priložen Oknom, je bolj ubog in kar je še huje, ne zna zapisati oblik JPG ali GIF in je zatorej za pripravljanje v splet povsem neuporaben.
+Fotografiranje je najenostavnejša možnost, če ste le tehnično opremljeni.
+Iz fotoaparata ali kamere ni noben problem dobiti slik JPG in delo je namesto vas opravila tehnika.
+Za optično branje morate pač imeti optični bralnik in zraven vedno dobite program, ki zna pisati v zahtevanih zapisih.
+Brezplačne knjižnice so posebna spletna mesta, na katera lahko posežete po navdih; dostikrat pridejo prav pri nabiranju raznih okraskov za spletno stran, recimo podlag, robov, gumbov in podobne robe ena teh strani je MediaBuilder (http://www.mediabuilder.com/).
+Arhiv fotografij pa je shranjen v Corbisu (http://www.corbis.com/), kjer pa je že treba seči v žep.
+Podrobnejši seznam tovrstnih spletnih strani najdete v posebnem okvirju.
+Še možnost z druge strani zakona, torej kraja: tistega, kar daste v internet, ne morete zaščititi pred kopiranjem; velja za besedilo in slike.
+Če torej na neki spletni strani zagledate sliko, ki vam je blazno všeč, lahko vedno v Explorerju pokažete nanjo, kliknete desni gumb miške in izberete možnost »Shrani sliko kot ...« ter jo zapišete nekam na disk.
+Pa je vaša!
+Lahko jo torej vključite na svojo stran, ja?
+S tem seveda v večini primerov kršite zakon o avtorskih pravicah in znani so primeri pravniških pisem, ki so jih dobili avtorji spletnih strani, ki so brez dovoljenja uporabljali fotografije iz filmov.
+Stari mački, ki so svojo stran že naredili v tem strežniku, morajo klikniti gumb »Login« (prijava), mi novinci pa hajd na »Sign Up« (vpis).
+Če je kaj narobe, recimo ime spletne strani že zasedeno, program sporoči napako in besedilo ob neustreznem vnosu pobarva rdeče.
+Popravite in spet zahtevajte vpis.
+Spet odločitev, tokrat za pomoč posebnega programa, imenovanega »wizard« (čarovnik) ali pa kar gol začetek nikakor; prava izbira je gradnja strani s pomočjo čarovnika, torej levi gumb.
+Čarovnik prične spraševati.
+Na levi izbiramo ponujene možnosti in na desni vidimo ogled izberemo po okusu in duši.
+Odpre se novo pogovorno okno, v katerem določimo, kakšno knjigo vtisov želimo.
+Ker avtor že na sliki razodeva določeno duševno eleganco, je slog »elegant« edino možen.
+Natipkamo lahko še zahvalne besede po vpisu in določimo še osebne podatke, ki jih program zahteva od vpisovalca.
+Čim manj, veste, nikomur se ne ljubi poleg mnenja še pleteničiti o sebi.
+V menuju »File« (datoteka) izberite »Save As« (shrani kot) in za ime datoteke vtipkajte »plosce« ter kliknite gumb »OK« (v redu).
+Popravljanje strani je seveda na las podobno ustvarjanju, le do programa SiteBuilder se moramo prebiti.
+Najprej, na uvodni strani, izberemo »Login« (prijava), saj nismo več novinci.
+Obstajajo spletne strani, ki posredujejo pri vpisih.
+Obrazec izpolnite enkrat, nato pa ga te strani razpošljejo naprej, pač ustrezno prirejene vsakemu iskalniku in imeniku.
+Nekateri se hvalijo, da opravijo vpis tudi v 1600 izhodišč naenkrat.
+Res je, vendar je čas denar in zato ga od vas tudi pričakujejo.
+Za varčne obstajajo vmesne različice, recimo @Submit!
+Website Promotion Center (http://www.submit-away.com/), na katerem obrazec res izpolnite enkrat, nato pa ga morate neprestano s klikom potrjevati in razpošiljati (dokler se ne naveličate in plačate!
+Vendar, ne poznajo oni naše škrtosti!) ali pa DOOG Search Engine Registration!
+(http://www.doog.com), na katerem vam vpišejo stran v 32 imenikov in iskalnikov kar zastonj, v samopromocijske namene.
+Tale korak ni obvezen in tudi ne čisto brezplačen, vendar ga dajmo vseeno napraviti, za vsak primer ste nezadovoljni s predolgim spletnim naslovom svoje strani?
+Bi radi kaj bolj udarnega?
+Omenil sem www.
+VrtnoOrodje.com, bi bilo to primerno?
+Vsekakor pa ne pozabite: če že registrirate domeno, mora biti zares kratka in lahko zapomljiva.
+Še neprimerno več pa boste za dostopnost svoje strani naredili z vpisom v imenike in iskalnike.
+Obstajajo spletne strani, ki vam ponujajo en sam pripomoček, recimo zgolj iskanje znotraj vaše strani.
+Uporabnik bo vtipkal besedo ali več in kliknil gumb iskanje izpisal se mu bo seznam vaših podstrani, na katerih se besede pojavljajo.
+Ne, nič vam ni treba programirati, le vedeti morate, kako ponujen pripomoček vključiti v lastno stran.
+Postopek je povsod podoben, četudi si bomo konkretni primer pogledali v strežniku HomeStead (http://www.homestead.com/).
+2. avtorji slehernega orodja so vam pripravili okence z vpisanimi čudnimi kodami in od vas pričakujejo, da jih skopirate v svojo spletno stran.
+Program vam na spletno stran postavi poseben okvir, ki ga lahko namestite na želeno mesto, hkrati pa vas vabi, da ga dvakrat kliknete in napolnite z vsebino.
+Ubogajte ga.
+Odpre se posebno okno.
+Kliknite gumb »Edit HTML«.
+Vanj morate spustiti vse besedilo, ki ga imate na odložišču in je upajmo, še vedno tisto, ki ste ga pobrali iz okenca strežnika PicoSearch.
+Kliknite gumb OK.
+Datoteko, ki ste jo naredili v Wordu, odprite s programom Beležnica.
+Poiščite vrstico, ki se začne z znakom manjši in besedo »table«, torej takole:
+Vtipkate naslov svoje spletne strani, določite, katere preglede naj program opravi in navedete e-poštni naslov, kamor vam pošlje poročilo to bo enostavneje od čakanja na zvezi, preden pregled obrodi sadove.
+Kliknete gumb »Go!«
+(Začni!).
+Kmalu dobite pismo, v kateri je navedena povezava do izvida, kliknete jo in pričnete brati.
+Pretrgane povezave so navedene v rubriki »broken links« in zagotovo si oglejte seznam, vendar brez panike nekatere napake povzroči tudi vzrok »access denied for robots«, kar po domače povedano pomeni le, da strežnik ni k sebi spustil programa (robota, torej), spustil pa bo ljudi.
+V takem primeru napako lahko mirno ignorirate.

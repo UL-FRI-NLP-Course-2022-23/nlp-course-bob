@@ -1,0 +1,4 @@
+Kaj to pomeni?
+Če sistem A zaupa sistemu B, to pomeni, da dovoljuje dostop vsakemu posamezniku iz sistema B brez kakršne koli procedure (primer sta dve podružnici istega podjetja).
+Kaj pa se zgodi, če sistem B zaupa sistemu C?
+To pomeni, da tudi sistem A zaupa sistemu C, saj lahko vsakdo iz sistema C pride v sistem B in od tam v A. Še več, sistem A zaupa tudi vsem sistemom, ki jim zaupa sistem C. Če vdiralec najde eno samo luknjo v tej verigi sistemov, ki si zaupajo, si lahko omogoči dostop do katerega koli člena v verigi.

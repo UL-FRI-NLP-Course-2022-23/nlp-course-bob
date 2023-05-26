@@ -1,0 +1,28 @@
+V razredu najhitrejših avtomobilov je prišlo do velike konstrukcijske spremembe. 
+Novi modeli se namreč ne ponašajo več z namestitvijo motorja v sredini, ampak v nosu vozila.
+
+Med avtomobili istega razreda, ki še dopuščajo primerjavo z opisanimi štirimi, velja omeniti dva modela najbolj slovečih evropskih športnih avtomobilov, pri katerih pa gre za drugačno kombinacijo namestitve pogona in motorja. 
+Ferrarijev zastopnik F 355, ki je naslednik modela 348, ima sredinski motor, ki je nameščen za sedežema in poganja zadnja kolesa. 
+Motor V 8 ima 3496 cm3 gibne prostornine in štiri ventile na valj, največja moč je 380 KM (280 kW) pri 8200 vrt./min., največji navor (pri 5800 vrt./min.) pa znaša 360 Nm. 
+Moč se na cesto prenaša prek šeststopenjskega menjalnika. 
+Vozilo ima naslednje vozne zmogljivosti: pospeševanje od 0 do 100 km/h v 4,9 s, pospeševanje od 0 do 200 km/h v 16,5 s, največja hitrost 295 km/h, zavorna pot (izredno kakovostne zavore z dodatkom ABS) od 100 do 0 km/h znaša 37,5 m, od 200 do 0 km/h pa 148,4 m. 
+Avtomobil je obut v gume Bridgestone expedia S-01: spredaj 225/40 ZR 18 in zadaj 265/40 ZR 18.
+
+356/485
+
+569/5000
+
+4550
+
+Širina vozila (mm) 1954
+
+1277
+
+285/45 ZR 18
+
+295/35 ZR 18
+
+0--200 km/h
+
+5.
+

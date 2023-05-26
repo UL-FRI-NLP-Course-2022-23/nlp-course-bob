@@ -1,0 +1,13 @@
+Poleg teh dveh konstrukcij razvijajo Japonci še tretjo, ki pa jo skrivajo pred javnostjo. 
+Gre za ladjo s šobami, pri kateri vodo izrivajo magnetne sile. 
+V trupu magnetne ladje leži vzdolžno nameščena in z morsko vodo napolnjena cev. 
+Nad in pod njo so tuljave, levo in desno v stenah pa elektrode. 
+Ko jim dovedejo električni tok, ta potuje skozi cev zaradi ionov, ki jih tvorijo molekule soli v morski vodi. 
+Električni tok v tuljavah povzroča nastanek magnetnega polja, ki ione usmerja nazaj proti koncu cevi. 
+Tako gre za neke vrste reakcijski motor. 
+Prototip take ladje Yamato 1 že dosega hitrost 30 km/h. 
+Sedaj mu morajo le še povečati moč. 
+Pri tem je največja ovira električni upor v tuljavah, ki porabi večino energije. 
+Zaradi zmanjšanja upora hladijo tuljave s helijem, ohlajenim na -270 °C. Pri tej temperaturi se mrežasta atomska struktura kovine spremeni in nastane t. i. superprevodnik, skozi katerega lahko teče tok z minimalnim uporom. 
+Toda preden bodo to tehnologijo izpopolnili in dosegli želeno hitrost 180 km/h, bo preteklo še kar nekaj vode in časa. 
+

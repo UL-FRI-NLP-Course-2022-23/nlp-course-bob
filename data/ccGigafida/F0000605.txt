@@ -1,0 +1,878 @@
+www.nvidia.com
+
+Toshiba pa bo sredi julija pričela prodajati prvi digitalni fotoaparat z več kot 4 milijoni svetlobnih elementov. 
+Fotoaparat ima 2,4-kratni optični in 2,2-kratni digitalni zum, z računalnikom ga je mogoče povezati prek vmesnika USB ali ga priključiti na televizor prek vgrajenega TV-izhoda. 
+Kot vse več digitalnih fotoaparatov lahko namreč tudi z novim Toshibinim izdelkom snemamo krajše videoposnetke. 
+Aparat shrani do 83 posnetkov na 128 MB kartico Smart Media z veliko ločljivostjo ali 249 posnetkov z majhno ločljivostjo. 
+Tudi cena novega aparata utegne biti mikavna, saj naj bi v prosti prodaji stal približno 585 dolarjev. 
+
+IBM-ova tehnologija obljublja štirikratno povečavo diskov
+
+IBM je pričel s proizvodnjo nove tehnologije za prevleko podatkovnih nosilcev v diskih, ki obljublja bistveno povečanje zmogljivosti shranjevanja podatkov v primerjavi s tem, kar se uporablja danes pri magnetnih diskih. 
+Novost, ki ji pri IBM-u pravijo »čarobni prah« (pixie dust) naj bi kar štirikrat povečala gostoto zapisa podatkov, s čimer naj bi dosegli skupno gostoto približno 100 GB na kvadratni palec površine. 
+V praksi to pomeni, da lahko v tem obdobju pričakujemo približno 400 GB 3,5-palčne diske, na miniaturne diske za ročne računalnike (MicroDrive) pa naj bi lahko shranili kar 6 GB podatkov, kar je približno dovolj prostora za osem celovečernih filmov.
+
+IBM bo pričel uporabljati novo tehnologijo sprva v novi generaciji diskov Travelstar, namenjeni prenosnim računalnikom (dosegli naj bi velikosti do 200 GB), pozneje pa tudi v diskih za osebne računalnike in večje sisteme. 
+Raziskovalci tudi menijo, da bi lahko nova tehnologija spodbudila razvoj manjših in energijsko varčnejših diskov, primernih za mobilne naprave. 
+
+Tiskalnik fotografij
+
+stran 42
+
+Adobov program za obdelavo digitalnih slik je preprost, a za marsikoga dovolj zmogljiv.
+
+Opisane splošne postopke za različna programska okolja natančneje določajo standardi. 
+Za sisteme, združljive s priporočilom POSIX, sta zanimiva standarda ISO/IEC 9899:1999 (Programski jezik C) ter ISO/IEC 9945-1:1993 in 9945-2:1993 (POSIX.1 in POSIX.2).
+
+• LC_TIME Kategorija določa izpis datuma in ure. 
+Pomembno za funkciji asctime in strftime.
+
+msgstr "napaka pri branju %s"
+
+#include <sys/types.h>
+
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+
+"Content-Type: text/plain; charset=CHARSET\n"
+
+"POT-Creation-Date: 2001-05-07 19:58+0200\n"
+
+#: countfiles.c:25
+
+#define PACKAGE "countfiles"
+
+bindtextdomain (PACKAGE, LOCALEDIR);
+
+exit(0);
+
+V preambuli programa smo vključili dve dodatni glavi, locale.h in libintl.h. 
+V prvi so določene vrednosti konstant LC_ALL in podobno, podane so glave funkcij setlocale in drugih splošnih lokalizacijskih funkcij. 
+V drugi, libintl.h, so določene glave funkcij, ki so del mehanizma GNU Gettext: gettext, dcgettext ipd.
+
+Prav tako v preambuli smo definirali dve spremenljivki, PACKAGE in LOCALEDIR. 
+Prva določa ime programa ali programskega paketa, ki ga prevajamo, druga pa, kje v sistemu najdemo kataloge sporočil. 
+Pri večjih projektih ju ne bi določili v programu, ampak v ločeni glavi ali pa v datoteki Makefile. 
+Določili smo tudi makroukaz _, o katerem bomo več povedali nekaj pozneje.
+
+Množinske oblike
+
+else
+
+3 tri datoteke trije programi
+
+edninska oblika
+
+else
+
+"Content-Transfer-Encoding: 8-bit\n"
+
+msgid_plural "%d files in directory %s\n"
+
+gettext.bindtextdomain('countfiles', '/usr/share/locale/')
+
+gettext.textdomain('countfiles')
+
+Pri monitorjih LCD smo uporabili podobna merila kakor pri preizkusu monitorjev s katodno cevjo. 
+Na prvem mestu je seveda kakovost prikazane slike, ki je osnovno vodilo pri nakupu monitorja. 
+Tudi zunanji videz, dodatne možnosti, preprostost nastavljanja in podobno so vplivali na oceno, vendar precej manj.
+
+Velikost in ločljivost: 15-palčni, 1024 × 768
+
+Cena: 174.600 tolarjev
+
+Cena: 309.400 tolarjev
+
+Priklop: analogni VGA 
+
+Fujitsu Siemens FA3851
+
+Velikost in ločljivost: 15-palčni, 1024 × 768
+
+Priklop: analogni VGA
+
+NEC MultiSync 1525M
+
+Skupna ocena: 9,4
+
+Prikazana slika je ostra in kontrastna, z dobro vidnimi svetlimi in temnimi odtenki. 
+Tudi kotna vidljivost je zelo dobra, saj se barve pri gledanju pod kotom minimalno spremenijo, le slika postane temnejša. 
+Vgrajena avtomatika popolnoma odpravi sneženje. 
+Zaslon pesti slaba enakomernost, saj je slika po kotih precej temnejša, kar opazimo tudi pri običajnem delu.
+
+Priklop: analogni VGA
+
+Skupna ocena: 8,9
+
+Priklop: analogni VGA
+
+Priklop: analogni VGA 
+
+Kakovost prikaza na žalost zaostaja za zunanjim videzom. 
+Najbolj moti neenakomernost slike, saj ob robovih opazimo temnejše lise, ki so zelo vidne tudi pri običajnem delu. 
+Tudi sneženja nam ni uspelo odpraviti, ne z avtomatiko ne ročno. 
+Bolje se monitor odreže pri kotni vidljivosti, ki je nadpovprečna, pa tudi kontrasti so zelo dobri: svetli in temni odtenki so dobro razločni.
+
+Cena: 197.187 tolarjev
+
+IBM T84H je po obliki popolnoma enak manjšemu modelu iz IBM-ove linije, monitorju T54A, ločita se le po tem, da je večji črn. 
+Stojalo je zelo tanko, tako da v njem ni prostora za napajalnik, pa tudi vrtenja okoli navpične osi ne omogoča. 
+Od manjšega monitorja se večji model loči po digitalnem vmesniku DVI, tako da lahko s primerno grafično kartico izkoristimo vse prednosti digitalnega prikazovanja slike.
+
+AS4311U je najosnovnejši model med večjimi Iiyaminimi zasloni s tekočimi kristali. 
+Po obliki je popolnoma enak preostalim izdelkom tega izdelovalca. 
+Pohvalili bi vgrajeni napajalnik, stojalo pa omogoča tudi vrtenje zaslona okoli navpične osi.
+
+Velikost in ločljivost: 17-palčni, 1280 × 1024
+
+Miro FP180
+
+Priklop: analogni VGA 
+
+INTERNET
+
+Prenosni računalnik
+
+Pri Ipassu se lahko odločamo med tem, kakšne hitrosti priklopa ponuja ponudnik (56 Kb/s ali ISDN) in koliko nam bo za priklop zaračunal. 
+Cene se gibljejo od dveh dolarjev na uro (v ZDA) do največ 13 dolarjev na minuto (ponekod v Evropi ali Aziji). 
+Ta znesek se nam bo preprosto prištel k računu, ki ga mesečno plačujemo slovenskemu ponudniku. 
+Če upoštevamo, da so recimo v ZDA krajevni telefonski klici praktično zastonj, je strošek take povezave pravzaprav zelo nizek.
+
+In seveda z iPassom ali GRIC-em lahko uporabljamo kakršnokoli modemsko povezavo. 
+Od vgrajenega modema do infrardeče povezave prek GSM.
+
+Današnji ročni računalniki so že dovolj zmogljivi, da nam lahko delno nadomestijo prenosne računalnike. 
+Vgrajene imajo odjemalce za elektronsko pošto, omogočajo deskanje po internetu, do neke mere omogočajo celo (omejen) daljinski nadzor nad računalniki (VNC, Telnet), predvsem pa jih lahko uporabljamo tudi za pisanje in urejanje elektronskih preglednic.
+
+Ročni računalniki
+
+Še naprej se kaže trend miniaturizacije, pri katerem sta Compaq pri sistemov Windows CE, zlasti pa Palm z novim modelom m505, postavila nove mejnike mogočega. 
+Pomemben dejavnik postajajo razširitvene lastnosti računalnikov, še posebej kar se tiče komunikacijskih možnosti in povezljivosti z internetom. 
+Predvsem pa je dobesedno eksplodiralo področje programske opreme za ročne računalnike, na katerem je ponudba že izjemno bogata, porajajo pa se nove in nove zamisli, kaj lahko z ročnimi računalniki počnemo.
+
+V primerjavi z zasloni računalnikov Palm so zasloni računalnikov z okoljem Windows CE kar precej večji. 
+Po diagonali je za kake 1,5 cm več uporabne površine, to pa se kar precej pozna. 
+Zlasti zato, ker operacijski sistem Windows CE nima fiksnega vnosnega mesta, temveč se razpoznavalnik ali tipkovnica vselej prikažeta le po potrebi. 
+Poleg tega je večja tudi ločljivost, ki znaša 240 × 320 pik. 
+Večja ločljivost, predvsem po višini, pride še posebej prav, ko prebiramo dokumente, najbolj pa pri pregledovanju spletnih strani, pri čemer je vsak milimeter zaslona dragocen. 
+
+Procesor in pomnilnik
+
+Vmesniki, ki jih imajo današnji ročni računalniki, so vse bolj pomemben dejavnik, ki bo sčasoma postal morda celo odločilen. 
+V prvi generaciji ročnih in žepnih računalnikov smo med temi in namiznimi izmenjevali le relativno preproste podatke, na primer besedila, preglednice, koledar, imenik, morda elektronsko pošto. 
+Za tako izmenjavo podatkov pa so zaporedni vmesniki povsem dovolj. 
+Težave smo morda lahko imeli le, če smo imeli na namiznem računalniku vse zaporedne vtičnice že zasedene.
+
+Prav te razširitvene enote pa so eden ključnih dejavnikov, ki pogojujejo zmožnosti, pa tudi velikost in privlačnost računalnikov. 
+Dokončnega standarda na tem področju ni, zato v različnih računalnikih srečamo najrazličnejše enote. 
+Pri računalnikih z okoljem Windows CE prevladujejo razširitvene enote za kartice Compact Flash. 
+Te kartice porabijo malo energije in so optimalizirane za rabo v ročnih računalnikih. 
+Poleg pomnilniških kartic (do velikosti 0,5 GB ali malo čez) in celo diskov (IBM Microdrive) je danes v tej obliki na voljo še niz drugih dodatkov od modemov, omrežnih vmesnikov, brezžičnih vmesnikov, modemov GSM, sprejemnikov GPS in bralnikov črtne kode do kamer. 
+Ponudba je zelo bogata, treba pa je paziti, da kartica z gonilniki podpira tudi platformo PocketPC.
+
+Noben ponudnik v osnovnem paketu ne omogoča usklajevanja podatkov prek interneta. 
+Za tovrstne rešitve, ki pridejo zelo do izraza pri mobilni rabi, moramo zato poseči po ponudbi drugih proizvajalcev, kar pa ni prav poceni.
+
+Omeniti velja, da za okolji PalmOS in Windows CE obstaja tudi tretji način za vnos podatkov in to je vnos prek zelo privlačne in zanimive zložljive tipkovnice, ki je na voljo kot zunanja enota za doplačilo. 
+V zloženem stanju je le malenkost večja od ročnih računalnikov (vsaj tistih z Windows CE), v operativnem položaju pa dosega mere tipkovnice za običajne prenosne računalnike in je zato precej bolj uporabna od drobnih tipkovnic pri žepnih računalnikih. 
+Zanimivo je, da je proizvajalec te tipkovnice za obe platformi isti (Targus), tipkovnici pa se med sabo razlikujeta le po vmesniku. 
+Na računalnik jih namreč priključimo prek zaporednega ali vmesnika USB, ki je spodnjem delu sistema, ta pa pri delu sloni na posebnem stojalu. 
+Tak sistem vnosa podatkov je najbolj zanesljiv in najhitrejši, slabost pa je v tem, da tovrstne tipkovnice lahko uporabljamo le na trdni površini, najraje na mizi.
+
+Tretja rešitev se je pojavila šele pred kratkim, ponujajo pa jo pri češkem podjetju SunnySoft (www.sunnysoft.cz). 
+Program InterWrite je nekakšna mešanica med prvo in drugo rešitvijo, saj ima prevedeno tipkovnico in slovenske regionalne nastavitve, ne pa tudi prevoda operacijskega sistema in programov. 
+Zato pa so pri SunnySoft primerno rešili težavo razpoznavo slovenske pisave. 
+Vgrajeni razpoznavalnik šumnike razume tako, da po ustreznem sičniku (c, s, z) na numeričnem delu razpoznavalnika napišemo obratno poševno črto (backslash), ki sičnik spremeni v šumnik. 
+Sistem deluje brezhibno in zelo zanesljivo. 
+V celoti se zdi InterWriter tudi najbolj dognana rešitev, čeprav je zaslonska tipkovnica drugače razporejena kot pri drugih dveh programih.
+
+»Vroči« izdelki
+
+Ročni računalniki torej preživljajo svoja zlata leta. 
+V primerjavi z lanskim letom, ki je bilo že samo po sebi rekordno, kaže letos še bolje. 
+Prodaja raste z bistveno hitreje kakor na drugih področjih računalništva, pa tudi absolutne številke, nekaj milijonov primerkov, so že spoštovanja vredne. 
+V časih, ko se proizvajalci otepajo z upadom prodaje »klasičnih« računalniških izdelkov, je to pravcati obliž za finančne težave. 
+Zato lahko pričakujemo v prihodnje še bolj bogato ponudbo, najbrž pa tudi nastop novih proizvajalcev. 
+Sploh zato, ker konkurenca še ni zelo močna, cene pa še omogočajo razmeroma lep zaslužek. 
+
+Še več pa si lahko obetamo od letošnje jeseni naprej. 
+Tedaj naj bi v prodajo prišli novi modeli ročnih računalnikov, ki bodo imeli bistveno izboljšane komunikacijske možnosti, na primer z vgrajenimi telefoni GSM in brezžičnimi vmesniki Bluetooth. 
+Prav komunikacije so ena poglavitnih novosti, ki bodo krojile prihodnost na tem področju v prihodnjih letih. 
+Glede na to, da taka smer razvoja skoraj neizbežno pelje do spopada s proizvajalci »pametnih« mobilnih telefonov, bo še zanimivo.
+
+Težko pa je danes napovedovati končni domet naprav, kakršne so ročni računalniki. 
+Jasno je, da bodo igrali vlogo osebnega informacijskega terminala, lahko tudi rečemo resnično osebnega računalnika. 
+Zagotovo bo vse večji poudarek na internetni povezljivosti in večpredstavnih funkcijah. 
+Pričakujemo lahko tudi napredek interakcije z računalnikom, ki bo vključeval vse od bolj kakovostnih zaslonov (tudi upogljivih ali z okularji za rabo na glavi) do alternativnih načinov za vnos podatkov (razpoznave govora). 
+Precej sprememb si lahko obetamo tudi pri pomnilniških nosilcih, pri katerih bomo doživeli vse večjo zmogljivost ob veliki miniaturizaciji. 
+Toda dolgoročno podatkov ne bomo shranjevali krajevno, temveč bomo do njih večinoma dostopali prek spleta. 
+Kljub vsemu lahko največ pričakujemo od razvoja programske opreme in storitev, za katere je zelo težko določiti meje. 
+
+NOVOSTI
+
+www.palm.com
+
+Zaslon je kakovosten, predvsem v temnejših prostorih, medtem ko pri močni dnevni svetlobi ne deluje najbolje. 
+Po osnovnih značilnostih in videzu je skoraj popolnoma enak modelu Palm IIIc, le da je za malenkost svetlejši. 
+Tudi zanj velja, da je slika preveč zrnata, kar je posledica majhne ločljivosti 160 × 160 pik. 
+Zato pa smo pri Prismu opazili nekaj več trepetanja, ki je verjetno posledica vpetja zaslona. 
+Procesor je enak kakor drugod, pomnilnik je 8 MB, tu pa sta tudi vmesnik USB in operacijski sistem PalmOS 3.5h.
+
+Srce računalnika je enako kakor pri dosedanjih modelih, zato pa ima m105 kar 8 MB pomnilnik (manjši Palm m100 ima le 2 MB). 
+Varčevalni ukrep pa se kaže v načinu zagotavljanja energije. 
+Namesto akumulatorjev ima na zadnji strani ležišče za dve bateriji AAA). 
+Nabor programov je podoben kakor pri drugih Palmih, vgrajen pa je operacijski sistem PalmOS 3.5. 
+Žal ta programsko ni nadgradljiv, kar je naslednja varčevalna stopnja, ki pušča nekaj dvomov.
+
+V začetku leta, ko so Palmovi licenčni partnerji in tekmeci, kot sta Handspring in Sony predstavili niz novih modelov, smo se spraševali, kako se bo odzvalo podjetje, ki drži levji delež tržišča. 
+Odgovor je prišel na letošnjem Cebitu, ko je Palm predstavil novo generacijo lahkih ročnih računalnikov m500/m505. 
+Kljub temu da je v ospredju predvsem barvni model, je vsaj tako zanimiv, za nekatere morda celo bolj, sivinski model Palm m500 s številnimi izboljšavami in novostmi, ki tudi precej dlje deluje z enim polnjenjem kakor njegov barvni dvojček. 
+
+Oba novinca imata oblikovno skoraj povsem enako ohišje, le da je sivinski model za 2 milimetra tanjši in 25 gramov lažji, česar pa skoraj ni opaziti. 
+Te mere so velik dosežek tudi zato, ker ima novi model vgrajeno enoto za kartice MMC (MultiMedia Card) in SD (Secure Digital). 
+Velika novost je vmesnik USB, ki je obenem tudi razširitveno mesto za niz novih razširitvenih modulov. 
+
+Računalnik poganja enak procesor Motorola Dragonball s taktom 33 MHz. 
+Pomnilnik je velik 8 MB, Palm m505 pa ima posodobljen operacijski sistem PalmOS 4.0, ki pa je le drobna izboljšava glede na dosedanje različice. 
+
+Prodaja: Tobos, www.tobos.si, (01) 433 23 33. 
+
+Skupna ocena: 8.
+
+Prodaja: DISS, www.diss.si, (01) 511 22 31. 
+
+Mere: 8,3 × 13 × 1,5 cm, teža 178 g.
+
+Za: Videz, opremljenost, vmesnik USB.
+
+Mere: 7,9 × 11,9 × 1,1 cm, teža 136 g.
+
+Palm m105
+
+Značilnosti: 8 MB pomnilnik, zaporedni vmesnik.
+
+Skupna ocena: 7,8.
+
+Cena: 114.240 tolarjev.
+
+Zaslon: Sivinski STN, ločljivost 160 × 160 pik.
+
+Mere: 8,5 × 5,4 × 0,5 cm, teža 40 g.
+
+Cena: 46.900 tolarjev.
+
+WA 3050 po videzu spominja na običajne ročne računalnike. 
+Ima velik sivinski zaslon, ki je po merah povsem enak kakor pri drugih računalnikih PocketPC. 
+Žal kakovost zaslona ni najboljša, zlasti kontrast, ki sodi v povprečje tovrstnih izdelkov. 
+Toda to odločitev so delno narekovale povečane energijske zahteve celote. 
+Kljub temu se pri tipičnem delu zadovoljivo obnese. 
+
+Kot telefon se Sagem WA 3050 vede enako kakor običajni mobilni telefoni. 
+Namesto običajnega zvonjenja lahko predvajamo poljubno melodijo. 
+Računalnik sprejema klice, tudi ko je ugasnjen. 
+Vgrajeni akumulator omogoča celo opozarjanje na klice s tresenjem. 
+O aktivnosti sistema sporočata tudi dve manjši svetleči diodi na zgornjem delu računalnika. 
+Mikrofon je vgrajen pod zaslonom, slušalka pa nad njim. 
+Kakovost zvoka je zelo dobra. 
+Sistem omogoča tudi prostoročno klicanje in priključitev zunanje slušalke z vdelanim mikrofonom.
+
+Zelo udobno je tudi delo z besedilom v trenutku lahko zamenjamo nabor znakov, barvo in smer besedila, poleg tega pa imamo na razpolago še prav lep nabor različnih učinkov, s katerimi krivimo besedilo, ga oblikujemo v trirazsežni zapis, spreminjamo velikost in podobno. 
+Magična radirka v trenutku odstrani barvno sorodna področja, na primer ozadje, ki ga imamo v temnih odtenkih na fotografiji, narejeni v sobi v nadaljevanju dela s sliko tako lahko v nekaj potezah neprivlačno ozadje preprosto nadomestimo z drugim ozadjem, na primer s podobo čudovite plaže. 
+Zelo priročna so orodja za zameglitev in izostritev, po uporabi bliskavice pri fotografiranju pa lahko za popravke slike koristno uporabimo odstranjevalec rdečih oči. 
+Seveda so poleg tega v Elementih vgrajena tudi vsa dokaj znana orodja za učinke osvetljevanja delov slike, učinke 3D in armado že omenjenih filtrov.
+
+Zahteve: Pentium II (za Windows), PowerPC (za Mac), 64 MB pomnilnik, 150 MB prostora na disku in ločljivost 800 × 600 pik.
+
+Spomladi leta 2001 je podjetje Caldera Systems, znano po svoji distribuciji Linuxa, za 7 milijonov dolarjev in manj kakor tretjino svojih delnic kupilo oddelek za strežnike in oddelek za profesionalne storitve podjetja SCO, ter skupaj s kodo, ki seže v čas AT&T, postalo lastnik blagovne znamke Unix. 
+Preostanek SCO še naprej razvija programske storitve pod novo blagovno znamko Tarantella. 
+Z distribucijami OpenLinux in eServer je bila Caldera že prej eden od štirih največjih distributerjev Linuxa, zdaj pa so se s široko razvejeno mrežo partnerjev razširili po vsem svetu. 
+V Zagrebu so 23. maja organizirali mednarodno (na vabilu je sprva pisalo »balkansko«) konferenco partnerjev bivšega podjetja SCO, na kateri so predstavili svoje poglede na Unix in Linux ter novosti v svojem programu. 
+
+Uroš Mesojedec
+
+begin
+
+Execute;
+
+until ok;
+
+aHWnd : hWnd;
+
+- terminal GSM Nokia 6110 s posebnim kablom za neposredno povezavo s Cassiopeio.
+
+S programsko opremo je bilo laže. 
+Izbrali smo jo glede na že izbrane dokumente in vrste podatkov, ki smo jih želeli prenašati in obdelovati:
+
+Slika 6: »Delovodja« pregleduje dnevni plan aktivnosti.
+
+• dveri za upravljanje dokumentov bi morale biti bolj prilagojene namenu sistema e-gradbišče ter posebnostim ročnih računalnikov (predvsem obliki in velikosti zaslona),
+
+Projektor je oglat, razmeroma majhen, toda nekoliko težji, zato ne sodi v razred najlažjih prenosnih modelov. 
+Glede na cenovni razred je dobro opremljen in funkcijsko popoln. 
+Vgrajeni objektiv je ravno pravšnji, z velikim razponom povečave, tako da vselej najdemo pravšnjo sliko. 
+Ostrimo lahko le ročno, zumiramo pa z dvema tipkama. 
+Pod ohišjem sta dve prilagodljivi nožici, tako da vselej zlahka najdemo pravi nagib. 
+Stabilnost je vzorna. 
+
+Ena dobrih lastnosti novega projektorja je nizka cena, ki je celo najnižja od vseh doslej preizkušenih projektorjev. 
+Pohvali se lahko tudi z bogato opremo, vendar to ne odtehta nekoliko slabše slike, tako v pogledu kakovosti kakor svetilnosti. 
+
+Epson EMP-50
+
+Vladimir Djurdjič
+
+Logitech, ki je nastal leta 1981 v Švici, se je na tržišče vključil z miškami, od katerih je prvi model stal celih 100 dolarjev. 
+Danes pa njihov program poleg mišk, pri katerih jim je edini resni tekmec le Microsoft, zajema še igralne palice, volane, tipkovnice in celo spletne kamere, saj so nedavno tega kupili pionirja tega področja podjetje Connectix. 
+Najbolj občudovan Logitechov izdelek je brezžična optična miška, ki je trenutno nima noben od tekmecev, razen podjetja Dexxa, ki pa je v Logitechovi lasti. 
+Zanimive so tudi miške s tehnologijo iFeel, ki se ob kliku različnih ikon različno tresejo. 
+Nova pridobitev pa je program zvočnikov, saj je Logitech pred kratkim kupil ugledno podjetje s tega področja Labtec. 
+Predvsem v ZDA je imel Labtec zelo visok tržni delež na področju zvočnikov, zato si Logitech z zvočniki še veliko obeta. 
+
+Lahko bi razmišljali čisto praktično ko greste k zdravniku, morate najprej na nek »bankomat« (zakaj tega ne morem opraviti od doma prek računalnika ali telefona?). 
+Ko vzamete v roko osebno izkaznico, vsaj mene zmoti nerazpoznavna črno-bela slika in dejstvo, da gre za kos računalniško neberljive plastike. 
+Z osebno izkaznico ne morem iti niti na neke vrste »bankomat« kakor na primer z zdravstveno kartico. 
+Hkrati pa lahko prek kateregakoli računalnika v internetu opravljam bančne transakcije ali isto počnem prek navadnega ali mobilnega telefona kjerkoli. 
+Število napak in zlorab je bistveno manjše kakor pri klasičnem poslovanju, storitev je hitrejša (mimo vrste, iz domačega stola), cena storitve je manjša tako za uporabnika kot za banke. 
+Logičen sklep je, da so banke (seveda smo tudi njim skušali »soliti« pamet) prehitele druge panoge, in da so konkretno pokazale, za kaj gre pri informacijski družbi. 
+Ceneje, bolje, hitreje, kakovostno na nov način. 
+Drug logičen sklep je, da nerganje po časopisih, obiskovanje in pisarjenje od prijaznih do nesramnih pisem od javnosti do vodilnih le nekaj pomaga. 
+Konec koncev je trend jasen, prednosti očitne, treba je le premagati nevednost vodilnih in krajevne interese. 
+
+- izvajanje vseh storitev po telefonu s programi, ki govorijo in razumejo govor (take stvari v Sloveniji že poizkusno delujejo);
+
+Spletnim storitvam je bolj pisana na kožo paketna komutacija, ki ne pozna stalnih povezav. 
+Ko se pojavi potreba po prenosu podatkov, se ti najprej razkosajo v pakete in nato odpošljejo po vedno prisotnem omrežju. 
+Paketi lahko potujejo po omrežju povsem poljubno, ključno je le, da se na cilju zopet zložijo nazaj v prvotno stanje. 
+Takšna komutacija torej izrablja nosilec le po potrebi. 
+Zaradi omejitev frekvenčnega prostora je kot ustvarjena za podatkovne storitve v mobilnem omrežju.
+
+Podatke shranjuje omrežje v porazdeljeni zbirki podatkov, v kateri so splošne informacije o uporabniku (Home Location Register, HLR), tekoči podatki o lokaciji uporabnika, to pomeni, v kateri celici je trenutno (Visited Location Register, VLR), in podatki o uporabniški opremi (Equipment Identity Register, EIR). 
+Da bi uporabnike sploh lahko ločili med seboj, skrbi mednarodna mobilna uporabniška identifikacija (International Mobile Subscriber Identity, IMSI) shranjena na pametni kartici (SIM). 
+Krajevno (glede na celico, v kateri je trenutno) pa uporabniku pripada dodatna začasna identifikacija (Temporary Mobile Subscriber Identity, TMSI).
+
+Identifikacija uporabnika v omrežju GPRS ni obvezna. 
+Če želi ostati uporabnik anonimen, lahko varnostne funkcije pri ustvarjanju konteksta PDP preprosto zaobidemo. 
+Anonimnost uporabnika je namreč značilnost predplačniških paketov, pri katerih je določitev naslova lahko zgolj dinamična.
+
+- CS-3 s hitrostjo 15,6 kb/s in
+
+Opisi računalnikov 7481
+
+Osnovni podatki in meritve 108109
+
+12
+
+NOVICE
+
+Compaq Presario 1700
+
+NetApp NetCache 720s
+
+Krajevno prilagajanje programov s paketom GNU Gettext
+
+• LC_CTYPE Ta kategorija določa uporabljeni nabor znakov, kateri znaki so črke, kateri pari velika/mala črka sodijo skupaj ipd. 
+Pomembna je za funkcije, kot so isalpha}, tolower in podobne.
+
+exit(2);
+
+"Content-Type: text/plain; charset=CHARSET\n"
+
+msgid ""
+
+"Language-Team: Slovenian <sl@li.org>\n"
+
+msgid "%s: cannot open %s\n"
+
+msgstr "%s: ni mogoče odpreti %s\n"
+
+#, c-format
+
+msgid "%d files in directory %s\n"
+
+bindtextdomain (PACKAGE, LOCALEDIR);
+
+textdomain (PACKAGE);
+
+Namerno smo navedli slab zgled. 
+V program smo namreč ravnokar vgradili besedotvorna pravila jezika, v katerem se sporazumeva z uporabnikom, v tem primeru angleščine. 
+To je slabo, saj take krajevne posebnosti ne sodijo v program, ampak v katalog sporočil. 
+Tak zapis je nemogoče internacionalizirati in se mu zato v programih izogibamo.
+
+Nekoliko boljša rešitev je, če pogojni stavek if prestavimo iz funkcije printf, in nato ločimo izpis za edninsko in množinsko obliko:
+
+else
+
+4 štiri datoteke štirje programi
+
+103 sto tri datoteke sto trije programi
+
+104 sto štiri datoteke sto štirje programi
+
+105 sto pet datotek sto pet programov
+
+msgstr[0] "v imeniku %2$s je %1$d datotek\n"
+
+msgstr[1] "v imeniku %2$s je %1$d datoteka\n"
+
+• msgunfmt Nasprotno od programa msgfmt: katalog sporočil prevedemo iz strojno optimalizirane oblike v človeku berljivo.
+
+_ = gettext.gettext
+
+Sam svoj videomojster
+
+Zaradi tega so v nakup posebne strojne opreme za delo z videom prisiljeni le uporabniki, ki imajo bodisi starejše Mace brez vodila FireWire ali analogne videokamere. 
+Po drugi strani pa se zahtevnejši kupci morda ne bodo zadovoljili z Applovo vgrajeno rešitvijo. 
+Za prve je na voljo kar nekaj razširitvenih kartic podjetij, ki podobno strojno opremo zagotavljajo tudi za peceje (med drugim analogne videokartice podjetij Matrox, Pinnacle ter Avid; Applove in Adaptecove kartice PCI z vodilom FireWire). 
+Drugi pa lahko izbirajo med nekaj kombiniranimi karticami, ki imajo tako digitalne kakor analogne vhode in izhode, njihova poglavitna moč pa se skriva v zmogljivem obdelovanju videa, primernem za urejanje v (skoraj) stvarnem času (npr. Matroxova kartica RTMac).
+
+iMovie zasede celoten zaslon. 
+Njegov levi zgornji del naseljuje veliko okno (Marquee), v katerem vidimo bodisi sliko iz priključene videokamere ali pa videoposnetek iz projekta, shranjenega na disku. 
+V desnem oknu vidimo vse zajete posnetke odprtega projekta. 
+Tukaj v projekt dodajamo prelive (ki jih v manjšem oknu takoj vidimo take, kakršni bodo videti, ko bodo vključeni v film). 
+Podobno velja za posebne učinke (prilagajanje nasičenosti in svetlosti barv, svetlost celotnega posnetka, pretvorba barvnega posnetka v črno-belega) in naslovne kadre. 
+Poseben gumb je namenjen za delo z zvočnimi posnetki lahko jih poberemo z diska, seveda pa je omogočeno tudi neposredno snemanje z računalnikom prek notranjega ali dodatnega mikrofona. 
+Spodnji del zaslona prekriva časovnica, ki jo lahko vidimo na dva načina. 
+Pogled z okvirčki, ki vsebujejo posamezne posnetke, naslovne kadre in prehode, ustreza lahkotnemu videzu celotnega programa. 
+Pogled s pravim časovnim trakom bo zadovoljil tiste, ki hočejo resnejši videz, njegova uporabnost pa je omejena zaradi pomanjkanja naprednih orodij za delo. 
+Arhitektura iMovieja omogoča vključitev dodatnih vtičnic (plug-in) z novimi prehodi in posebnimi učinki. 
+Nekaj jih lahko pretočimo iz Applovega strežnika.
+
+Za zajemanje videa izberemo v menuju ukaz Log and Capture, ki odpre okno z istim imenom. 
+Na njegovi levi polovici vidimo predogled videoslike iz kamere, desno pa uporabljamo za dokumentiranje posameznih izrezov. 
+Ko na zaslonu pregledujemo videomaterial, označimo, katere izreze bomo uporabili v projektu. 
+Tako se že na začetku znebimo neustreznih izrezov, ki jih sploh ne bomo prenašali na disk, kar nam prihrani precej prostora in časa. 
+Izrezi so lahko shranjeni na več nosilcih, ki jih ustrezno poimenujemo, ko se odločimo za paketni zajem izbranih posnetkov na disk, pa nas program spomni, kje je kateri. 
+Za vsak zajeti izrez se pojavi novo okno s štirimi zavihki, ki prikazujejo sliko, zvočni zapis, uporabljene filtre (video in zvočne) ter parametre gibanja. 
+Z naraščajočim številom zajetih izrezov se nered na namizju povečuje, a jih lahko takoj potegnemo na časovnico in zapremo nepotrebna okna. 
+Uporabimo lahko do 99 nivojev videa, zvoka, grafičnih in tekstovnih elementov.
+
+Programski vmesnik je manj prijazen in intuitiven kakor pri drugih Applovih izdelkih ter zahteva kar nekaj učenja, da ga lahko suvereno uporabljamo. 
+Delo z njim je podobno programiranju v katerem od vizualno zasnovanih programskih jezikov, a je marsikateri med njimi celo bolj prijazen. 
+Odprt lahko imamo samo en projekt. 
+Vanj lahko vključimo več vrst osnovnih gradnikov. 
+Najprej so tu dobrine ali viri (assets), med katere sodijo video v zapisu MPEG-1 in 2, zvočne in grafične datoteke ter datoteke s podnapisi. 
+Sledi (tracks) vsebujejo do 8 tokov videa, 9 tokov zvoka in 32 s podnapisi. 
+Vsi tokovi so združeni v eno podatkovno strukturo (video title set). 
+V Slideshows (pregled sličic) lahko stlačimo do 99 virov (bodisi videotokov MPEG ali stoječih slik v zapisu PICT). 
+Na ploščo DVD lahko shranimo tudi večpredstavne projekte, ne le posameznih filmov. 
+Da lahko gledalec sodeluje s programom, moramo ustvariti menuje z gumbi. 
+Vsak menu lahko prenese do 36 gumbov (gledalec pa najbrž manj). 
+Še boljšo interaktivnost dosežemo s posebnimi skripti. 
+Z DVD Studiom lahko napišemo skripte, ki znajo izrabiti posebni pomnilnik (NVRAM) v Philipsovem predvajalniku DVD Professional. 
+Podobno kakor na ploščah DVD s filmi lahko dosežemo večjezičnost (podnapisi v 16 jezikih). 
+Za izdelavo podnapisov je priložen poseben program, Subtitle Editor, ki je dokaj preprost. 
+Ko dokončamo vse podnapise, jih moramo prevesti v posebno datoteko (tok podnapisov), ki jo vključimo v projekt.
+
+Izdeluje: Apple, http://www.apple.com.
+
+Za: Mnogo naprednih možnosti urejanja.
+
+Rešitev slovenske računalniške prodaje je v tem, da z ustrezno propagandno akcijo prepriča lastnike, naj parkirajo osebne računalnike na dvoriščih. 
+Seveda morajo biti računalniki v ta namen večji, predvsem pa bolj izrazitih oblik. 
+Vsako leto mora iziti nov model ali pa vsaj polepšava starega; mogoče kak spojler, na novo oblikovana lučka za delovanje diska, bolj aerodinamična tipka reset. 
+Skratka drobne razlike, ki so na daleč vidne in ki se jih lahko zapomnijo že zelo majhni otroci.
+
+Ti bodo kmalu zrasli v velike strokovnjake, katerih edina naloga na tem ljubem svetu bo hoditi okoli sosedov in težiti: »Star model, star model!« 
+Skratka, ponavljati čarobni besedi, pravo mantro, ki poganja celotno svetovno industrijo.
+
+Nasprotje Kerckhoffovega principa pa je zagotavljanje varnosti s skrbnim varovanjem algoritmov. 
+V tem primeru torej napadalec ne pozna niti sistema, niti tega, kako deluje. 
+To je zelo zastarel pristop, ki pa se še danes uporablja. 
+Doslej je bil vsak sistem, katerega varnost je slonela samo na tem principu, razbit (običajno v zelo kratkem času). 
+V današnji informacijski družbi je izjemno težko dalj časa skrivati tehnične podrobnosti in tajne sisteme.
+
+Slika 8: Namesto operacij šifriranja in odšifriranja s ključi ZAa, JAa in ZBb, JBb si je morda lažje predstavljati konkretne modele. 
+V ta namen vidimo zgoraj dve škatli s ključavnicama. 
+V črni ključavnici lahko uporabljamo le črna ključa (Bojanov zasebni in javni ključ), v beli pa le bela (Anitin zasebni in javni ključ).
+
+- kriptosistemi z eliptičnimi krivuljami (angl. Elliptic Curve Cryptosystems ECC), npr. ECDSA.
+
+Okvirji:
+
+Delovanje
+
+Za priklop monitorja brez pretvarjanja slike mora biti grafična kartica opremljena z digitalnim izhodom, pa tudi zaslon mora imeti primeren digitalni vhod. 
+Tovrstnih grafičnih kartic je le malo, zato je malo tudi monitorjev z digitalnimi vhodi in seveda nasprotno. 
+Redki proizvajalci se odločajo, da bi vgradili podvojene vmesnike, saj s tem podražijo izdelek in teže konkurirajo na trgu. 
+Pri uveljavitvi digitalnega vmesnika za priklop monitorjev je težave povzročalo tudi več med sabo nezdružljivih standardov, zaradi katerih je večina posegala po slabšem, a združljivem analognem vmesniku VGA. 
+V zadnjem času se je dokončno uveljavil digitalni vmesnik DVI, vendar je med monitorji še vedno največ takih, ki jih lahko priključimo le na analogni izhod. 
+
+Prednosti in slabosti
+
+Zelo bogata je tudi izbira iger, ki si jih od tu lahko posnamemo. 
+Vse najnovejše uspešnice boste našli tu in vse večnozelene favorite, v preizkusnih ali predstavitvenih inačicah seveda, da ne bo kakšne pomote. 
+S piratstvom se namreč pri Happy Puppy ne ukvarjajo. 
+Zato pa boste tu našli še veliko zanimivega. 
+Recimo poglavje o omrežnih igrah, pa kotiček za ljubitelje žepnih računalnikov in še marsikaj, a mi že hitimo dalje.
+
+Games Domain
+
+www.gamesdomain.com
+
+Z Games Domain, ki je posvečen predvsem računalniškim igram, je tesno povezan Console Domain (www.consoledomain.com), ki je, kot pove že ime, namenjen predvsem ljubiteljem igralnih konzol. 
+Nedaleč stran boste našli tudi Kids Domain (www.kidsdomain.com), namenjen predvsem otrokom in staršem, ki bi za svoj nadebudni naraščaj radi našli njegovim nežnim letom primerne igre. 
+Tu boste skratka zaman iskali ultranasilne in krvave igre, zato pa boste poleg iger našli tudi številne otrokom namenjene izobraževalne programe.
+
+IGN.com
+
+zone.msn.com
+
+Brezplačno se lahko pomerimo v različnih klasičnih namiznih igrah, na primer šahu ali bridžu, ali pa se raje odločimo za katero od brezplačnih logično-ugankarskih ali arkadnih iger. 
+Uporabniki Oken Me imajo nekatere od teh iger že nameščene in se kar takoj lahko pomerijo z igralci z vsega sveta, vsi drugi pa morajo programe najprej posneti v domači računalnik. 
+Kar je k sreči brezplačno, le svoj e-naslov je treba zaupati Microsoftu.
+
+Vsaka igralna soba je tudi neke vrste klepetalnica, z javnim klepetom med vsemi igralci in zasebnim med obema igralcema za posamezno mizo. 
+Podobno je tudi pri drugih igrah, s tem da seveda bridž in pike igramo v štiri, blackjack pa je le računalniška simulacija igre brez resničnih soigralcev in z navideznim denarjem.
+
+Verjetno najbolj znana, če ne tudi najbolj priljubljena predstavnica pravljično-pustolovskih iger je Ultima Online (www.uo.com). 
+V navideznem svetu pravljične dežele Britannie trgujete, se borite z zmaji, čarate in sploh počnete vse, kar počno pravljični junaki. 
+Takšnim igram pravimo tudi igranje domišljijskih vlog (Fantasy Role Playing FRP), ker v igri pač prevzamemo vlogo tega ali onega pravljičnega junaka. 
+Poseben čar omrežnim igram daje seveda dejstvo, da na oni strani ni samo računalnik, ampak tisoči pravih igralcev. 
+Podobnih iger je precej, od bolj priljubljenih pa omenimo samo še Anarchy Online (www.anarchy-online.com).
+
+Še več iger
+
+Yahoo!
+
+Compaq Presario 1700
+
+Adobe Photoshop Elements
+
+Vsi ti podatki se pretakajo skozi vozlišča. 
+Pri ljudeh, ki v internet vstopajo od doma, so vozlišča pri ponudniku storitve interneta, v organizacijah pa je takšno vozlišče točka, iz katere vodi povezava v internet za celotno organizacijo. 
+Če je število ljudi na eni strani vozlišča dovolj veliko, je gotovo, da nekateri dostopajo do istih vsebin.
+
+Z napravo upravljamo iz ukazne vrstice (terminal) ali pa prek omrežja. 
+Omrežne parametre naprave, kot je številka IP in maska, je treba nastaviti iz ukazne vrstice, do katere pridemo tako, da se z napravo povežemo po serijskem kablu. 
+Preostale nastavitve lahko nato nastavljamo iz omrežja. 
+Če smo pristaši ukazne vrstice, lahko nadaljujemo po zaščitenem protokolu ssh, je pa moč vse nastaviti tudi iz spletnega brskalnika. 
+
+Pomembna lastnost, ki jo ima naprava in se z njo pohvali tudi proizvajalec, je sposobnost predpomnjenja večpredstavnih zapisov podjetij Microsoft in Real Networks. 
+Taki filmi in glasbene datoteke so zahtevni tako za strežnike kakor za omrežja. 
+Z ustrezno namestitvijo predpomnilnikov NetCache na kritičnih mestih je moč zagotoviti ustrezen pretok vsebine, tudi ko strežnik ali omrežje naloge sama ne bi bila sposobna opraviti.
+
+Kaj: Omrežna naprava predpomnjenje spletnih in večpredstavnih vsebin.
+
+Ko sem se pred desetimi leti začel nekoliko resneje ukvarjati z računalniki, je bila prva stvar, ki sem jo vgradil v svoj krasni novi PC, modem. 
+Svetovnega spleta takrat še ni bilo in tudi v internet, kolikor ga je že bilo, se od doma ni dalo priključiti. 
+Bili pa so že prvi BBS-i in ko sem se prvič priključil na enega od njih, se je računalniško obzorje domačega pecejčka v trenutku neverjetno razširilo. 
+Preizkusni programi, igrice, e-pošta, konference …
+
+Posebno poglavje so brezžične povezave. 
+Opremljen z žepnim računalnikom in telefonom GSM se lahko v internet priključim tudi na jadrnici, zasidrani sredi idiličnega kornatskega zalivčka. 
+A kaj, ko se pri tem spomnim na »dobre stare« čase, ko so se podatki pretakali s hitrostjo jadrnice v brezvetrju. 
+Nekje na obzorju je sicer toliko opevana tretja generacija, 3G, a tudi ta ne bo omogočala večjih hitrosti, kakor jih lahko sedaj dosežemo z ADSL ali v kabelskem omrežju. 
+Dovolj za radio, premalo za televizijo.
+
+Lahko pa se seveda tudi motim.
+
+Zaslon je 14,1-palčni z aktivno matriko in ločljivostjo kar 1400 × 1050 pik, kar se odlično poda siceršnji zasnovi računalnika. 
+Je vrhunski izdelek, čisto malo (res čisto malo) pa moramo pokritizirati osvetljenost zaslona, ki bi lahko bila boljša. 
+Za grafiko skrbi pospeševalnik Trident CyberBlade XP, ki premore kar 16 MB grafični pomnilnik, na sistem pa je priključen prek vodila AGP 4x. 
+Premore tudi videoizhod ter par zvočnikov, ki so nameščeni na prednjih bokih. 
+
+S tehnične plati je novinec računalnik brez kompromisov. 
+Preizkušena Tecra je imela procesor Pentium III s taktom 1 GHz, presenečata pa 256 MB pomnilnik in 20 GB disk, ki sta vgrajena v osnovno izvedbo. 
+Za poslovneža, ki veliko potuje in se z računalnikom priključuje v različna omrežja, bo zelo pomembno to, da ima prenosnik vgrajene vse potrebne vmesnike, povrh vsega pa tudi omrežno kartico in modem.
+
+Značilnosti: Pentium III 1 GHz, 256 MB pomnilnik, 20 GB disk.
+
+Po napovedi izpred nekaj mesecev je podjetje Thomson multimedia tudi uradno predstavilo glasbeni zapis MP3PRO, ki ponuja precej boljšo kakovost zvoka ob nižjih kakovostih vzorčenja signalov. 
+Novi kodirnik, ki so ga razvili družno s podjetjem Coding Technologies, omogoča, da datoteke s pretokom 64 Kb/s zvenijo enako kakor navadne datoteke MP3, posnetke s pretokom 128 Kb/s. 
+Zadržali so združljivost nazaj, le da brez posebej razvitega predvajalnika tako posneta glasba zveni kakor običajni MP3 ob ustrezni frekvenci vzorčenja. 
+Prvi preizkusi kažejo, da so s tem skoraj prepolovili velikosti datotek ob nespremenjeni kakovosti posnetkov. 
+O kakovosti posnetkov se lahko prepriča vsakdo sam, saj Thomson multimedia in Coding Technologies ponujata brezplačni predstavitveni kodirnik in odkodirnik (le za kodiranje ene datoteke naenkrat in še to le s 64 Kb/s) za datoteke MP3PRO. 
+Razlika pa je v patentnih pravicah, saj nad standardom MP3PRO bdi Thomson multimedia, ki bo tehnologijo drugim licenciral najbrž le za plačilo. 
+
+www.w3c.org
+
+Toshiba je skupaj s podjetjem Simplex Solutions razvila novo tehnologijo izdelave čipov, ki so jo poimenovali X Architecture. 
+Predvidevajo, da bo nadomestila doslej prevladujočo, 20 let staro arhitekturo Manhattan. 
+Le-ta je dobila ime po pravih kotih med povezavami, ki nekoliko spominja na mrežo mestnih ulic. 
+Nov način omogoča tudi diagonalne povezave, kar bo omogočalo 20 % skrajšanje povezav in porabe energije, 30 % več čipov na rezino (wafer) in za 10 % večjo zmogljivost. 
+Da bi omogočila hitrejši prodor nove tehnologije, sta se izdelovalca povezala še z nekaterimi drugimi podjetji (Dupont Photomasks, Applied Materials in Virtual Silicon Technology) v skupino X Initiative, ki jo povezuje petletni sporazum.
+
+www.nokia.com
+
+Spoved po internetu ne velja!
+
+www.ibm.com
+
+Nove Acerjeve optične enote 
+
+Dolga pot za Microsoftov .Net
+
+www.mot.com
+
+www.nokia.com
+
+Plačljivo snemanje glasbe
+
+Podjetje HPC, ki je prvo v Sloveniji začelo prodajati prenosne računalnike pod lastno tržno znamko HPC Note, je nedavno praznovalo prodajo sistema s serijsko številko 5000. 
+Za Hermes Plus in njegovo hčerinsko podjetje HPC je pomembno, da so v letu 2000 prodali največ prenosnih računalnikov na slovenskem tržišču in ustvarili skoraj 25-odstotni tržni delež. 
+S prenosniki so prodrli tudi na nekatera tuja tržišča, kljub upadu prodaje osebnih računalnikov po vsem svetu in v Sloveniji pa za letošnje leto pričakujejo, da se bo prodaja prenosnikov še povečala.
+
+www.dataquest.com
+
+Microsoft je že na lanskem Comdexu napovedal, da bodo s prihodom nove različice pisarniškega paketa Office XP začeli preizkusno ponujati izdelke tudi kot naročniški paket. 
+Najprej so sicer napovedovali, da bodo preizkus izvedli v ZDA, vendar so se zdaj premislili in poligon za preizkušanje preselili v Avstralijo in Novo Zelandijo. 
+Kupci bodo lahko na teh tržiščih kupili paket za nižjo začetno ceno, ki bo pravzaprav letna naročnina. 
+Cena novega paketa Office XP bo 186 dolarjev, kar je manj kakor polovica priporočene cene licence za neomejeno rabo. 
+Kupci, ki se bodo odločili za naročniški model, bodo za omejeni znesek upravičeni do vseh popravkov in tudi do nadgradnje paketa, ki bodo sledile. 
+Glede na rezultate tovrstnega modela se bodo nato pri Microsoftu odločili, kdaj bodo podobno storitev ponudili tudi na drugih tržiščih, zlasti v ZDA.
+
+Da Slovenija sodi med najrazvitejše evropske države na področju mobilne telefonije, je doslej v glavnem skrbel največji operater Mobitel, saj njegovo omrežje uporablja približno polovica vseh državljanov. 
+Vendar pa tudi Si.
+Mobil, ki obvladuje zmerom večji tržni delež, ne spi. 
+Prvi v Sloveniji in med prvimi v Evropi so pričeli ponujati storitev paketnega prenosa podatkov GPRS. 
+Storitev bo na voljo od 15. junija, kar je precej pred Mobitelom, ki namerava GPRS ponuditi šele enkrat v drugi polovici leta.
+
+Težave tudi za izdelovalce ročnih računalnikov
+
+Philips je javnosti predstavil prvi zaslon s tehnologijo LCD, ki zmore prepuščati in odbijati svetlobo. 
+V prvem primeru kaže boljšo sliko pri močni dnevni svetlobi, v drugem pa primerno sliko v temnejšem ali temnem okolju. 
+Novi izdelek z oznako LC121S1 vsebuje novo tehnologijo, ki omogoča samodejni preklop med obema načinoma delovanja. 
+Za tovrstni izdelek je novinec dokaj velik, saj ima diagonalo 12,1 palca in ločljivost 800 × 600 pik, zato bo primeren za rabo v prenosnikih. 
+Pri prepustnem načinu delovanja bo kontrastno razmerje 30:1, ob uporabi lastnega vira napajanja pa 5:1. 
+V prodaji bo sredi poletja, ko ga lahko pričakujemo v prvih prenosnikih.
+
+www.amd.com
+
+www.intel.com
+
+Podjetje Motorola je predstavilo nove mikroprocesorje, namenjene prenosnim računalnikom. 
+Procesor PowerPC 7440 ali PowerPC G4 Plus bo vseboval jedro, ki deluje z nižjo napetostjo kakor dosedanji model PowerPC 7450 (1,5 V namesto 1,8 V), zaradi česar so porabo energije zmanjšali s 14 vatov pri dosedanjem procesorju s taktom 533 MHz na samo 11,4 vata pri novem izdelku z višjim taktom 600 MHz. 
+Poleg omenjene frekvence bo novi procesor sprva na voljo tudi v izvedbi s taktom 700 MHz, vseboval na procesor vgrajen drugostopenjski predpomnilnik velikosti 256 KB, za razliko od modela PowerPC 7450 pa ne bo podpiral zunanjega tretjestopenjskega predpomnilnika. 
+Sistemsko vodilo, ki ga podpira procesor, deluje s taktom 133 MHz.
+
+www.mei.co.jp
+
+Tržni deleži pri ročnih računalnikih
+
+www.hynix.com
+
+www.creaf.com
+
+Skromen dobiček za HP
+
+Britanska raziskava o uporabi interneta med podložniki kraljice Elizabete je pokazala, da je samo eden od petih uporabnikov interneta v svetovni splet povezan več kakor deset ur mesečno. 
+Ti »zasvojenci« s spletom porabijo kar sedemdeset odstotkov vsega časa, ki ga otočani namenijo za povezovanje v splet. 
+Med britanskimi uporabniki prevladujejo moški (68 odstotkov), njihove najbolj priljubljene strani pa so Guardianunlimited.co.uk, Ebookers.com, Theglobe.com in Virgin.com. 
+Britanske spletne deskarke imajo najraje QXL, Barclaycard.co.uk, Streetsonline.com, MP3.com, Shopsmart.com in Thomascook.com. 
+Aprila je v Veliki Britaniji internet uporabljajo 14 milijonov Britancev in Britank, in to v povprečju 25 minut na dan ali približno sedem ur na mesec.
+
+http://www.jmm.com/
+
+Podjetje Eazel, ki je bilo ustanovljeno pred slabim poldrugim letom, da bi Linuxovim uporabnikom ponudilo prijaznejši grafični vmesnik, je moralo oznaniti predajo. 
+Kljub največjim naporom nam ni uspelo zagotoviti denarja za nadaljnje financiranje podjetja, so lastniki zapisali na spletni strani, ki oznanja neveselo vest, da je najbolj obetavna med pobudami za širjenje odprte kode propadla. 
+Eazel so leta 1999 ustanovili nekateri najvidnejši prebežniki iz Appla, kot sta Mike Boich ali Andy Herzfeld, ki sta bila med programskimi snovalci Macintoshevih računalnikov, zato so bila upanja Linuxove skupnosti podpornikov odprte kode ob ustanovitvi podjetja še toliko večja. 
+Lani decembra je Eazel podpisal sporazum s podjetjema Dell in Sun, vendar pa so morali že marca letos, le dan po začetku brezplačnega razpečevanja programa Nautilus 1.0, odpustiti 40 od 75 delavcev. 
+Nautilus je vmesnik za Linux, ki združuje programe za delo z datotekami in sistemom s spletnim brskalnikom, ki je potencialnim uporabnikom oziroma razvijalcem še vedno na voljo na spletni strani 
+
+PISARNIŠKI PAKETI
+
+Zgled pametne oznake, ki se prikaže na mestu, na katerem v dokument kaj prilepimo (levo) in menu z možnostmi, ki se odpre, ko pametno oznako kliknemo (desno).
+
+Razvijalci lahko tehnologijo pametnih oznak uporabijo za svoje lastne rešitve. 
+Podjetje lahko izdela pametno oznako, ki uporabnikom, takoj ko v Excelu vstavijo oznako naročila, ponudi povezave s podatki o strankah, drugih naročilih in cenah. 
+V ta namen je Microsoft pripravil paket Smart Tag SDK, ki je na voljo v različici Office XP Developer in na spletnih straneh podjetja.
+
+Pomembna novost v Officeu XP je prepoznavanje govora, ki pa žal deluje samo v angleščini in nekaterih drugih izbranih jezikih. 
+Na slovenščino bo treba še kar nekaj časa čakati. 
+Prepoznavanje govora pomeni, da lahko narekujemo besedilo, namesto da bi ga morali tipkati, z govorom pa lahko sprožimo tudi ukaze, ki vam jih tako ni več treba izbirati z miško ali tipkovnico. 
+Office XP zmore prepoznati tudi pisavo. 
+Tako lahko besedilo v dokument vnašamo z elektronsko tablico in peresom ali, kar pa je precej težavno, z običajno miško. 
+Vstavimo lahko ročno napisane znake, denimo, podpis ali pa zahtevamo, da Office prepoznava ročno napisane znake in jih pretvarja v običajno besedilo.
+
+V Officeu 2000 je vsak odprt dokument prikazan z lastnim gumbom v opravilni vrstici Oken. 
+Ta funkcija je namenjena predvsem manj izkušenim uporabnikom, ki hitro izgubijo pregled nad odprtimi dokumenti, zahtevnejše uporabnike pa pogosto moti, saj gumbi, če je odprtih več dokumentov, zasedajo velik del opravilne vrstice. 
+V Officeu XP lahko zato izbiramo, ali je vsak dokument prikazan s svojim gumbom (kakor v Officeu 2000), ali pa je gumb en sam (kakor v Officeu 97) in označuje program.
+
+Za lažji dostop do pomoči je na desni strani menujske vrstice posebno polje, v katero vtipkamo vprašanje glede opravila, za katero ne vemo, kako bi se ga lotili. 
+Ko vnos končamo s pritiskom vnašalke, se pod poljem prikaže seznam tem pomoči, v katerih bi se znal skrivati odgovor na naše vprašanje. 
+To polje nekako nadomešča Officeovega pomočnika.
+
+Zaradi vseh novosti je delo z Officeom postalo bolj preprosto in pisarniški pomočnik ni več potreben. 
+Priljubljena (ali »priljubljena«) Sponka (Clippy) je ostala brez dela, zato je odprla svojo spletno stran, na kateri si lahko ogledamo animacije v Flashu, igramo njeno igro in prenesemo njeno novo pesem »It Looks Like You're Writing a Letter«, lahko pa tudi glasujemo za njeno novo zaposlitev. 
+
+Tudi komentarji so doživeli nekaj sprememb. 
+Sedaj je lahko besedilo komentarjev prikazano v oblačkih ob robu strani, kjer ga laže vstavljamo, prebiramo in urejamo. 
+Tudi tu so lahko oblački različnih barv, tako da je že na prvi pogled dobro vidno, kdo je avtor posameznega komentarja.
+
+Za lažje spremljanje statistike dokumenta je vgrajena nova orodna vrstica Word Count. 
+V njej preberemo, koliko besed, znakov, vrstic, strani in odstavkov je v trenutnem dokumentu.
+
+Da pridobimo potrebne podatke, moramo le izbrati ustrezno možnost in poiskati vir podatkov, kar storimo v oknu Select Data Source. 
+Če želimo uvoziti podatke iz oddaljenega vira podatkov, uporabimo novega čarovnika Data Connection Wizard. 
+Z njim poiščemo in uvozimo podatke iz virov, kot so Microsoft SQL Server, ODBC (Open Database Connectivity) in OLAP (Online Analytical Processing).
+
+Nekaj novosti je tudi pri vsakdanjih opravilih. 
+Ukaz za lepljenje (Paste) bolje podpira vstavljanje različnih vrst vsebine in velikih količin podatkov. 
+Končno smo dočakali tudi ukaz Print Preview, s katerim si ogledamo, kakšne bodo videti natisnjene strani. 
+Nasploh je delo s PowerPointom prijetnejše, predstavitev pa narejena hitreje. 
+Zasluge za to gre pripisati več podoknom opravil, v katerih hitro izbiramo sheme, barve, postavitve in drugo. 
+V predstavitvi lahko uporabimo več kakor eno predlogo za oblikovanje. 
+Novost so pomanjšane sličice diapozitivov, ki jih vidimo v navadnem pogledu. 
+Razveselijo tudi nove predloge, saj smo se starih že kar malo naveličali. 
+Žal izbor ni prav velik.
+
+V novem Outlooku so vsi opomniki zbrani v enem oknu.
+
+Access
+
+V tem članku smo se dotaknili samo najpomembnejših in najbolj zanimivih novosti. 
+Ali so te za vas pomembne, presodite sami. 
+Revolucionarnih novosti, ki bi korenito spremenile Office, nekako ni. 
+Toda, ali si jih sploh želimo? 
+Drugače je, ko gre za izboljšave in teh v Officeu XP ne manjka. 
+Z njim je prijetno delati, prijetneje kakor s prejšnjimi različicami. 
+Delati je mogoče tudi učinkoviteje. 
+In prav to je pri delu z računalnikom konec koncev najpomembnejše.
+
+slika 3
+
+Za primerjavo smo sklenili uporabiti tudi naviti Athlon. 
+Uporabili smo vodno hlajeni 1 GHz procesor serije AXIA (na matični plošči Abit KT7A, 128 MB SDRAM), vendar smo z njim »prilezli« le do 1466 MHz. 
+Problem je predstavljala največja delovna napetost jedra procesorja, ki je pri vseh ploščah s podnožjem 462 omejena na največ 1,85 V. Zato smo morali na ploščo prispajkati upor, ki omogoča pot okoli te ovire. 
+S to modifikacijo smo lahko napetost dvignili na 2,07 V in procesor pognali do stabilnih 1600 MHz. 
+Deloval je sicer tudi pri 1666 MHz, vendar ni zdržal vseh preizkusov.
+
+S pocenitvami je Pentium 4 postal precej bolj zanimiv tudi za širši krog uporabnikov. 
+Cena celotnega sistema je še relativno visoka (zaradi matične plošče, ohišja in predvsem pomnilnika RDRAM, ki je nekajkrat dražji od navadnega SDRAM), vendar se vztrajno znižuje. 
+Počasi se prebujajo tudi izdelovalci programske opreme in v svoje izdelke vgrajujejo podporo za Pentium 4. 
+Če sodimo po naših preizkusih, mu znajo prav ti vdahniti novo življenje. 
+Intel se očitno (po krajšem počitku) spet vrača v igro. 
+
+Zahteve: Matična plošča z naborom i850, novo ohišje in napajalnik.
+
+Za: Hitrost v zanj prilagojenih programih.
+
+Philips cBright sodi v razred projektorjev, ki jih uporabljamo v sejnih dvoranah, saj s 3,6 kg teže ne sodi ravno med najlažje. 
+Oblikovan je zelo sodobno, z rahlo zaobljenimi robovi. 
+K prijetni obliki prispeva tudi povsem ugnezden objektiv. 
+Posebej je treba pohvaliti stojala, ki omogočajo zelo zanesljivo lego projektorja. 
+Ohišje je zasnovano za čim bolj učinkovito hlajenje notranjosti, kar je omogočilo vgradnjo manjših in počasnejših ventilatorjev. 
+Naprava je zato precej tišja od primerljivo velikih tekmecev.
+
+Philips cBright XG1
+
+Cena projektorja: 972.980 tolarjev.
+
+In kaj si od take oddaljene povezljivosti poslovnež sploh lahko obeta? 
+Osnovna potreba je dostop do elektronske pošte. 
+Danes nas je vedno več, ki smo od elektronske pošte življenjsko odvisni in se kar nekako slabo počutimo, če prispele pošte ne moremo pregledati prav vsak dan. 
+V ta namen mora imeti podjetje svoj poštni strežnik, ki iz interneta dovoljuje priklop prek protokola POP3 ali še bolje IMAP4. 
+Če tega v podjetju nimamo, je rešitev vklop prenašanja pošte na katerega od javnih in zastonjskih poštnih spletnih strani (Hotmail ...), vendar je delo s takim sistemom vse prej kot udobno. 
+Seveda imamo lahko tudi v podjetju dostop do pošte prek spletnega brskalnika, saj to bolj ali manj uspešno omogočajo praktično vsi poštni strežniki. 
+
+Verjetno najmanjša napravica, s katero lahko uspešno beremo elektronsko pošto na poti, je telefon GSM. 
+Začnimo s tistimi malo večjimi Nokia Comunicator ali Ericsson 380 imata odjemalec za elektronsko pošto že vgrajen, dovolj velik zaslon pa omogoča relativno udobno branje in odgovarjanje na pošto. 
+Pri Ericssonu je to vendarle nekoliko teže, saj moramo tipke »pritiskati« s peresom po zaslonu. 
+Tudi Motorolin Accompli 008 ima odjemalec za elektronsko pošto že vgrajen, telefon pa je poleg vsega tudi pripravno majhen.
+
+Prvi koraki v smeri večkratno uporabne programske kode izvirajo iz predmetno usmerjenih jezikov. 
+Žal se je izkazalo, da so take komponente večkrat uporabne le na ravni izvorne kode in še to le pri discipliniranih programerjih z dobrim vodstvom in precej znanja. 
+Zato so poizkusili drugače in razvili sisteme za sodelovanje komponent na izvršilni ravni (COM, CORBA). 
+Ti so se izkazali za precej uspešne, vendar je bila izdelava komponent za večino programerjev pretrd oreh. 
+To je pripeljalo do izdelave najrazličnejših orodij za čim lažje in čim hitrejše delo. 
+Vsako novo orodje pa je dodatno zapletlo osnovo in naredilo rešitev še bolj nepregledno. 
+Programi v C++ z razredi ATL so tako bolj nepregledni od starih programov za okolje Windows, izdelanih v C-ju. 
+Edina prava rešitev je nov jezik, ki iz obstoječega pobere vse najboljše in doda, kar manjka. 
+Seveda jezik ne sme biti popolnoma nov, saj je na svetu že zelo veliko programerjev, ki jih hočemo pritegniti v novi krog.
+
+12: Console.WriteLine( "Hello world!" 
+) ;
+
+14: }
+
+15: }
+
+public string Naslov {
+
+4 public HelpAttribute(string url) {
+
+12 }
+
+13 
+
+object[] arr = type.GetCustomAttributes(typeof(HelpAttribute));
+
+HelpAttribute ha = (HelpAttribute) arr[0];
+
+Predmeti
+
+5 public event StarMove Moved ;
+
+13 posX += dx ;
+
+41 }
+
+50 Planet planet1 = new Planet( 3, 3 ) ;
+
+Pri Agendi so vse drugo napisali sami, spodbujajo pa tudi druge programerje, da prispevajo nove programe. 
+Osnova sistema je program Launch Pad, iz katerega zaženemo vse druge programe, ki so v sistemu vgrajeni ali so mu dodani. 
+V računalniku najdemo dokaj običajen nabor programov za ročne računalnike, kot so imenik, koledar, seznam opravil, beležnica, računalo, odjemalec za elektronsko pošto, nekaj programov in seveda niz pomožnih pripomočkov. 
+Na plošči in v spletu so brezplačno na voljo še ura, program za vodenje financ, beležnica za prostoročno skiciranje, program za faksiranje, spletni brskalnik in veliko iger. 
+Zanimivo je, da Agenda VR3 podpira tudi krmiljenje z govorom (toda le osnovno), Linux pa ne bi bil Linux brez terminala, s katerim lahko delamo s sistemom v ukazni vrstici! 
+
+Čeprav je preizkušena Agenda VR3 že prodajni primerek, ob računalniku ni bilo dokončne različice programa za usklajevanje podatkov. 
+Tisti za namizne računalnike z Linuxom je nosil oznako 0.40, za okolje Windows pa ga obljubljajo poleti. 
+Uporabimo pa lahko standardni Unixov ukaz »rsync«. 
+Kaj podobnega bi si drugi proizvajalci najbrž težko privoščili.
+
+Po dolgih (in mučnih) letih se kažejo prvi obeti, da bo Telekom Slovenije le privatiziran.
+
+Telekom je (še kot PTT) dolga leta grenil življenje širni Sloveniji, ko je bil bolj politična in državno-varnostna ustanova kakor pa javna storitev. 
+Več energije in znanja so vlagali v nadzor morebitnih neposlušnih državljanov kakor v zagotavljanje ustrezne komunikacijske razvitosti. 
+Največji mojstri tedanjega telekomunikacijskega oddelka pošte so bili na pol politkomisarji, na pol detektivi, ki so znali prisluškovati telefonskim pogovorom. 
+Komunikacijska razvitost ni veljala za prioriteto družbe. 
+Slovenija (v tedanji Jugoslaviji) nikoli ni šla tako daleč kakor na primer Romunija, da bi nadzirala celo rabo pisalnih strojev, dosti prej pa se tudi ni ustavila. 
+Za telefonski priključek je bilo treba prosjačiti, čakati, iskati zveze. 
+Politični oblasti ni prišlo na kraj pameti, da bi to komunikacijsko pipico priznal kot eno od osnovnih dobrin.
+
+Država bo torej prodala vsaj del svojega deleža v Telekomu. 
+Zakaj bi to koga tako močno zanimalo, kakor si predstavlja MID, je uganka. 
+Seveda precejšen del javnosti misli, da je to potrebno, verjetno je tudi marsikdo prepričan, da je vse skupaj veliko prepozno. 
+Kako pa se bo točno privatiziral Telekom, res ni stvar vsakega Janeza in Micke. 
+Od izbire modela privatizacije ne bodo imeli nič. 
+Če bi eden od modelov predvideval na primer razdelitev delnic celotni družbi, bi javnost do modelov gotovo pokazala veliko zanimanje. 
+Tako pa lahko le upamo, da bo prodaja hitro mimo, da ves izkupiček ne bo poniknil v kakšnih katakombah LDS in da se bo MID kdaj začelo ukvarjati še s čim drugim.
+
+In sedaj najpomembnejše. 
+Pri prejšnjih slovenskih različicah Officea je bila največja zamera ta, da nekateri programi v zbirki niso prevedeni. 
+Tokrat bo drugače. 
+Prevedenim programom, Wordu, Excelu in Outlooku, se bosta pridružila PowerPoint in Access. 
+Ko gre za PowerPoint, smo prevod nekako pričakovali, saj gre za program, ki zna priti prav tako v poslovnem okolju kakor doma. 
+Po drugi strani je slovenski Access prijetno presenečenje. 
+Vsi programi bodo prevedeni v celoti, torej tudi njihov elektronski sistem pomoči. 
+Ko smo ravno pri pomoči, velja omeniti, da je v razvojni različici Beta 1, ki smo si jo ogledali, splošni vtis pri prebiranju prevedenega besedila pomoči nekoliko boljši kot, denimo, v Officeu 2000. 
+Misli preprosto lepše tečejo.
+
+Kot že rečeno, smo enoto priključili na vmesnik USB (brez vnovičnega zagona). 
+Opravili smo standardni nabor preizkusov hitrosti branja, pisanja in digitalnega zajemanja glasbe. 
+Rezultati in sklepi so podobni kakor pri drugih zunanjih enotah na vmesniku USB namenjene so predvsem pisanju, pri branju se odrežejo slabo zaradi omejitev vmesnika (največji pretok 12 Mb/s).
+
+Druga, žal precej bolj robata rešitev, je ukazna vrstica in uporaba ukaza dir s preusmeritvijo, kakor je bilo bolj podrobno opisano v junijski številki Monitorja:
+
+Verjetno ste opazili, da tipka Delete v Excelu odstrani le vsebino celice. 
+Kaj pa, če se želimo celice povsem znebiti? 
+Lahko uporabimo ukaz v priročnem menuju, na voljo pa je tudi bližnjica kombinacija tipk Ctrl+- (minus).
+
+Potrebno je spremeniti nastavitev, ki jo najdemo v pogovornem oknu ukaza Orodja|Možnosti…/Tools|Options… pod jezičkom Lastne nastavitve/Preferences. 
+Tu izberemo gumb Možnosti koledarja…/Calendar Options…, ki prikaže novo okno. 
+V skupini Možnosti koledarja/Calendar Options bomo našli stikalo Pokaži številke tednov v datumskem krmarju/Show Week Numbers In The Date Navigator, ki ga vklopimo. 
+Dvakrat potrdimo nastavitve z gumboma V redu/OK.
+
+Oba popravka zahtevata, da imate pri roki izvorno ploščo z Officeom in nameščen paket popravkov Office 2000 SR-1. 
+Potrebovali boste tudi Internet Explorer 5.0 ali novejšega.
+
+< KONEC OKVIRJA >
+
+Je zato kaj čudnega, da se največji premiki v strojni opremi pripravljajo prav pri proizvajalcih, ki so tradicionalno ali pa na novo povezani z igranjem? 
+Za Microsoftov Xbox smo seveda že vsi slišali. 
+Hudo zmogljiv PC se bo zamaskiran v igralno napravo prodajal po subvencionirani ceni, izgubo pri prodaji strojne opreme pa naj bi nadoknadile številne igre. 
+Ker pa bo računalnik polnokrvni PC, bo načeloma z njim mogoče početi še marsikaj. 
+Seveda če zaradi dogovorov v ozadju ne bo na tak ali drugačen način omejen. 
+Vendar pa je projekt Xbox rodil še en, potencialno mnogo bolj vpliven kos stojne opreme nabor osnovnih vezij nForce, ki ga je nedavno napovedala Nvidia, partner Microsofta pri omenjeni igralni napravi.
+
+ZAPISOVALNIKI CDR
+

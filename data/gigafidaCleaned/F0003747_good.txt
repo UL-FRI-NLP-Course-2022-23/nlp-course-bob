@@ -1,0 +1,33 @@
+Temeljni namen opisovanja značilnosti raziskav in njihovega razvrščanja je analiza vpliva različnih značilnosti na rezultate raziskav.
+Kaj se za tem skriva?
+Izhajamo iz tega, da so posamezne primarne raziskave (vključene v metaanalizo) proučevale iste ali zelo sorodne pojave.
+In vendar rezultati v vseh raziskavah pogosto niso niti podobni, kaj šele enaki.
+V integraciji empiričnih raziskav je treba med ostalim odgovarjati na vprašanja - od kod razlike?
+Eden možnih virov različnih rezultatov je v tem, da se raziskave razlikujejo v mnogih značilnostih.
+Opravljene so na različnih vrstah vzorcev, uporabljene so različne metode raziskovanja, podatki so bili zbrani z različnimi tehnikami, njihovi rezultati so bili objavljeni na različne načine itd.
+Da bi lahko pojasnili vplive teh značilnosti, jih moramo najprej prepoznati, opisati, raziskave razvrstiti v različne kategorije in na koncu statistično analizirati razlike.
+Problemi in dileme veljavnosti in zanesljivosti niso v metaanalitični teoriji zadosti obdelani.
+Deloma sta se s tem ukvarjala le Glass in McGaw.
+Glass je nakazal nekatere empirične metode za ugotavljanje zanesljivosti (glej Glass, McGaw in Smith 1981).
+Tudi nekateri drugi avtorji pišejo o tem, toda veliko premalo, da bi lahko usmerjali metaanalitično prakso (Kulik in Kulik 1989, Rosenthal 1991).
+McGaw je postavil zahtevo, da bi vsaka metaanaliza morala vsebovati nekakšen indeks konsistence kodiranja (McGaw 1988, str. 682).
+Ni pa razvil te ideje do opredelitve, kakšen naj bo ta indeks in kako bi ga dobili.
+Korak v tej smeri sta naredila avtorja Kulik in Kulik z zahtevo, da je v metaanalizo treba vključiti opis vseh pomembnih značilnosti zajetih raziskav.
+Takšen opis mora omogočiti ostalim raziskovalcem ugotoviti, kako so bile razvrščene raziskave.
+Na ta način je mogoče dopolniti metaanalizo s popravljenim in razširjenim kodiranjem značilnosti (Kulik in Kulik 1989).
+Pri ugotavljanju veljavnosti se bomo lahko poslužili metode ekspertnih ocen.
+Racionalni preizkus veljavnosti bo opravilo več ekspertov.
+Pri tem bodo v luči dosedanjih teorij in spoznanj presojali ustreznost kategorij za razvrščanje in kodiranje.
+To pomeni: presojanje jasnosti kriterijev, enoznačnosti kategorij in njihove izčrpnosti.
+Pri tem se je možno opirati na dosedanje izkušnje v metaanalitičnem raziskovanju.
+Takšen racionalni preizkus bo imel dva cilja: izboljšati veljavnost razvrščanja in kodiranja ter ponuditi drugim raziskovalcem oceno veljavnosti uporabljenega postopka.
+Zato bo potreben v dveh različnih fazah metaanalitične raziskave.
+V fazi načrtovanja raziskave in priprave za kodiranje bo imel vlogo izboljševanja postopka in dviganja njegove veljavnosti.
+To bo formativna evalvacija postopka; ta je za izvajalca metaanalize pomembnejša od poznejše.
+V fazi izvajanja postopka kodiranja in po njem lahko uporabimo ponovno racionalni preizkus z ocenami ekspertov.
+To bo sumativna evalvacija, ki mora uporabnikom metaanalitične raziskave ponuditi odgovore na vprašanja, ki zadevajo veljavnost postopka.
+V končno poročilo o metaanalitični raziskavi bomo vključili opisa obeh preizkusov.
+Opis formativne evalvacije bo pomemben predvsem za raziskovalce, ki bodo nadaljevali s sekundarnimi analizami te tematike (npr. za poznejše obširnejse metaanalize z praktično enako tematiko ali pa za druge metaanalize s sorodnimi raziskovalnimi problemi).
+Opis sumativne evalvacije bo pomemben predvsem za uporabo in aplikacijo novih spoznanj metaanalitične raziskave v vzgojni praksi.
+Tukaj je predvsem treba poiskati vzroke za 6 odstotkov raziskav, ki so pri ponovnem kodiranju bile razvrščene bistveno drugače, kot pri prvem.
+To bo še zlasti pomembno v primerih, ko je kategorij razmeroma malo (in je vendar prišlo do takšne razlike).

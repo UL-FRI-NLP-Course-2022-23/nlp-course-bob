@@ -1,0 +1,220 @@
+pišite nam | revija Joker
+Kartice x-fi so videti dokaj neugledne, saj je sam čip precej manjši od tistega na audigyjih.
+A pod pokrovom se skriva brutalna moč, ki ji ta hip ni para.
+Nova generacija prinaša tudi izboljšano knjižnico igričarskih učinkov EAX.
+Ta je prilezla do pete verzije in zmore po novem rokovati in prostorsko maličiti kar 128 zvokov, kar je enkrat več kot EAX 4.
+Creativovci so izboljšali upravljanje z nizkimi toni, ki so za od eksplozij odvisno špilavstvo še kako pomembni, jasneje definirali bližinske učinke in pridodali tehnologijo EAX voice.
+Ta realnočasovno spreminja glasove igralcev prek mikrofona, kar bo nedvomno deležno takojšnje posvojitve v raznih futurističnih naslovih (le kdo si ne želi zveneti kot ljubi črni astmatik?).
+EAX 5 bo krst doživel z izidom Call of Duty 2, zavoljo Creativovega vpliva pa je pričakovati hitro razširitev na ostale prihajajoče naslove.
+pišite nam | revija Joker
+Na koncu koncev je treba v zakup vzeti še ceno, ki je v primeru x-fijev urnebesno pretirana.
+Osnovni model pri Eventusu, 01 200 35 00, košta 34 tisočakov, še kako potrebni platinum skoraj petdeset, igričarski fatal1ty prek šestdeset in elite pro okroglih 85.000 SIT!
+Glede na to, da brenkalna čipovja te dni dobivamo zastonj na mamaplatah, dvomimo, da bodo x-fiji pri kupcih doživeli topel sprejem.
+Morda čez leto ali dve, ko bodo mešetarji zanje zahtevali znosne zneske.
+Do takrat pa bomo pač morali preživelti brez kristalizacije, EAXa 5 in X-RAMa.
+multinovela
+Cenovno dno familije X1000 tvorijo tri inačice X1300.
+Na njih pike premetava najbolj oskubljeni novogeneracijski procesor, R515.
+Temu so kruti Atijevci pustili vsega eno izvršilno četvorko, zato se lahko pohvali zgolj s štirimi točkovnimi in dvema ogliščnima enotama.
+Zanimivo pa je, da je njegov urejevalni procesor enako zmogljiv kot oni v X1600, torej rokovnjači s 128 nitmi naenkrat.
+R515 je revnejši za še eno svežo pogruntavščino, in sicer za novi pomnilniški krmilnik.
+Vsled zajetnosti so ga morali izrezati in ga nadomestiti s klasično verzijo, ki razpoložljivo pipico razdeljuje na štiri dele.
+Najbolj navitemu malčku je ime X1300 pro.
+Opremljen je s 600-megaherčnim jedrom, medtem ko na 128-bitni cevovod pripopani pomnilnik deluje s 400 MHz.
+Izvedenka X1300 brez pridevnikov je frekvenčno še bolj omejena: njeno tiktakalo utripne 450-milijonkrat v sekundi, medtem ko je pomnilnik vsega 250-meganihajen.
+Mrzla in trdna tla lestvice tlakuje radeonček X1300 hypermemory, namenjen najcenejšim mlinčkom.
+Njegova srčika sicer utripa enako hitro kot pri modelu X1300 in je pomnilnik celo 500-megaherčen, a je slednjega lahko največ 32 MB in je povezan z neprepustno 32-bitno pipico.
+Kupiti ali ne?
+A razpredanja in teoretiziranja o sto in več jurjev vrednih karticah so eno, realnost nekaj drugega.
+Kaj naj si privošči povprečen Jokerjevec, ki se mu že osemdeset prešernov zdi preveč?
+Dajanje nasvetov na tem področju je nehvaležno opravilo, saj X1600 in X1300 še nismo preizkusili.
+Zatorej lahko primerjamo le staro gardo - GF 6600 GT in radeone X800 v najrazličnejših izvedenkah.
+Zanimivo je, da je stanje v tem srednjem razredu skorajda obrnjeno.
+Zeleni goblin prevladuje v igrah DirectX, X800 GT in GTO razturata v Kvaki ter Resniku.
+Predvsem v slednjem radeončki dobesedno poletijo, najbrž zaradi 256 MB pomnilnika, kar je enkrat več od 6600 GT.
+No, ker bomo prihodnji mesec preizkusili ostale radeone in Nvidijin odgovor v obliki geforca 6800 GS, bomo zaključek prišparali za takrat.
+Če ne morete počakati tako dolgo in ste pripravljeni odšteti 60.000, pa počekirajte okvirček o Sapphirovem X800 GTO2.
+Morda boste presenečeni.
+multinovela
+Medtem ko v tujini pritikline za ipode poganjajo kot gobe po dežju, v Podalpju tovrstnih dodatkov domala ni.
+Večina naših prodajalcev itak že s težavo sploh priskrbi predvajalnik s sliko jabolka.
+Za opremo pa se je treba potruditi z naročanjem prek spleta.
+Dve napravi pa sta se vseeno znašli tudi pri nas, in sicer daljinske slušalice ter zvočniki, oboje iz tovarne Logitech.
+Slušalke so všečne, grajam le obilnejšo težo in nenastavljiv trak.
+Srednji cenovni razred graf so v zadnjih mesecih pretresali zagrizenejši spopadi kot prestižnega visokega.
+Dogajanje je na moč spominjalo na rokoborsko tekmovanje.
+V Nvidijinem kotu ringa se je ob masovni podpori občinstva kuliral nepremagljivi šampion 6600 GT, dočim je ATI nadenj stalno pošiljal nove izzivalce.
+Najprej so se s krvavim nosom in izpahnjenimi udi umaknili radeoni X600, nato družina X700.
+Po kopici ostalih nesrečnih borcev je šele pred kratkim uspelo modelu X800 GTO.
+Z zelenim goblinom sta se naskočila brez milosti, si izmenjala nekaj podlih udarcev in se sporazumno razšla kot enakovredna nasprotnika.
+Toda premirje ni trajalo dolgo, kajti tako rdečkarji kot zelenci že imajo pripravljene nove kandidate.
+Prvi so skuhali shujšani inačici veličastnega R520 oziroma radeona X1800 XT - jedrce RV530 se je izkristaliziralo v inačice X1600, medtem ko se je še nekoliko skromnejša izpeljanka R515 znašla na karticah X1300.
+Nvidia se po drugi strani ni odločila za obrezovanje kraljevskega G70, temveč so kot poklon uspešni družini NV40 pripravili njeno poslednjo verzijo.
+Gesile 6600 GT, 6800 in 6800 GT je zamenjal na povsem novi srčiki NV42 osnovani GF 6800 GS. Nadebudneži, ki v teh prazničnih dneh cukate starše za rokave in kažete proti barvastim škatlam z grafičnimi karticami, imate torej zares pestro izbiro.
+A za katero se odločiti, da se merek v Battlefieldu 2 ne bo zatikal in bo perzijski princ svilnato gladko poskakoval naokoli?
+multinovela
+Kartulje so ob pomoči athlona FX-55 in gigabajta rama DDR-400 premetavale trikotnike v četrti Kvaki, S.
+Ker cilj tokratnega preizkusa ni bil le podati ocene o novoprišlekih, temveč naslikati čimbolj celovito sliko trenutnega stanja na trgu, sem vse teste opravil z enakimi nastavitvami kot prejšnji mesec.
+Čeravno preizkušane grafikulje temu niso namenjene, so se mučile z najvišjo stopnjo podrobnosti in učinkov, štirikratnim mehčanjem robov in šestnajstkratnim anizotropičnim filtriranjem.
+Marsikatera je zato zmogla izpljuniti zgolj enomestne rezultate, kar je za kakršnokoli igričarsko udejstvovanje docela neprimerno.
+Zaradi tega sem vse kartice še enkrat pripravil do sodelovanja v njim bolj domačem okolju - pri ločljivosti 1024 x 768, z izklopljenimi naprednimi učinki, kot so nestisnjene teksture in mehke sence v F.
+multinovela
+Na prvi pogled je razpečevanje računal dinamičen, raznolik posel, kjer se bode na desetine tisočev podjetij.
+Vsaj tako bi lahko sklepali po dejstvu, da celo Spodnji Duplek premore najmanj tri garažne trgovinice s strojno opremo.
+Toda resnica je nemalo drugačna in čeravno obstoja neznanskega števila majhnih štacun ni moč zanikati, večino trga obvlada le par največjih imen.
+IBM, Dell, HP, Fujitsu-Siemens in peščica drugih multinacionalk so zaslužni za krepko čez polovico letne prodaje abakov.
+To so podjetja, ki oblikujejo cene železnine in ki vplivajo na razvoj bodočih komponent ter standardov.
+Praviloma uživajo posebno tesne odnose s proizvajalci, zaradi česar imajo neznanske prednosti.
+Če novi procesor za vse ostale košta 200 dolarjev, ga veliki ribaki fašejo za 150; če povpraševanje po neki grafikulji presega ponudbo, jo bodo najprej zagotovili njim; v primeru, da njihov strojček zahteva posebno prilagojeno matično ploščo in napajalnik, ju bodo brez težav dobili ...
+Znamke se za tovrstne usluge oddolžujejo z ogromnimi naročili in razpečevalsko mrežo, ki doseže najhuje zabačen tadžikistanski zaselek.
+Medtem ko lokalna štacuna kupi nekako petdeset tiktakal na mesec, jih gorostasi naročajo cele vagone, in razumljivo je, da se proizvajalcem zaiskrijo oči že samo ob pomisli na pogodbo s kakim IBMom ali HPjem.
+Ta trdno sklenjeni krog je po drugi strani ustvaril težke pogoje za obstoj manjših podjetij.
+Z znamkami se ne morejo bosti že s cenovnega vidika - in četudi bi se lahko, je vprašljivo, kdo bi hotel prodajati njihove na roko sestavljene mlinčke.
+Palčki se ne morejo kosati s širino in vseobsežnostjo ponudbe 'brendnejmov', zato jih razne veleblagovniške verige tipa Wal-Mart (ali, če podomačim, BOF) preprosto ignorirajo.
+pišite nam | revija Joker
+multinovela
+Kjer so doma prave zverine
+pišite nam | revija Joker
+multinovela
+Kajsi torej privoščiti?
+pišite nam | revija Joker
+Uporabniški vmesnik je spričo ogromnega zaslona pregleden, pri čemer oblika in ureditev spominjata na Microsoftov Media Center.
+Ob strani ekrana so velika štirismerna tipka s potrditvenim gumbom, skupek pritiskal za hitro predvajanje in knofa za priklic menijev.
+Na vrhu predvajala najdemo še gumba za regulacijo glasnosti.
+Tipke so relativno trde, uporabniški vmesnik pa zna biti presenetljivo počasen in neodziven, zlasti če se ga lotimo med predvajanjem videa.
+Resda je logičen in dokaj preprost, toda ipodov ga prekaša tako po uporabnosti kot po odzivnosti.
+Kljub pestremu naboru zmožnosti pa mali hibrid U10 klavrno odpove.
+Kot video predvajalnik ni uporaben, če pa potrebujemo glasbeno skrinjico, obstaja mnogo boljših in predvsem cenejših alternativ.
+Če vas vseeno mika, ga morete kupiti pri Eventus Computers, 01 / 200 35 00.
+pišite nam | revija Joker
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+multinovela
+Neskončna bitka za hitrostnega prvaka med procesorji je vzrokovala še eni vroči novosti - ozaljšani različici pentiuma 4.
+Luni poroča.
+Takojšnja uspešnica niso bili niti northwoodi, ki so ob prehodu na 0,13-mikronski proizvodni proces prinesli zajetnejši predpomnilnik.
+Verzija z 2 GHz je bila v večini testov slabša od enako navitega athlona.
+Toda položaj se je spremenil.
+Intelove srčike s podporo hipernitnosti zdaj spadajo med najbolj urne modele na trgu in trenutni kralj vseh procesorjev je ravno (preklemano dragi) pentium 4EE z dodatnim tretjenivojskim predpomnilnikom.
+Priznati moram, da sta se Intelova novinca odrezala bolje kot sem pričakoval.
+Navkljub za polovico daljšemu cevovodu in precej počasnejšemu predpomnilniku sta brez težav konkurirala tako starejšim bratcem kot ADMjevim 64-bitnim čipom.
+Kodiranje in večpredsaj so novi čipki sposobni doseganja vrtoglavih frekvenc.
+Do konca leta naj bi tako ugledali štirigigaherčne primerke, zgornja meja tehnologije pa naj bi znašala debelih 5 GHz.
+Za razliko od willamettov, ki so za to plačali z zmogljivostjo, prescotti zahvaljujoč večjemu predpomnilniku in izboljšani logistični enoti lepo tekmujejo tako z northwoodi kot z AMDjevo ponudbo.
+Ko bodo programerji začeli izkoriščati nove ukaze, se bo moč še povečala, tako da tile sveži P4 niso slaba naložba za prihodnost.
+Predvidevam, da bodo do pravega izraza prišli čez kakega pol leta, z izdajo 3,8-gigaherčnih in hitrejših različic.
+Asusovo grafikuljo V9570 poganja najnovejši Nvidijin mlinček za mase, geforceFX 5700 ultra.
+Za razliko od 5600 je procesor 5700 bolj žlahtnega rodovnika.
+Večino pretikal so Nvidijini snovalci namreč pobrali iz jedra NV35, ki danes sliši na ime geforce FX 5900.
+Resda pa za petdeset prešernov, kolikor boš za izrisovalo pikslov odštel, ne moreš pričakovati zmogljivosti modela 5900.
+Namesto osmih vzporednih cevovodov za mletje tekstur in pik so dejavni le štirje, prepolovljena je tudi širina povezave s pomnilnikom.
+Namesto velikodušnih 256 bitov je procesorju na voljo le 128-bitna stezica, kar vpliva na hitrost pri vključenem mehčanju robov.
+Morda bi bil lahko zanimiv del, kjer se učimo igranja po notah, a ta zahteva vsaj znanje notnega zapisa.
+Tu nam računalnik odigra melodijo, ki jo spremljamo po črtovju, nakar taista naloga čaka vas.
+Na koncu vas abak oceni.
+Spet velja poudariti, da je učenje na tako majhnih tipkah precej naporno.
+Glasbena šola in klavir ali sint sta zagotovo boljši izbiri.
+Ostane IntelligentChord, kjer lahko po mili volji fušamo, saj se ton ritma prilagaja akordu, ki ga pritisnemo.
+Vendar je grdo, da programska koda vse prevečkrat ne dojame vseh hkrati pritisnjenih tipk.
+Še največ svobode boste našli pod možnostjo Perform, ki je pravzaprav simulacija sintesajzerja s kopico instrumentov (višine oktav je mogoče digitalno spreminjati) in ritmov, ki jih lahko tudi uvozite.
+Stvaritve je moč shranjevati v zapisih midi, mp3 in wav, toda, roko na srce, za kaj več kot kako melodijo za zvončkljanje mobitela prodikeys niso primerni.
+Pesmi se urejati ne da in če se želite z glasbo pečati ljubiteljsko, si za 31.000 SIT, kolikor ta izdelek stane, raje omislite rabljeno klaviaturo.
+Zastonjski dodatni instrumenti in ostala navlaka, ki si jo lahko pretočite s spletne strani www.prodikeys.com, gor ali dol.
+Posodil nam je pripravo Eventus computers, 01 / 230 32 00.
+Icy box je pod črto zelo spodoben izdelek, kot naročen za lastnike prenosnikov in frajerčke, ki veliko dajo na videz.
+Na voljo je v dveh različicah: močnejši in dražji IB-350UE, ki velja slabih 18.000 SIT ima oba vmesnika, dočim 13 jurjev vredni IB-350U čveka samo skozi USB.
+Če vas zunanji napajalnik in nekoliko švohotna pritrditev diska ne motita, odstopicljajte do Mlacoma ali jih pokličite na 01 / 500 87 75.
+V drobovju testnega strojčka s pentiumom 4 3,2 GHz in gigabajtom hitrega pomnilnika DDR so se znašli Sapphirov radeon X800 pro, Asusov radeon 9800 XT ter, kot predstavnik zelenega tabora, Winfastov geforce FX 5950.
+Kot se spodobi, so vse kartice poganjali zadnji uradni gonilniki (Catalyst 4,5 in Detonator 56,72), nad vsem skupaj pa so bedela Okna XP.
+Zmogljivosti sem preverjal s tremi grafično jako zahtevnimi špili: to so bili Far Cry, Unreal Tournament 2004 in Gun Metal.
+Po pričakovanjih se je v vseh najbolje odrezal X800 pro.
+O moči Atijeve nove arhitekture največ povedo majhne razlike pri preklapljanju ločljivosti v UT2004 in Far Cryju.
+Z ohišji je pri veliki večini ljudekov od nekdaj tako, da pri nakupu novega abaka igrajo majhno vlogo.
+Dočim neznalci tu in tam še znajo pripomniti kako modro o grafični kartici, procesorju ali trdem disku, o škatli največkrat niti ne razmišljajo.
+Če je ta na zunaj lepa, toliko bolje, v nasprotnem primeru pa bomo mlinček enostavno zadegali pod mizo.
+Deloval bo tako ali tako, kajneda?
+Drži - a le v primeru nezahtevnih osebkov, ki ves računalnik zamenjajo na vsakih pet ali več let.
+Tovrstno razmišljanje se po drugi strani izkaže za zmotno, ko se skladno s spoznavanjem čudovitega sveta iger, večpredstavnosti in ostalih zahtevnih aplikacij začne prebujati tek po nadgradnjah.
+Včerajšnji novinec se mora v želji po zmogljivejšem sistemu naenkrat soočiti z dejstvom, da zaradi manka prostora ne more vdelati dodatnega trdega diska, da se novi procesor zaradi slabe prevetritve pregreva, da švohotni brezimni napajalnik ne zmore dobavljati dovolj korenčkovega soka nabriti grafični kartici, da je za vstavitev mrežne kartice treba razstaviti kompletno mašino in tako naprej.
+Ker take situacije ne dišijo nikomur, je ob nakupu tolikanj modreje pridodati tistih deset jurjev in si zagotoviti pošteno kišto.
+Ohišje je pod črto osnovni gradnik vsakega PCja in čeprav (vsaj neposredno) ne prispeva k hitrejšemu zaganjanju Worda ali večjemu številu sličic na sekundo v špilih, bo kakovosten model olajšal življenje vsakomur, ki je že pokukal ali še kani pokukati v elektronsko drobovje.
+Mogoče se sliši klišejsko, toda hiter vrg uča na katerikoli računalniški forum, vključno z Mnenjalnikom, razkrije, da je izbira prave šatulje med najbolj vročimi temami pogovora.
+Čeprav je tema tega sestavka povsem praktičen preizkus kopice pri nas dosegljivih ohišij, je različnih modelov enostavno preveč, da bi lahko podal splošno in vedno veljavno oceno.
+Na policah trgovin se valja na ducate različnih škatel, katerih cene se gibajo od pet do petdeset in več tisočakov, povrhu pa nenehno prihajajo novi modeli.
+Zatorej je toliko bolj smotrn zapis par smernic in napotkov, ki se jih velja držati pri nakupu.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Skupno vzeto je sonata spodoben stolpič, ki bo najbolj sedel sovražnikom hrupa.
+Cenovno ne spada med najugodnejše (pri JAE hočejo zanjo imeti dobrih 34 jurjev), vendar izdatek upraviči z odličnim napajalnikom, pridodano vetrnico in privlačnimi podrobnostmi.
+Ob besedi robot običajen človek pomisli na tovarniške proizvodne linije, ob katerih mehanske roke varijo, barvajo in vijačijo avtomobile.
+Navdušenci nad ZF sanjarijo o človeku podobnih inteligentnih strojih, ki se pokoravajo trem zakonom gospoda Asimova.
+Spet tretji jih dojemajo kot grožnjo v obliki ubijalskih strojev.
+Pri Sonyju menijo drugače: robot naj bi bil v prvi vrsti človeka zabava.
+In kdo bi ga zabaval bolje kot človekov najboljši prijatelj?
+multinovela
+domov " članki " testisi " A je na baterije?
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+ATI se s tako impresivnim naborom sicer ne more odprto kosati, vendar to ne pomeni, da v R420 niso zapekli nobenih dobrot.
+Najbolj so ponosni na napredno obliko stiskanja tekstur, imenovano 3Dc.
+Pogruntavščina je namenjena uporabi v navezi z normaliziranimi kartami (normal map), ki se vse bolj uporabljajo kot napredna oblika grbančenja površin.
+Pod navpično postavljenim 200-vatnim napajalnikom se skriva namensko razvita matična plošča asus P4R8T, zgrajena okoli Atijevega veznega čipovja RS300 / IXP200.
+Zadevščina podpira vse Intelove srčike in do 2 GB pomnilnika.
+Vdelana grafikulja radeon 9100 IGP si od skupnega kolača odreže 64 MB rama in je sposobna poganjanja manj zahtevnih iger, vendar plošča na srečo ponuja režo AGP.
+Seveda so prisotni šestkanalna zvočna kartica, vmesnik ethernet in ostale drobnarije.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Digimatrix pak blesti na drugem pomembnem področju, povezljivosti.
+Pod sprednjim pokrovom se skrivajo bralnik pomnilniških kartic, kar štirje USBji, dva vtiča firewire, optični SPDIF, klasični muzikalični dvojec vhodov in antena za vdelani vmesnik wi-fi 802.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Zadevščina za svoj denar nudi dovolj.
+Resda jo pestijo omejene predvajalne zmožnost, počasna povezava z računalnikom (USB 1.1) in zanič slušalke, a vseeno ponuja več kot navadni muzikalični palčniki.
+Diva gem, ki ga za 30 prešernov prodaja Ram 2, 01 586 27 00, je nemara največje presenečenje testisa.
+Videzno izjemno prikupen artefakt je na voljo v črni, rdeči in modri barvi, njegovi posebnosti pa sta lepo prelivajoči se barvni odtenki in naphanost s funkcijami.
+Če začnemo pri predvajanju, je tu podpora nestandardnemu formatu AMR (Adaptive Multirate Codec), ki je v uporabi predvsem v mobilnih telefonih.
+Poleg vseh standardnih brenkalnih zmogljivosti (različne vrste ponavljanja in preskakovanja) se diva ponaša z močnim desetpasovnim uravnalnikom ter obveznim lovilom radijskih frekvenc.
+Kakopak sta v kompletu mikrofonček in možnost snemanja, ki je podobno dovršena kot pri yoyu.
+Diva namreč prav tako vsebuje zvočni vhod, priložen je tudi namenski snemalni kabel, ki ima tri glave (navaden činč in dva RCAja).
+Razred igratorjev, ki namesto pomnilnika vsebujejo trde diske, resda ni tako številčen, vendar se tudi v njem bije huda bitka za prevlado.
+Najbolj zagrizena nasprotnika sta Apple z ipodi in Creative, ki ponudbo osvežuje takorekoč mesečno.
+Tovrstne napravice so na splošno precej bolj dovršene od manjših bratcev, ponujajo hitre vmesnike in napredne predvajalne možnosti.
+Ampak to se na žalost odraža na cenah, ki se pričnejo pri nekako šestdesetih tisočakih in se končajo pri več kot dvakrat toliko.
+Zategadelj velja biti pri ocenjevanju ustrezno bolj kritičen, saj je pri takih številkah vsaka pomanjkljivost tolikanj opaznejša.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Ob omembi kapacitete 400 GB bi morda pomislili, da gre za prve predstavnike novega rodu pogonov, ki so sestavljeni iz pomnilniških plošč prostornosti sto gigazlogov.
+Toda 7K400 še vedno tvorijo preizkušene plate, ki zmorejo shraniti po 80 GB podatkovja.
+HGSTjevi inženirji so se zato poslužili enakega trika kot pred leti IBM: povečali so skupno število plošč.
+7K400 jih tako premore kar pet, kar je v primerjavi s tekmeci, ki jih sestavljata po dve ali največ tri, nesramno veliko.
+To hkrati pomeni, da se pod pokrovom skriva celih deset bralnih glav.
+Izdelava tako zapletenega diska je vse prej kot enostavno opravilo, zaradi česar so tovrstni modeli na področju domačega računalništva zelo redki.
+A to ni edina posebnost 400-gigabajtnega pošastka, zakaj od strežniških bratov je podedoval še dve zelo zanimivi tehnologiji.
+Prva se imenuje ATA Streaming Feature Set in je bila dosedaj značilnost izdelkov, namenjenih uporabi v delovnih postajah za obdelavo videa in zvoka ter strežnikom.
+Gre za skupek izboljšav, ki skušajo zagotoviti karseda gladek in neprekinjen tok podatkov, tudi na račun manjših napakic.
+No, HGSTjevci so še bolj ponosni na RVS oziroma Rotational Vibration Safeguard.
+Dotična pogruntavščina prek dveh tresljajnih tipal na spodnji strani pogona spremlja vse vibracije v okolici in jih skuša čimbolj izničiti z ustreznimi premiki bralnih glav.
+Zadevščina je uporabna predvsem v večdiskovnih okoljih, saj zna skupek tesno natlačenih brzcev ustvarjati ogromno tresljajev, ki slabo vplivajo tako na rezultate kot na zdravje diska.
+Preostale tehnične lastnosti 7K400 so precej bolj klasične.
+Svojih pet plošč z rabo tihih motorčkov s tekočinskimi ležaji zasuče 7200-krat v minuti, z računalnikom se pogovarja po vmesniku IDE ali SATA, pri nemotenem pretakanju podatkovja pa mu pomaga 8 MB medpomnilnika.
+pišite nam | revija Joker
+Novica o kombinaciji digitalnega fotoaparata in kamkorderja me ni niti presenetila, niti ne navdušila.
+Takih hibridnih napravic sem videl že mnogo in vsem je bila skupna previsoka cena ali omejena uporabnost.
+Xacti je sličen multipraktik, le da ne razočara oziroma gre za čisto koristno one.
+Dober prvi vtis pusti pestra vsebina šatulje, ki vsebuje 128-megabajtno pomni-kartico tipa SD, koristno zapasno taškico, polnilno stojalce, tabletno daljinsko upravljalo, ovrvičen pokrovček za objektiv in kabel USB 2.0 ter kompozitna žico za neposredno predvajanje na televizorju.
+Aparatus je ličen in po obliki bolj spominja na pištole iz Zvezdnih stez kot na fotoaparat oziroma kamero.
+Rokovanje z njim je nadvse preprosto.
+Dogajanje, ki ga spremljamo na hitrem in vrtljivem 1,5-palčnem zaslončku, spravimo v sliko z eno in v video z drugo veliko tipko.
+Nikakršnega posebnega preklapljanja med fotografskim in video načinom, kot je to v navadi pri digitalcih, ki umejo zajemati tudi gibanje.
+Fotko moremo narediti celo med filmanjem, vendar se video tedaj za par trenutkov ustavi.
+Ločljivost stoječih snetkov je 3,2-milijonska (2048 x 1536 pikic - vsak zasede okoli megabajt prostora), premikajočih pa 640 x 480 točk pri 30 sličicah na sekundo s tokom podatkov 250 kilobajtov na sekundo (standardni zapis MPEG4).
+Kakovost fotografij je solidna, očitam le preveč šuma, ki pride do izraza predvsem pri temnejših kadrih.
+Video, četudi daleč od PAL DVja, prijetno preseneti.
+Optični zum je 5,8-kraten, dočim je goriščnica primerljiva z 38 do 220 milimetri pri klasiki.
+Gizmo je opremljen še s stereo mikrofonom in bliskavico.
+ST90 je igralna palica, pri kateri dobiš manj muzike, kolikor je plačaš.
+Za 5.990 SIT, kolikor zadevščina velja pri nas (v ZDA recimo stoji primernejša cena 15 dolarjev - 3.000 tolarjev), v zanimivi okrogli šatulji fašeš cenenoplastični ročaj, nasajen na oblikovno posrečeno podlago iz treh vesoljskih iztegoval, ki rabijo kot baza.
+Postavitev je presenetljivo trdna in kljub temu, da je videti češka, se palica ne svaljka po mizi, če jo zadovoljivo tiščiš navzdol in pretiravaš z norimi sunki ter če podlaga ni pregladka.
+Udobnost vsled malce trdega naslanjala za dlani ni na višku, a nikakor ni katastrofalna.
+Poleg tega je ST90 po stari Saitekovi navadi primeren tako za desničarje kot za levičarje, kar je v predvolilnem času še kako pomembno (šala mala).
+Analogna ročica ima dober hod in je solidno natančna, čeprav kakega Lock Ona ali resnih dirkačin z njo ne bi igral, tudi zato ne, ker je ni mogoče vrteti.
+Prisotni so samo trije gumbi, eden klikotajoč pod kazalcem solidne kvalitete in dva precej obupna pod palcem, pri katerih se zares čuti, da je proizvajalec šparal.
+Posebnost je digitalni nadzor potiska s štirimi stopnjami, ki ga nadzorujemo z digitalnima gumboma nad omenjenima podpalčnima, vendar je zadeva špensi osvetljavi navkljub nenatančna, naporna za rabo in zategadelj neuporabna.
+multinovela
+multinovela
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+pišite nam | revija Joker

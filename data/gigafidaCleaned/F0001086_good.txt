@@ -1,0 +1,6 @@
+Idrisi je bil eden najpomembnejših kartografov in geografov srednjega veka.
+Rodil se je leta 1099 v kraju Sebtah ob
+Softver IDRISI je nastal najprej kot učni pripomoček za boljše interaktivno razumevanje geografskih procesov in analiz prostora.
+Kljub temu gre za profesionalni izdelek za kakovostne analize v geografiji, slikovnem procesiranju in prostorskih statističnih obdelavah.
+Softver je modularno zgrajen in kot tak namenjen različnim uporabnikov.
+Prirejen je za uporabo na standardni

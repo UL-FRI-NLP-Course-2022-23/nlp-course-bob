@@ -1,0 +1,173 @@
+multinovela
+Okej, je.
+Za vse skupaj skrbi strojna oprema, tisoče mašin na nitroglicerin, povezanih v logične kepe, ki skrbijo za optimizacijo algoritma.
+Številke so res nepredstavljive.
+Trideset gruč, vsaka z do dva tisoč mašincami; in nobena od teh ni spectrum 48K.
+Res pa je, da po drugi strani spet ne gre za beštije.
+So poceni, brezimne, v orjaške omare zadegane ploščate kištice dimenzije 1U (slika spodaj), laufajoče na Linuxu, ki stalno crkujejo.
+Vendar se tam zaradi tega nihče ne sekira, saj načrtno v ta namen spisana programska oprema skrbi, da škode ni.
+Računala so potrošni material in jih menjajo kot pregorele žarnice.
+V trenutku, ko to berete, hranijo in obdelujejo sto terabajtov podatkov, dočim vsak podatek iz varnostno-optimizacijskih razlogov v povprečju klonira petdesetkrat.
+In vse skupaj postaja še boljše.
+Načrt je zasnovan tako, da se z vsako dodano gručo premosorazmerno poveča moč vsega sistema.
+Ja, trenutno je to verjetno najzmogljivejša računalniška gruča, katere surovo moč so lani aprila ocenili na okrog 250 teraflopov.
+Plus ali minus petdeset posto, ker orodja za natančno merjenje takega kolosa preprosto ni.
+O legendah se pišejo knjige.
+O Googlu jih je zunaj že lep šopek, od telebanskih priročnikov do tehnik vplivanja na rezultate.
+pišite nam | revija Joker
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Najprej marsikomu nadležna zadeva: kako zaboga se znebiti XPjem pridodanega Windows Messengerja.
+Ta je obtičal na verziji 5.0, iz katere je zrasel MSN Messenger, ki danes okoli skače v inačici 6.2 oziroma 7.0 beta, zategadelj ga resnično ne potrebujete.
+Celo nadležen je ob prvem zagonu, saj se hoče posodobiti, nakar še vedno teži, da je na voljo nova verzija.
+Add/Remove v Nadzorni plošči ne pomaga, saj se lahko največ rešimo bližnjice v meniju Start.
+Če hočemo biti gotovi, da nam ne bo več najedal poženemo Start>Run in vtipkamo 'RunDll32 advpack.dll, LaunchINFSection %windir%INFmsmsgs. inf,BLC.
+Zdaj smo pripravljeni na nemoteno delo z MSN Messengerjem.
+MSN Messenger ponuja najbolj polno izkušnjo, s pomežiki, rokopisom, spletno kamero in igrami vred.
+LordFebo je očitno mahnjen na sadovnjake, Retro pa seveda na ZX spectrum.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+multinovela
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+pišite nam | revija Joker
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Takole dramatično so včasih motali in pritiskali (s)tiskarsko napravo.
+Zdaj veš, od kod izraz 'press'?
+Odrešenik Luni iz temne in žalostne dežele klicnega dostopa popelje še zadnje nesrečnike.
+Kdo pravi, da je za vsak nov gonilnik, programček ali igro treba obiskati kiberkavarno ali čakati na revijam priloženo ploščkovje?ič neverjetnega, odnedavna se kot eni prvih na svetu igračkamo celo z mobilnim omrežjem tretje generacije UMTS!
+Če smo slovenski računalniški navdušenci nekaj let tega z zavidanjem poslušali samohvalo Skandinavcev o svojih ultrahitrih povezavah, smo danes mi tisti, ki nam zavidajo.
+Švedi, Finci in Norvežani so sicer zgodba zase, a skorajda ves preostali svet ne more verjeti, kakšen drobiž plačujemo za svoje megabitne linije.
+Neomejena dostopnost spleta in njegovih zakladnic podatkov je neprecenljive vrednosti za vsak posel ali dejavnost.čim kabel tako ali tako deluje po čisto samosvoji napeljavi.
+Ne smemo pozabiti niti na Fotra, ki vsak mesec vedno znova jeznega pogleda prikoraka v sobo in zahteva pojasnilo za višino računa.
+Cena za širokopasovni internet je enaka ne glede na to, koliko ur preždite na Mnenjalniku.
+Mogoče se tistih tri do petnajst tisočakov mesečno spočetka zdi veliko, a že kake tri do štiri ure dnevno na analognem modemu nanese dosti več.
+In treba je izpostaviti še najbolj očitno prednost - ogromno hitrost.
+Pol-, tričetrt- in enomegabitne linije danes niso nič posebnega, medtem ko se nekateri srečniki igrajo s hitrostmi, ki dosegajo osem megabitov na sekudo.
+To je desetkrat do stopetindvajsetkrat hitrejše od vmesnikov ISDN, kar ne prinaša le urnejšega nalaganja spletnih strani in doljemanja elektronske pošte, temveč odpira povsem nova obzorja interneta in računalništva nasploh.
+No, več o tem pozneje, zaenkrat naj bo dovolj, če povem, da si kot večletni uporabnik širokopipičnega interneta skorajda ne predstavljam več abaka brez njega.
+Če strojček ni omrežen, preprosto ni zanimiv.
+Morda mi težko verjamete, a berite naprej in do konca sestavka vam bo vse jasno.
+Njihovi naročniki lahko izbirate med kopico internetnih ponudnikov, od akademskega Arnesa do povsem komercialno usmerjenih Amis, Netsi, Perftech in Voljatel.
+Ponudba in stroški priklopa ter naročnine se znajo zaradi tega precej razlikovati, posebej vzlic raznih naročniških akcij.
+Dočim vas priključitev in ustrezen modem brez kakršnihkoli obveznosti staneta od 30 do dobrih 50 jurjev, so vam nekateri ta znesek pripravljeni šenkati, če se jim zavežete za nekaj let.
+Res pa je, da je pozitivna stran začetnega visokega stroška dejstvo, da je vsa oprema po plačilu vaša in ne zgolj v najemu, kot je to pri Siolovem ADSLju.
+Podobno pestro je s paketi.
+Najbolje se znova godi dijakom in študentom, ki imajo možnost dostopa do Arnesovega i
+Ogromnih slik prepolne teme na forumih so smrt za vsakega modemaša.
+Lastniki orenk povezav jih zgolj pozdravljamo.zboraževalnega omrežja.
+Nesebični učenjaki vam za stalno neomejeno četrtmegabitno povezavo računajo le nekaj čez štiri tisočake, v navezi s Triero pa ponujajo trenutno najhitrejši paket za fizične osebe v Sloveniji, petmegabitno zverino s 512-kilobitnim uploadom za zgolj 11 prešernov na mesec.
+Zaslužkarsko usmerjeni ISPji (Internet Service Provider &ETH; ponudnik internetnih storitev) vam seveda ne morejo zagotoviti takih pogojev, vendar jih je večina več kot konkurenčnih Siolu.
+Priložnost so zavohali predvsem v cenejših in počasnejših paketih, ki jih Telekomov otrok ne ponuja, vendar lepemu številu računalničarjev povsem zadostujejo.
+Skorajda vsi tako omogočajo četrt-, pol- in tričetrtmegabitne dostope po cenah od 5.400 do 6.900 SIT na mesec.
+Bati nič, poskrbljeno je tudi za zasvojence z Mulo in Kazaajem &ETH; Amis in Triera recimo oglašujeta povezavo 3072 / 384 po spodobnih 11.000 SIT za tridesetdnevje.
+Toda kdo navsezadnje pravi, da morate večpredstavnost le prejemati?
+Lahko jo tudi oddajate!
+Potrebujete zgolj jajčkasto spletno kamerico (webcam) in že lahko širnemu svetu razkazujete svojo sobo, delovne navade, novo pričesko ali, če ste pripadnik Dodotove šole, genitalije.
+Voajerskih skupnosti je ničkoliko, v Google vtipkajte geslo webcam in se čudite!
+Čez omrežja P2P se vsak dan povezuje na milijone ljudi, ki med seboj dilajo praktično vse, od empetrijev in filmov prek slik do najrazličnejšega programja ter iger.
+O tem, kateri je najboljši, se nenehno krešejo mnenja, vendar nekako velja, da je Kazaa najprimernejša za ljubitelje glasbe, Emule za filmofile, dočim bo Bittorrent zadostil potrebam po igrah, aplikacijah in drugem softveru.
+No, ogromnih razlik v večini primerov itak ni, saj večina vmesnikov sloni na enakem omrežju, le povezovanja strank in iskanja zahtevanih podatkov se lotevajo drugače.
+Osel in podobni vse informacije o uporabnikih in datotekah shranjujejo na lokalnih strežnikih.
+Čimhitrejši in obljudenejši je ta, temboljše so zmogljivosti in hitrosti prenosov.
+Overnet in Gnutella uporabljata povsem drugačen pristop decentraliziranega omrežja brez vmesnih serverjev.
+Iskanje vrača rezultate z vseh priklopljenih odjemalcev, vendar je vse skupaj zato precej počasnejše.
+Nekaj popolnoma tretjega je Bittorrent, trenutno najbrž najbolj priljubljena oblika omrežja P2P.
+Za razliko od sorodnih programčkov za izmenjavo, ki se ponašajo s kičastimi in zapletenimi uporabniškimi okolji, se BT obnaša kot pre
+Če se boste pečali s P2Pjem, imejte v mislih dve pomembni stvari.
+Na prvem mestu je legalnost: s tovrstnimi omrežji kot takimi ni nič narobe, kvečjemu nasprotno.
+So kot naročena za izmenjavo najnovejših demotov, popravkov, filmskih prikolic in najrazličnejših uporabniških umotvorov.
+Slab predznak jim daje sama rulja, ki je ob vsesplošnem manku nadzora našla idealen način za razpečevanje ukradenega programja, licenčne glasbe in filmov ter ostale piratske robe.
+Ker to nikakor ni kul, se poskusite omejiti ne legalne vsebine, saj jih je več kot dovolj.
+Drug nespregledljiv dejavnik so virusi in trojanci, ki prav tako izvirajo iz brezvladja.
+Ker razpečevanih filetkov nihče ne pregleduje, se zna urno pripetiti, da lal vsebuje neprijetno presenečenje.
+Zato vsako na ta način pridobljeno datoteko temeljito preglejte.
+multinovela
+Naslednji pomemben element so protivirusni programi.
+Morda se vam zdijo nepotrebni, vendar boste ob veliki količini snetih filetkov, posebej takih z omrežij P2P, prej ali slej naleteli na zlobno kodo.
+Kaj naj bi vseboval zanesljiv antivirusni softver?
+Predvsem mora biti podprt z zajetno, pogosto osveževano internetno bazo, saj se sveže škodljivo programje pojavlja skorajda vsak dan.
+Prečesavanje sistema mora opravljati hitro in temeljito, velik plus je možnost vnaprejšnjega nastavljanja časa skeniranja.
+Nujno je pregledovanje prihajajoče elektronske pošte, ker se na ta način razmnožuje nekaj najnadležnejših bavbavov.
+Dobrega protivirusnega programja je kar nekaj, ali najbolj razširjeni so Norton Antivirus, McAfee Virus Scan, PC-Cillin, F-Secure Anti-Virus in Panda Antivirus.
+Osebno priporočam slednjega, saj se za razliko od ostalih ne zažre v vsako poro sistema in med delovanjem porablja razveseljivo malo sistemskih sredstev.
+Broadband odpira še nekaj drugih špilavnih obzorij, recimo klanovstvo (članstvo v igričarskih moštvih) in udejstvovanje v masovnih večigralskih naslovih.
+Pri obeh sta največjega pomena stalna dostopnost povezave in obilica časa.
+Resni klani redno organizirajo skupinske vaje in dvoboje z drugimi skupinami, zaradi česar morate vedno biti pripravljeni na nažiganje.
+Ti igričarji živijo za navidezne spopade in nepredani člani s počasnim ter nezanesljivim dostopom do interneta jih ne zanimajo.
+Podobno je z gildami in cehi v masovnih večigralščinah.
+Zaradi nesodelovanja vas sicer ne bodo izobčili, vendar bodo med vašo odsotnostjo tako hitro napredovali, da bo druženje in skupinsko udejstvovanje kmalu nemogoče.
+Ker je ravno to glavni smisel stalnih spletnih svetov, je posedovanje širokopipičnega interneta nekakšen predpogoj.
+V zamen so MMORPGji (Massive Multiplayer Online Role Playing Games) čudovite igralne izkušnje, ki znajo voditi do resne zasvojenosti.
+Primerna bo katerakoli od uspešnic tipa Camelot, EverQuest, Anarchy Online in EVE
+pišite nam | revija Joker
+Pa saj je le zabava!
+Potem so tu podpisi.
+Vsi poštni programi so skrajno prijazni do lenob, saj omogočajo, da svoj podpis shranite v posebno datoteko (ponavadi .sig ali .signature), ki jo samodejno pripnejo vašim sporočilom.
+To so nekateri veselo pograbili in v podpis stlačili vsemogoče, od risbic v ASCII do telefonske številke stare mame.
+Nepisano pravilo določa, naj podpis ne bo daljši od štirih vrstic.
+Druga možnost, ki se je poslužuje predvsem Outlook, je raba navideznih posetnic, torej zapis v formatu, ki ga pozna večina adresarjev.
+Ni nujno, da boste uporabili katerega od obeh načinov, je pa nujno, da svoje pismo podpišete.
+Tako zahteva bonton.
+Kotiček za geeke: menite, da ste strašni frajerji, ker vsakemu pismu prilagate svoj javni ključ PGP?
+Postavite ga na splet in v podpisu zgolj navedite, kako priti do njega (pravi geeki ga imajo itak v ukazu finger).
+Nični resnično, vse je dovoljeno?
+Kar mislite si!
+Nični resnično, vse je dovoljeno?
+Kar mislite si!
+Danes vas bom naučil nekaj koristnega, in sicer to, kako se lahko z jabolkom in znanjem orietacije po zvezdah rešite pred napadalnim levom ter najdete pot iz puščave - in zakaj je Kajn Abla ubil.
+Torej, jabolko vržete na tla, ker jabolko nikoli ne pade daleč od drevesa, in splezate na drevo, tako da se vam odvali kamen od srca, ker ste pred levom ušli na varno.
+Kamen pade levu na glavo, da vidi vse zvezde, nakar po njih najdete pot iz puščave.
+Kajn je pa Abla ubil, ker mu je ukradel traktor.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Hotel
+Komu, čemu in zaradi česa boste brali članek?
+Našpičite uha, zakajti naučil vas bom postaviti DELUJOČ in uporaben strežnik iz NULE, z nikakršnimi stroški, ki ga boste postavili nekam pod mizo in bo hkrati uporaben kot naslonjalo za noge.
+Spotoma pa se boste naučili veliko koristne teorije in prakse o moderni informatiki, tako da bo nasprotni spol nadvse impresioniran (sploh če pripadate rojevajočemu).
+Vsekakor bo to pisanje zanimivo za neuke amaterje, ki so bili doslej mislili, da je tak podvig zanje nemogoč.
+Zato v višjo prestavo pretaknite tiste možganske celice, ki vas definirajo kot pismenega, in berite dalje.
+Zakaj bi si navaden smrtnik sploh postavil svoj strežnik?
+Obstaja namreč kup javnih plačljivih ali brezplačnih strežnikov, kamor lahko zadegate podatke in ki se kar tepejo za vašo pozornost.
+Tudi takih s podporo najbolj eksotičnim tehnologijam, kar si jih lahko zamislite (PHP je že mus, tu je ASP, z malo sreče lahko najdete poznavaje perlovih skript ...).
+Da ne govorimo o lastnih rešitvah, ki ves postopek postavitve zapletenih strežniških rešitev poenostavijo do amena.
+No, prvi razlog za samostojno lastno kišto pod mizo je neodvisnost.
+Nihče vam ne zagotavlja, da javni strežnik ne bo preprosto pobrisal vsebine
+pišite nam | revija Joker
+pišite nam | revija Joker
+Najprej očistimo in iztrebimo trdi disk ter namestimo operacijski sistem.
+Če ste povsem levi, priporočam Windows.
+Običajne različice se sicer da preurediti v strežnik s pomočjo recimo vsestranskega Apacha, ampak to bi bilo po mojem skromnem mnenju z varnostnega in operativnega vidika žokanje konja s palico med oči.
+Microsoft je za te namene izdelal različico operacijskega sistema, imenovano Windows Server, in strežniški program IIS (Internet Information Server), ki pa nista poceni, zato pri našem scenariju ne prideta v poštev.
+Sicer proti njima načeloma nimam nič proti.
+Če ste precej levi in povrhu brez denarja, raje priporočam kako za te vrste izpadov skompajlano vrsto Linuxa, recimo ClarkConnect, ki je specifična poenostavljena usmerjevalniška distribucija.
+Pa še hišna izdaja (Home Edition), ki povsem zadovolji pogoje našega scenarija, je zastonj.
+Ako bodete OS uporabljali še za kaj drugega, recimo pisarniško delo, pa priporočam Mandrake.
+Če ste malo manj levi, pride v poštev klasika tipa RedHat ali Debian.
+Preden naložite operacijski sistem, je dobro. če ste povezani v internet.
+pišite nam | revija Joker
+- IZBERI VELIKOST
+pišite nam | revija Joker
+multinovela
+pišite nam | revija Joker
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+pišite nam | revija Joker
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)
+Iz salona se odpravite v Jacksonovo trgovino.
+Tu se najprej dobro pomenite s stereotipno neprijaznim prodajalcem in se odločite za nakup tirolske ročice desno od vhoda ter klešč, ki jih najdete blizu pulta.
+Iz trgovine se odmajajte do železniške postaje in pošljite telegram teti Filomeni ter prvemu možu države (če nimate dovolj denarja za oba, zaenkrat pošljite le enega).
+Obiščite notranjost postaje in vzemite naočnike z mizice ob kaminu.
+Zatem pojdite skozi duri levo od ognjišča.
+Tu zaplenite hlod, ki sloni ob dimniku, in zložljivo samokolnico.
+Vrnite se pred vhod postaje in pri telegrafistu vprašajte, kaj je novega.
+Bogatejši boste za precejšno vsoto.
+Znova obiščite doktorjevo pisarno v salonu in izvedite operacijo.
+Ko mu boste izruvali zob, z mize vzemite nagrado: sliko okrajnega lepotca.
+Pojdite na hrbtno stran Jacksonove trgovine in uporabite drezino (kliknite na desno tirnico).
+Ko prispete na novo destinacijo, se spustite po hribu in postavite košaro na obrežje.
+Sedaj se spustite v reko in se poravnajte s košaro.
+V trenutku, ko riba priplava čisto blizu vas (miškin kazalec se bo spremenil v roko), kliknite nanjo in pristala bo v košari.
+Vzemite košaro in znova uporabite drezino, toda tokrat kliknite na levo tirnico.
+Na tej lokaciji si oprtajte vrv in sekiro, ki počivata ob kolibi.
+Vrnite se v mesto in na škripcu za trgovino uporabite vrv.
+Odprite vrata in si v notranjosti lope omislite nov štrik ter plezalni pas.
+Z žrecem odgalopirajte nazaj kšoli.
+(Palčki iščejo le štiri- ali veččrkovne zasnove.)

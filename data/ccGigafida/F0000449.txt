@@ -1,0 +1,28 @@
+V boju proti računalniškim tegobam ljudje uporabljajo več
+
+prijemov. 
+Tako npr. obstajajo združenja za boj proti virusom, ki vsak novo odkriti virus analizirajo, poiščejo protistrup ter o tem obvestijo člane združenja in uporabnike. 
+Finančne ustanove, ki odkrijejo en primer zlorabe, npr. barvno kopiranje denarja, hitro sprejmejo varovalne ukrepe za preprečitev nadaljnjih
+
+virusom -- imunski sistem, temelječ na principu evolucije. 
+Še več, ti novi pristopi omogočajo boj tudi proti drugim virom računalniških zlorab, npr. proti ponarejanju kartic.
+
+Seveda pa obstajajo tudi razlike. 
+Okuženo človeško celico
+
+nastavljajo zanimive vabe in jih nenehno opazujejo. 
+Tako je npr. za viruse zanimiv program, ki se pogosto kopira, prebere in zapiše. 
+Če se tak program v čemer koli spremeni, potem je
+
+Pri računalniških goljufijah zavarovanj v smislu izmenjave
+
+formalna pravila. 
+Sledijo značilna pravila za odkrivanje osnovnih poneverb, npr. ali je kak dan prišlo do množičnega izplačevanja s kartice ali čekov z neobičajnega mesta. 
+Šele nato pride naloga za prave inteligentne sisteme. 
+Na podlagi zgodovine in izkušenj najboljših človeških preverjevalcev ocenjujejo dnevne
+
+bistveno prej (prej ali slej se večina poneverb odkrije) oz. jih bistveno več preprečijo, zato je izguba denarja bistveno manjša. 
+Poleg tega večino dela opravijo računalniki, le majhen del
+
+#Če# je zahtevek formalno pravilen, a ne ustreza seznamu
+

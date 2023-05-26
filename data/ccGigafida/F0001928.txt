@@ -1,0 +1,476 @@
+Več na http://www.g-kabel.si.
+
+Teoretično lahko na tako opremo priklopimo tudi t. i. »POTS splitter«, ki omogoča po isti žici hkratni prenos podatkov in pogovora. 
+Vendar bi bila ta rešitev smiselna le, če bi zadeva delovala tudi prek telefonskih central. 
+Takrat bi lahko v hitro povezavo ADSL spremenili kar obstoječi telefonski priključek in se nam pri tem ne bi bilo treba odpovedati običajni, telefonski uporabi povezave. 
+Morda nekoč ...
+
+Prodaja: Avtotehna Canon, www.avtotehna.si, (061) 181 81 71 .
+
+Acrobat Capture je pomemben člen za vsako podjetje, ki bi želelo vse svoje dokumente prenesti v zapis PDF, saj nam omogoči pospraviti skladovnice papirne navlake, ne da bi jo morali pretipkati. 
+V bistvu gre za program za prepoznavanje znakov z zelo enostavnim vmesnikom in brez množice nastavitev, v katerem je še poseben poudarek na prepoznavanju tipografij in oblike strani (razporeditev in tok besedila, mednaslovi, slike …). 
+Zaradi obilnih izkušenj Adobea v namiznem založništvu ni čudno, da ravno ta del programa deluje naravnost idealno.
+
+Še eno zanimivo možnost podpira Reviewer. 
+Del prepoznanega besedila lahko označimo in ga spremenimo v sliko, ki je v bistvu le izseček iz izvirnega skena. 
+Koristno, če je program obdelal del strani, ki ne predstavlja besedila. 
+
+Prav zaradi »družinske« univerzalnosti je računalnike za rabo doma tehnično zelo težko definirati. 
+Razlike med njimi in tistimi, ki so namenjeni poslovni rabi, so pogosto drobne, imamo pa tudi povsem enake računalnike, ki so za posamezno funkcijo različno opremljeni. 
+V računalniku za rabo doma bomo redko opazili omrežno kartico, v poslovnem pa bi bila kartica za sprejemanje TV programov ali grafični pospeševalnik za 3D grafiko pravzaprav metanje denarja skozi okno. 
+
+Precej več razlik je v priloženi in uporabljeni programski opremi. 
+Navadno so zelo velike, tako zaradi posebnih potreb pri uporabi kakor tudi zaradi nakupovalnih navad. 
+Medtem ko se podjetja trudijo potrebe zadovoljiti s čim manj denarja in s čim manj zamenjavami in nadgradnjami, smo uporabniki računalnikov za rabo doma pogosto uporabniki vsega, kar je novo in zanimivo, torej potencialno pogostejši kupci. 
+Tega se močno zavedajo izdelovalci, ki temu segmentu posvečajo čedalje več pozornosti. 
+Posebne izvedbe priljubljenih programskih paketov, prirejene rabi doma, so pomemben del prihodka programerskih podjetij. 
+Ostra konkurenca med izdelovalci je tudi prispevala, da so novi računalniki že v osnovi zelo razkošno opremljeni s programsko opremo, včasih nam vsaj nekaj časa sploh ni treba razmišljati o dodatnih nakupih.
+
+Vse pogostejše so kartice, ki računalniku dajejo zmožnost snemanja in obdelovanja video signalov, ponekod pa tudi spremljanja TV programa. 
+Toda to področje je še preveč nedorečeno, da bi lahko tovrstne stvari šteli za več kakor le zanimiv dodatek.
+
+K sreči je precej bolje pri prodajni podpori, plačilnih pogojih in tehnični podpori. 
+Nekatera podjetja imajo razvejeno prodajno omrežje, kar pride v poštev prav pri kupcih računalnikov za rabo doma. 
+Tu je bilo po svoje narejeno celo več kakor pri računalnikih za poslovno rabo. 
+Vsekakor vesela novica za kupce. 
+
+Seveda je zastavljena meja precej nizka, kar je povzročilo nekaj negodovanja pri ponudnikih računalnikov. 
+Toda 18 sodelujočih izdelkov dokazuje, da je za ta denar mogoče dobiti povsem soliden računalnik. 
+Ker smo ponudnikom pustili proste roke glede preostale opreme, so se skoraj vsi tesno približali meji, tako da je razlika med najcenejšim in najdražjim računalnikom v tej skupini komaj kaj več od pet tisočakov. 
+
+Altech Packard-Bell PB 55x
+
+Računalnik Anni PII233 je še eden izmed dobro opremljenih, a v celoti zelo podobnih modelov. 
+V znanem ohišju z modro črto ob levem robu je osnovna plošča formata ATX s procesorjem Pentium II 233, druga oprema pa je zelo pestra. 
+Pomnilnik je kar 64 MB, disk 4,3 GB, grafična kartica pa je znani ATI Xpert@Work z vodilom AGP in 4 MB RAM. 
+Žal solidno hitrost grafične kartice nekoliko okrnijo rezultati merjenja hitrosti diska. 
+Tudi druga oprema je zelo dobra. 
+Enota CD-ROM se vrti s 24-kratno hitrostjo, za zvok skrbi kartica Sound Blaster AWE 64, v računalniku pa je tudi TV sprejemnik ATI. 
+Posvečenost igram potrjujeta dodatni grafični pospeševalnik Flash 3D s procesorjem 3DFX Voodoo ter priložena igralna palica. 
+Monitor je vrhunski 17-palčni Samsung 700p, dobitnik zlatega Monitorja, za zvok pa skrbi sorazmerno dober par zvočnikov, ki pa imajo morda nekoliko »pretrd« zvok. 
+Tudi pri tem računalniku pogrešamo priložene programe, navodila pa so le osnovna. 
+Prodajni pogoji so dobri, tehnična pomoč pa je še boljša. 
+Seveda se vse zgoraj našteto močno pozna pri ceni, ki je tretja najvišja med 43 izdelki.
+
+Gekko PowerPlus Nirvana 233
+
+Unistar DFI GP5-200PMX 512K
+
+Kazalno pero je lepo pospravljeno v posebnem predalčku, med delom pa ga lahko shranimo v posebno vdrtino (na desni in levi strani tipkovnice). 
+Ta je obložena z gumo, pisalo pa v njej zelo lepo »sedi«. 
+Nasploh je kazalnik dober in je z njim prijetno križariti po zaslonu. 
+Žal pa moramo kar močno pritiskati, če želimo, da bi eMate naše ukaze ali besedilo prepoznal pravilno. 
+Na ohišju je edina pomanjkljivost gumb za izmetavanje razširitvenih kartic, ki občutno štrli iz naprave, tudi kadar v računalu nimamo nobene kartice.
+
+Ne nazadnje, programu so priložili celo tiskan priročnik, kar je v teh časih izjemna redkost. 
+Priznajmo, ni ravno debel, a je pregledno in razumljivo napisan.
+
+Kaj: Orodje za izdelovanje spletnih strani. 
+Zahteve: Windows 95/NT, okoli 40 MB prostora na disku. 
+Izdelovalec: Microsoft, www.microsoft.com. 
+Cena: 33.824 SIT (študentska 9.784 SIT). 
+Za: V enem paketu so združena vsa potrebna orodja, enostavna raba. 
+Proti: Počasnost, prevelika vezanost na strežnike, ki podpirajo ta program.
+
+Take prekinitve se žal pogoste, a GetRight samodejno nadaljuje prenašanje datotek tam, kjer je bil prenos prekinjen. 
+Program je zlasti priročen, kadar pri prvem poskusu prenosa daljše datoteke (npr. več deset MB) prispe 90 % gradiva, torej moramo v naslednjem poskusu prenesti le še preostalih 10 %. 
+Presenetljivo, da prej prenosa iz interneta ni bilo mogoče nadaljevati, saj vemo, da je že pred leti Zmodem to omogočal pri BBS in drugih neposrednih modemskih povezavah.
+
+GetRight je kos tudi drugim motnjam, kot so prekinitve toka in izklapljanje modema ali vsega računalnika. 
+Določimo lahko čas začetka prenosa (kadar predvidevamo, da bo omrežje manj obremenjeno), po potrebi modemsko povezavo sam tudi vzpostavi in prekine, če strojna oprema dopušča, pa po uspešno opravljenem prenosu celo ugasne računalnik. 
+GetRight pravzaprav nadgrajuje spletne brskalnike, nekoliko bolj pa je domač z brskalniki Netscape, saj pri njih začne prenos, brž ko kliknemo povezavo z izbrano datoteko. 
+Podobna funkcija za Microsoftov brskalnik je še v beta fazi. 
+Nastavitev v programu GetRight je kar nekaj, tako, denimo, izbiramo različne imenike za sprejemanje datotek glede na njihovo vrsto ali opredelimo obdobje, ko zaradi višje telefonske tarife ali zasedenosti omrežja prenosov ne želimo opravljati, določimo omejitve pri prenosu (hitrost, število datotek) in še kaj. 
+
+Srdjan Cvjetović
+
+V škatlo z napisom Home Essentials 98 je Microsoft zapakiral lepo število uveljavljenih in tudi v naših krajih precej priljubljenih programov. 
+Glavni del zbirke je urejevalnik Word 97, kar je glede na njegovo razširjenost tudi razumljivo, v njej pa najdemo še solidni večpredstavni atlas Encarta World Atlas 98, predvsem v Ameriki množično rabljen program za urejanje osebnih financ Money 98, orodje za ljubiteljsko namizno založništvo Greetings Workshop in, kakor se za pravega hišnega prijatelja spodobi, zbirko desetih igric Entertainment Pack The Puzzle Collection. 
+Vse skupaj zaokrožujeta spletni brskalnik Internet Explorer (v zdaj že nekoliko zastareli različici 3.02) in integrirani program Works 4.5. 
+Slednji združuje še kar uporaben urejevalnik, preglednico in preprosto zbirko podatkov. 
+Roko na srce v paketu za (beri: nezahtevno) rabo doma bi Works lahko v celoti nadomestil tudi Word. 
+Potem bi bil izdelek lahko še cenejši, res pa je, da bi bila v tem primeru vprašljiva njegova prodajna uspešnost.
+
+Microsoft Home Essentials 98
+
+Pri Hewlett-Packardu so prepričani, da ne bodo dolgo, saj naj bi po njihovem mnenju tehnologija s piezo kristali, ki z mehanskim delovanjem potiska barvilo skozi šobe, bolj ali manj kmalu trčila ob tehnološke omejitve, medtem ko naj bi njihova tehnologija s toplotnimi elementi, ki barvilo v hipu uparijo in tako kapljico potisnejo skozi šobo, imela še veliko rezerve. 
+Poleg tega ne stavijo le na napravo, ampak tudi na tehniko tiskanja oz. razporejanja barvnih kapljic na papir. 
+Zelo so ponosni na tehnologijo photoRET II in zatrjujejo da je dovršenost razporejanja kapljic veliko pomembnejša od podatka za klasično ločljivost. 
+Njihovi tiskalniki pri ločljivostih res ne dosegajo pretresljivih številk, rezultati, izpisani na papir, pa so zavidljive kakovosti.
+
+Medtem ko se je trenutno edini operater mobilne telefonije v Sloveniji, Mobitel, že dodobra utrdil, tudi zaradi namernega ali nenamernega zavlačevanja s strani vlade in ob pomoči nemočnega in neurejenega pravnega sistema, se boj za mesto drugega operaterja nadaljuje. 
+Zelo odločno je vanj posegla delniška družba Simobil, ki jo sestavlja več slovenskih družb, poleg njih pa tudi švedsko telekomunikacijsko podjetje Telia.
+
+Za: Dober izpis, popoln nabor zmogljivosti, omrežna nadzorljivost.
+
+Brskalnik (browser) je program za pregledovanje strani, postavljenih v svetovni splet. 
+Ne zveni kot ravno najbolj zanimiv opravek na svetu. 
+
+Dobro, a to so ekonomsko poslovne igre poglejmo raje, kaj naj bi sodobni brskalnik omogočal.
+
+Najprej, jasno in glasno: je vredno namestiti četrto različico? 
+DA! 
+Oba programa prinašata dovolj novosti, da se vam namestitev izplača. 
+Spletnih strani, ki bi izrecno podpirale le zadnji različici brskalnikov, še nisem videl prav obilo, pojavilo pa se je dosti kanalov za dostavo novic, predvsem pa sta oba poštna programa toliko napredovala, da ju toplo priporočam v primerjavi s prejšnjo različico.
+
+Netscape je trenutno prilezel že do različice 4.04. 
+Ob vsem tem pa je svoj paket razdelil na toliko različnih variant, da evidenco vodi sam ljubi Bog, upajmo. 
+Najprej, privoščite si lahko standardno ali profesionalno inačico. 
+V tej so dodali nekaj vzdrževalnih programov, nas slehernike pa bi bolj zanimal rokovnik, ki je tudi priložen. 
+Dobite pa lahko tudi precej inačic standardne različice. 
+Če vidite le približno 8 MB dolg paket, je v njem zagotovo samostojna (standalone) različica Navigatorja, ki še programa za pošto nima zraven. 
+Uf, skoraj bi pozabil: Navigator se poslej imenuje le sam brskalnik, če pa isti program poberete v paketu z drugimi pomožnimi programi, se imenuje Communicator. 
+Ali nekako tako ne jamčim, da sem vse te inačice, paketke in komplikacije pravilno zapopadel in jih točno priobčil. 
+Saj tudi sami ne vedo, roko na srce. 
+Ko sem namestil Communicator, sem zagledal novo uvodno risbo in tudi v menuju se je prikazalo novo ime. 
+Ja, pa pod zaslonsko pomočjo tudi piše Communicator a ko pogledate v spodnji desni kot na orodno vrstico, je tam napisan Navigator. 
+Rekel sem si, hm, morda pa se kje skriva še kaka različica, in kliknil ikono. 
+Prikazal se je Communicator pa se znajdi, če se moreš. 
+Naj poskusim še enkrat: če zagledate paket, ki je dolg skoraj 14 MB, potem je to Communicatorjeva druščina v standardni inačici, torej brez rokovnika. 
+To sem si za ta članek tudi od blizu ogledal, in sicer različico z oznako 4.03.
+
+Ko sem za revijo Monitor ocenjeval prejšnji različici obeh programov, sem na naslovu http://www2.arnes.si/~ksmmazz/test/test.html postavil testno stran za preizkus brskalnika. 
+Reči moram, da osrčje obeh programov, torej prikaz spletne strani, ni doživel kake presunljive spremembe. 
+Netscape še kar ne zna prikazati grozno kodirane tabele, Microsoftu pa se program, pisan v javi, tokrat ni več zataknil v grlu.
+
+Saj tudi Explorer ni svetnik in veleum, a pri ugotavljanju, kdaj je treba obrniti številčnico, ni nikoli več kakor en sam klik oddaljen od pravega odgovora. 
+Očitno to že sodi med majhne prijaznosti programa, po katerih Explorer precej prednjači pred Communicatorjem. 
+Recimo, prikaz doslej obiskanih strani je pri Communicatorju odprt v posebnem oknu, pri Explorerju pa je izpisan v levem stolpcu kot nekakšno kazalo. 
+Razlika pri brskanju je očitna: ko pri Communicatorju kliknete obiskani naslov, brskalnik naloži stran, skoči v ospredje ter tako prekrije okno s seznamom. 
+Nato morate ročno preklapljati nazaj na seznam in nadaljevati branje. 
+Pri Explorerju vedno vidite obe okni. 
+Za povrh Communicator v opisanem primeru za vsako kliknjeno stran odpre novo okno in tako se vam jih kmalu nabere na pretek. 
+
+V naslovu je zapisan rezultat. 
+Malce (na pol) nogometno, a kljub temu zame je zmagovalec Explorer. 
+Prijaznost do uporabnika pač nekaj velja. 
+V prejšnji različici sem uporabljal oba programa izmenično, četudi, roko na srce, se mi je zdel Netscape za odtenek boljši. 
+Tokrat ne čutim skoraj nikakršne potrebe po dvojnosti vendar bom Communicatorja obdržal v rezervi. 
+Za vsak primer.
+
+Ravno pri poštnih programih je opaziti največji napredek med to in prejšnjo različico. 
+Četudi sem se nekaj zmrdoval in okleval pred nadgradnjo, sem si samo čez rame ogledal Outlook in takoj presedlal. 
+Ja, sedaj pa moram povedati, zakaj že v prejšnji različici nisem uporabljal Netscapovega poštnega programa. 
+Tole pa je rubrika Verjeli ali ne: Netscape ne dovoljuje nam, centralnim Evropejcem, vtipkati znaka @. 
+Ko v okolju Windows nastavite kodni razpored krilatih znakov na Code Page 1250 in tipkovnico na slovensko, natipkate ta plemeniti znak @ s pritiskom kombinacije tipk DESNI ALT + V. No, v prejšnji različici Netscapovega poštnega programa je računalnik pivknil, znaka pa ni bilo od nikoder. 
+V novejši različici se jim je očitno zazdelo, kako kruto je prikrajševati cele narode za ta znak, zato so nam podelili celo poplavo omenjena kombinacija tipk namreč v poštni naslov prilepi vsebino odlagališča! 
+Hej, vsak poštni naslov vsebuje znak @ in če ga ne morete vtipkati, potem je vsako pismo en razlog, da Messengerja ne uporabljate!
+
+Med programi CAPI skorajda moramo omeniti programje, ki ga prilagajo Telesovim karticam. 
+Pravzaprav gre za programje, ki je zelo tesno povezano s karticam in drugo Telesovo telefonijo, vendar je program načeloma združljiv tudi z drugimi karticami, stane pa okoli 5000 tolarjev.
+
+Ocenjevali smo osem skupin lastnosti računalnikov, posamezne ocene pa smo različno obtežili, glede na nižjo (do 170.000 tolarjev) ali višjo kategorijo. 
+Pri vseh računalnikih smo ocenjevali hitrost, razširljivost, priloženo programsko opremo, zasnovo sistema, dokumentacijo, podporo in prodajne pogoje, tehnično podporo oziroma kakovost ponudnika in seveda ceno računalnika. 
+Računalnik je lahko v posamezni kategoriji dobil oceno od 1 do 10, pri izračunu končne ocene pa smo posamezno kategorijo še obtežili. 
+V nižji kategoriji računalnikov smo hitrosti prisodili 10 %, razširljivosti 2,5 %, programski opremi 12,5 %, zasnovi sistema 20 %, dokumentaciji 10 %, prodajnim pogojem in podpori 7,5 %, tehnični podpori 12,5 % in ceni 25 %. 
+Razmerje v višji kategoriji se je nekoliko spremenilo. 
+Hitrost velja 15 %, razširljivost 2,5 %, programska oprema 12,5 %, zasnova sistema 25 %, dokumentacija 10 %, prodajni pogoji in podpora 7,5 %, tehnična podpora 12,5 % in cena 15 %. 
+S tem smo skušali posnemati merila kupcev pri nakupovanju računalnika.
+
+Seveda pa ni vse samo v hitrosti. 
+Ogledali smo si in ocenili tudi kakovost slike pri priloženih monitorjih, kakovost zvoka iz zvočnikov ter vtis o tipkovnici in miški, čeprav je pri teh dveh danes bolj malo razlik med posameznimi izdelki.
+
+To seveda velja predvsem za uporabnike po domovih in morda še manjših podjetjih, ki jim je telefonska povezava edini stik s svetom. 
+Pod stikom s svetom danes nekako samoumevno razumemo telefonsko komunikacijo, pošiljanje in sprejemanje faksov ter sprejemanje in pošiljanje elektronskih sporočil ... in seveda obvezno brskanje po internetu in iskanje zanimivih informacij. 
+Vse to omogočajo današnji modemi in vmesniki ISDN. 
+
+Novosti in zanimivosti 90
+
+Pisarna za Mace Krištof Oštir Sedej 128
+
+34
+
+Matjaž Klančar
+
+Free Encyclopedia
+
+V naslednjih številkah
+
+26. januarja so predstavniki družbe Compaq presenetili z novico, da so se dokončno dogovorili o nakupu podjetja Digital Equipment Corporation, enega največjih izdelovalcev računalniške opreme na svetu. 
+Zanj bodo odšteli kar 9,6 milijarde dolarjev, tako da je to doslej najdražji nakup kakega računalniškega podjetja. 
+
+Novice, str. 15
+
+Nikolaj Pečenko
+
+The Complete Reference Collection
+
+Zemljepisni atlas so v tretji izdaji pošteno posodobili, tako da nima prevelikih težav z novimi državami, je pa v njem od prve izdaje, ki je izšla pred približno 50 leti, ostalo nekaj zgodovinskih zanimivosti, na primer Dravska, s katero je mišljena Dravska banovina. 
+Ali Julijska marka kot mejna pokrajina med Italijo in Slovenijo, Küstenland kot obalna avstrijska provinca in podobno. 
+Na srečo večinoma jasno piše, da gre za nekdanje upravne enote. 
+Kljub nekaterim napakam oziroma pomanjkljivostim je to zelo zanimiv sestavni del referenčne zbirke.
+
+Za konec je tu še Internet Directory, internetni imenik z nekaj več kakor 4600 povezavami s koristnimi internetnimi stranmi, na katerih bomo lahko našli še dodatne podatke. 
+Med njimi najdemo, recimo, domačo stran Franza Kafke, zoološko stran o kobilicah in čričkih, stran o hujšanju, o astronomiji, dragih kamnih, jazzu ...
+
+Koliko: 1 CD.
+
+Kar nekako smo se že navadili, da mora prav vsak izdelovalec monitorjev prikazati tudi ploščati (= LCD) model. 
+Tokrat je drugače, saj monitor prihaja od izdelovalca notesov.
+
+Matjaž Klančar
+
+McPerson Sierra 300
+
+Prodaja: Eurovideo, tel: (065) 62 455.
+
+Microsoft trdi, da se bodo tehnologije spojile, uporabniki bodo v dnevni sobi od »naprave« še vedno pričakovali dokaj pasivno zabavo primernega formata, v pisarni pa bodo svojo »napravo« uporabljali zelo aktivno. 
+Kar zadeva bogatitev vsebin, DVD enostavno ni prava rešitev, ker je v primerjavi z neskončnim internetom še vedno omejen. 
+Že za CD-ROM so mnogi dejali, da je le bergla svetovnemu spletu, dokler se ta ne odpre s hitrejšimi povezavami in primernimi oblikami komercialnega izkoristka.
+
+Raziskave so pokazale, da uporabniki modemov kupijo zelo malo plošč CD-ROM. 
+Glavni bo torej internet. 
+Ena najbolj svežih tehnologij, ki bi znala igrati zelo pomembno vlogo, prihaja iz Intela. 
+Imenuje se intercasting. 
+Gre za oddajanje običajnega TV signala, obogatenega z digitalnimi informacijami. 
+Na četrtini zaslona gledamo običajno TV sliko, drugod pa se prikazujejo najrazličnejše informacije, polne hiprepovezav, ki nas, ko kliknemo, takoj povežejo v internet. 
+Poleg programa se tako ves čas predvajajo najprimernejše iztočnice za iskanje novih informacij. 
+V ZDA projekt že teče. 
+400 tisoč uporabnikov lahko takoj naroči izdelke, ki jih vidijo na nakupovalnem kanalu QVC, CNN svoj tekoči program ves čas povezuje z izjemno pestrim spletnim mestom, ESPN med prenosom tekme ameriškega nogometa prikazuje sproti spreminjajočo se statistiko, če kliknemo, so nam na voljo podatki o igralcih in klubih, na MTV lahko zvemo več o glasbeniku na trenutnem video posnetku… 
+Veliko zanimivih zamisli je že uresničenih, še več pa jih šele bo.
+
+To seveda velja predvsem za uporabnike po domovih in morda še manjših podjetjih, ki jim je telefonska povezava edini stik s svetom. 
+Pod stikom s svetom danes nekako samoumevno razumemo telefonsko komunikacijo, pošiljanje in sprejemanje faksov ter sprejemanje in pošiljanje elektronskih sporočil ... in seveda obvezno brskanje po internetu in iskanje zanimivih informacij. 
+Vse to omogočajo današnji modemi in vmesniki ISDN. 
+
+Fast'R je torej razred zase na tem testiranju, konkurenca pa so mu nadzorljivi profesionalni modemi podjetij Penril, Telindus in podobnih, ki smo jih preizkusili že na zadnjem testiranju modemov pred letom in pol.
+
+– Z računalniško napravo ISDN se lahko hkrati povežemo na dva različna konca: analogno ali digitalno.
+
+Povedano velja za osnovno različico ISDN BRI (Basic Rate ISDN), ki je primerna za posameznike in manjša podjetja, medtem ko je za večja podjetja primernejši priključek PRI (Primary Rate ISDN), ki ponuja 30 kanalov B.
+
+Ob koncu lanskega leta je bilo v Sloveniji nekaj več kakor 9000 osnovnih priključkov ISDN (od tega nekaj več kakor 2000 v Ljubljani). 
+Vse kaže, da se bo Telekom letos precej bolj odprl novim naročnikom (tudi cenovno), saj je do konca leta predvidenih kar 13.000 novih osnovnih priključkov ISDN.
+
+Mimogrede, o tem, kolikšna je priljubljenost CAPI, smo se prepričali kar takole ... 
+Na www.shareware.com smo vtipkali besedico CAPI in nismo našli niti enega preizkusnega programa, ki bi ustrezal iskani besedi! 
+Enako se nam je zgodilo na enem največjih arhivov preizkusnih programov na www.tucows.com. 
+Šele iskanje po www.windows95.com je obrodilo sadove našli smo dva (2!) programčka; oba sta napisala nemška avtorja. 
+Vseeno smo mnenja, da je priložena programska oprema CAPI, še posebej če je dobra, lahko dokajšnja pridobitev pri nakupu vmesnika ISDN. 
+Zakaj bi za pošiljanje faksov potrebovali še analogni faks modem ali zunanji faks, če pa lahko z ustreznim programjem to postori kar sam vmesnik ISDN?
+
+Eicon
+
+Databox na računalnik priklopimo z zaporednim vmesnikom hitrosti 230 Kb/s, nato pa se s priložene plošče CD-ROM samodejno namestijo priloženi gonilniki, naknadno pa še poženemo namestitev RVS COM Lite (ta potem omogoča tudi pošiljanje faksov), ki je na plošči. 
+Poudariti je treba, da so za vse postopke nastavitve in nastavljanja Databoxa na voljo precej natančna slovenska navodila! 
+Po tej namestitvi imamo na zaslonu dejansko zelo zmogljivo konzolo za upravljanje centrale. 
+Databox ima namreč na zadnji strani kar tri analogne priključke, med katerimi lahko prevezujemo pogovore, določamo telefonske številke vsakega priključka posebej, s telefoni pa lahko komuniciramo tudi lokalno, brez »posredništva« Telekomove centrale. 
+Določene priključke lahko zaklenemo (če, recimo, nočemo, da bi naš mladoletni sin po polnoči klepetal po telefonu ...). 
+Seveda imamo vedno zapisane tudi telefonske številke tistih, ki so klicali. 
+Celo če je računalnik ugasnjen, ima Databox pomnilnika za deset številk in jih takoj po zagonu Oken (z gonilnikom CAPI) prenese v računalnik. 
+Na kratko centrala je nadvse zmogljiva, krmilimo pa jo lahko tudi običajno prek telefonske slušalke in brez posredništva računalnika. 
+Spredaj ima celo zaslonček LCD (žal ni osvetljen), na katerem sproti izpisuje stanje obeh kanalov (zaseden, prost), koliko denarja že dolgujemo Telekomu in s katere telefonske številke so nas nazadnje klicali.
+
+ITK
+
+Racalovo serijo vmesnikov Extol smo predstavili že na prejšnjem testiranju in se, kar zadeva strojno opremo, ni prav nič spremenila. 
+Tokrat smo preizkusili različico ISA (na voljo je tudi različica PC Card) z imenom Extol.
+ISA. 
+Kartica sama ni nič posebnega, od drugih se razlikuje le toliko, da ima na zadnji strani lučko, ki signalizira, ko se gonilniki pravilno naložijo. 
+Kartica tudi ni samodejno nastavljiva, kar pomeni, da moramo najprej namestiti potrebne gonilnike in nato stikalca na kartici ročno nastaviti na vrednost, ki smo jo nastavili na gonilniku. 
+Dodatno še namestimo gonilnike CAPI. 
+Poleg kartice dobimo tudi ISDN for Windows 95, kar pomeni, da je omogočeno delo s faksi. 
+
+Mimogrede Telesova ponudba (med drugim) vključuje tudi videokonferenčno kartico z vmesnikom ISDN ter zvočno in video kartico, vendar kartice nismo preizkusili.
+
+Še ena različica Omnijev je na voljo, imenuje pa se Omni.net D (kot Data). 
+Od »pravega« Omni.neta se razlikuje samo po tem, da na zadnji strani nima nobenega analognega priključka. 
+Funkcionalno je torej bolj omejen, a zato cenejši.
+
+• hitro zaporedno kartico Zyxel podjetja Datacom,
+
+• prenosnik Toshiba 220 CS podjetja Inea.
+
+Računalniške enciklopedije, kakršne smo ocenjevali v prejšnji številki Monitorja, so vsekakor zelo koristen pripomoček, ki bi ga pravzaprav vsakdo moral imeti shranjenega nekje blizu računalnika. 
+Kaj pa, če vseeno nimate nobene, ne računalniške, ne one papirnate, pa bi vseeno radi izvedeli, kdaj se je rodil, na primer, admiral Nelson? 
+Če imate vsaj dostop do interneta, je odgovor enostaven pojdite na spletno stran Brezplačne enciklopedije, vtipkajte iskano besedo in z malo sreče bo odgovor v hipu ali dveh na zaslonu.
+
+Gesla v enciklopediji so med seboj pestro povezana z navzkrižnimi povezavami, kakor se za tak računalniški izdelek konec koncev tudi spodobi. 
+Če ste vsaj malce radovedni, vas zna takole raziskovanje navzkrižnih povezav zaposliti za dalj časa in takrat se je dobro spomniti, da brezplačna enciklopedija pravzaprav ni povsem brezplačna. 
+Najmanj Telekom bo veselo odšteval vsako minuto, ko se boste izobraževali. 
+
+letnik 8, številka 3, marec 1998, cena 690 SIT
+
+HRBET: Računalniki za doma * Modemi in ISDN
+
+Prehod v pravo dvojezičnost bo seveda postopen. 
+Ena od prvih žrtev bodo prevodi tujih knjig. 
+Zakaj le bi čakali na (dražji) prevod, če lahko preberemo (cenejši) izvirnik? 
+Oziroma angleški prevod. 
+Iz podobnih razlogov bodo začele izumirati tudi domače revije. 
+Ali, pravilneje rečeno, revije v domačem jeziku. 
+Znanstvene so, kakor vidimo, že začele. 
+
+Nikolaj Pečenko
+
+Adobe PageMill 3.0
+
+Podjetje MetaCreations je predstavilo nov projekt z delovnim imenom Show, pod katerim se skriva predstavitveni program oziroma predvajalnik, ki bo hkrati tudi lupina za nov potrošniški komplet izdelkov, v katerem bodo tudi programi Kai's PowerGOO, Kai's PhotoSOAP in ART Dabbler. 
+Program bo vseboval priznan uporabniški vmesnik programov iz družine Kai's Tools, omogočal pa bo pripravo in integracijo slik, risb, video posnetkov in zvoka. 
+Na voljo bodo učinkovita orodja za izdelovanje prehodov in drugih učinkov. 
+Za razliko od tradicionalnih predstavitvenih programov je program namenjen predvsem prikazovanju slik in pretežno rabi doma, pa tudi uporabnikom digitalnih fotoaparatov, kamkoderjev in drugih sodobnih naprav, ki želijo digitalno zajete posnetke urediti in predstaviti družini, prijateljem in drugim. 
+Paket s predvajalnikom Show bo naprodaj spomladi, cena pa bo zmerna, le 50 dolarjev.
+
+Standard za gigabitni ethernet odložen
+
+Organizacije, ki se ukvarjajo z raziskovanjem trga, so si enotne: podjetje Compaq je bilo največji izdelovalec računalnikov PC tudi v letu 1997 in je torej ohranilo svoj primat iz preteklih let. 
+Compaq je lani v svetovni prodaji dosegel nekako 12,5 % tržni delež (IDC navaja 12,6 %, Dataquest pa 12,4 %), prodaja pa se je v primerjavi z letom 1996 povečala za nekaj več kakor 40 %. 
+Na drugem mestu je IBM s 9,1 % tržnim deležem in 17 % povečanjem, tretji je Dell s 5,8 %, četrti Hewlett-Packard s 5,6 % in peti Packard Bell NEC s 5,2 %. 
+Najbolj so prodajo povečali pri Dellu in Hewlett-Packardu, kjer se dosegli 62 % oziroma 55 % boljši rezultat kakor leta 1996. 
+Petemu, Packard Bell NEC, pa se je prodaja celo nekoliko zmanjšala prodali so za okoli 2 % manj kakor leto prej. 
+
+• Višje hitrosti pri modemih se kar nekaj izdelovalcev (eden od njih je Diamond) loteva na zanimiv način s seštevanjem hitrosti navadnih modemov. 
+Rešitev je zaenkrat več, vse pa temeljijo na nekakšni večkratni povezavi dveh (pozneje morda še več) navadnih modemov 56Kb/s. 
+Tako lahko dosežemo hitrosti do 112 Kb/s. 
+Seveda mora novotarijo podpirati tudi vaš internetni ponudnik.
+
+Microsoft je dodobra prevetril tudi uporabniški vmesnik programov. 
+Pravzaprav novosti v primerjavi z različico za Okna ni veliko, razveseljivo pa je, da imajo programi kljub temu macintoshevski videz. 
+Orodne vrstice so povsem enake kakor pri okenski izdaji, torej ploščate, povsem podobna je tudi zgradba menujev in pogovornih oken. 
+Slednja obilno izkoriščajo kartice, ki so se jih uporabniki Applov tako ali tako že povsem navadili. 
+Da smo v okolju »jabolčnih« računalnikov, kaže le nekaj podrobnosti. 
+Recimo, značilna pisava v menujih, ukaz Publishing & Subscribe to ter možnost vstavljanja filmov QuickTime v dokumente. 
+V primerjavi z okensko različico ima Word dodatni menu Font, ki vse pisave prikaže ne le z imeni, ampak tudi z zgledi. 
+Končno! 
+Uporabnike starejše različice Worda (5.1) utegne razveseliti tudi možnost prikaza njegove strukture menujev in orodjarn. 
+Precej bolj kakor je pri Macih v navadi, pa programi zbirke Office 98 izkoriščajo priročne menuje. 
+Zanimivo pri tem je, da Microsoft ni uporabil običajnih macovskih menujev, ampak jih je sprogramiral na novo.
+
+Kaj: Poslovni imenik.
+
+Za: Hitro iskanje, sodobni podatki.
+
+ISDN modemi 56 K
+
+26. januarja so predstavniki družbe Compaq presenetili z novico, da so se dokončno dogovorili o nakupu podjetja Digital Equipment Corporation, enega največjih izdelovalcev računalniške opreme na svetu. 
+Zanj bodo odšteli kar 9,6 milijarde dolarjev, tako da je to doslej najdražji nakup kakega računalniškega podjetja. 
+Compaq bo tako postal drugi največji računalniški gigant, takoj za IBM, v svojem programu pa bo imel vse za najrazličnejše kategorije uporabnikov, od posameznikov do največjih korporacij: rešitve za računalnike PC, delovne postaje, strežnike, srednje velike sisteme in omrežne rešitve. 
+Nakup je precejšnje presenečenje, saj je Compaq šele pred kratkim kupil podjetje Tandem in se po njegovi zaslugi močno povzpel na lestvici izdelovalcev zmogljivih strežnikov. 
+Po drugi strani pa je Digital po nekaj suhih letih prav zdaj začel poslovati z dobičkom. 
+
+Intel ne žanje uspeha z mikroprocesorji le po zaslugi novih tehnologij, ampak tudi zato, ker natančno spremlja druge zanimive tehnologije, predvsem pa po zaslugi strateških naložb, ki se lahko nekega dne izkažejo za odločilne. 
+Le malokdo ve, da ima Intel za več kakor 500 milijonov dolarjev vložkov v več kakor 100 majhnih podjetij, ki razvijajo nove tehnologije in zanimive izdelke, ki jih ima Intel za strateške. 
+Intel se je nedavno osredotočil na izdelke, povezanih z javo. 
+Z vložki v družbe WebLogic, SuperCede, Tower Technology, NetDynamics in SilverStream skuša zagotoviti tehnologijo in izdelke, ki bodo omogočili vsaj tako hitro in dobro izvajanje programov v javi na procesorjih x86, kakor uspeva Sunu na njegovih izdelkih. 
+Tako so se pri Intelu izognili večjim partnerjem, recimo Microsoftu, in vložili v podjetja, ki tekmujejo neposredno s Sunom. 
+
+Microsoft in DOJ dosegla dogovor
+
+Po burnih razpravah in številnih nesoglasjih sta Microsoft in ameriško ministrstvo za pravosodje (DOJ) dosegla sporazum o spornih zadevščinah v zvezi s pogodbo za izdelovalce računalnikov in predvsem uporabo spletnega brskalnika Internet Explorer v okolju Windows. 
+Po dogovoru mora Microsoft odslej izdelovalcem ponuditi dve novi pogodbeni možnosti. 
+Po prvi kupec dobi operacijski sistem brez ikone Internet Explorer in brez nameščenih delov, kar je tako, kakor če bi program odstranili. 
+Tako so omejene tudi nekatere druge možnosti za povezljivost z internetom. 
+Druga možnost je okolje Windows brez ikone s programom, vendar z nameščenim programom, ki je dostopen prek »posredniškega« in manj opaznega programa IEXPLORE.
+EXE. 
+V obeh primerih bo Internet Explorer še vedno del operacijskega sistema in ga bodo uporabniki lahko sprožili, oziroma namestili. 
+Poudariti je treba, da imajo izdelovalci še vedno možnost nakupa licence za »popoln« izdelek, torej tako kakor prek tožbo. 
+Anketa med izdelovalci računalnikov je pokazala, da mnogi sploh ne razmišljajo o tem, da bi licencirali »okrnjeno« različico okolja Windows. 
+Ministrstvo za pravosodje se je za tak korak odločilo po pogajanjih in iz bojazni, da bi se proces zavlekel v nedogled, kar bi ameriške davkoplačevalce seveda veliko stalo. 
+
+Podjetje Visio, znano po istoimenskem programu za izdelovanje diagramov poteka, je oznanilo, da namerava kupiti podjetje InfoModelers, specialista za izdelavo in vodenje struktur zbirk podatkov. 
+Tako naj bi prišli do tehnologije za modeliranje zbirk podatkov, ki jo bodo vgradili v naslednje različice svojega paketa Visio. 
+Uporabili bodo predvsem zmožnosti programov InfoModeler za modeliranje podatkov in modul za izdelavo poizvedb v zbirkah podatkov z imenom ActiveQuery. 
+Trenutno še ni znano, kdaj bodo nove tehnologije uporabili za nove izdelke.
+
+Predvajanje zvočnih ali slikovnih posnetkov po internetu.
+
+Med sprehajanjem po svetovnem spletu naletimo na strani, ki omogočajo predvajanje video ali avdio posnetkov. 
+Nekako najbolj ustaljeno in najbolj enostavno predvajanja je, da datoteko (formata mpeg, avi, ...) prenesemo iz interneta v računalnik in jo predvajamo. 
+A potem je žal živo video ali avdio predvajanje nemogoče. 
+Prav zato se zadnje čase vse bolj uveljavlja t. i. pretočno predvajanje video (streaming video) in avdio posnetkov, kar pomeni, da posnetek spremljamo že med prenašanjem. 
+Seveda je za zadovoljivo delovanje potrebna dovolj hitra povezava v omrežje, drugače se predvajanje posnetka ustavlja in čaka na nove podatke. 
+
+Kokošji virusi
+
+Tako imenovano »slovensko kurjo afero« je vsaj posredno sprožil »enfant terrible« na sicer smrtno resnem institutu Jožef Stefan (IJS), Mišo Alkalaj. 
+Alkalaj je javnosti zadnje čase kar precej znan, saj ga je videti in brati povsod, od Sobotne priloge Dela do televizijskih okroglih miz. 
+Pred letom ali dvema se je lansiral kot strokovnjak za internet in velik zagovornik in aktivist tega novega medija, za intermezzo smo brali nekaj njegovih počitniških prispevkov, potem pa se je vrgel na komentiranje dnevne politike in seciranja tisočletnih tegob slovenske nacije.
+
+Je pa Alkalaj tudi pobalin, ki noče odrasti (in je na to brez dvoma ponosen). 
+Vsi smo brali Piko Nogavičko in nekaterim se nikoli ni mudilo odrasti. 
+Ljudje, ki so odrasli še pred iztekom drugega desetletja svojega življenja z vsem zavedanjem odgovornosti in tegob in bremen in podobnega so prav gotovo kar se da dolgočasni. 
+Po drugi strani pa je na moč dolgočasna tudi pobalinskost za vsako ceno in brez prave domišljije, pa naj jo izvaja mali predšolar ali »odrasli gospod«. 
+
+Pri oblikovanju poročil nam pomaga oblikovalno orodje, ki omogoča ustvarjanje in shranjevanje najrazličnejših oblik, česar bodo zahtevnejši uporabniki gotovo zelo veseli. 
+Začetniki, ki želijo le hitre izpiske, pa bodo morda malce razočarani, saj je še tako preprosto poročilo treba najprej oblikovati in bo to marsikomu vzelo vse veselje. 
+
+Izdelovalec: Oakley Data Services, Uttoexeter, Velika Britanija, http://www.smartcode.com, +44 1889 565064. 
+
+SMART003.
+TIF: Razvrščanje vpisov
+
+Prvi del nadaljevanke o STL je obširno (nemara celo preveč) predstavil kalupe (template) v C++. 
+Preden začnemo s pravim STL, le ponovimo. 
+Kalup je definicija funkcije ali razreda, v katerem ne povemo konkretnega tipa (ali več tipov) podatkov, s katerimi funkcija deluje. 
+Urejanje z mehurčki lahko enkrat za vselej zaprogramiramo kot
+
+for(int i=size-1; i>0; i--)
+
+Rešitev, ki jo ponuja STL, se sprva zdi korak nazaj, vrnitev iz predmetnega programiranja v mešanico predmetnega in nepredmetnega. 
+Kar zadeva korak nazaj, se po dveletni navdušeni rabi STL ne strinjam. 
+Tisto z »mešanico« pa drži, STL podatkovne strukture in algoritme loči. 
+Podatkovne strukture so predstavljene kot predmeti, ki imajo poleg polj za shranjevanje podatkov definirane le najosnovnejše in za strukturo specifične metode, kot sta dodajanje in brisanje elementov. 
+Vse, kar je mogoče posplošiti za različne strukture, izvajajo ločeni podprogrami.
+
+bool exists(U S, T el)
+
+exists(S.begin(), S.end(), el)
+
+Iteratorji
+
+ForwardIterator operator +(const ForwardIterator i, unsigned int j)
+
+Intel se zelo natančno drži načrtov konec januarja je predstavil nov procesor iz družine Penitum II, ki je nastajal pod imenom Dechutes. 
+Deluje s hitrostjo 333 MHz in je novi prvak v hitrosti izvajanja programov za nabor ukazov x86. 
+Izdelali so ga po novem proizvodnem postopku z 0,25-mikronsko tehnologijo. 
+S tem so dosegli hitrejše izvajanje, manjšo porabo energije, pa tudi cena je lahko ostala nizka.
+
+Acer po 4300 dolarjev prodaja zmogljiv prenosnik TravelMate 7164TE s Pentiumom 266 MMX, 32 MB RAM, 2 MB video pomnilnikom, zaslonom z diagonalo 13,3 palca, 4 GB diskom, enoto CD-ROM 20x, vsestranskim razširitvenim mestom, ki sprejme tudi drugi disk FastBack velikosti 2 GB s premerom 3 palce, in predvsem z znanim sistemom za varčevanje z energijo, ki temelji na hevrističnem algoritmu in zagotavlja skoraj osem ur nepretrganega dela.
+
+Podjetje ATI je napovedalo novo grafično kartico Xpert XL, ki temelji na najnovejšem procesorju 3D Rage Pro, omogoča zmogljivo pospeševanje 2D in 3D grafike in je obenem zelo poceni. 
+Kartica s 4 MB pomnilnikom namreč stane le 99 dolarjev, na voljo pa je v izvedbah PCI in AGP (oziroma AGP 2x). 
+Kljub skromni ceni po hitrosti zlahka prekaša grafične kartice, ki stanejo 300 dolarjev in več, in celo specializirane 3D pospeševalnike, kot je 3Dfx VooDoo. 
+Podpira ločljivosti do 1024 × 768 pik, največja frekvenca osveževanja pa je kar 200 MHz. 
+Seveda so priloženi tudi znani dobri gonilniki ATI Turbo s podporo vsem pomembnejšim standardom, kot sta DirectX in OpenGL. 
+ATI je že pripravil tudi gonilnike WDL, ki jih bosta uporabljala operacijska sistema Windows 98 in WIndows NT 5.0. 
+Kartica je že naprodaj.
+
+Casio Cassiopeia E-10
+
+Še pomembnejša novost je novi procesor iz družine MeidaGX, ki je energijsko varčen in zato namenjen rabi v notesih. 
+Nov procesor MediaGX s hitrostjo 200 MHz je že uporabil Compaq za svoj prenosnik iz družine računalnikov za rabo doma, Presario. 
+Novi procesor ima manjšo porabo energije in zmore višje hitrosti, poleg tega pa podpira ukaze MMX ter nekatere druge tehnologije, kot so pomnilniki SDRAM. 
+Zaradi visoke stopnje integriranosti novost omogoča izdelovanje prenosnih računalnikov, cenejših od 2000 dolarjev.
+
+Poleg glavnega programa, ki se požene ob zagonu sistema, se na disk namestita le še dva programa. 
+Prvi je pravzaprav vodič po dokumentaciji. 
+V njem si lahko ogledamo navodila in nasvete za namestitev raznih operacijskih sistemov. 
+Tu lahko tudi odstranimo SC in ga namestimo nazaj. 
+Drugi program rabi predvsem temu, da z njim poljubno particijo nastavimo za dejavno (to je včasih treba storiti pred namestitvijo nekaterih operacijskih sistemov).
+
+<Heading 1>ThingMaker 1.0
+
+proc main
+
+waitfor »Username:"
+
+8. 
+Vpišite vrednost 1 in kliknite V redu/OK.
+
+Zanima me, zakaj se je zaradi nekaj popravkov in manj slik datoteka tako neznansko povečala in kako to preprečiti?
+
+Datoteka se je najprej povečala, ker imate vključeno hitro shranjevanje, kar pomeni, da Word v osnovni dokument zapisuje spremembe. 
+Hitro shranjevanje ugasnete v menuju Orodja.Možnosti, stran Shranjevanje, možnost Dopusti hitro shranjevanje.
+
+V zadnjem času zopet mrgoli opozoril o virusih, ki naj bi se širili po elektronski pošti, se sprožili, brž ko odprete sporočilo, in povzročali veliko škodo na disku. 
+Sporočila navadno prosijo, da jih posredujete vsem, ki jih poznate. 
+Zgled:
+
+If you receive an email titled »JOIN THE CREW« DO NOT open it. It will erase everything on your hard drive. 
+Forward this letter out to as many people as you can. This is a new, very malicious virus and not many people know about it. This information was announced yesterday morning from IBM; please share it with everyone that might access the internet. 
+Once again, pass this along to EVERYONE in your address book so that this may be stopped. 
+Also, do not open or even look at any mail that says »RETURNED OR UNABLE TO DELIVERY« This virus will attach itself to your computer components and render them useless. 
+Immediately delete any mail items that say this. 
+AOL has said that this is a very dangerous virus and that there is NO remedy for it at this time. 
+Please practice cautionary measures and forward this to all your online friends ASAP.
+

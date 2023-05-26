@@ -1,0 +1,349 @@
+Model 300D ima vgrajen enak svetlobni senzor kot močnejši brat 10D, torej tipalo s 6,3 milijona efektivnih točk, kar omogoča zajem fotografij ločljivosti 3078 × 2048 točk v klasičnem formatu 3:2.
+Sistem leč omogoča uporabo izmenljivih objektivov serije EF in tudi EF-S, ki so izdelani zgolj za uporabo pri digitalnih Canonovih SLR-kamerah.
+Model 300D je celo prvi in zaenkrat še edini, ki podpira tovrstno serijo objektivov.
+Množilnik fokalne dolžine je približno 1.6, kar pomeni, da priložen objektiv EF-S, s karakteristikami 18-55 mm v ekvivalentu Leica, doseže okoli 28-88 mm, kar pomeni soliden široki kot in približno trikratno optično povečavo.
+Barve so kontrastne in izrazite, še posebna pohvala pa velja barvnemu šumu, ki ga do vrednosti ISO 800 sploh ni opaziti, moteč pa ni niti pri največji vrednosti ISO 1600.
+Ločljivostni preizkus kamera opravi z odliko.
+Ni namreč opaziti nikakršnih anomalij in popačenj pri reprodukciji krivulj in poševnic.
+NE/DA
+Nokia 3200 je mobilnik, namenjen predvsem mlajši generaciji uporabnikov.
+Tokrat se je pri Nokii prvič pojavil GPRS razreda 10, 3200 pa se lahko pohvali tudi z EDGE-om.
+Žal lahko prenos uporabljamo za WAP in XHTML saj kljub IrDA mobilnik ne more prenašati podatkov do drugih naprav.
+3200 ima tudi barvni zaslon, polifonijo in digitalni fotoaparat.
+Motorola A835 je prvi mobilnik tretje generacije.
+Deluje v omrežjih GSM in UMTS, ima velik barvni zaslon, ki lahko prikaže 65.536 barv, podatke lahko prenaša preko GPRS 4+1 ali UMTS.
+Za povezavo z računalnikom imamo na voljo podatkovni USB kabel, infrardečo povezavo ali Bluetooth.
+Pošilja lahko SMS, MMS in video sporočila, opozarja nas s polifoničnimi melodijami.
+Moti nas le nestabilno delovanje in velikos.
+Črno-bela fotografija zapisuje samo svetlobo in senco.
+Tudi barve so izražene kot del svetlobe in sence, zapisane so s sivimi toni.
+Zato si je za dobro črno-belo sliko potrebno predstavljati motiv v črno-belem.
+Prijateljica mi je potožila, da je kupila črno-bel film, ga veselo poslikala in bila razočarana nad slikami.
+Barve imajo svojo moč, pri črno-beli fotografiji pa je treba vedeti, kako bo videti katera barva, saj določeni barvni kontrasti postanejo podobne si sivine.
+Tu imajo digitalni fotoaparati prednost predogleda - nekateri nudijo možnost črno-belega posnetka, pa tudi sepia, črno-bel kontrast (brez sivin) in negativ črno-bel kontrast (na olympusu so ukazi pod Function: Black &White, Sepia, White Board, Black Board).
+Tako lahko sproti vidimo, ali je motiv primeren za črno-belo fotografijo ali ne.
+Tik pred prazniki je Telekom obravnaval poslovni načrt za leto 2004, ki bo prinesel nekaj sprememb v samem delovanju podjetja, strateške usmeritve pa ostajajo enake.
+Tako se je nadzorni svet po posvetovanju z večinskim lastnikom, torej državo, odločil za spremembe v upravi.
+Razrešil je člana uprave Antona Majzlja in Miran Krambergerja, ki ostajata direktorja svojih družb, namesto njiju pa je v upravo imenoval Liborja Vončino, dosedanjega izvršnega direktorja Avaye.
+Telekom načrtuje, da bo letos prodal še 30.000 novih priključkov ADSL, pričakujejo tudi rast priključkov PSTN, ISDN in centreks, skupaj za 65.000.
+Začeli bodo tudi uvajati tehnologijo VDSL.
+Z lanskim poslovanjem so zadovoljni.
+Čisti dobiček so skoraj podvojili, donos na kapital povečali za 80 odstotkov, stroške znižali za 7 odstotkov, zadolženost pa zmanjšali za 21 odstotkov.
+Poleg že ustanovljene hčerinske družbe GVO, ki bo obvladovala 60 do 70 odstotkov trga gradnje in vzdrževanja kabelskih omrežij, bodo ustanovili še eno, ki bo upravljala s počitniškimi zmogljivostmi.
+Začeli bodo s postopnim prehodom z analognih in TDM tehnologij na platformo IP ter z uvajanjem multimedijskih vsebin in storitev preko fiksnih in mobilnih omrežij.
+Na sinergiji vseh štirih družb skupine Telekom bodo gradili svojo konkurenčno prednost tudi v tem letu.
+Dlančnik poganja procesor Intel XScale PXA255 s frekvenco 400 Mhz.
+Zmogljivejši model ima kar 128 MB RAM pomnilnika in kar 64 MB ROM pomnilnika.
+»Skromnejši« model ima le 64 MB RAM in prav toliko pomnilnika ROM.
+Slednji tehta 197 gramov, prvi pa z 205 grami presega magično mejo 200.
+Dandanes je težnja proizvajalcev, da se vsaj v vstopnem razredu, kamor opisani model po sposobnostih vsekakor ne sodi, vsaj približajo teži 100 gramov.
+Operacijski sistem je seveda Windows Mobile 2003.
+Arhimedes je zmogljiv kalkulator z okoli 70 shranjenimi formulami za hitre medicinske izračune.
+Formule pokrivajo področja kardiologije, farmacije, hematologije, pediatrije itn.
+Formule lahko iščemo po abecednem seznamu, po kategorijah ali glede na zadnje uporabljene.
+Pri vnosu vhodnih parametrov in izpisu rezultatov lahko nastavljamo tudi način prikaza.
+Program je zelo kompakten in zasede dobrega pol megabajta, na voljo je tako za palm OS, kot tudi operacijski sistem Pocket PC.
+Arhimedes si zapomni zadnje vnesene vrednosti in nam tako prihrani tudi nekaj klikov oziroma gibov s pisalom.
+K vsaki formuli sodi tudi njena razlaga.
+Naštejmo nekaj možnih izračunov: indeks telesne mase, poraba kisika, indeks kisika, Parklandova enačba, stopnja ozmoze seruma, izločanje urina, idealna telesna teža, koncentracija vodikovih ionov, pričakovan pH, Bayesovo analitično orodje, arterialna vsebnost kisika, pomanjkanje tekočine v telesu ipd.
+Vsebuje 16 modulov, od katerih omenimo toksikologijo, ACLS, kalkulator infuzij, nosečnosti, pediatrija (vročina, zdravila, rast), računanje telesnih tekočin ipd.
+Ravno pediatričnih modulov je največ.
+Večinoma vnesemo telesno težo otroka, želeno zdravilo in koncentracijo.
+Program nam izpiše, kako naj pripravimo mešanico kemikalij oz. zdravil, podrobnejša navodila za samo infuzijo, seznam kompatibilnih zdravil in splošne informacije oziroma nasvete za izbrano zdravilo.
+Kalkulator infuzij sprejme kot vhodne podatke težo pacienta, želeno koncentracijo raztopine in količino raztopine na kilogram telesne teže v minuti.
+Rezultat nam poda v količini raztopine v eni uri.
+Zelo koristen je tudi modul toksikologije, kjer so navedeni najbolj pogosti strupi, kako delujejo, katere protistrupe moramo vzeti in v kakšnih odmerkih.
+Telefonske številke nacionalnih centrov za detoksikacijo so le ameriške.
+Program je zmogljiv pomočnik pri zdravljenju oz. nujni pomoči.
+Omrežje, ki ponuja hitrosti do 384 kb/s, je treba nekako izkoristiti.
+Glavna storitev, ki jo zdaj reklamira Mobitel, je videotelefonija oziroma prikaz žive slike sogovornika med telefonskim pogovorom.
+Pogoj je seveda, da imata oba ustrezen terminal UMTS.
+Med preskušanjem smo ugotovili, da je storitev še precej nezanesljiva, saj se zveza večkrat brez razloga prekine.
+V praksi je sogovornika sicer lepo gledati morda prvič, tudi drugič je še zabavno, potem pa se sliki rade volje odpovemo, še posebej če nas skrbijo stroški.
+K sreči motorola A835 ponuja tudi vklop prenosa slike iz kamere na hrbtni strani.
+To pomeni, da lahko sogovorniku razkažemo okolje, v katerem smo, mu pokažemo, kaj slastnega jemo za kosilo ali katere čevlje si bomo danes kupili.
+Pri tem nas omejuje samo naša domišljija.
+Vsekakor gre za storitev, katere uporabnost se bodo morali domisliti uporabniki, kot nekoč pri SMS-ih.
+Portal Planet, ki je in bo vodilo storitev 3G, je dobil nov paket – Planet UMTS, kjer uporabniki najdejo vse novosti in najatraktivnejše vsebine, primerne za UMTS.
+Tu so na voljo sklopi Novo, TV Novice, Vreme, Planet Radio, Kino, Sport, Kamere, Erotični videospoti in videosmešnice.
+Po pravici povedano se da vse naštete storitve uporabljati tudi z malo boljšim telefonom GPRS, le da se precej pozna na kakovosti.
+Kamere so dopolnili z videokamerami s prenosom v živo, ki delujejo že na vrsti lokacij po Sloveniji (Ljubljana, Izola, Portorož, Bohinj, mejni prehodi) in po tujini.
+UMTS je še v povojih, a obstoječe storitve so nedvomno velik korak naprej vsaj po kakovosti, če že ne po vsebini.
+V prihodnosti pri Mobitelu načrtujejo videoMMS, mobilne konference, nakup kino vstopnic z izbiro sedežev na zaslonu telefona, lokacijske storitve, nove kamere in še in še.
+Seveda se bo sproti tudi širila pokritost s signalom, trenutno je 12 % prebivalstva, kmalu 62 %.
+In še ta podatek: pričakujejo, da bo leta 2007 Mobitel glavnino zaslužka koval iz naslova storitev UMTS.
+V zadnjem času Motorola veliko dela na izboljševanju menijev.
+To jim tudi dobro uspeva in vedno manj je kritik na ta račun.
+Na žalost pa se niso lotili prenove v modelu v150.
+Zaradi majhnega ekrana so animirani meniji (osnovnih je 10) razdeljeni tako, da vidimo le enega naenkrat.
+Premikanje med njimi poteka prepočasi in zatikajoče.
+Na srečo imamo možnost nastavljanja lastnih bližnjic, kar je zelo dobrodošlo.
+Zopet je prisotna raztresenost izbir, kar pomeni iskanje želenih funkcij toliko časa, dokler se ne navadimo ali jih vnesemo med bližnjice.
+Od pozitivnih lastnosti so tu še polifonične melodije.
+Nastavljenih je kar 35, dodamo pa lahko še 32 svojih, s prav tako vgrajenim skladateljem.
+Pomnilnik je skupen in obsega 1 MB.
+Melodije so že kar nekaj časa Motorolino močno orožje.
+Pri nekaterih drugih funkcijah jim je, kot kaže, zmanjkalo streliva.
+Ustavimo se pri povezovalnih funkcijah.
+Tako kot C350 je tudi preklopni brat brez infrardečega vmesnika (modrega zoba v tem segmentu pač ne pričakujemo).
+Če bi želeli pretakati melodije, slike ali celo animacije iz računalnika v telefon, bo potrebno dokupiti kabel USB.
+Imenik je po drugi strani dokaj zmogljiv.
+Poleg običajnih možnosti, kot je vpis imena in številke, nam ponuja tudi izbiro skupine, in vpis naslova elektronske pošte.
+Dodamo lahko tudi gumb za hitro klicanje, še bolj zanimivo pa je, da aparat podpira govorno klicanje.
+V pomnilnik telefona lahko shranimo do 100 številk.
+Naprava si zapomni 10 zgrešenih, prejetih in (tudi 10) klicanih številk.
+Prejeti in zgrešeni klici se shranjujejo kar v isto mapo.
+Jave telefon ne pozna, kljub temu pa ima naložene tri igre: astrosmash, motoGP in snood21.
+Zaradi majhnega zaslona in tudi ne ravno pretirane zabavnosti jih ne boste igrali pozno v noč.
+Če že ne bo zabave z igrami, pa še vedno lahko wapamo.
+Američanka podpira paketni prenos GPRS in tako nas nekoliko omejuje le (zopet) zaslon, ki je za resno delo utrujajoč.
+A za občasno zabavo ali branje novic bo svoje delo opravil dovolj dobro.
+V zmešnjavi menijev nam je uspelo najti celo tedenski koledar, ki res ni najboljši primerek svoje vrste, a vanj lahko vpišemo opomnik in mu nastavimo tudi alarm, kar bo marsikomu zadostovalo.
+Profilov v pravem pomenu besede ni, a mogoče je nastaviti skoraj vse, kar si želimo.
+Od ozadja, melodije za zvonjenje ali sporočila SMS/EMS (malček namreč podpira tudi obogatena kratka sporočila).
+Telefon lahko popolnoma utišamo ali pa nastavimo le tresljaje z daljšim pritiskom na levo navigacijsko tipko.
+Celotno napravo napaja litij-ionska baterija, ki se na papirju lahko pohvali s precej spodobnimi zmogljivostmi.
+Temu se ne gre čuditi, saj majhen, pa čeprav barvni zaslon ne more biti velik porabnik električne energije.
+V realnosti so ti rezultati sicer težko dosegljivi.
+Telefon bomo polnili na tri do štiri dni.
+Odvisno predvsem od pogovorov, saj drugih funkcij pretirano ne bomo uporabljali, ker jih ni.
+Omenim naj še, da je imel naš testni model naložene še angleške menije, kar se bo spremenilo, ko bo telefon naprodaj pri nas.
+Do drugih večjih sprememb ne bi smelo priti.
+A835 je funkcijsko dobro obdarjena
+Motorola se je končno zavedla svojega nepreglednega in uporabnikom neprijaznega uporabniškega vmesnika.
+V zadnji generaciji mobilnih telefonov so ga skušali popraviti in narediti prijaznejšega in moram reči, da jim je v A835 kar uspelo.
+Meniji so prevedeni v slovenski jezik, med njimi pa še vseeno najdemo kakšno besedo, za katero še nismo slišali, kaj šele da bi jo našli v slovarju slovenskega knjižnega jezika.
+Se vidi, da je bilo treba hiteti.
+Ikone so razporejene v mrežo ali pa v seznam, njihova grafična predstavitev je jasna.
+Funkcije v podizbirnikih so razporejene logično, tako da se uporabnik z iskanjem ne muči preveč.
+Za še lažje delo z mobilnikom pa lahko uporabnik funkcije osnovnega menija razporedi čisto po svojih željah in potrebah.
+Klici so razporejeni med klicane in sprejete, v vsaki rubriki pa je prostora za deset zapisov.
+Malce moti to, da neodgovorjeni klici nimajo svoje rubrike, temveč se shranjujejo kar med prejete.
+Ker na njih nismo odgovorili, so ponazorjeni z drugačno ikono od prejetih, vendar je razlika minimalna in težko opazna.
+Vsi zabeleženi klici so opremljeni z datumom in časom.
+Tipkovnica je sestavljena iz devetnajstih tipk, od katerih je nestandardna le tipka za vzpostavitev videoklica.
+Za lažje sprehajanje po menijih nam služi petsmerna navigacijska tipka, ki v osnovnem meniju služi tudi za hiter skok do telefonskega imenika, multimedijskih vsebin, sporočil in seznama pogovorov.
+Za druge velikokrat uporabljane funkcije si lahko uporabnik na enostaven način priredi tudi bližnjice.
+Mobilnik ponuja nekaj novosti
+Na prvi pogled sprememb proti modelu 3650 ni opaziti.
+Menije imamo lahko razporejene v mrežnem načinu ali seznamu.
+Večina bo verjetno raje uporabljala mrežo, saj je osnovnih izbir veliko in v seznamu postane vse skupaj zelo nepregledno.
+Brskanje je zaradi spodobne tipkovnice lahko opravilo, na začetku smo le nekoliko zmedeni zaradi obilice možnosti.
+A ko se navadimo tudi na to, postane uporaba nokie 3660 preprosta.
+Skočimo še v dva menija, za katere upam trditi, da so daleč največkrat uporabljeni v skoraj kateremkoli mobilnem telefonu.
+Imenik je zelo zmogljiv, saj omogoča vpis skoraj neomejenega števila vnosov, vsakega pa je mogoče opremiti z imenom, priimkom, podjetjem, nazivom, dvema telefonskima številkama, številko faksa in še naslovom elektronske pošte.
+Mislim, da bo dovolj tudi za zahtevnejše uporabnike.
+Poleg tega lahko ustvarimo tudi različne skupine (vsako s svojim zvonjenjem) in jim določimo kontakte iz imenika.
+Nokia 3660 ima tudi zelo visoko in uporabno sporočilno moč.
+Imamo navadna besedilna sporočila SMS in večpredstavnostna MMS.
+Za piko na i poskrbi odjemalec elektronske pošte, ki lahko deluje po protokolih POP3, IMAP4 in SMTP.
+Zaradi uporabne tipkovnice se boste sedaj še lažje odločali za uporabo teh funkcij.
+Sony-Ericsson je izdal novo različico komunikacijskega programa PC Suite za mobilnike P800 in P900.
+Nova aplikacija, ki deluje na osebnih računalnikih z operacijskim sistemom Windows, omogoča sinhronizacijo, izdelavo varnostnih kopij, nameščanje nove programske opreme in orodja, s katerimi lahko mobilnik na enostaven način upravljamo kar s PC-računalnika.
+Zadnja različica nosi oznako 2.1.1., v primerjavi s prejšnjo različico pa deluje precej hitreje in bolj zanesljivo, odpravljenih pa ima precej nadležnih hroščev, med drugim podpira lotus notes 6.0.
+Aplikacija je na voljo na proizvajalčevi spletni strani, datoteka pa je dolga 39 MB.
+Nokia je najavila prihod novih iger za svoj mobilni igralnik, ki bodo obogatile obstoječo paleto iger v vseh žanrih.
+Napovedane so Ashen, Operation Shadow, Nightmare II, Sega Rally Championship, Tom Clancy's Ghost Recon: Jungle Storm, Worms in WWE.
+Prvi dve izmed naštetih bosta na voljo samo na n-gageu, večina pa bo omogočala večigralstvo prek bluetootha in priključitev na storitev N-Gage Arena.
+Tu je igralcem omogočeno medsebojno igranje, nalaganje nasvetov in objavljanje rezultatov.
+Kljub bolj medlemu odzivu kupcev pri Nokii trdno verjamejo v uspeh njihovega hibrida, zato napovedujejo, da bo do konca leta 2004 na voljo do 100 iger.
+Tik pred novim letom je na trg prišlo še sedem novih: FIFA 2004, Moto GP, NCAA 2004, Rayman 3, Red Faction, Virtua Tennis and Tom Clancy's Splinter Cell: Team Stealth Action (o tej igri smo pisali tudi v novembrskem Mobinetu).
+Vodafone je najhitreje rastoči globalni investitor mobilne telefonije v letu 2003.
+V dvanajstih mesecih je pridobil 16 milijonov naročnikov po vsem svetu, so sporočili iz raziskovalne analitične hiše EMC.
+Vedno so korak pred drugimi in iščejo trenutno rešitve na področju 3G.
+Tako je tudi v Nemčiji Vodafone ponudil zanimivo rešitev za podjetja, ki vsakodnevno potrebujejo dostop do interneta na terenu.
+Popoln zagon omrežja 3G načrtujejo v letu 2004.
+Do tedaj pa imajo uporabniki prenosnih računalnikov možnost, da na terenu uporabljajo tako imenovane kartice 3G Data Card.
+Tako se lahko povežejo v internet s hitrostjo do 144 kbs.
+Od začetka lanskega decembra je na Otoku za volanom prepovedano telefonirati.
+Kršitelji bodo kaznovani s približno 42 evri kazni.
+Kazen bo lahko narasla na 1400 evrov, če se bo voznik pritožil in stopil pred sodnika za prekrške, ali celo na 3480 evrov, če je uporabljal telefon na nevarnih krajih (krožišče, križišče, odstavni pas…).
+Uporaba prostoročnega kompleta ni prepovedana, vendar bo policija še vseeno lahko kaznovala voznika, za katerega bo smatrala, da bi ga telefoniranje lahko zmotilo in spravilo v nevarnost.
+Operater bo moral poiskati dodatni dve milijardi evrov za financiranje svojih evropskih storitev UMTS.
+Hutchison je imel resne težave že pri pridobivanju novih naročnikov in izpolnjevanju cilja doseči dva milijona uporabnikov do konca lanskega leta.
+Hongkonška skupina bo po pričanju Financial Timesa morala investirati še dve milijardi evrov v podporo svojim storitvam, tako da bo končni račun presegel 20 milijard evrov.
+Operater, ki ima trenutno nekaj več kot 500.000 uporabnikov v desetih državah, upravičuje težave z zamudami teminalov 3G.
+Hutchisonov neuspeh je bil vsekakor predvidljiv.
+»Uporabniki v Evropi niso pripravljeni na tretjo generacijo, saj komaj spoznavajo GPRS,« menijo poznavalci.
+Tudi storitve UMTS so zelo redke.
+Operater je svoje storitve pognal pred vsemi že marca lani v desetih državah, da bi privabil čim več tehničnih navdušencev.
+V Evropi pričakujejo največji bum UMTS-a v drugem četrtletju, ko naj bi svoji ponudbi tretje generacije obelodanila Vodafone in Orange.
+Vsekakor je treba pozdraviti prihod Samsungovih telefonov na naš trg, saj je bil takšne popestritve nujno potreben.
+Izbira je tako večja, uporabniki pa lahko izbirajo med izredno kakovostnimi mobilniki.
+E700 je med njimi, in če mu ne bi manjkal bluetooth, bi bil v vrhu lestvice najbolje ocenjenih.
+Finka sicer deluje mladostno, a tehnično jo C100 prekaša v marsikaterem pogledu.
+Vitko ohišje z litij-polimerno baterijo, odličen zaslon s 65.536 barvami, infrardeča povezava, …vse to so dosežki, o katerih Nokiin model 3100 lahko le sanja.
+A finka ima en zelo močan adut.
+Uporabniški vmesnik je preprost, a hkrati zmogljiv.
+Marsikdo je ravno zaradi tega ne bo tako hitro menjal.
+EDGE (Enhanced Data Rates for Global Evolution) je tehnologija prenosa podatkov tretje generacije, ki je namenjena prenosu po obstoječih omrežjih GSM/GPRS, ki so ustrezno nadgrajena.
+Tehnologija EDGE omogoča prenos podatkov z največjo hitrostjo 384 kb na sekundo.
+Hitrost prenosa podatkov je odvisna od oddaljenosti mobilnika do bazne postaje.
+Nova potrebna programska oprema pa omogoča tudi nekatere nove storitve, kot je na primer pretočni video.
+Uporabniški vmesnik je kljub svoji navidezni zapletenosti moč hitro zapopasti in ga uporabljati povsem brez težav.
+Nekaj malega poigravanja in že ga imamo v malem prstu.
+Tudi koledar oziroma rokovnik je med zmogljivejšimi, saj je zelo pregleden, ponuja pa natančne nastavitve naših sestankov in drugih opravil.
+Da jih ne bomo zjutraj zamujali, lahko poskrbijo kar štirje alarmi.
+Še ena možnost, ki je v mobilnikih že dolgo nismo zasledili, je nastavljanje časa vklopa in izklopa mobilnika.
+Mogoče pa funkcija le ni tako praktična, kot izgleda na prvi pogled.
+»Aparat Benq Athena zaenkrat ne omogoča pošiljanja sporočil MMS.
+Prejemanje sporočil MMS deluje, vendar glede na omejeno velikost pomnilnika aparata.
+Uvoznik aparata nam je sporočil, da bo težavo rešila nadgradnja programske opreme aparata.
+Za dodatne informacije o časovnih rokih potrebne nadgradnje vas prosimo, da se obrnete na pooblaščenega uvoznika: Avto-phone, d. o. o., Vojkova 58, Ljubljana, tel.: (01) 565 36 60.«
+Se vam pretaka bencin po žilah?
+Igrica GTS racing vas ne bo pustila ravnodušne.
+Prikaz proge in okolice je, zahvaljujoč 3D-grafiki, zelo dober, prav tako zvok.
+Poleg tega lahko izbirate med športnim avtom, kupejem ali formulo.
+Za vsako od 32 različnih prog so na voljo štiri težavnostne stopnje.
+Tukaj se vam ni treba bati radarske kontrole!
+Ko si tako nabiramo razne aplikacije, je koristno, da lahko ohranimo neko preglednost.
+Prav pocket launcher nam razvrsti aplikacije na posamezne “zavihke”.
+Programi imajo lahko velike ali majhne ikone, zavihke in ikone pa lahko premikamo po načinu “povleci in spusti”.
+Vsakemu zavihku, ki označuje skupino aplikacij, lahko določimo različno ozadje.
+Pocket launcher se tudi vključi v meni Start.
+Naprave z nameščenimi takšnimi ali drugačnimi windowsi so precej ranljive na virusne napade, zato je modro poskrbeti za ustrezno zaščito.
+Airscanner odstranjuje viruse iz okuženih datotek ali pa prestavi inkriminirane datoteke v karanteno ter brani pred virusi v pomnilniku in trojanskimi konji.
+Teče tudi na windows mobile-u 2003.
+S preprostim klikom boste posneli vse želene zaslone vašega dlančnika.
+Nato jih boste lahko arhivirali.
+Program je namenjen vsem tistim, ki želite obsežne nastavitve raznih programov shraniti ali ustvariti dokumentacijo programov.
+Ustrezno poimenovane slike shranjujemo v posebne mape.
+Canon nadaljuje (a80.jpg)
+Na voljo je še precej dodatnih funkcij in načinov zajemanja fotografij.
+Omeniti velja predvsem možnost zajemanja treh posnetkov z enim pritiskom (Auto Bracketing), pri čemer kamera en posnetek dodatno podosvetli, drugega pa preosvetli.
+Uporabnik kasneje izbere najustreznejšega.
+optično iskalo
+Javanska zabava je v reviji Mobinet že kar nekaj časa stalnica.
+V naslednji številki pa bomo morali spremeniti naslov, kajti predstavili bomo tudi igre, ki tečejo na platformi Mophun.
+Za ta korak smo se odločili zato, ker so sony ericssonovi telefoni na našem tržišču kar dobro zastopani, igre za platformo Mophun pa so vsaj enake kakovosti ali pa celo boljše kot tiste, napisane v javi.
+Dejansko za »navadne« uporabnike do pred kratkim sploh ni bilo razumnih alternativ.
+Ali uporabljaš svojo običajno škatlo bež barve, lahko pa jo tudi zamenjaš za sijočega »meka«.
+Slednji produkt sadnega podjetja (Apple), mimogrede, stane vsaj za dva peceja!
+Zraven tega pa itak vse stranke in sploh vsi, ki jih poznamo, uporabljajo word, ekscel ...
+In to preprosto ni združljivo kljub temu, da se je Microsoft nekaj (navidezno) trudil, da bi office delal tudi na »mekih«.
+Ne dela!
+Microsoft je še vedno izredno močan.
+Morda ne na strežnikih, kjer izgublja iz dneva v dan, vendar se drži na naših namizjih.
+V Redmond se bo steklo še veliko zelencev, preden bo linux zavladal v namizjih.
+Zaenkrat ima dober uporabniški vmesnik, ki ga je prevzel od Oken.
+Mimogrede: slednja je Billy ukradel Applu, ki jih je ukradel Xeroxu.
+Kraja se torej izplača!
+Nokio 3100 lahko popolnoma prilagodimo lastnim željam in potrebam.
+Spreminjamo lahko sliko ozadja, ohranjevalnik zaslona in barvne sheme.
+Vsem znani pripomočki so prisotni tudi tukaj v obliki kalkulatorja, odštevalnika časa in štoparice.
+Izbira »pojdi na« je mišljena kot nekakšna bližnjica do funkcije, ki jo želimo zagnati.
+Sami si določimo funkcije oziroma menije, ki se nam bodo pojavili tukaj.
+Če bi želeli z desno funkcijsko tipko dostopati do drugega menija in ne do imenika, kot je to prednastavljeno, lahko to v nastavitvah telefona brez težav popravimo.
+Ne smemo pozabiti omeniti tudi brskalnika WAP (2.0), ki je seveda vgrajen.
+Za vso to multimedijo je Nokia namenila li-ionsko baterijo s kapaciteto 850 mAh, ki pa se izkaže za zgolj povprečno.
+Uradno Nokia obljublja do 6 ur pogovorov in do 410 ur stanja v pripravljenosti, a telefon bo zahteval polnilnik precej prej.
+Seveda pa je to zelo odvisno od načina rabe mobilnega telefona.
+Poleg mobilnega telefona Nokia 3100 lahko kupite tudi nekaj zanimivih dodatkov.
+Pravzaprav šele ti dodatki dokazujejo, da je ta model resnično namenjen mladim, kar iz oblike samega telefona ne bi ugotovili.
+Poleg že omenjenih pokrovčkov, ki naj bi poudarili določen sklop tipkovnice in jo tako naredili uporabnejšo za igranje iger, ponujajo tudi majhen samostojni digitalni fotoaparat Fun Camera, ki premore 8 MB pomnilnika Flash, nanj pa lahko shranite do 50 slik slabše kakovosti ali pa 12 slik visoke kakovosti.
+Kasneje jih lahko pretočite v telefon prek povezave Pop-Port in pošljete svojim prijateljem.
+Fotoaparat lahko povežete tudi v modele 6100, 6610, 6800 in 7210.
+Opozorimo še na dejstvo, da so v vseh predplačilnih paketih mobilniki zaklenjeni na operaterjevo omrežje, kar pomeni, da z vstavljeno kartico SIM drugega operaterja ne bodo delovali.
+Zahtevamo lahko sicer uraden odklep telefona, vendar bomo za to plačali več kot za telefon v prosti prodaji.
+Nepooblaščenega odklepanja pa zaradi izničenja garancije ne priporočamo.
+Na voljo je tudi paket Vega Mega brez telefona, za katerega odštejemo 3.000 tolarjev, račun pa je že napolnjen z vrednostjo 1.100 tolarjev.
+Poseben paket je še Vega Mega City, ki stane samo 1.000 tolarjev, račun pa je napolnjen s polovico tisočaka.
+Značilnost tega paketa so dokaj nizke cene klicev, ki v nižji tarifi in ob vikendih znašajo celo en sam tolar za minuto pogovora v Veginem omrežju.
+Račun moramo napolniti vsaj enkrat na 30 dni, telefoniramo pa lahko le v večjih mestih, kjer ima Vega postavljeno lastno omrežje.
+Trenutno pri Vegi poteka akcija, da ob registraciji predplačilne številke uporabniku podarijo 100 kratkih sporočil SMS.
+Pred kratkim je podjetje PowerCom ponudilo še polnjenje računov s kreditnimi karticami.
+Tako s kombinacijo spletne strani, elektronske pošte, mobilnika in ustrezne kreditne kartice (Eurocard/Mastercard, Diners, Activa, kmalu tudi American Express in Visa) preprosto napolnimo svoj račun.
+MyX-2 je namenjen predvsem mladini, saj ga starejši ne bodo sprejeli zaradi nekoliko prenerodne tipkovnice.
+Vendar pri mladih obstaja nevarnost, da si bodo prej ali slej zaželeli igrati tudi igre in tu mali sagem ne bo zmogel zadovoljiti uporabnika.
+Verjamem, da je med vami dovolj tudi takih, ki iger ne igrajo, in če iščete majhen telefon s povprečnim barvnim zaslonom, dobro baterijo, z nekaj zabavnimi funkcijami in za malo denarja, je my X-2 dober kandidat.
+Direktor ATRP, Nikolaj Simič, je pritožbo preučil in ugotovil, da je utemeljena, kar je bil signal udeleženim na trgu, da bosta morala oba operaterja s prevladujočo tržno močjo omenjene cene dvigniti.
+In to se je z začetkom avgusta tudi dejansko zgodilo.
+Kakorkoli že, cene klicev so se povišale, že drugič v letu dni (avgust '02 - avgust '03).
+Spomnimo se lanskega avgusta, ko so vsi štirje ponudniki družno povišali svoje cene za okroglih 10 odstotkov.
+Ko model 822 poizkušamo uvrstiti v določeno skupino, smo nekoliko v zadregi.
+Poslovnežem ga ne moremo priporočiti, saj mu manjka možnost brezžičnega sporazumevanja z okolico (IrDa/Bluetooth), mladim pa bo primanjkovalo zabavnih funkcij, kot so polifonija, java in MMS.
+Če lahko pogrešite našteto, vam bo fisio 822 hvaležen sopotnik.
+Palm zire 71 ima močna tekmeca.
+Podjetju HP je uspelo svoja vstopna modela dlančnikov tako lično in dobro »zapakirati«, da ju z veseljem prenašam naokoli.
+Že na pogled je ohišje elegantne srebrne barve, lepo zaobljeno, dimenzijsko in po teži pa izjemno prijetno.
+Ogledali si bomo model iPAQ 1915, ki je že nekaj časa na tržišču, in njegovega sodobnejšega bratranca, model iPAQ 1930.
+Dlančnik teče na že legendarnem operacijskem sistemu Pocket PC 2002.
+Omenimo še programsko opremo, ki je bolj kot ne špartanska.
+Na zgoščenki prejmemo »ostarela« programa Outlook 2000 in ActiveSync 3.5.
+Skromno ni kaj.
+- ne podpira SDIO
+- nima bluetootha ali Wi-Fi
+Že ime da slutiti, da gre za tipično arkadno igro, ki se odvija nekje v vesolju.
+Postavite se v vlogo pilota vesoljske ladje in se podajte na potovanje med zvezdami.
+Izogibati se morate vsem oviram, ki jih med potovanjem ni malo, lahko pa jih tudi uničite.
+Igra ima več stopenj, in možnost vpisa dosežkov na internetno stran.
+Igra je opremljena z odličnim polifoničnim zvokom.
+Vsaka slika potrebuje območje, ki pritegne pogled.
+Ta je lahko kot točka, ki izstopa iz ozadja, lahko je točka, ki jo naredijo sekajoče se linije perspektive, lahko je linija obzorja, lahko je ploskev.
+Ploskev lahko sestavlja več točk, taka ploskev je raster in zaseda celo slikovno površino.
+Vsekakor mora biti motiv, ki ga želimo predstaviti, tisto področje, ki nam pritegne pogled.
+Pogled nam pritegnejo predmeti, ki so na sredini, ki so večji, svetlejši, čistejših barv, izostreni, bližje, enostavnejših oblik, manj razčlenjeni, v kontrastu z ostalo površino, hitro razpoznavni…
+Tople barve (rdeča, rumena, oranžna) so »tople« tudi v našem občutenju, stimulirajo in delujejo, da so bližje.
+Čiste barve imajo večjo težo od temnjenih ali svetljenih, bolj pritegnejo pogled in delujejo bližje.
+optično iskalo
+Letošnjo poplavo mobilnih terminalov z barvnimi zasloni in vgrajenim fotoaparatom je zaznamoval tudi Panasonic z modelom GD 87, ki je dvignil kar nekaj prahu.
+Pri nas ga je prvi obljubljal Mobitel, vendar jim jo je zagodel Vodafone, ki je zakupil večino proizvodnje, zaradi česar je bil domači operater prisiljen prestavljati napovedan prihod.
+Ko smo ga končno dočakali, pa je bil za marsikaterega uporabnika preprosto predrag, da ne omenjamo nesramno dolgega aneksa, ki je bil pogoj za nakup …
+Panasonic X70 je, kot večina današnjih boljših mobilcev, svetovni popotnik, kar pomeni, da zna delovati na treh frekvencah (900/1800/1900), torej je uporaben na kar petih celinah.
+Paketni prenos podatkov GPRS je danes že obvezen, vendar pri panasonicu prepočasen – je namreč šele v razredu 8, kar pomeni 3 kanale za sprejem in 1 kanal za oddajo podatkov.
+Infrardeče očesce je še vedno uporabna zadeva, saj obstaja veliko naprav, ki še niso slišale za bluetooth.
+Iks sedemdeset ima oboje, kar ga naredi povezljivega z večino ostale elektronske navlake.
+Popolnoma drugače je z lastniki polifoničnih telefonov.
+Pogosto dih jemajoče priredbe nacionalnega rap samorastnika niti ne bodo slišali v poplavi zvokov motorjev, glasnih pogovorov in brnenju klimatskih naprav.
+Še več, mnogokrat bodo zaman vlekli telefon iz pretesnih kavbojk, ko se bo njihov zvezdnik zaslišal iz avtoradia ali kar iz bližnjega bifeja.
+iPAQ 1915 je vstopni model dlančnika, ki navdušuje s skromnimi merami in težo, ter odličnim zaslonom.
+Oblika je je zelo elegantna in se poda poslovnežu, ki sicer ne potrebuje modrozobe povezljivosti ali brezžičnega dostopa.
+Sprijazniti se moramo z odsotnostjo priključne postaje in zares skromno programsko opremo.
+Cena je zmogljivostim primerna.
+A55 je, resnici na ljubo, skromneje opremljen telefon majhnih mer, ki bi bil morda pred nekaj leti vzor konkurentom, danes pa predstavlja enostaven, smiseln in racionalen telefon za marsikoga, ki ne potrebuje ostale tehnološke »navlake«.
+Luštna stvar za mladež, ki jo zmore aparat tudi prijetno presenetiti.
+S prvim julijem je Telekom Slovenije za vse svoje naročnike navadnih telefonskih priključkov uvedel paket storitev, ki jih je poimenoval Pametne storitve, in ki za nizko ceno naročnine ponujajo nekaj uporabnih storitev.
+S temi so najbolje seznanjeni naročniki ISDN in pa seveda uporabniki mobilnih telefonov.
+Ker pa dandanes fiksni telefonski priključek še vedno uporablja precejšnje število ljudi, so se v Telekomu odločili, da nekaj storitev, ki jih sicer že ponujajo posamezno, združijo v tako imenovani Pametni paket in jih za izredno nizko naročnino 300 tolarjev ponudijo svojim naročnikom.
+Promocije paketa so se lotili po vzoru svoje hčerinske družbe, ki nove storitve sprva ponudi brezplačno, da jih ljudje lahko preskusijo in testirajo.
+Tako je do 30. septembra mogoča brezplačna uporaba preusmeritve klica, klica brez izbiranja, čakajočega klica in glasovne pošte.
+Vse storitve, razen glasovne pošte, lahko uporabniki preskusijo takoj, saj jim jo je Telekom v promocijskem obdobju vklopil brezplačno, za uporabo glasovne pošte (osnovnega paketa) pa je potrebno poklicati Telekomovo Modro številko 0808000 in storitev boste začasno lahko uporabljali brezplačno.
+Vsi, ki se bodo po preskusu odločili Pametni paket obdržati, se bodo z naročilom storitve izognili priključnini, ki znaša 4800 tolarjev.
+Če bi se naročnik odločil te storitve vključiti posamezno, kot je bilo to mogoče pred uvedbo Pametnega paketa, bi po hitrem izračunu moral za vse skupaj plačevati 161 SIT (standardni paket dodatnih storitev) + 161 SIT (klic brez izbiranja) + 180 SIT (govorna pošta, osnovni paket) = 502 SIT.
+Prihranek 200 SIT že ni več zanemarljiv, zato lahko odločitev Telekoma le pozdravimo.
+Po navedbah Telekoma, zanimanje za dodatne storitve od uvedbe strmo narašča, za zelo pošteno pa lahko označimo to, da v promocijskem obdobju Telekom ne zaračunava naročnine uporabnikom, ki so dodatne digitalne storitve uporabljali že prej.
+Zagotovo ste že slišali za digitalne videorekorderje, ki predstavljajo hibrid med standardnimi videorekorderji in osebnimi računalniki.
+Nekoliko manj verjetno pa je, da ste se spoznali s sistemom TiVo, ki predstavlja smetano med najnovejšimi takšnimi napravami in storitvami.
+V Mobinetu smo se tako odločili, da to mini revolucijo (ali tivolucijo, kot jo nekateri poimenujejo) predstavimo tudi vam, cenjeni bralci in drage bralke.
+TiVo seveda ni edini sistem za digitalno snemanje oz. zajemanje slik.
+Podobne storitve nudijo tudi ReplayTV, UltimateTV, DishPlayer in drugi.
+Seveda pa lahko sliko zajemate tudi prek osebnega računalnika.
+Za to potrebujete le velik trdi disk, ustrezno videokartico in že imate osnovni digitalni snemalnik.
+Tivo je poseben zato, ker nudi izjemno fleksibilnost in avtomatizacijo snemanja ter zahteva minimalne napore od uporabnika, medtem ko je pri snemanju na osebni računalnik slika velikokrat povsem drugačna.
+Najnovejši Palmov dlančnik seveda spada tudi med najhitrejše, če že ni kar najhitrejši.
+Poganja ga intelov procesor XScale PXA255, ki utripa s frekvenco 400 MHz.
+Taki procesorji so že kar nekaj časa stalnica napravam Pocket PC, ki pa so mnogo bolj procesorsko požrešne, palmu pa tu ostaja kar nekaj rezerve.
+Kar se tiče hitrosti, o novem tungstenu ne moremo reči slabe besede.
+Integriranega je tudi 64 MB pomnilnika, kar je za dlančnike z operacijskim sistemom Palm OS ogromno.
+Pravzaprav je to kar štirikrat več kot pri najzmogljivejšem predhodniku.
+Nove tehnologije, predvsem brezžične, pa zahtevajo svoj davek, tako da je uporabniku na voljo »le« 51 MB pomnilnika, kar je še vedno več kot preveč.
+Prav dobro se uporabnik počuti, če ve, da ima spomina na pretek.
+Kot smo že omenili, je tungsten C prvi dlančnik s Palmovim operacijskim sistemom, ki ima vgrajen vmesnik za povezavo v brezžična omrežja WiFi 802.11b.
+Žal pa ni duha ne sluha o bluetoothu.
+Še večja žalost pa je to, da s tungstenom C ne deluje palmova kartica bluetooth.
+Vsa ta nova tehnologija in predvsem hiter procesor pa zahtevata tudi zajetno količino energije.
+Temu je namenjena baterija kapacitete 1500 mAh, ki napravo ob intenzivni uporabi ohranja okoli šest ur, kar je malo, če rezultat primerjamo s palmom m505, in povsem zadovoljivo, če ga primerjamo s katerimkoli drugim dlančnikom, ki ima transreflekivni zaslon in vsaj približno enako hiter procesor.
+Med uporabo nas dlančnik večkrat opozori na to, da energija iz baterijskih celic počasi pojenja.
+Po tretjem, zadnjem opozorilu, ki se imenuje Extremely Low Warning, pa se dlančnik samodejno ugasne.
+Nihče pa se ne bi pritoževal, če bi bila baterija izmenljiva.
+Tako bi lahko človek še z večjim veseljem šel na pot brez skrbi, da bo naprava med potovanjem odpovedala sodelovanje in ga prikrajšala za zabavo.
+Operacijski sistem je najnovejši Palm OS, različica 5.2.1.
+Če ga primerjamo s prejšnjimi operacijskimi sistemi, kakšnih res drastičnih sprememb ni.
+Najprej nam je v oči padel popolnoma preurejeni del, ki je namenjen nastavitvam (Preferences).
+Nekaj sprememb je tudi v novem hotsyncu.
+Dodana je možnost Network Hotsync, ki omogoča uporabniku, da svoje podatke sinhronizira tudi prek mreže, če je osebni računalnik, s katerim se sinhronizira, v mreži dostopen.
+Tako lahko uporabnik praktično kjerkoli po svetu pride do svojih podatkov, če le ima dostop do interneta.
+Program konference bo tudi letos usmerjen k trenutno aktualnim temam in temu primerna bo udeležba s strani operaterjev, proizvajalcev opreme in razvijalcev storitev.
+S tem dogodkom dokazujemo, da na področju telekomunikacij nastopamo z vso resnostjo in predanostjo.
+Verjamemo, da bo konferenca Telekomunikacije 2003 razkrila smernice, ki jih bo panoga ubrala v prihodnjem letu na območju Slovenije ter JV Evrope.
+Konferenca je tudi izjemna priložnost za utrjevanje poslovnih vezi in tkanje novih, za porajanje idej in njihovo izpopolnitev ter možnost za dodatno izobraževanje in izostren pogled v prihodnost.

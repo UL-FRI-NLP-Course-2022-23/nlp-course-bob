@@ -1,0 +1,601 @@
+OBLIKOVANJE NASLOVNICE: prof. Dušan KIRBIŠ
+
+Brez pisnega dovoljenja založnika je prepovedano redproduciranje, distribuiranje, dajanje v najem, javna priobčitev, predelava ali druga uporaba tega dela ali njegovih sestavnih delov v kakršnemkoli obsegu ali postopku, vključno s fotokopiranjem, tiskanjem ali shranitvijo v elektronski obliki.
+
+Kljub vsem prizadevanjem avtorjev, recenzentov in lektorice so v učbeniku gotovo še tipkarske napake, ki bi jih avtorja rada odpravila pri ponatisu učbenika. 
+Hvaležna bova vsakomur, ki nama bo s pripombami in sugestijami pri tem pomagal.
+
+1 Uvod ……………………………………………………………...
+
+Netkane tekstilije sodijo v skupino nekonvencionalnih tekstilij. 
+Netkane tekstilije so narejene direktno iz vlaken ali pa iz brezkončnih filamentov.(7,8) Izraz netkane tekstilije se pogosto uporablja kot posplošen opis tekstilije, ki je bila pridobljena s postopkom, ki je drugačen od tkanja in pletenja ali pa še bolj široko za tekstilije, ki so drugačne od tradicionalnih tekstilij, papirnatih pol ali plastičnih folij.(8) Netkane tekstilije so prav tako kot tradicionalne tekstilije, papirnate pole in plastične folije ploskovne strukture. 
+Lahko jih proizvedemo z želeno stopnjo integritete, debeline, prožnosti in poroznosti. 
+
+Strukturo svetovne proizvodnje netkanih tekstilij po celinah za leto 1998(5) kaže slika 1.2.
+
+Tehnologija izdelave koprenskih tekstilij po mikalniškem postopku in utrjevanje le - te z iglanjem in/ali vodnim curkom je v obdobju od leta 1991 do 2001 dosegla rast proizvodnje od 1,2 na 2,0 mio.ton.leto-1.(29) 
+
+Danes se najpogosteje uporabljata definiciji, ki sta ju vpeljali EDANA (the European Disposables and Nonwovens Association) in INDA (the Association of Nonwoven Fabrics Industry).(8,13,14)
+
+da je koeficient dolžina - premer večji kot 600 oziroma
+
+En del vlaknaste surovine (predivo), ki vstopi v tehnološki proces, se izloči v obliki tehnoloških odpadkov, ki vsebuje 10 - 20 % nečistoč in kratkih vlaken. 
+Tak odpadek ni najbolj primeren za izdelavo kakovostnih predivnih prej. 
+Za predelavo tehnoloških odpadkov brez predhodne reciklacije le - teh so razvili različne nekonvencionalne tehnologije, najpomembnejša pa je bila tehnologija iglanja run iz kosmičev tehnoloških odpadkov. 
+Iz tehnoloških odpadkov so se izdelovale netkane tekstilije, ki so bile zelo podobne volnenim polstem. 
+Potreba po predelavi industrijskih vlaknastih odpadkov in starih tekstilij je bila v začetku 19. stoletja ena od gonilnih sil rasti industrijske proizvodnje netkanih tekstilij v njeni najzgodnejši zgodovini.
+
+- strukture netkanih tekstilij.(8,13,14)
+
+- plemenitenje temeljne plasti netkane tekstilije.(7,8,10)
+
+- Melt - blown ekstrudirane in
+
+- ultrazvokom in 
+
+4.1.3 Postopki plemenitenja netkanih tekstilij so:
+
+- laminirane (plastene),
+
+- nakodrane,
+
+5 Priprava prediva 
+
+5.1 Rahljanje prediva 
+
+Glede na konstrukcijske izvedbe rahljalnikov bal ločimo:
+
+Slika 5.3. 
+Horizontalni rahljalnik s koritastim in valjčnim dovajalom runa
+
+Najpogostejše mastilne naprave pri pripravi prediva za netkane tekstilije so:
+
+Slika 5.12. 
+Cevovod z razpršilnimi šobami firme Temafa
+
+Mehanski transport prediva se izvaja s pomočjo brezkončnih transportnih trakov različne konstrukcijske izvedbe.
+
+Slika 5.14. 
+Ventilator z aksialnim dovodom prediva firme Hergeth
+
+- konfuzorske cevi.(6,28)
+
+Poleg ventilatorjev in cevi se za pnevmatski transport prediva uporabljajo še dodatne naprave, kot so:
+
+- filtrske naprave.(6)
+
+Za medsebojno mešanje različnih vrst prediv v predpisanem masnem razmerju se uporablja rahljalnik s tehtalno napravo.(6,28,58) 
+
+1- mešalna komora 2- potujoči rezkalnik 3- vzdolžna tračnica 4- prečna tračnica
+
+Zadostno zrahljane in odprte kosmiče prediva nato po potrebi mastimo in homogeniziramo z izdelavo postelje v mešalni komori različne konstrukcijske izvedbe. 
+Iz vodoravno položenih plasti v postelji s pomočjo rezkalnika z vertikalnim odvzemanjem kosmičev predivo rahljamo in mešamo. 
+Temu sledi še fino rahljanje na horizontalnem, vertikalnem ali finem turbo rahljalniku ter pnevmatski transport zrahljanega prediva do napajalnika mikalnika, kjer se iz homogeniziranih kosmičev prediva tvori runo, ki je predložek mikalnika.
+
+Glede na vrsto prediva ločimo pripravljalnice za kratkovlaknato, dolgovlaknato in regeneratno predivo.(6)
+
+Po končanem rahljanju in mešanju prediva se kosmiči prediva pnevmatsko transportirajo do napajalnika mikalnika, kjer se iz množice kosmičev tvori ploskovna tvorba - runo, ki je predložek mikalnika.(6,28) 
+
+1- kondenzor 2- foto senzorja 3- dozirni rahljalnik 4- zbiralna skrinja 5- senzor za nadzor višine odloženih kosmičev v zbiralni skrinji 6- poševni iglasti trak 7,8- vračalni, snemalni valj 9- napajalni jašek za tvorbo runa 10- odvajalo runa iz napajalnika
+
+1- napajalni jašek 2- premična loputa 3- regulacijski motor 4- pretvornik odklona 5- zaznamovalo odklona 6- tipalni vzvod 7- napajalni valj 8- merilni valj
+
+1- napajalni jašek 2- tračna tehtnica 3- dovajalna miza 4- dovajalni valj
+
+Glede na hitrost odvajanja koprene iz mikalnika, ki jo kontinuirano spremlja generator hitrosti (T), in trenutno izmerjeno maso runa BW - računalnik prek spremembe jakosti toka opredeli hitrost dovajanja runa v mikalnik. 
+Pri tanjšem runu se poveča hitrost brezkončnega teflonskega traka in dovajalnih valjev pri nespremenjeni hitrosti odvajanja koprene z mikalnika in obratno. 
+Tako se sprotno samodejno uravnava enakomernost izdelane koprene na mikalniku.
+
+5.7 Reciklacija tehnoloških odpadkov netkanih tekstilij
+
+S pomočjo transporterja narezane robove koprenskih tekstilij dovajamo v rezalnik, ki fino reže, drobi, meša, ogreje, posuši in predzgosti odpadke iz koprenskih tekstilij. 
+Rotirajoče rezilo omogoča tudi enakomerno tlačno polnjenje enopolžnega ekstrudorja. 
+Polž ekstrudorja prevzame polimerno talino in jo plastificira, homogenizira in razplini.
+
+1- napajalnik 2- koritasto dovajalo runa 3- rahljalni valj 4- mikalni boben 5- mirujoče mikalne plošče 6- snemalni valj 7- snemalo koprene
+
+Za izdelavo izotropnih kopren z naključno (zmedeno) orientacijo vlaken v kopreni se uporabljajo:
+
+- vbrizgalni mikalnik.(6,20,34,39,40,44,45,46)
+
+1- koritasto dovajalo runa 2- rahljalni valj 3- predmikalni boben 4- prenosni valj
+
+Obodna hitrost mikalnega bobna je 100 m.min-1, izotropnega valja 1500 m.min-1. 
+Zaradi 15- krat večje obodne hitrosti izotropnega valja in spremenjene smeri rotacije izotropnega valja v področju med mikalnim bobnom in izotropnim valjem pride do izrazite turbulence in vrtinčenja zračnega toka, kar povzroči naključni prehod vlaken iz obloge mikalnega bobna v oblogo izotropnega valja.(28,34)
+
+1- mikalni boben 2- mirujoče plošče 3- delovna valja T- mikalni točki I - točki injeciranja oz. vbrizganja zraka
+
+Delovni valji so obloženi z žagasto mikalno oblogo in mirujejo ali pa se zelo počasi vrtijo (v petih minutah se zavrtijo okrog lastne osi).
+
+6.1.1.2 Mikalne obloge
+
+Slika 6.17. 
+Naklonski prsni kot mikalne obloge(6)
+
+- prosti pad kosmičev ali snopičev vlaken,
+
+- naprave s sitastim bobnom.(12)
+
+S pomočjo koritastega dovajala vpeto runo dovajamo rahljalnemu valju, ki runo zrahlja do fino zrahljanih komičev in osamljenih vlaken, ki jih po principu zračnega vleka prek difuzorske cevi napiha na sitasti trak, kjer se tvori izotropno koprensko runo. 
+Koprensko runo s pomočjo sitastega traka podpiramo in vodimo do stroja za utrjevanje, kjer ga učvrstimo in mu damo primerne mehansko - fizikalne lastnosti. 
+
+Predhodno pripravljeno predivo se iz pripravljalnice pnevmatsko ali ročno dozirno dovaja v napajalni jašek linije V12. 
+Po elevatorskem principu se s pomočjo dveh brezkončnih transportnih trakov tvori runo iz kosmičev, ki se dovaja do prve rahljalne enote. 
+Zrahljano predivo zapušča oblogo rahljalnega valja in se ponovno s pomočjo elevatorja (ima zgornji perforirani trak) pnevmatsko zgosti med transportom v runo s konstantnim specifičnim volumnom. 
+Sledi nadaljnje rahljanje prediva in prek poševnega cevovoda njegov transport do širinskega razprševalnika kosmičev. 
+
+Razprševalnik z rotirajočim motovilom omogoča enakomerno porazdelitev kosmičev na vnaprej določeno širino transportnega traka.
+
+1- koprensko runo 2- koritasto dovajalo runa 3- mikalni boben 4- delovni valj
+
+Slika 6.24. 
+Videz koprene pri ročni obremenitvi(53)
+
+- deležu med vlakni in vodo ter
+
+8- posoda za naplavljanje 9- poševni sitasti brezkončni trak 10- zbiralnik odsesane vode 11- visokotlačne črpalke
+
+Slika 6.27. 
+Naplavljanje tekstilij s pomočjo rotoformerja
+
+Za utrditev naplavljenih tekstilij se uporabljajo:
+
+- heterofilna vlakna, ki imajo lepilni plašč ali vodotopna PVAL vlakna in
+
+- namizno perilo,
+
+- spodnje perilo za dojenčke in v bolnišnicah,
+
+Zrahljani kosmiči iz mešanice celuloznih in vezivnih vlaken ali absorbenta toliko časa rotirajo s pomočjo motovila v sitastem bobnu, dokler se ne razvlaknijo do osamljenih vlaken. 
+Osamljena vlakna iz rotirajočega sitastega bobna se prisesajo po celotni širini na sitasti transportni trak, kjer se iz prisesanih vlaknen tvori večplastna napihana neutrjena tekstilija. 
+Na procesni liniji (slika 6.28.) je možna izdelava napihane tekstilije iz največ štirih plasti. 
+Neutrjena napihana tekstilija se vodi do naprave za nanos veziva in nato v šobni sušilnik, kjer se vezivo aktivira in po kemičnem postopku utrdi napihano tekstilijo. 
+Utrjeno napihano tekstilijo transportiramo še do naprave za konfekcioniranje in jo navijemo na blagovni valj.
+
+Slika 6.31. 
+Svetovna proizvodnja napihanih tekstilij(59)
+
+- izpredenje množice filamentov,
+
+1- zbiralnik rezancev 2- polžni ekstrudor 3- zobniška črpalka 4- letvasti šobni paket 5,6- komora za hlajenje in raztezanje filamentov 7- pihalna komora 8- sitasti transportni trak 9- odsesevalo zraka 10- termo kalander 11- hladilni valj 12- kompenzator in navijalo koprene 13- utrjena koprenska tekstilija
+
+Napihana množica brezkončnih filamentov se vodi in podpira s pomočjo sitastega in usmerjevalnega transportnega traka do termo kalandra, ki s pomočjo temperature in tlaka v stičnih točkah množice filamentov zlepi, prepletene in zazanka ter tako utrdi ekstrudirano kopreno (slika 6.34.).
+
+Slika 6.36. 
+Geometrije melt - blowing predilne šobe
+
+Ekstrudirani foliji kot ploskovni tvorbi posredujemo primerne tekstilne lastnosti, kot jih imajo npr. koprenske tekstilije, s fibrilacijo (cepljenjem) folije (slika 6.40.).
+
+- žagastimi valji,
+
+- različne anorganske soli,
+
+Glede na orientacijo vlaken v kopreni ločimo:
+
+- večinsko vzdolžno orientacijo vlaken (slika 7.2.) in
+
+Z rotacijskim gibanjem valjčkov polagala koprene se izvaja transport koprene proti združevalnemu traku in s prečnim nihanjem polagala koprene s pomočjo dveh brezkončnih trakov se izvaja prečno polaganje koprene po širini združevalnega traka.
+
+Slika 7.9. 
+Geometrija plastene koprene po širini v odvisnosti od križnega polagalnika(53)
+
+Možne nastavitve kinematičnih in tehnoloških parametrov na procesni liniji za izdelavo plastenih kopren kaže slika 7.10.
+
+Slika 7.10. 
+Nastavitev kinematike na procesni liniji za izdelavo plastene koprene
+
+- kot polaganja plasti koprene - tan :
+
+- kot križanja plasti koprene - KW:
+
+- masa plastene koprene - mv:
+
+- skrčenje širine plastene koprene po raztezanju - E:
+
+Glede na ploščinsko maso koprene, ki jo polagamo na združevalnem traku, je potrebna nastavitev razdalje med polagalom koprene in združevalnim trakom. 
+S pomočjo verižnega dvigala se brezstopenjsko dviga združevalni trak, s čimer se uravnava razdalja med polagalom koprene in združevalnim trakom.
+
+Glede principa delovanja gnetilne naprave - navpičnega plastilnika ločimo:
+
+- obloge v prtljažniku z uporabo Struto tekstilij iz manj kakovostnih vlaken,
+
+- kot podloga za ojačitev in zadušitev vibracij v blatnikih in različnih delih avtomobila.(15,32)
+
+Poleg izdelave visokovoluminoznih tridimenzionalnih tekstilij z večinsko prečno orientacijo vlaken omogoča Struto tehnologija tudi izdelavo laminatnih tekstilij v kontinuiranem proizvodnem procesu, med potekom nastajanja osnovne Struto tekstilije (glej sliko 7.13.).
+
+1- raztezalnik 2- dovajalo plastene koprene 3- raztezalni valjček 4- obtežilni valjček 5- odvajalo raztezane plastene koprene 6- pogonski motor v1 v5 obodna hitrost trio-valjčkov b1 b5 širina plastene koprene 1 - 4 delni raztegi raztezalnika
+
+Razteg v raztezalu raztezalnika se uravnava s potenciometrom, prek katerega spreminjamo krmilno napetost servomotorjev. 
+Odvajalna hitrost plastene koprene iz raztezalnika se sinhrono prilagaja naslednjemu stroju v procesni liniji, s pomočjo naprave za elektronsko uravnavanje hitrosti (taho naprava).
+
+m ploščinska masa plastene koprene (g.m-2)
+
+Mehansko utrjena plastena koprena se za odpravo notranjih latentnih napetosti med množico vlaken termostabilizira pri temperaturi od 190 do 205 0C pri napetosti v prečni smeri ob prehitevajočem dovajanju koprenske tekstilije v termofiksirnik.
+
+Slika 8.7. 
+Vpliv procesnih faz na spremembo debeline (h) in ploščinske mase (m) plastene koprenske tekstilije
+
+9 Utrjevanje koprenskih tekstilij
+
+1- plastena koprena 2,3- zgornji, spodnji brezkončni trak 4,5- temeljna, snemalna deska 6- igelnica
+
+Zgornji in spodnji cilinder sta luknjasta valja in imata dvojno funkcijo. 
+Z rotacijskim gibanjem postopoma zmanjšujeta prečni prerez koprenske tekstilije in dovajajo le - to s konstantno debelino v področje prediglanja. 
+Poleg vodenja plastene koprene ima dvojica cilindrov tudi vlogo temeljne in snemalne deske.
+
+Kinematični učinek eliptičnega gibanja igelnice v produkcijskem smislu ponazarja naslednji primer:
+
+Kateri način iglanja uporabljamo, je odvisno od mehansko - fizikalnih lastnosti in tekstilnih efektov, ki jih želimo doseči v končnem izdelku.
+
+Nastavitve in uravnavo prediglalnika in iglalnika kažeta sliki 9.15. in 9.16.
+
+Slika 9.16. 
+Nastavitve na iglalniku firme NSC nonwoven - Asselin
+
+- pomik runa med iglanjem - a:
+
+- številka 25 označuje premer trikotnega nastavka z zazobki v gauge, ki je:
+
+0 - standardno in 1 - 9 odstopanje od standard.
+
+- številka 7 označuje izvedbo zazobka, ki jih kaže slika 9.23.
+
+Število zazobkov, ki prebode koprensko tekstilijo v odvisnosti od globine preboda igle in števila robov, na katerih so zazobki za R, M in C razdaljo med zazobkoma, kaže slika 9.24.
+
+Specialne igle so namenjene za posebne tehnologije iglanja, kot so:
+
+Slika 9.26. 
+Gibanje proizvodnje netkanih tekstilij, utrjenih z vodnim curkom 
+
+- število curkovnih snopov,
+
+- stopnja odprtosti in površinska struktura koprenske tekstilije.(9,48,58)
+
+(9.7)
+
+mk- ploščinsa masa koprene (kg.m-2)
+
+Specifična energija utrjevanja je energija, ki se dovede za utrjevanje enega kilograma koprenske tekstilije in znaša od 0,1 do 0,85 kW.h.kg-1 koprenske tekstilije. 
+Kinetična energija vodnih curkov, ki navpično prebadajo koprensko tekstilijo, se med utrjevanjem prevede v deformacijsko delo, ki povzroči zgostitev koprenske tekstilije in prepletanje množice vlaken, kar posledično povzroči utrditev koprenske tekstilije.
+
+a- prebod tekstilije b- polaganje šivalne niti c- zapiranje kavlja igle d- odriv stare zanke e- zategnitev nove zanke
+
+Na lastnosti z nitmi prešitih koprenskih tekstilij vplivajo številni dajavniki, kot so: tip vlaken, število plasti v koprenski tekstiliji, ploščinska masa koprenske tekstilije, tip prešivalnih niti , tip šiva, dolžina šiva in razdalja med prešivalnimi nitmi. 
+
+- dobre zračne in vodoprepustne lastnosti,
+
+Kemična sestava veziva določa adhezivno moč, mehanske lastnosti, odpornost proti vročini in topilom ter higienske lastnosti koprenskih tekstilij.(8)
+
+- polimerne paste.(7,8,9,12,13,47)
+
+9.2.1.3 Tenzidi
+
+Tenzidi so kemikalije, ki zmanjšujejo površinsko napetost na površini med dvema nezdružljivima materialoma. 
+Molekule tenzidov, ki se uporabljajo v vodnih sistemih, so sestavljene iz dveh delov: hidrofilnega, v vodi topnega dela in hidrofobnega, v vodi netopnega dela.(8) 
+
+Pri pripravi polimerne disperzije za utrjevanje koprenskih tekstilij se uporabljata dva tipa tenzidov:
+
+- z dodajanjem termičnih stabilizatorjev (so kemikalije, ki sprožijo koagulacijo disperzij pri zvišanih temperaturah 40 - 95 C, odvisno od vrste in deleža termičnega stabilizatorja). 
+Kot termični stabilizatorji se uporabljajo najrazličnejše kemikalije, na primer:
+
+Tipično razmerje med viskoznostjo in koncentracijo polimernih disperzij in polimernih raztopin kaže slika 9.37.
+
+Površinska napetost tekočin je posledica privlačnih sil med molekulami (slika 9.38.).
+
+(9.11)
+
+Slika 9.39. 
+Merjenje površinske napetosti
+
+Površinska napetost vpliva na porazdelitev disperzij med vlakni in na obliko spojnih (utrjevalnih) mest. 
+
+Med najpogostejša veziva, ki se uporabljajo za kemično utrjevanje koprenskih tekstilij, so:
+
+- reakcija na dvojnih vezeh dienskih polimerov (vulkanizacija):
+
+Pri stranskih reakcijah se ponavadi sprošča formaldehid. 
+Namen nadaljnjih raziskav je najti sisteme zamreženja brez formaldehida.
+
+Slika 9.42. 
+Princip prehoda disperziskega veziva v peno(53)
+
+Glede načina nanosa veziva in povezave vlaken z različnimi vezivi ločimo:
+
+Pri tekstilijah, ki so utrjene s peno, se lahko izvirna razporeditev veziva v peni bolj ali manj ohrani med postopkom utrjevanja, odvisno od stabilnosti pene. 
+Delci veziva so nato tanjši in tekstilija mehkejša. 
+Tekstilije, ki so utrjene z brizganjem, lahko vsebujejo majhne delce veziva, vendar se zaradi precej velike količine veziva, ki se ponavadi nanese pri brizganju, se delci združijo in izoblikujejo tipično segmentno strukturo.
+
+Pomembne lastnosti, ki naj bi jih imela idealna veziva (lepila), so: visoka trdnost vezi, velika adhezija do vlaken, fleksibilnost (gibkost) vezi, elastičnost veznih površin, odpornost proti pranju in kemičnem čiščenju, odpornost proti staranju, lahka obarvljivost in da je poceni.(8,47)
+
+- sintetični kavčuk, ki je 50 % vodna disperzija, 
+
+- aktiviranja veziva.
+
+Glede principa nanosa veziva ločimo: 
+
+Slika 9.48. 
+Nanos penastega veziva firme Fleissner
+
+Na koprensko tekstilijo po celotni širini s pomočjo množice šob brizgamo fine kapljice veziva in kopreno s pomočjo sitastega traka vodimo do sušilnika, kjer pride do aktiviranja veziva. 
+Če ne zadošča enostransko brizganje, le - to ponovimo še na hrbtni strani koprenske tekstilije v kabini s šobami , ki je locirana z druge strani sušilnika.
+
+Pomanjkljivosti utrjevanja z brizganjem so:
+
+Slika 9.53. 
+Nanos veziva z elektrostatičnim poljem
+
+- vezivna sredstva, ki utrdijo koprensko tekstilijo, lahko migrirajo v koprenski tekstiliji proti izviru ali od izvira toplote in
+
+Pri obojestranskem sušenju impregnirane koprenske tekstilije potuje vezivo proti obema zunanjima površinama.
+
+Relativno majhne količine dodanih senzibilizatorjev zadostujejo, da se obori vezivo na vlakna pri temperaturi od 40 do 60 0C.
+
+Za hitro in popolno koagulacijo veziva se največkrat uporablja IR - sušilnik.
+
+- kontaktno sušenje in
+
+- plinska sevala, ki so žarilne kovinske cevi, v katerih zgorevajo plini.(8)
+
+Pri obsevanju z IR - žarki je prehod toplote Q = 94.246 kJ.m-2.h-1 pri temperaturi sevala 600 0C in temperaturi netkane tekstilije 40 0C. 
+Pri sušenju z vročim zrakom je prehod toplote Q = 3142 kJ.m-2.h-1 pri temperaturi zraka 100 0C in temperaturi netkane tekstilije 400C, kar je pri sušenju z IR - žarki za 30- krat hitreje.
+
+9.2.3.2.2 Visokofrekvenčno sušenje
+
+1- ploščati kondenzator(sušilno polje) 2- tekstilija 3- tuljava nihajnega kroga kondenzatorja 4- tuljava nihajnega kroga generatorja 5- visokofrekvenčni (visokonapetostni) generator
+
+1- konvencionalno ogrevanje s paro 2- dialektrično ogrevanje
+
+VF - sušenje omogoča:
+
+- ko vsa voda izhlapi iz netkane tekstilije in v tekstiliji ni več polarnih molekul, poraba energije samodejno pade na nič in
+
+Slika 9.58. 
+Visokofrekvenčni sušilnik
+
+Za kontaktno sušenje koprenskih tekstilij se najpogosteje uporablja sušilnik z množico gladkih valjev (slika 9.59.).(8,9,11,12) 
+
+Zaradi postopnega in enakomernega sušenja se proces sušenja v kontaktnem sušilniku izvaja tako, da je temperatura vsakega naslednjega sušilnega valja med množico valjev nekoliko višja.
+
+Z vrtenjem rotorja ventilatorja se na eni strani osi rotorja z loputami sesa zrak skozi luknje bobna, na drugi strai osi rotorja pa se izpihava zrak iz bobna. 
+Odsesani zrak se iz luknjanega bobna ponovno s pomočjo loput piha na množico grelcev, ki so locirani ob strani bobna in se tako ponovno segreje.
+
+Slika 9.62. 
+Sušilnik z luknjanimi bobni firme Fleissner
+
+- toplote, potrebne za segrevanje snovi, ki sestavljajo tekstilijo in
+
+(9.13)
+
+m- masa snovi za ogrevanje (kg)
+
+1- nefiksirana tekstilija 2- luknjani boben 3- hladini boben 4- fiksirana tekstilija 5- iglasti pas na robovih luknjanega bobna 6- tesnilna pločevina
+
+Slika 9.66. 
+Zgradba enoetažnega šobnega sušilnika firme Fleissner
+
+1,2,3- prva, ddruga, tretja etaža sušenja tekstilije
+
+- nanosa veziva na koprensko tekstilijo (z nanosom praha, paste ali polimerne taline, s plastenjem koprenske tekstilije in vezivne mreže ali folije ali pa z oblikovanjem koprenske tekstilije iz mešanice temeljnih in vezivnih vlaken),
+
+- oblikovanja veziva in
+
+- izvirne oblike veziva,
+
+- ustrezna vrsta in majhna količina vlakenske apreture (apretirna sredstva zmanjšujejo adhezijsko energijo in pri izhlapevanju sproščajo dim).(8)
+
+V prvo skupino vezivnih vlaken spadajo PVAL - polivinil alkoholna vlakna, ki se v vroči vodi zmehčajo ali topijo in so vezivo pri izdelavi naplavljenih tekstilij. 
+V to skupino vezivnih vlaken spadajo tudi olefinska vlakna (PP in PE vlakna), ki imajo relativno nizko zmehčišče in tališče. 
+
+V drugo skupino vezivnih vlaken spadajo kopoliamidna vlakna iz mešanice PA 6 in PA 66. 
+Kopoliamidna vlakna, ki vsebuje 40 % PA 66 in 60 % PA 6, imajo to lastnost, da se pri obdelavi vlaken z vročo vodo, PA 66 zmehča pri temperaturi 70 0C in se prične taliti pri temperaturi 80 0C.
+
+Trevira 254 bikomponentno štapelno vlakno se proizvaja v naslednjih finočah in dolžinah: 2,2 dtex, 50 mm, 3,0 dtex, 50 mm in 4,4 dtex, 50 do 120 mm.
+
+Pogoste kombinacije vezivnih vlaken in topil pri termičnem utrjevanju koprenskih tekstilij so :
+
+- z ultrazvočnim utrjevanjem in
+
+Segret je en valj, lahko pa sta segreta tudi oba valja. 
+Koprenska tekstilija se dovaja med dvema valjema, ki koprensko tekstilijo v kratkem časovnem intervalu segrejeta in pod velikim tlakom stisneta (slika 9.69.).
+
+Koprenska tekstilija za termično utrjevanje je sestavljena iz temeljnih vlaken in iz 5 do 10 % vezivnih vlaken, ki so:
+
+- termoplastična homogena vezivna vlakna ali
+
+- vrsta in delež veziva,
+
+Po primernem segrevanju koprenske tekstilije s pihanjem vročega zraka skozi tekstilijo sledi še obdelava vroče koprenske tekstilije s pomočjo dveh vročih ali ohlajenih stiskalnih valjev, ki pomagata oblikovati vezivo v vezivna - spojna mesta in kalibrirati debelino oz. voluminoznost koprenske tekstilije.
+
+Pojav ultrazvoka ni nov. 
+To so posebna mehanska nihanja, ki se v naravi pojavljajo že tisoče let. 
+Človek sicer teh ultrazvočnih nihanj ne more zaznati, zato pa jih denimo delfini uporabljajo za sporazumevanje, zasledovanje in orientiranje.(42) 
+
+V generatorju se proizvaja visokofrekvenčna napetost 20.000 Hz iz izmenične napetosti. 
+Frekvenca izmenične napetosti je lahko 50 ali 60 Hz, odvisno od države. 
+Konstantna izhodna moč znaša maksimalno 1800 W. Možne so tudi kratkotrajne konice od 2000 do 4000 W, odvisno od vrste generatorja. 
+
+- razdalja med grelci in tekstilijo in 
+
+- hitrost segrete tekstilije med utrjevanjem.(8)
+
+10.2 Tehnologije izdelave plastenih tekstilij - laminatov 
+
+Na tekstilijo X se po celotni širini nanese s pomočjo sitaste šablone ali s posipanjem vezivni prah, ki je po kemični sestavi kopoliamid, polietilen ali kopoliester. 
+Tekstilijo X najprej vodimo v sušilnik, kjer pride do želiranja praška in jo po tem združimo z tekstilijo Y. S pomočjo gladkega stiskalnega kalandra združene plasti močno stisnemo, da pride do stalne in stabilne povezave med plastmi v plasteni tekstiliji. 
+Plasteno tekstilijo nato še ohladimo s hladilnim valjem in jo prek navijala navijemo na valj cilindrične oblike.
+
+Utrjene koprenske tekstilije se prodajajo kot uporabne tekstilije za določene namene ali pa se še naknadno dodelujejo, da dobijo specifične lastnosti glede na namen končne uporabe. 
+Lastnosti utrjenih koprenskih tekstilij se izboljšajo z dodelavo le - teh bodisi pri proizvajalcih bodisi v specializiranih tovarnah.
+
+Med najpogostejše postopke dodelave netkanih tekstilij sodijo:
+
+Pri nanašanju termoplasta z gravirnim valjem mora biti nosilna tekstilija primerno segreta pred stikom z gravirnim valjem, tako da se termoplast ob dozirnem dovajanju v odprtine gravirnega valja in ob stiku s segreto nosilno tekstilijo zmehča in prilepi na površino medvloge.
+
+Količina nanesenega termoplasta v obliki paste je odvisna od velikosti luknjic na šabloni. 
+Za kakovostni nanos termoplasta mora imeti disperzija ustrezno viskoznost, da lahko pronica skozi odprtine šablone in da se prime na površino nosilne tekstilije. 
+Za rotacijsko šablono se medvloga vodi skozi grelno komoro, kjer se disperzija posuši in po ohladitvi se termoplast močno veže s površino medvloge.
+
+- visokotlačni polietileni (VTPE), ki imajo razvejeno CH - verigo, kar prinaša nižjo gostoto polimerov in nizko tališče 100 do 120 0C. 
+Navedeni termoplasti se uporabljajo za izdelavo lepilnih medvlog za parcialno fiksiranje in za izdelavo leplilnih trakov. 
+Odlikuje jih nizka viskoznost in nizka obstojnost pri pranju.
+
+Najpomembnejše lastnosti termoplastov so: tališče, talilni indeks, granulacija, zmehčišče, odpornost proti pranju in kemičnem čiščenju. 
+Zmehčišče termoplasta je temperaturno območje, v katerem se termoplast zmehča, vendar še ni staljen. 
+
+Stapljanje in zatalitev štrlečih vlaken in enega dela površine iglanih koprenskih tekstilij izdatno izboljša filtracijske lastnosti iglanih tekstilij. 
+
+(4) Wirtz., R. The North American Nonwovens Industry. 
+The 8th Shanghai International Nonwovens Conference, Shanghai, 1999, str. 6-15.
+
+(25) Dilo développe son offre«clés en mains«. 
+LiäIndustrie Textile, 2002, št.1339, str. 28-30.
+
+(51) Thönnessen, F., Dahringer, J. Trevira bicomponent fibers for nonwovens. 
+Chemical fibers innternational, 2003, vol. 53, str. 422-425.
+
+(53) Prospektno tehnična dokumentacija firm: Befama, BRÜCKNER, Dan-Web, Dilo, Erema, Fehrer, Fleissner, For, GROZ - BECKERT, Hergeth, Karl Mayer Malimo, Küsters, Laroche, M & Fibrech, NSC nonwoven - Asselin, NSC nonwoven - Thibeau, OMI, SNF, Temafa, Trevira, Trützschler, Wolf M. J. Nitschke, Zimmer. 
+
+aerodinamični postopek 32,44
+
+cepljenje 62,101
+
+cevi 18
+
+dodelava netkanih tekstilij 163
+
+ekstrudirana koprena 9, 56
+
+ekstrudirana mreža 61
+
+fibrilirane filije, mreže 61,62
+
+filmski tisk 9, 10
+
+foto senzor 24
+
+futurologija 3
+
+gibkost tekstilije 15
+
+gravura 10
+
+grobo rahljanje 13
+
+hidrofobni del 113,163
+
+hidroformer 51
+
+higienski izdelki 1, 8, 53
+
+hot-melt laminacija 158
+
+inercialno polje sil 14
+
+J
+
+kamiko obleka 6
+
+kemično utrjevanje 85, 112
+
+količinska proizvodnja 1
+
+kompozitna struktura 3
+
+kontaktno sušenje 132, 135
+
+konvencionalna igla 94
+
+kratka vlakna 6
+
+ločna snemalna deska 92
+
+mikalniški postopek 3, 32
+
+meltblown 3, 58
+
+mešalni volk 12, 14, 26
+
+mešalni ciklon 19
+
+mešalna komora 19, 23, 26
+
+mirujoči ciklon 23
+
+mehansko utrjevanje 85
+
+odprtine 60
+
+odsesevalo zraka 57
+
+orientacija vlaken, niti 4
+
+P
+
+papirnate pole 1
+
+plamenski gorilnik 160
+
+pnevmatski transport 11, 18 31
+
+polnila 1
+
+polstene tekstilije 9
+
+posipanje 125
+
+potujoči ciklon 23
+
+prečna orientacija vlaken 10, 32
+
+prsni kot obloge 42
+
+rahljalni segment 14
+
+razprševalo kosmičev 46
+
+razpršilni vložek 142
+
+rezalnik odpadkov 31
+
+runo 4, 27, 32
+
+sevalo IR žarkov 132
+
+snemalo koprene 33, 35
+
+specialna obdelava 9
+
+stapljanje vlaken 4
+
+svetovna poraba tekstilij 1
+
+točka vpetja runa 13
+
+točkovna struktura 10
+
+utrjevalno sredstvo 4
+
+vbrizgalni mikalnik 36, 39
+
+vodno položene tekstilije 51
+
+združevalni trak 16
+
+1. 
+ASSELIN NSC nonwoven - ASSELIN SA
+
+3.
+BEFAMABEFAMA SA TEXTILE MACHINERY FACTOR
+
+5.
+DAN - WEBDAN WEBFORMING INT. A/S
+
+Mauersbberger Strasse 2. 
+09117 CHEMNITZ (Germany)
+
+Via Campostino 8. 
+50047 PRATO (Italy)
+
+22.
+RIETERRIETER PERFOJET 
+

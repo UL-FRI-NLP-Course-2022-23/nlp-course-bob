@@ -1,0 +1,7 @@
+(4) Kraj rojstva - za rojene v Republiki Sloveniji občina in naselje, kjer je posameznik rojen oziroma vpisan v rojstno matično knjigo, za rojene v tujini pa država in kraj v tuji državi.
+(2) EMŠO sestavlja trinajst številk, ki imajo naslednji pomen:
+(1) Upravljavec CRP pridobiva podatke od upravljavca zbirke podatkov, ki je najbližje izvoru podatkov.
+(1) Upravljavci zbirk podatkov, ki posredujejo podatke za CRP, so upravljavcu CRP dolžni posredovati podatke v predpisanem času in obliki ter brezplačno.
+(2) Ob rojstvu določene EMŠO ali podatke za določitev EMŠO morajo upravljavci zbirk podatkov poslati takoj ob rojstvu ali priselitvi oziroma takoj, ko ugotovijo, da osebi EMŠO ni bil določen, najpozneje pa v treh dneh.
+(2) Obveznost iz prejšnjega odstavka velja tudi za upravljavca, ki vzpostavlja novo zbirko podatkov.
+(2) Posameznikom iz prvega odstavka 25. člena tega zakona, ki jim EMŠO še ni bila določena, se ta določi najpozneje v roku dvanajstih mesecev od uveljavitve tega zakona.

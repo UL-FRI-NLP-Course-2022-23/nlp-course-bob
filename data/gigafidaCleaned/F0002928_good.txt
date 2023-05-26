@@ -1,0 +1,404 @@
+Kako smo preizkušali
+Diske smo preizkušali z računalnikom s procesorjem Pentium III 1 GHz z 256 MB pomnilnikom.
+Diske ATA smo priključili na krmilnik na Asusovi osnovni plošči (s čipi VIA), ki je združljiv s standardom ATA-100, za diske SCSI pa smo uporabili Adaptecov krmilnik AHA-2940 U2W.
+Preizkušali smo jih v okolju Windows 2000.
+Na vsakem disku smo ustvarili dve razdelitvi (particiji), veliki 2 GB, eno z datotečnim sistemom FAT32, eno pa z NTFS.
+Seveda brez izboljšav obstoječih standardov ne bo šlo.
+Komaj smo se navadili na vodilo ATA-100, že se izdelovalci dogovarjajo o novi, še hitrejši različici ATA-133.
+Ta bo združljiva z drugimi vmesniki ATA, poglavitna prednost vodila pa bo povečan največji možni pretok podatkov, ki bo po novem 133 MB/s. Vmesnik ATA-133 je verjetno zadnja postaja v evoluciji vzporednega vmesnika ATA, saj naj bi ga kmalu nadomestili novi, še hitrejši vmesniki.
+Seagate je med izdelovalci diskov star znanec, tudi prvi disk v računalniku IBM XT je bil njihov.
+Medtem so zrasli v enega največjih svetovnih izdelovalcev diskov za manj zahtevne kupce in tudi najzmogljivejše strežnike.
+Preizkusili smo sedem njihovih diskov ATA iz dveh družin.
+Prva, namenjena manj zahtevnim kupcem, se imenuje preprosto U6, trije diski iz nje pa so imeli 20, 30 in 40 MB prostora.
+Vrtijo se s 5400 vrtljaji na minuto in imajo 2 MB predpomnilnik.
+Rezultati, ki so jih dosegli, so bili med slabšimi na našem preizkusu, za njimi zaostajata le še Samsungova diska.
+Boljša in tudi bolj znana je družina diskov Barracuda (Seagate je že nekaj časa znan po »živalskih« poimenovanjih svojih izdelkov).
+Štirje diski iz te družine imajo 2 MB predpomnilnik, hitrost vrtenja plošč pa je 7200 vrtljajev na minuto.
+Z velikostmi od 20 do 80 GB pokrivajo celoten spekter morebitnih kupcev, po hitrosti se glede na merilni program Winbench uvrščajo v zlato sredino, po DBenchu pa sodijo v sam vrh ponudbe.
+Tudi cenovno so primerljivi s konkurenco.
+Diski ATA so postali tako veliki, da večina uporabnikov, katerim so namenjeni, že težko porabi toliko prostora.
+Prav zato lahko napovemo, da se bo v prihodnje bitka med izdelovalci bila bolj pri hitrosti, a tudi velikost diska še ne bo zdrsnila v ozadje, saj naziv »izdelovalec največjega diska« še vedno zelo lepo zveni izdelovalcem, predvsem pa oglaševalskim oddelkom teh podjetij, tako da tudi tekmovanje v gigabajtih ne bo povsem zamrlo.
+Maxtor je recimo že predstavil 160 GB disk in ga mora zaradi omejitev vmesnika ATA prodajati skupaj s posebnim krmilnikom.
+Je pa največji.
+Seagate je pri diskih SCSI najbolj zastopan izmed vseh na našem preizkusu.
+Model iz družine Barracuda si deli ime z družino diskov ATA.
+Tako so poimenovani najzmogljivejši diski tega izdelovalca.
+No, pri diskih SCSI so izdelki iz te družine v spodnjem delu ponudbe.
+To kažejo tudi lastnosti preizkušenega diska, ki s hitrostjo vrtenja 7200 vrtljajev na minuto in 2 MB predpomnilnikom zaostaja za drugimi diski na preizkusu.
+Tudi po rezultatih je bil 18,4 GB disk najslabši v konkurenci, če pa upoštevamo še nižjo ceno enako zmogljivega diska IBM, lahko nakup samo odsvetujemo.
+Povsem drugačna je zgodba pri družini diskov Cheetah.
+Najhitrejši izdelki iz te družine se vrtijo s 15.000 vrtljaji na minuto in so trenutno eni izmed najhitrejših diskov, na našem preizkusu pa smo imeli dva modela s hitrostjo 10.000 vrtljajev in 4 MB predpomnilnikom ter z zmogljivostjo 18,4 in 36,7 GB.
+Diska sta bila med najhitrejšimi na preizkusu, le v DBenchu ju je prehitel Fujitsujev izdelek.
+Ne »odlikujeta« pa se le po hitrosti, temveč tudi po najvišji ceni, vendar se tako Seagate kot uporabniki diskov SCSI zavedajo, da je za najhitrejše treba včasih seči malo globlje v žep.
+Začetek jeseni kaže, da nas čaka pri prenosnih računalnikih še razburljiva jesen, bržkone pa tudi zima.
+Ti računalniki postajajo namreč vse zmogljivejši, hkrati pa so tudi vse cenejši.
+Zadnji mesec so se v Sloveniji občutno znižale cene prav v vseh cenovnih razredih teh naprav, najbolj pa najdražjim.
+Kar nekaj prenosnih računalnikov se je od konca pomladi pocenilo tudi za 3040 %, kar se je zdelo še pred mesecem dni skorajda nemogoče.
+Nekaj ponudnikov prodaja svoje modele za manj kakor 300 tisočakov, kar je bilo še pred kratkim praktično nepredstavljivo.
+In pri tem nikakor ne gre za podhranjene ali zastarele izdelke, ampak za povsem spodobne prenosnike.
+Po slabih dveh letih nekakšnega moratorija se torej cene spet nižajo in počasi vračajo na raven iz leta 1999, preden je bil uveden davek na dodano vrednost.
+Casio je nov operacijski sistem vgradil v nov model Cassiopeia E-200, ki je elegantnejši in tanjši od predhodnikov, ima pa vgrajeno tako pomnilniško enoto Compact Flash kot tudi SD Card (oziroma MMC).
+Ima zelo dober barvni zaslon in 64 MB pomnilnik.
+Različice Kylixa so Open (prej omenjena zastonjska, brezplačno na voljo na naslovu http://www.borland.com/download/), Developer in Server, ki je najdražja in najzmogljivejša.
+Kylixa žal še zdaleč ni tako preprosto namestiti kakor Delphi v Oknih.
+Že tako ali tako ne podpira številnih distribucij Linuxa, pa še celo pri podprtih, kot je npr. Mandrake 7.2, so lahko težave pri nameščanju.
+Izkaže se, vsaj po naših izkušnjah, da je še najpreprosteje namestiti Kylix na čim bolj sveži različici distribucije Red Hat, kjer ponavadi vse poteka brez težav.
+Borland je na srečo priložil orodja za preizkus naše različice Linuxa, s katero lahko preverimo, ali ustreza vsem pogojem za namestitev.
+Na plošči CD-ROM Kylixa bomo našli tudi pakete RPM z vsemi potrebnimi knjižnicami, ki morajo biti nameščene pred njim.
+Če želite svojo različico Linuxa preizkusiti in posodobiti, preden se dokončno odločite za Kylix, si lahko pomagate z orodji, ki jih dobite v spletu (http://www.borland.com/devsupport/kylix/downloads/).
+Pomemben del knjižnice je VisualCLX, ki ima prilagodljive vizualne gradnike za hitro izdelavo uporabniškega vmesnika.
+Borland je za osnovo vizualnega dela CLX izbral ogrodje QT (izg. »cute«) podjetja Trolltech, ki je že na voljo tako za Okna kakor za Linux, med drugim pa ga uporabljajo tudi pri projektu KDE.
+Borland se je s Trolltech dogovoril, da lahko razvijalci v Kylixu izdelke podarjajo ali prodajajo brez posebnih obveznosti, a žal se ta svoboda pozna pri ceni komercialnih različic Kylixa.
+Ker VisualCLX temelji na QT, ta pa se že prenaša v sistem MacOS X, ni nemogoče, da bo Borland Kylix prilagodil tudi temu sistemu.
+Prenosljiva koda se bo potem zares izplačala.
+JBuilder je, podobno kakor druga Borlandova ponudba, na voljo v treh različicah.
+Najosnovnejša, Personal, je na voljo brezplačno za prenos iz spleta ali po minimalni ceni na plošči CD-ROM.
+Izpopolnjeni različici sta Professional in Enterprise, ki žal nista poceni, vendar res ponujata zelo veliko.
+Izdeluje: Borland, http://www.borland.com/jbuilder/.
+Kaj početi s hitro povezavo
+(kazaa.tif; KaZaa je novi Napster.)
+Vsakdo, ki se je kdaj odpravil na potovanje, ve, da je treba za doživetja polno pot najmanj (ali pa samo) dvoje čas in dobra karta.
+Vodniki so sicer prikladni, saj podajajo zgoščene in dodatne informacije, vendar večino teh lahko »preberemo« že z zemljevidov.
+Karte majhnega merila (1 : veliko, recimo milijon) omogočajo potovanje po velikih površinah, recimo celinah ali državah.
+Karte majhnega merila (1 : malo, recimo tisoč) pa poskrbijo za gibanje po malih območjih, recimo mestih, iskanje prenočišč in podobno.
+Za uspešno »navigacijo« pa je najpomembnejša kakovost zemljevida, predvsem njegova posodobljenost.
+Starodavne karte sicer lahko pomagajo iskati ostanke nekdanjih civilizacij, bolj malo pa koristijo pri iskanju živeža in varnega nočnega zavetja.
+Na nekaterih od omenjenih spletišč so tudi osnovni podatki o Sloveniji, kaj več pa bomo pri tujcih iskali zaman.
+Podatke bomo morali poiskati pri domačih ponudnikih, to pa zna biti nekoliko bolj naporno.
+Trenutno v Sloveniji namreč še nimamo spodobne e-trgovine s tako robo in podatkov ne moremo kupovati tako udobno kakor tujci.
+Na srečo pa imamo Centralno evidenco prostorskih podatkov (CEPP, www.sigov.si:81/GISborza/MPB/).
+CEPP je nekoliko nepregledno, a dokaj obsežno spletišče, na katerem je navedeno skoraj 450 bolj ali manj obsežnih zbirk podatkov različnih lastnikov in ponudnikov.
+Opisani prostorski podatki so le zelo omejen izbor izmed tistega, kar je mogoče dobiti.
+In vsak dan je mogoče dobiti več.
+Vsak uporabnik mora zato skrbno razmisliti, kaj želi s svojim geografskim informacijskim sistemom početi in koliko je vanj pripravljen vložiti.
+Šele nato naj se poda na lov za podatki in v boj s ponudniki podatkov in storitev.
+Iskanje je namreč včasih enostavno, drugič pa hudo zapleteno.
+Nenavadni zapisi, čudno naročanje in podobno poskrbijo ne le za jezo, ampak marsikoga celo odvrnejo od nadaljnjega iskanja.
+Tako kot pri drugih opravilih, povezanih z računalniki, je tudi tu pametno imeti svojega guruja.
+Skratka nekoga, ki je vešč različnih zapisov in ve, kaj je s podatki mogoče početi.
+dpp_datastore: Podatke je mogoče kupiti v spletnih trgovinah, kot je DataStore.
+Ob divjem predstavljanju vedno novih in hitrejših procesorjev, grafičnih kartic, pomnilnikov… se zdi, kot da je razvoj pri diskih malo zastal.
+Kljub temu pa, čeprav ne v tako močnem soju žarometov, tudi izdelovalci diskov neprestano predstavljajo nove, hitrejše in večje modele.
+Pri disku nas seveda najprej zanima velikost.
+Naprodaj so modeli od 20 GB do 100 GB in več.
+Količina prostora, ki ga potrebujemo, je odvisna od dela, ki ga opravljamo z računalnikom.
+Načeloma za normalno rabo več kakor zadošča do 30 GB disk, večje pa najdemo predvsem v strežnikih in računalnikih za obdelavo videoposnetkov ali kakšno drugo rabo, pogoltno po pomnilniku.
+Še vedno pa velja tudi staro nenapisano pravilo: čim večji je disk, tem prej bo poln.
+Še posebej danes, ko je zbiranje datotek MP3, MPEG in DivX kar nekako v modi.
+Model PCG-SR31K, ki tehta 1,35 kg, ima večji zaslon, 10,4-palčnega, procesor pa je Pentium III LV (zelo varčen z energijo) s taktom 750 MHz.
+Pri Akademski in raziskovalni mreži Arnes, ki med drugim tudi skrbi za dodeljevanje internetnih domen s končnico .si, so sporočili, da bodo postopoma začeli uveljavljati določila novega pravilnika o dodeljevanju domen.
+Doslej so domene lahko registrirale zgolj pravne osebe in to zgolj z imenom podjetja.
+To je bilo še posebej neugodno za podjetja in ustanove z dolgimi imeni, kot je denimo Holding mesta Ljubljane (holdingmestaljubljane.si).
+Največ novega je med brizgalnimi tiskalniki.
+V profesionalnem delu serije 9xx je bilo slišati o najzmogljivejšem modelu Deskjet 995c, ki je po kakovosti enakovreden doslej vrhunskemu modelu 990c, vendar je vanj vgrajen sprejemnik bluetooth.
+S prenosnimi ali ročnimi računalniki je moč nanj tiskati z razdalje do 10 metrov.
+Nova sta še modela 960c in 940c, ki sta nekoliko počasnejša (in brez bluetootha), novosti pa so tudi v manj dobrih serijah 8xx in 6xx, v katerih je najmanj zahtevnim na voljo model Deskjet 656c.
+Kljub temu da se je HP (tudi v luči načrtovanega prevzema Compaqa) že skoraj nameraval odreči izdelovanju osebnih računalnikov, smo na predstavitvi videli tudi nekaj novosti s tega področja.
+Nekoliko je izboljšan in pomlajen prenosni računalnik Omnibook 6100, zanimivo pa je še, da so se odrekli seriji domačih računalnikov Brio.
+Po novem se vsi računalniki HP imenujejo Vectra, modeli za rabo doma pa se še vedno razlikujejo po drugačni, bolj všečni zunanjosti.
+HP dokazuje, da je podjetje še vedno zelo močno in da njihov razvojni oddelek deluje s polno paro.
+Žal pa tudi v računalništvu tehnologija ni vse.
+Veliko je odvisno od prodaje, stroškov in splošnega stanja na trgu.
+In prav to je razlog za prevzem Compaqa, a o tem na predstavitvi ni bilo veliko govora.
+Podjetje ESRI je v zadnjih dveh letih precej skrbelo za združevanje svojih izdelkov, tako da je na voljo lepo zaokrožen niz programov z enakim uporabniškim vmesnikom, kar je s stališča uporabnika več kot dobrodošlo.
+Najbolj ponosni so seveda na ArcInfo, ki so ga prvotno, ko PC še niso bili dovolj zmogljivi, napisali za delovne postaje z Unixom.
+Uporabniški vmesnik je od uporabnika zahteval predvsem tipkanje namesto rabe miške.
+ArcView je že sam po sebi zmogljiv program GIS.
+Njegove zmogljivosti pa še povečujejo razni dodatki, ki pa žal niso zajeti v osnovnem paketu in jih je treba dokupiti.
+To so Spatial Analyst pripomoček za delo z rastrskimi slikami, za analiziranje celic rastrskih slik; 3D Analyst omogoča prikazovanje in analiziranje 3D površin; Geostatistical Analyst omogoča izdelovanje površin na podlagi vzorca točk (metoda kriging).
+ArcPress za ArcView je pripomoček za tiskanje, ki spremeni sliko v izvirno obliko tiskalnika, MrSID Encoder pa je program za stiskanje slik, velikih od 50 do 500 MB.
+Sistemov GIS ni preprosto uporabljati in delo z njimi ne obsega samo rabe programa in izdelovanja kart in analiz, temveč tudi pripravo podatkov, ki obsegajo največji del izdelovanja sistema.
+Tudi šolanje ljudi, ki bodo delali z GIS, kar nekaj stane.
+Zato je pomembno, da se pred nakupom ali preden se odločite za drug GIS, poučite o vseh prednostih in slabostih prvega in drugega, lahko pa tudi še kakega tretjega takega sistema.
+Najprej pade v oči sivinski zaslon (ki pod neonsko svetlobo sicer nekoliko trepeta), saj ima ločljivost kar 240 × 320 pik (navadni Palm 160 × 160 pik), kar v kombinaciji z veliko izbiro sistemskih pisav pomeni, da lahko na zaslonu prikažemo več informacij.
+Še več, Handera 330 je edini Palm, ki ima območje za pisanje grafitov programsko zarisano (tako kakor PocketPC).
+Če kliknemo perp, lahko to območje skrijemo, s tem pa se uporabna površina še poveča.
+Povedati pa je treba, da to velja le za vgrajene programe, vsi drugi namreč niso prirejeni temu, da bi »se znali izrisovati« tudi na spodnjem delu zaslona.
+Programsko polje za grafite omogoča tudi izrisovanje grafitov med pisanjem, kar je sicer tudi lastnost računalnikov PocketPC.
+Zvijač z zaslonom pa tu še ni konec če je program tako napisan, lahko svojo delovno površino tudi zasuče za 90 stopinj.
+Priloženi pisarniški paket QuickOffice to zna in delo z vodoravno ležečo preglednico!
+Zanimivo, da pri tako zasukanem zaslonu delujejo tudi »čudni« heki, denimo tisti, ki izrisuje krajevni menu (McPhling).
+Po drugi strani pa je program za šumnike Interpilot v takem načinu zelo nestabilen.
+Šumnike sicer lepo prikazuje, vendar je zelo verjetno, da bo računalnik zamrznil (v vodoravnem načinu z njim sicer ni težav).
+Sun Microsystems, ki bedi nad razvojem jezika, je končno spoznal, da le-ta v eni inačici ne more teči povsod.
+Številne tehnične izboljšave mnoge bi pripomogle k večji hitrosti in zmogljivosti so črtali, ker jih denimo mikroprocesor Palma ni prebavil zadovoljivo hitro.
+Tri edicije vsakomur svoje delovnim postajam namenjeni JDK 1.4 (Merlin) bo konec leta prinesel nujno potrebne izboljšave (več preberite med viri), skoraj končana je tudi »poslovna« izdaja J2EE 1.3, trenutno najbolj vroča pa je J2ME.
+Vsi potrebni programerski vmesniki so ne dolgo tega uspešno prilezli do stabilne izdaje 1.0 skozi JCP (Java Community Process), pa si jih oglejmo.
+Razvoj elektronskega poslovanja, mobilnega računalništva, brezžičnih komunikacij, tehnologij za prepoznavanje govora, različnih prenosnih naprav ter predvsem tehnologij in infrastrukture za mobilno pozicioniranje bo v naše vsakdanje in poslovne običaje prinesel revolucionarne spremembe.
+V naslednjih letih si lahko obetamo, da bodo mobilni operaterji zagotavljali informacijo o geografskem položaju mobilne naprave v realnem času ter s tem omogočili vrsto povsem novih možnosti in storitev, vezanih na kraj (Location Based Services ali LBS).
+To pa še ni vse.
+Sony na primer stavi na pomnilniške kartice Memory Stick, ki jih vgrajuje v tako rekoč vse prenosne naprave, od žepnih računalnikov in predvajalnikov glasbe do digitalnih fotoaparatov in videokamer.
+V igri pa je še nekaj drugih pomnilniških nosilcev.
+Še nedavno so precej obetale Iomegine ploščice PocketZip, vendar je 40 megabajtov, kolikor lahko posnamemo nanje, kljub prijazni ceni premalo.
+Zato pa je tako rekoč od mrtvih vstal 8-centimetrski CD.
+Manjšo različico laserske plošče poznamo sicer že skoraj dvajset let, a je bila do pred kratkim skoraj povsem neznana.
+Prav letos pa so nastali Hitachijeva videokamera, Sonyjev fotoaparat in vsaj pol ducata predvajalnikov mp3, ki kot pomnilniški nosilec uporabljajo mini CD.
+Prazna ploščica stane nekaj sto tolarjev, nanjo pa lahko zapišemo približno 180 megabajtov.
+Naslednje leto naj bi v trgovine prišle tudi prve optične ploščice DataPlay.
+Nekaj manjše kakor kartice CompactFlash bodo, nanje pa bo mogoče posneti do 500 megabajtov podatkov.
+Pri DataPlay si obetajo, da se bo prostor zanje našel v predvajalnikih mp3, žepnih računalnikih, digitalnih fotoaparatih, kamerah in še kje.
+V rokah izkušenega fotografa se Coolpix 995 spremeni v zmogljivo orodje, s katerim se lahko lotimo tudi zahtevnejših fotografskih projektov, in je brez dvoma eden najboljših, če že ne ravno najboljši fotoaparat z ločljivostjo tri milijone pik.
+Tem fotoaparatom je pravzaprav najhujši trn v peti bliskovit napredek tehnologije.
+V trgovinah so namreč že naprodaj modeli z večjo ločljivostjo (4 milijone pik), ki pa niso prav nič dražji.
+Kdo bi si mislil, da bo prav Gericom na našem preizkusu potolkel hitrostni rekord in to celo tako zelo, da smo morali zaradi računalnika Supersonic 2 na novo izračunati ocene za dotlej preizkušene sisteme.
+Če vprašate poslovneže, kakšen prenosnik neki si želijo, bo večina odgovorila, da bi radi hitrega, tankega, lahkega, elegantnega, a hkrati zmogljivega in brezkompromisnega.
+Vse to velja za družino prenosnikov ThinkPad T podjetja IBM.
+Toda merila za to, kaj je zmogljivo in brezkompromisno, se dandanes spreminjajo hitreje, kot bi si mislili.
+Od našega zadnjega aprilskega preizkusa je minilo manj kot pol leta, pa je tedaj preizkušeni model T21 že dobil kar dva naslednika.
+Najnovejši nosi oznako ThinkPad T23 in na novo določa, kaj vse je mogoče vgraditi v prenosnike.
+Udarna lastnost preizkušenega modela je še naprej (bil je že pri modelu T21) 14,1-palčni zaslon z aktivno matriko, ki zmore ločljivost kar 1400 × 1050 pik.
+Slika je izvrstna, med najboljšimi pri prenosnikih sploh.
+Z njo lahko tekmuje le slika na nekoliko večjem zaslonu z ločljivostjo kar 1600 × 1200, kakršnega najdemo pri najboljših izvedbah večjega modela, ThinkPad A22.
+Navdušuje predvsem odlična osvetlitev, zlasti, ko je računalnik priključen na elektriko.
+Po njeni zaslugi je slika jasna in zelo kontrastna.
+Zaradi večjega zaslona prenosnik resda zasede razmeroma veliko prostora, toda to zgradba računalnika zelo spretno skriva.
+Zadnjo preizkusno različico KDE 3.0 načrtujejo za december, končno namizje pa naj bi bilo na voljo februarja 2002.
+Cannonov novi rod digitalnih fotoaparatov PowerShot G2 podpira ločljivost do 4 milijone slikovnih elementov, to pa omogoča izdelavo slik v 32-bitni barvni globini in pri ločljivostih od 640 × 480 do 2272 × 1704 pik.
+Fotoaparat zna tudi iskati žarišče po sistemu Vari-Angle in podpira pomnilniške kartice CompactFlash I in II, tudi enoto IBM Microdrive.
+S Cannonovim sistemom RAW za nadzor lastnosti je mogoče nastavljati tudi kontrast, ostrino in globino, slike pa je mogoče shraniti v trinajst stopnjah kakovosti, tudi v treh zapisih JPEG.
+PowerShot G2 omogoča tudi snemanje video zapisa v hitrem načinu, v katerem namesto običajnega poldrugega okvirja na sekundo v načinu čez ves zaslon podpira poltretji okvir na sekundo.
+Canon PowerShot G2 bo na voljo septembra po okoli 1000 dolarjev.
+Zgornje vprašanje bi vam morda zastavil natakar-robot, če bi obiskali tekmovanje RoboCup-2001, ki so ga letos organizirali skupaj z Mednarodno konferenco o umetni inteligenci v Seattlu.
+Na njej se je zbralo 2600 raziskovalcev z vsega sveta, osrednja pozornost pa je veljala robotiki.
+Vendar umetne inteligence še zdaleč ne sestavljajo samo roboti gre za prepoznavanje govora, nevronska omrežja, strojno učenje, inteligentne agente in teorijo odločanja.
+Na tekmovanju so poleg robotov v natakarski opravi predstavili robote za igro in zabavo, pa tudi za reševanje, recimo pri potresu.
+V vsakdanjem življenju še dolgo ne bomo uporabljali robotov, ki bi namesto nas pospravljali, zato pa je zanje veliko zanimanje v industriji in vojski.
+Za zmanjšanje prodaje v Evropi navajajo dva pomembna vzroka: manjše popuste pri cenah telefonov v predplačniških paketkih ter pričakovanje GPRS.
+Dataquest meni, da številni Evropejci čakajo na cenovno ugodne telefone s podporo GPRS, predvsem zato, ker bi bili radi oboroženi za prihodnost, četudi storitve GPRS najbrž ne bodo takoj uporabljali.
+Prednaročila za novo izdajo Symantecovega protivirusnega programa že zbirajo, za 50 dolarjev pa si ga lahko zagotovite v Symantecovi spletni trgovini, pa tudi pri drugih spletnih trgovcih.
+Norton AntiVirus 2002 naj bi omogočal edinstveno protivirusno zaščito z avtomatskim odkrivanjem in odpravljanjem virusov, avtomatskim nalaganjem novih informacij o virusih po internetu in združitev z brskalnikom Internet Explorer.
+Ker je združljiv tudi z novimi Okni XP, bo Norton AntiVirus 2002 pregledoval prihajajočo in odhajajočo elektronsko pošto, preprečeval pa bo tudi, da bi se virus razširil s seznamom elektronskih naslovov.
+Registrirani uporabniki kateregakoli protivirusnega programa so upravičeni do 20 dolarjev popusta.
+Bistvo nove tehnologije je v uporabi dveh magnetnih slojev, ki ju loči tanka plast nemagnetnega rutenija (Ru).
+To omogoča trikrat večjo gostoto zapisa.
+Za uporabnost tako gostega zapisa so morali pri Fujitsuju razviti tudi natančnejše glave za pisanje in branje diskov; z uporabo raznih tehnologij so povečali hitrost branja za 100, zapisovanja pa za 30 odstotkov.
+Sony je predstavil DPP-MP1, za dlan velik barvni tiskalnik za tiskanje digitalnih fotografij na papir v velikosti vizitke.
+DPP-MP1 z akumulatorjem in podajalnikom za papir tehta manj kot pol kilograma, po ocenah podjetja pa naj bi ga najbolj potrebovali strokovnjaki za promet z nepremičninami in zavarovalništvo, ki morajo pogosto natisniti fotografije kar na kraju samem.
+Tiskalnik lahko tiska iz računalnika prek vmesnika USB ali pa neposredno s pomnilniške kartice Memory Stick.
+Črv se zažene, ko uporabnik odpre priponko k elektronskemu sporočilu, okuži računalnik, izbere naključno datoteko iz mape My Documents, jo okuži in razpošlje vsem v adresarju ter na elektronske naslove s spletnih strani, shranjenih v spletnem predpomnilniku.
+Podjetje MessageLabs, ki filtrira elektronsko pošto, je odkrilo 20 tisoč različic črva in kar 263 tisoč primerov okužene elektronske pošte.
+Menijo, da so za nenehno širjenje črva krivi zasebni uporabniki, ki se premalo zavedajo nevarnosti virusov.
+Po ugotovitvah spletnih raziskav večina uporabnikov sploh ne nadgrajuje protivirusnih programov, ki so jih dobili že nameščene ob nakupu računalnika.
+Ponudniki dostopa do interneta pa, na drugi strani, nameščajo tudi po več protivirusnih programov za preverjanje elektronske pošte.
+Neki analitik ocenjuje, da bodo črvi in virusi povzročali preglavice, vse dokler ne bo udaril virus z zares hudimi posledicami.
+Šele takrat se bo večina uporabnikov zavedela resnične nevarnosti.
+Corel prodal oddelek za Linux
+Ta prodor bo zagotovo pomagal tudi Motorolinemu oddelku za proizvodnjo polprevodnikov, ki zadnje čase prinaša samo izgubo.
+Družba namreč namerava proizvodnjo polprevodnikov prodati, če ne bo imela z njo zelo kmalu dobička.
+Delovna skupina Serial ATA Working Group, ki jo sestavljajo predstavniki vodilnih računalniških podjetij, med drugim IBM, Intel, Dell Computers, Seagate in Maxtor, je predstavila specifikacije za novi rod vmesnikov med notranjo pomnilniško enoto računalnika, kot so diski in enote CD-ROM, ter matično ploščo.
+Dosedanji vzporedni vmesnik ATA bo nadomestil zaporedni Serial ATA.
+Prodaja prenosnikov se veča
+Uporabnik okužbo najlaže opazi kot množico (okuženih) datotek s končnico .EML (ta končnica pripada MS Outlooku), ki se pokažejo na namizju, v menujih Start oziroma v skoraj vseh imenikih.
+Združenje VESA (Video Electronics Standards Association), ki usklajuje standarde za monitorje in grafične podsisteme, je predstavilo nov vmesnik za povezavo med računalniki (pa tudi drugimi napravami) in monitorji.
+Imenuje se M1 Display Interface Connector in je nov poskus, da bi se vmesniki z digitalno povezavo med monitorji in grafičnimi karticami končno poenotili.
+Za razliko od doslej najbolj razširjenega standarda DVI, ki določa predvsem pravila za izvore signalov (računalniške kartice), M1 natančno določa obe strani.
+Isti vmesnik naj bi poleg tega podpiral tako analogno kot digitalno povezavo, kar bo precej oklestilo stroške.
+Vrsta vmesnika je tudi neodvisna od zaslonske tehnologije, saj se lahko uporablja pri monitorjih s katodno cevjo, zaslonih LCD, pa tudi v drugih napravah, predvsem projektorjih.
+S prilagojevalniki bo mogoče tudi zagotoviti priključitev na dosedanje vmesnike VGA, DVI, DFP on P&D.
+Proti: Tudi 16 MB ne zadostuje za tiskanje pri največji ločljivosti.
+Canon v spodnjem razredu laserskih tiskalnikov, namenjenih predvsem domačim uporabnikom in manj zahtevnim pisarnam, ponuja model LBP-810.
+Oblika tiskalnika je precej posebna, saj je ohišje pokončno, podobno cenejšim modelom HP, le še bolj poudarjeno.
+Je namreč precej manjše, a skoraj enako visoko.
+Tiskalnik nima predala za papir, temveč le večnamenski podajalnik na vrhu ohišja, ki sprejme do 150 listov pisarniškega papirja velikosti A4.
+Pred tem je še ročni podajalnik za debelejše predloge in pisemske ovojnice.
+Pot papirja je lahko ali povratna ali ukrivljena.
+Na ohišju ni prav nobenega stikala ali tipke, na delovanje opozarja le zelena lučka na levi strani tiskalnika.
+Kyocerini tiskalniki imajo nekoliko slabšo prekrivnost in tudi model 1000+ ni izjema.
+Zato so besedila nekoliko manj kontrastna, čeprav ostra in jasno čitljiva.
+Slabšo prekrivnost je še najbolj opaziti na črnini vektorskega izpisa, ki je nekoliko medla.
+Podrobnosti so primerne ločljivosti, torej še kar dobre, a ne vrhunske.
+Kljub temu da ima tiskalnik le gonilnike PCL, ni preveč napak.
+Še najslabši so prehodi sivine, ki so neenakomerni.
+Bitne slike so povprečne, preveč temne in preveč medle, z vidnimi vodoravnimi rastri.
+Kot večina drugih izdelovalcev tudi Lexmark pri svojem najcenejšem laserskem tiskalniku stavi na tehnologijo GDI.
+Manjši stroški izdelave pač pomenijo tudi nižjo ceno izdelave in s tem cenejši končni izdelek.
+Kljub temu pri Lexmarku niso skoparili z vmesnim pomnilnikom.
+E210 ima za tiskalnik GDI kar obilne 4 MB.
+Gonilniki so solidni in omogočajo še kar dostojno število nastavitev, poleg tega so tudi precej pregledni in jih je enostavno uporabljati.
+Težav z gonilniki nismo imeli niti pri nameščanju, niti ob uporabi.
+Pohvaliti je treba, da je na voljo različica gonilnikov tudi za Linux podjetja RedHat, kar se pri tovrstnih tiskalnikih sicer zgodi le redko.
+Prav lepo je brati razmišljanje glavnega urednika ob 10 letnici lastnega izdelka.
+Avto refleksije so čisto v redu.
+Sprehod skozi čas obdobja, ki je zaznamovalo njegovo življenje.
+In seveda življenje mnogih, ki so rasli ob Monitorju, kakor sam ugotavlja.
+Tudi sam lahko rečem, da sem med njimi.
+Toda dve strani spominov me je samo prepričalo, da je glavni urednik v veliki meri kriv, da je Monitor tak, kot v bistvu ne bi smel več biti.
+Avtor še vedno obuja spomine na pleh in plastiko ter programje računalništva.
+Vse v stilu podjetij, ki mu plačujejo, da prijetno živi.
+Je v bistvu tisto, česar se sam z lastnim slogom življenja otepa.
+Veliko slabša, kot je bila pred leti, ko si je hotela izboriti tudi drugačen status.
+Kar poglejmo zadnjo revijo.
+Devetdeset procentov potrošništva in kakšen čip, ki se mu je zaplezalo.
+Po drugi strani pa ne pustimo, da bi nam plačniki oglasov kakorkoli krojili vsebino.
+Če mislite, da kdaj udarimo po Telekomu zato, ker ne oglašuje, vam moram sporočiti, da je prav nasprotno: Ker je pred leti nekdo (pa ne glavni urednik) v Monitorju zapisal nekaj, kar velikemu Telekomu ni bilo všeč, je Telekom sklenil, da Monitor ne bo več videl njegovega denarja.
+Slišati je, da s podobnimi metodami skuša ustrahovati druge publikacije.
+Ni pa ta pristop Telekomov izum.
+To je pač odnos, ki mu podležejo podjetja s preveliko močjo.
+In Telekom Slovenije je vsekakor še do nedavnega imel veliko preveliko moč.
+Mi pa smo občasno opozarjali nanjo in na njeno škodljivost.
+Omrežja ethernet se že od svojega nastanka leta 1973 razvijajo neverjetno hitro.
+Prvo je zmoglo hitrost 2,94 Mb/s in je za nosilec uporabljalo koaksialni kabel.
+Slednji je odmrl pri desetmegabitni različici in od takrat naprej so ethernetna omrežja zvezdasta, v središču teh zvezd pa večinoma ni več razdelilnikov (hub), ampak imamo stikala, ki promet inteligentno usmerjajo samo na tista vrata, kjer je dejanski cilj.
+Zato lahko mirno rečemo, da današnja omrežja ethernet s prvotno različico druži le še ime.
+To še posebej velja za najnovejšo gigabitno različico, ki je bila prvotno na voljo samo prek optičnih kablov.
+Zadnje leto se optika uporablja samo za povezovanje na večje razdalje, sicer pa ima že skoraj vsako omrežno podjetje, ki kaj da nase, v svojem programu tudi gigabitno opremo, ki deluje z navadnimi kabli UTP kategorije 5 (t. i. copper/bakrene različice).
+Rezultat je omrežje, ki je izredno hitro in hkrati poceni, saj uporablja kar obstoječo kabelsko infrastrukturo.
+Še ne dolgo tega je bila edina smiselna uporaba gigabitnega omrežja povezovanje hrbteničnih strežnikov, danes pa lahko v podjetjih z zelo obremenjenim omrežjem zelo zelo enostavno vpeljejo tudi gigabitna stikala.
+Gigabitna stikala so bila sprva navadna stikala s hitrostjo 10/100 Mb/s, ki smo jim vgradili dodaten gigabitni modul, danes pa je izbira veliko večja in bolj raznolika.
+Še več, najdemo celo gigabitna stikala, ki so namenjena manjšim podjetjem, in to dokazujejo tudi s ceno.
+Če lahko večino današnjih stikal dobimo le za 300 tisoč tolarjev in več, si lahko Trendwarovo stikalo TEG-S18TX omislimo za 108.900 tolarjev.
+To stikalo ima osem navadnih 10/100 Mb/s vtičnic (enosmernih ali dvosmernih), poleg tega pa še eno gigabitno vtičnico (dvosmerno).
+Z njim lahko na strežnik z gigabitno kartico priklopimo osem zelo zahtevnih uporabnikov ali pa osem celotnih podomrežij.
+Stikalo je zaradi svoje cene le osnovno in ne ponuja nobenega nadzora na daljavo (Telnet, SNMP ...), vendar svoje delo dobro opravlja.
+Resda je slišati nenavadno, toda računalniki PocketPC v osnovi ne premorejo programa, ki bi omogočal preprost preklop iz enega delujočega programa v drugega (na primer iz imenika v Word in nazaj).
+Namesto tega si moramo pomagati z orodjarno, v tej pa je zapisana le kratka zgodovina nazadnje uporabljenih programov, še huje pa je, da ni na voljo nobenega preprostega načina, kako bi program lahko izključili.
+Če jih zaženemo več, namreč porabijo dragoceni pomnilnik, tudi če jih ne potrebujemo več.
+Večina upravnikov sistema uporablja skupine zato, da združi uporabnike, ki imajo dostop do datoteke, imenika ali storitve.
+Gre pa tudi v drugo smer.
+Poznavanje omejitev dostopa, ki jih lahko z varnostnimi atributi datotek in imenikov določamo na Unixu in njemu podobnih sistemih, je za vzdrževalca sistema ključno, vendar pa jih poznajo le površno in ne poznajo vseh posledic, ki jih določena nastavitev lahko ima, predvsem glede varnosti sistema.
+Linux je od Unixa podedoval manjšo nedoslednost v vsiljevanju omejitve dostopa.
+Če ima uporabnik pravico branja za imenik, nima pa pravice branja za datoteko v tem imeniku, bo pod določenimi pogoji še vedno lahko dostopal do vsebine, ker podeduje pravice imenika.
+Težavam se izognemo s postavitvijo lepljivega bita imeniku (sticky bit, mode 1000), ki nastavi pravice tako, da do vsebine imenika lahko dostopajo le superuporabnik, lastnik imenika in lastnik datoteke (superuser, directory owner, file owner).
+in mu nastavimo zelo rahle omejitve s
+V teh primerih nam pomaga pogojna vsota, ki jo Excel ponuja s funkcijo SUMIF.
+Njena oblika je naslednja:
+Bodočo tabelo zastavimo tako, da na začetku vrstice vnesemo znak plus in nadaljujemo s toliko minusi, kolikor želimo da je približna širina prvega stolpca.
+Za tem znova vnesemo plus in na podoben način določimo še preostale stolpce.
+Oblikovanje tabele končamo s še enim znakom plus in pritisnemo vnašalko.
+Word naš trud nagradi s prvo vrstico novo tabele.
+Vanjo lahko vnašamo podatke, če pa v zadnjem stolpcu pritisnemo tipko Tab, bo Word tabeli samodejno dodal novo vrstico in nas prestavil v njen prvi stolpec.
+In ko smo ravno pri kolescu …
+Občutljivost vrtenja kolesca je mogoče nastavljati z vrednostmi v registru.
+Uporabniki pripomočka TweakUI v Nadzorni plošči (Control Panel) bodo imeli lažje delo, saj je tam že na voljo nastavitev v skupini Use mouse wheel for scrolling pod jezičkom Mouse, kjer lahko določimo število vrstic, ki jih zamakne delni vrtljaj kolesca.
+Če nam TweakUI ne pomaga, lahko posežemo v register, a z zvrhano mero previdnosti.
+in v njem najti vrednost
+Retina je orodje, ki bi ga bil vesel vsak spletni upravljavec, če bi bilo nekaj cenejše.
+Verjetno ne bo napak, če sklenemo, da se jo splača kupiti le, če imamo pod seboj več strežnikov, nad katerimi tu in tam tudi izgubimo nadzor.
+Strokovnjaki Eeya Retino seveda stalno nadgrajujejo, tako da je z vrzelmi v varnostnem sistemu vedno na tekočem.
+Začetna nastavitev se opravi iz priloženega upraviteljskega programa, s katerim napravi določimo interni naslov IP in upraviteljsko geslo.
+Vse nadaljnje nastavitve postorimo iz internetnega brskalnika v varnem načinu prek protokola HTTPS.
+Ljubiteljske glasbenike bo razveselil predvsem gonilnik ASIO (Audio Streaming Input Output), ki omogoča, da s programi, kot je Cubase, glasbo skladamo oziroma igramo v resničnem času.
+Nekoliko bolj vprašljiva je koristnost 24-bitnega digitalno-analognega vmesnika.
+Audigy omogoča predvajanje digitalnih zvočnih posnetkov s 24-bitno ločljivostjo in 96 kHz frekvenco vzorčenja, čeprav smo pri snemanju še vedno omejeni z običajnimi 16 biti in 48 kHz.
+Z računalnikom obdelan in zmontiran zvočni posnetek lahko zdaj brez izgub posnamemo na ustrezen digitalni magnetofon, vendar je vprašanje, ali ima to kak poseben smisel, saj imamo vendarle opraviti z zvočno kartico, ki ni mišljena za poklicno delo.
+No, škoduje prav gotovo ne.
+Razmerje med vrednostma a in b. Pri tem je b dolžina značilne razsežnosti obravnavanega predmeta in a odgovarjajoča razsežnost predstavitve omenjenega predmeta na karti ali modelu.
+Mreža točk, ki s svojimi vrednostmi opišejo določene lastnosti površja.
+Največkrat lahko take podatke zapišemo v matriko (matrični zapis) pikslov.
+Oblikovanost zemeljskega površja, ki je nastala zaradi vpliva notranjih (endogenih) in zunanjih (eksogenih) sil.
+Je ena najpomembnejših geografskih prvin, ki podaja temeljne značilnosti Zemlje in je osnova topografije.
+Sistem (Navstar) je sistem za določanje globalnega položaja na Zemlji, ki temelji na tehnologiji vesoljske radijske navigacije.
+Leta 1973 ga je začelo vzpostavljati ameriško obrambo ministrstvo.
+Trenutno ga sestavlja 27 satelitov.
+Vgrajen je objektiv Minolta GT s spremenljivo goriščno razdaljo od 7,2 do 50,8 milimetra, kar ustreza razdalji od 28 do 200 milimetrov pri klasični 35 mm fotografiji ali sedemkratni optični povečavi, dodatno je na voljo še dvakratna digitalna povečava.
+Svetlobna jakost je »povprečna« in za eno stopnjo slabša od tiste pri Sonyjevem modelu DSC-F707.
+Pri širokem kotu tako znaša 2,8, ta vrednost pa se pri teleobjektivu zmanjša na 3,3.
+Vseeno je to za večino namenov dovolj, takrat, ko ne zadostuje, pa si je treba pomagati z daljšimi časi ali z vgrajeno bliskavico, ki deluje v »spodobnem« razponu od pol metra do 7,6 metra, za boljše rezultate pa zmore meriti tudi s tehnologijo ADI, ki s kombiniranjem podatkov predbliska in avtomatskega ostrenja daje boljše rezultate, predvsem kadar slikamo proti objektom, ki svetlobo odbijajo.
+Povprečna je zmogljivost optike pri posnetkih od blizu.
+Makro način lahko tako uporabljamo le od razdalje 30 do 60 centimetrov, kar je (sploh v primerjavi s Sonyjem) precej borno.
+Pri strežnikih Microsoft Exchange 2000 in Exchange Server 5.5 se lahko sesuje program STORE.
+Microsoft trdi, da so za težave krivi nameščeni protivirusni dodatki, ki lahko odstranijo zaznani virus iz javne shrambe in ga pripojijo k sporočilu, ki obvešča o odkritem virusu.
+To sporočilo ima neveljavno obliko in povzroči sesutje.
+Težavo odpravita najnovejša paketa popravkov za obe različici strežnika.
+Tak zgled, kot že rečeno, deluje le s spletnim brskalnikom IE.
+Če nam to ne ustreza, lahko kodo praktično brez sprememb prenesemo na dejavno spletno stran ASP, le preverjanje bo mogoče šele po tem, ko bo uporabnik obrazec izpolnil in ga oddal.
+ki odda trenutno že pripravljeno vsebino izravnalnika.
+S tem lahko ohranimo najboljše iz obeh svetov.
+Po kakšnega pol leta intenzivne rabe računalnika je shranjenih nastavitev že toliko, da bi jih težko vse našteli.
+Našteli?
+Neumnost, le zakaj bi jih držali v glavi, saj ravno zato uporabljamo računalnik, mar ne?
+Hm, če bomo morali celoten sistem namestiti znova, nam bo prišlo še kako prav, da si nastavitve prej nekam trajno shranimo.
+Vendar, kje sploh so?
+A vse bi lahko bilo tako preprosto.
+Uporabniki Unixa in podobnih operacijskih sistemov niso tako številni kakor uporabniki Oken, a če je kateri izmed njih bral zgornje odstavke, se je lahko le privoščljivo nasmihal.
+Desetletja star operacijski sistem, ki ga veliki inovator že dolgo ne mara več, že od svojega nastanka vzpodbuja uporabo datotek z običajnim besedilom za shranjevanje nastavitev.
+Res jih je na kupe in za popolno prilagoditev sistema jih moramo poznati kar precej, vendar pa so uporabniške nastavitve praviloma shranjene na dobro znanem mestu, v domačem imeniku uporabnika.
+Ta je pri Oknih gibljiva tarča in se z vsako različico spremeni, pri Unixih pa je vedno »~«, simbol, ki je sopomenka za domači imenik.
+Nastavitve, shranjene kot običajno besedilo v domačem imeniku, imajo še kopico prednosti.
+Lahko jih odpremo, preberemo, v glavnem tudi razumemo in preuredimo s katerimkoli urejevalnikom.
+Mogoče jih je prilagoditi in samodejno popravljati s katerimkoli orodjem, ki zna delati z besedilom, teh pa je na voljo praktično v neomejenih količinah.
+In najpomembnejše vemo, kje so, in preprosto jih shranimo in po potrebi zamenjamo.
+Ah, ko bi bile vse nastavitve v Oknih le kup »INIjev« v domači mapi, za katero bi vedno natančno vedel, kje je.
+Slovenija se kar ne more odločiti, ali je dežela programerjev ali ne.
+Na eni strani ne spravimo skupaj niti elektronske dohodnine, na drugi pa en-dva-tri sprogramiramo najbolj neokusno igrico zadnji čas.
+Pred zadnjimi volitvami je imela stranka LDS veliko povedati o tem, kako bo po volitvah vsem je bilo jasno, da zmagovitih popeljala Slovenijo v digitalno prihodnost.
+Ne glede na to, ali smo nad digitalizacijo sveta navdušeni ali ne, gre za del naše sedanjosti in tudi prihodnosti, ki se mu ne moremo izogniti.
+Ko je LDS z res neverjetnim navdušenjem pleteničila, da je digitalno enkratno in odlično, smo vsaj nekateri resno podvomili, ali sploh ve, o čem govori.
+Vse skupaj se je slišalo in bralo le kot propagandna kampanja, ki so jo napisali v najeti agenciji, v kateri pa si niso vzeli niti toliko časa, da bi preučili osnovne pojme.
+V programu stranke je bilo vsaj implicitno obljubljeno, da bo Slovenija sledila švedskim in podobnim razvitim modelom.
+LDS je obljubljala ugodne kreditne modele za nakup informacijske tehnologije, obljubljala je tudi digitalno državo, od uprave naprej.
+<Slika 13:> Izbira protivirusnih programov je pestra.
+McAfeejev, Symantecov in Pandin so najbolj priljubljeni, a še zdaleč ne edini.
+<Slika 10.> Hevristično iskanje omogoča odkrivanje novih virusov, vendar ni povsem zanesljivo, zato se pogosto skriva med zahtevnejšimi nastavitvami in je namenjeno le izkušenim uporabnikom.
+Protivirusni program je pravzaprav zelo enostavno uporabljati.
+Po namestitvi in prvem pregledovanju diska bo lepo neopazno ždel v ozadju in pregledal vsak program, ki ga bomo posneli na disk, hoteli namestiti ali pognati, poleg tega bo bdel tudi nad e-pošto in različnimi dokumenti, ki so prav tako lahko okuženi.
+Pregledal bo tudi vsako disketo, ki jo bomo vložili v disketnik.
+Vse to bo počel povsem neopazno in le, če bo odkril virus ali okuženo datoteko, bo zagnal preplah.
+Verjetno najzanesljivejše »zdravljenje«, a okuženi program ali dokument bo s tem izgubljen.
+Okuženo datoteko zbrišite le, če imate rezervno kopijo ali če program ali vsebina dokumenta ni pomembna in si izgubo lahko privoščite.
+Če je okužena datoteka zelo pomembna, rezervne kopije pa nimate, jo shranite v posebno mapo, preimenujte in na pomoč pokličite strokovnjaka, ki bo poskušal rešiti, kar se rešiti da.
+Brisanje brez pomislekov ukažite le pri odkritih trojanskih programih.
+Včasih, čeprav redko, se utegne sprožiti lažni alarm.
+Protivirusni programi namreč, še posebno, če uporabljamo hevristično iskanje virusov, niso nezmotljivi.
+Zdravljenje navidezno okužene datoteke seveda ne bo uspešno, zato je koristno, če niste prepričani, da gre res za lažni preplah, da sumljivo datoteko shranite v posebno mapo in jo preizkusite še s kakim drugim protivirusnim programom ali na pomoč pokličite strokovnjaka.
+Registrirani uporabniki nekaterih protivirusnih programov lahko sumljive datoteke pošljejo na e-naslov tehnične podpore.
+Tam bodo datoteko pregledali in vam sporočili, ali je res okužena.
+• Virus v strogem pomenu besede je zajedalski programček, ki se naseli bodisi v zagonskem delu diskete ali diska bodisi v pomnilniku računalnika, okuži kak drug program ali se kot makro program naseli v nekaterih vrstah dokumentov, na primer besedilih ali preglednicah.
+Virus se lahko skriva v zagonskem delu diskete.
+Taki virusi so bili v modi predvsem v časih, ko so bile diskete še pogosteje v rabi, dandanes pa jih skoraj ni več, razen seveda na starih okuženih disketah.
+Kje se ne skrivajo
+Zaradi težav z varnostjo pri prejšnjih različicah Internet Explorerja je pametno čim prej namestiti najnovejšo različico, 6.0.
+Vendar je treba biti pri nadgradnji pazljiv, kajti če se odločimo za minimalno nadgradnjo, vrzeli, ki zija v varnostnem sistemu, ne bomo pokrpali.
+Pri nadgrajevanju je torej treba izbrati bodisi popolno (full) ali navadno (typical) namestitev.
+O nevarnostih, ki prežijo na omrežene računalnike, smo podrobno pisali v prejšnji številki naše revije, a že stari Latinci so vedeli, da repetitio mater studiorum est, zato na kratko ponovimo.
+Čedalje več virusov se v obliki črvov samodejno širi po internetu.
+V nevarnosti so predvsem strežniki, a tudi povsem navadni domači računalniki, z modemsko povezavo občasno priključeni v internet, niso imuni zanje.
+Marsikateri program (na primer za spletni klepet) namreč, tudi povsem brez vednosti uporabnika, računalnik spremeni v strežnik.
+Nekateri protivirusni programi nas sicer precej varujejo tudi pred omrežno nevarnostjo, a navadno tak virus ali trojanski program zaznajo šele potem, ko je računalnik že okužen.
+Zato je koristno poleg protivirusnega programa uporabljati tudi program, ki nas varuje pred omrežnimi nevarnostmi požarni zid.
+Spletnih strani s podatki o virusih in načinu obrambe pred njimi je veliko, poleg tistih, ki smo jih omenili pri protivirusnih programih, pa se splača obiskati tudi naslednje:
+Posebno pereče so v zadnjem času licenčne pogodbe.
+Ker si izdelovalci (predvsem programske opreme) ne morejo več zagotoviti dovolj ugodne ravni ali celo rasti prodaje, se zatekajo k spreminjanju licenčnih pogodb, zlasti tistih, pri katerih so podjetja zaradi dodatnih ugodnosti na izdelovalca vezana daljši čas.
+Najbolj značilen zgled so nove licenčne pogodbe Microsofta, o katerih je bilo slišati že toliko kritik, da si je izdelovalec moral premisliti.
+Kupci preprosto niso pripravljeni zamenjevati in nadgrajevati izdelkov tako hitro, kot si je zamislil Microsoft, pa tudi drugi.
+Zaradi vse hitrejšega vpeljevanja novosti se tudi čedalje bolj znižuje storilnost, saj porabimo preveč časa za to, da bi se seznanili z novimi zmožnostmi, namesto da bi opravljali svoje delo.
+Da ne govorimo o tem, da je to znanje vse bolj nepopolno, saj pogosto presedlamo na nov izdelek, še preden smo se naučili uporabljati prejšnjega.
+To je še posebej nerodno pri poklicih, pri katerih je obvladovanje najnovejšega izdelka nujno za uspešno delo.
+Najbrž ni presenetljivo, da je ta sindrom najbolj značilen prav za razvijalce, ki so na po svoje »krivi« za današnje razmere.
+AMD je nekoliko počasnejši pri svojih načrtih.
+Do konca leta pride na vrsto Athlon XP s taktom 1,6 GHz (ali, marketinško, 1900+), pozimi nato še različici s takti 1,733 in 1,8 GHz (delovno ime Thoroughbred), oznaka QuantiSpeed pa zanje še ni določena.
+Pri tem ne bodo pozabili na Durone, ki bodo do konca leta dosegli 1,1, pa še dodatnih 100 MHz vsake tri mesece.
+Za AMD je zdaj izziv 0,13-mikronska arhitektura, v pričakovanju svoje prve 64-bitne različice.
+Vseeno je videti, da bodo morali malo pospešiti tempo.
+Zasnova delovanja vseh spletnih programov, ki dinamično ustvarjajo spletne strani, je taka, da spletni program dobi zahtevo od odjemalca in na podlagi te zahteve ustvari ustrezno stran HTML ter jo pošlje odjemalcu.
+Temu se Websydian seveda ni mogel izogniti, vendar pa je to zasnovo treba umestiti v zasnovo razvoja namenskih programov, ki ga podpira COOL:Plex.
+Tako se je rodil zanimiv, preprosto razumljiv in kljub temu zmogljiv način razvoja spletnih programov.
+Avtorji so ga poimenovali Websydianov krog (Websydian circle; zgled je na sliki 1).
+Gre za to, da spletni namenski program sestavljajo le tri vrste funkcij (funkcij v smislu plexovih predmetov), ki se med seboj krožno kličejo.
+Osnovna funkcija, ki je ponavadi v spletnem programu samo ena, je obdelovalec zahtev (event dispatcher).
+To je spletni program, ki ga vidi uporabnik, in teče v spletnem strežniku ter obdeluje zahteve odjemalcev.
+Websydianov obdelovalec zahtev tako obdeluje zahteve odjemalca, in sicer tako, da kliče ustrezno funkcijo dogodka (event handler).
+Funkcija dogodka je druga izmed treh osnovnih vrst funkcij.
+Te vrste funkcij so tiste, ki v resnici obdelujejo zahteve odjemalcev.
+Osnovno funkcijo dogodka seveda podedujemo od že pripravljenih predmetov (v COOL:Plexu jih imenujemo vzorci).
+Za vsako posebej moramo napisati le dvoje najpomembnejših stvari.
+Funkcija dogodka mora namreč ustrezno spremeniti zbirko podatkov ter poklicati naslednjo funkcijo Websydianovega kroga.
+To je generator strani (page generator).
+Ta funkcija ustvari stran HTML in jo pošlje odjemalcu.
+Strani HTML se ustvarijo na podlagi predlog, to pa daje programerju veliko možnosti za dodatno oblikovanje strani (z drugimi orodji) in tudi zelo jasno ločuje logiko namenskega programa od uporabniškega vmesnika (oblikovanja strani HTML).
+Za pravilno delovanje spletnega programa moramo v spletni strežnik namestiti vse tri vrste funkcij, ki sestavljajo naš program (prevedene so v obliki datotek dll), in tudi predloge.
+Predloge ustvari Websydian sam med razvojem programa.
+V modelu ima vsak generator strani podrejeno tudi funkcijo _DocumentTemplateGenerator (zgled je na sliki 2).
+Vse, kar moramo storiti, je, da v COOL:Plexu za to funkcijo naredimo izvorno kodo, jo prevedemo in poženemo.
+Tako bomo ustvarili ustrezno predlogo z vsemi potrebnimi podatki in možnimi dogodki (v obliki obrazcev HTML).
+Razlika med predlogo in dinamično generirano stranjo HTML, ki jo bo videl uporabnik, pa je v podatkih.
+Predloga ima namreč posebne označevalce (replacement markers), ki predstavljajo določene vrste podatkov.
+Med izvajanjem programa jih bo generator strani zamenjal z dejanskimi podatki.
+Prebral jih bo bodisi iz podatkovne zbirke, jih izračunal, bodisi jih bo dobil s prejšnje strani kot vhodne parametre.
+Zgled predloge in generirane strani HTML je na sliki 3.
+Značilen razvoj spletnega namenskega programa je v Websydianu videti nekako takole:
+Uporabnike je v Websydianu nadvse preprosto nadzirati, saj moramo podedovati le nekaj predmetov in jih prevesti.
+Med drugim v zbirki podatkov dobimo tabelo, v katero lahko vpišemo uporabnike, njihova uporabniška imena ter gesla, ki so shranjena v kodirani obliki.
+Tudi generator strani za prijavo v sistem je že pripravljen, tako da je moč uporabo spletnega programa omejiti na prijavo z uporabniškim imenom in geslom v nekaj minutah.
+Zmogljivi digitalni fotoaparati premorejo že svetlobna tipala s 5 milijoni elementov in tako omogočajo snemanje fotografij, ki jih lahko kakovostno natisnemo na list A4 ali celo na večjega.
+Na drugi strani so fotoaparati za najmanj zahtevne fotografe, ki pa vendarle večinoma zadovoljijo tudi malo bolj zahtevnega amaterja še posebej, če upoštevamo enostavnost nadaljnjega dela z digitalnim posnetkom v primerjavi s klasično fotografijo.

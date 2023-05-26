@@ -1,0 +1,31 @@
+$Navidezna resničnost -- od sanj do resničnosti$
+
+uporabne tudi za reševanje drugačnih problemov. 
+Prezreti pa ne gre niti naglega razvoja računalniške grafike.
+
+predmete. 
+Ker smo z uporabo naglavnega prikazovalnika optično in običajno tudi akustično povezani le z navideznim, računalniško generiranim okoljem, pravimo, da smo se vanj potopili.
+
+Stereoskopske projekcije lahko hkrati opazuje več ljudi, naglavni prikazovalnik ali simulacijske kabine pa so namenjeni le enemu kibernavtu. 
+Več naglavnih prikazovalnikov in kabin lahko med seboj povežemo, vendar kibernavti drug drugega vidijo le s 
+
+revolucionarne spremembe tudi v izobraževanje, zlasti v 
+
+ustvarjamo navidezne svetove ter se premikamo po njih. 
+Pred leti so se pojavili grafični uporabniški vmesniki. 
+Njihova naloga je omogočiti uporabniku lažji dostop do računalnika in vseh njegovih prednosti. 
+Dostopnost je ključna beseda, ki upravičuje uporabo navidezne resničnost. 
+Fortran, C in drugi programski jeziki so bili razviti, da uporabniku ne bi bilo treba več razmišljati o registrih in heksadecimalnih številih. 
+Grafični uporabniški vmesniki so prinesli prispodobo delovne mize, mape, koša za odpadke in tako računalniške zmogljivosti še bolj približali človekovemu načinu razmišljanja. 
+Navidezna resničnost gre korak dlje. 
+Brez tipkovnice, miške in monitorja omogoča uporabniku neposredno in naravno interakcijo z računalnikom. 
+Uporabnik lahko z gibi in govorjenimi ukazi upravlja podatke. 
+Tridimenzionalno predstavitev podatkov lahko opazuje od zunaj ali od znotraj. 
+Opazovanje od znotraj oziroma vstop v svet podatkov je najpomembnejša prednost navidezne resničnosti. 
+Biti v istem prostoru z obdelovanimi podatki omogoča popolno koncentracijo na nalogo. 
+V navideznem prostoru so samo uporabnik in podatki; lahko jih vidi, sliši in morda celo čuti. 
+Delo postane veliko bolj učinkovito. 
+Ne le izolacija od zunanjih vplivov, temveč tudi tridimenzionalna prostorska predstavitev, ki smo je vajeni že od rojstva, ter tridimenzionalni zvok nam pomagajo, da lahko učinkovito manipuliramo tudi z abstraktnimi podatki.
+
+MATJAŽ GORJUP
+

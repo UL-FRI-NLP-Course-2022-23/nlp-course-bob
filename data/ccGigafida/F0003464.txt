@@ -1,0 +1,539 @@
+Pet obdobij razvoja učinkovitosti 29
+
+Tehnologija in tehnika 55
+
+Enostavni kazalniki uspešnosti in učinkovitosti 64
+
+Zakaj agregatni kazalnik? 
+71
+
+Izbira kazalnikov in njihovih uteži 72
+
+Mere izidov – davčni prihodki 95
+
+Zahteve po spremembah v javni upravi so posledica drugačnega razumevanja njene vloge v sodobni družbi. 
+Področja, kjer moramo stanje spremeniti, lahko opredelimo le na podlagi poznavanja trenutnega stanja in preteklega dogajanja. 
+Le tako je možno ugotoviti, ali sprejeti ukrepi sploh povzročajo spremembe. 
+To pa lahko naredimo le z merjenjem. 
+Običajno nas najbolj zanima, ali se je uspešnost ali učinkovitost javne institucije v opazovanem obdobju izboljšala ali poslabšala. 
+V izraziti hierarhični strukturi javne uprave je bil v preteklosti poglavitni način delovanja izpolnjevanje ukazov nadrejenih. 
+V hierarhično manj izraziti strukturi pa so poleg tega merila pomembna tudi druga merila, ki jih do sedaj javni sektor ni uporabljal. 
+Na nekaterih področjih je možno vpeljati podobne načine merjenja kot v zasebnem sektorju. 
+
+Zasebni sektor ima z merjenjem svoje dejavnosti dolgo tradicijo in jasna sodila za ugotavljanje učinkovitosti in uspešnosti. 
+Nekakovostne, nekonkurenčne in neučinkovite ponudnike trg izloči. 
+Subjekti zasebnega sektorja so razvili vrsto metod za izboljšanje učinkovitosti. 
+To jim omogoča obstanek na trgu. 
+Večina teoretičnih izhodišč, ki opredeljujejo učinkovitost in uspešnost, velja v zasebnem in javnem sektorju. 
+Učinkovitost je v obeh sektorjih opredeljena kot razmerje med porabljenimi sredstvi in učinki. 
+Opredelitev uspešnosti kot merila doseganja temeljnega cilja je lahko univerzalna, bistveno pa se razlikujejo opredelitve ciljev. 
+Ti so odvisni od različnega poslanstva zasebnih in javnih institucij. 
+
+Strokovna literatura navaja različne vzroke, zakaj je javna uprava manj učinkovita od zasebnega sektorja. 
+Te vzroke lahko povzamemo v nekaj točkah:
+
+Javna uprava
+
+Upravljanje, ravnanje in uprava
+
+Slika 2: Taksonomija dobrin
+
+X-učinkovitost se nanaša na ponudbeno stran. 
+Ne glede na to, ali javni sektor proizvede optimalen obseg javnih storitev in učinkov, imajo velik pomen stroški, pri katerih proizvede dan obseg. 
+Postavljajo se vprašanja, ali je zaposlitev v institucijah javnega sektorja ustrezna, ali zaposleni uporabljajo najučinkovitejše tehnologije, ali za dan obseg proizvodnje porabijo minimalen obseg proizvodnih tvorcev. 
+Če so odgovori na ta vprašanja negativni, govorimo o x-neučinkovitosti. 
+Institucije javnega sektorja so lahko alokacijsko učinkovite ob x-neučinkovitosti. 
+Gre za to, da se združba znajde na napačnem mestu meje učinkovitosti. 
+Po odpravi x-neučinkovitosti se institucija premakne na najboljše mesto meje učinkovitosti. 
+
+Državna uprava je del javne uprave, ki predstavlja državo kot skupnost posameznikov, živečih na določenem območju, zadovoljuje njihove potrebe, hkrati pa izvaja državno prisilo in je aparat za izvajanje monopola fizične prisile. 
+Organizacijsko državno upravo opredelimo kot institucijo določene družbene skupnosti, ki ji ta skupnost zaupa opravljanje določenih funkcij in ki je sestavljena iz sistema upravnih organov – represivna funkcija ter upravnih institucij – servisna funkcija (Rakočević, 1991, str. 15–18). 
+
+obča uprava,
+
+nalog na področju javnih služb.
+
+Izbrana strategija
+
+Razvoj združb v javnem in zasebnem sektorju 
+
+Druga svetovna vojna
+
+Pojavljanje problemov uspešnosti in učinkovitosti
+
+Do pred kratkim je bil temeljni motiv ravnanja zadovoljiti vsaj prve štiri potrebe. 
+Sedaj pa v podjetjih težijo, da bi zaposlenim pomagali zadovoljiti tudi potrebo po samouresničevanju. 
+Hkrati pa je nujno zadovoljevanje potreb delavcev do te stopnje, da so ves čas na čim višji ravni zadovoljevanja potreb. 
+Le tako je lahko delavec učinkovit ter dela z veseljem in učinkovito.
+
+boljši nadzor in odgovornost,
+
+Slovenski prevod
+
+Produktivnost in ekonomičnost poslovanja sta meri učinkovitosti. 
+Izraženi sta kot fizično razmerje med proizvodnjo in porabljenimi sredstvi oziroma vrednostno razmerje med prihodki in odhodki (Turk, 2001, str. 515). 
+Obe izražata razmerje med vložki in učinki. 
+Prav vse davčne administracije držav OECD uporabljajo navedeno povezavo. 
+Države pa se med seboj razlikujejo po tem, kaj razumejo kot učinek storitev in glede na to, kako podrobno vodijo evidenco vložkov.
+
+Cilji se vedno ne dopolnjujejo, lahko so si celo nasprotujoči. 
+Konceptualno je večinoma težko določiti povezanost med posamezno dejavnostjo in njenim vplivom na dogajanje v družbi.
+
+Naslednja težava pri uvajanju kazalnikov uspešnosti in učinkovitosti je, da se zasebne, še bolj pa javne institucije ne želijo sprijazniti s svojo uspešnostjo. 
+Enostavno odklanjajo kontrolo, ker se bojijo »resnici pogledati v oči«. 
+Vpeljava kazalnikov pomeni na prvi pogled dodatne stroške, ki pa bi se z ugotovitvijo in odpravo notranjih slabosti večkrat povrnili. 
+Kontrola zato ne bi smela biti samo zunanja, ampak bi morali biti kazalniki taki, da bi omogočali pridobitev informacij vodstvu. 
+To bi se moralo kazati tudi pri uspešnosti in učinkovitosti delovanja. 
+Zato se morajo v določanje kazalnikov vključiti vsi, ki so kakor koli povezani z rezultati. 
+
+Zato je treba že na začetku poudariti, da bo v prvi fazi analize vsak sistem kazalnikov pomanjkljiv in prav jasno razumevanje omejitev predstavljenih kazalnikov lahko omeji težnjo, da bi se javni uslužbenci grajali, takoj ko se pokažejo slabi rezultati. 
+Zato je potrebna previdnost vsaj na dveh ravneh (Hatry, Gerhart, Marshal, 1994, str. 15–21):
+
+Najprej moramo opredeliti osnovna področja, ki pomembno vplivajo na katero koli institucijo (v zasebnem in tudi javnem sektorju). 
+Pri ugotavljanju skupne uspešnosti in učinkovitosti moramo zagotoviti tem področjem ustrezno težo glede na njihov dejanski pomen. 
+Lahko opredelimo vsa področja za enako pomembna, lahko jim pripišemo različne uteži. 
+Pri opredelitvi področij in povezav med njimi izhajamo iz opredelitev organizacije OECD, ugotovitev druge strokovne literature s področja ekonomike javnega sektorja in tudi značilnosti slovenske javne uprave. 
+Tako je bilo oblikovanih pet osnovnih področij povezanih v sistem, kazalniki na vsakem od teh področij naj bi merili pomemben del učinkovitosti in uspešnosti združbe. 
+
+relevantne informacije za uporabnika so tiste, ki jih potrebuje;
+
+Zelo pomemben razlog uvajanja sistema kazalnikov učinkovitosti in uspešnosti je kontroling. 
+Naloge kontrolinga so (Devjak, 2002, str. 623): 
+
+Zaradi delitve nalog, velikega obsega poslovanja in nujnosti koordiniranja procesov ter ljudi se mora razvijati tudi komunikacija v združbi. 
+Komunikacijo teoretično opredelimo kot pošiljanje informacije od pošiljatelja skozi komunikacijski kanal k prejemniku. 
+Pri tem se pojavljajo ovire, ki jih je treba preseči, zato je treba uporabiti ustrezne komunikacijske tehnologije. 
+Povezave in odnose v združbi vzdržujemo na primerni ravni tudi s komunikacijo. 
+
+Položaj državne uprave zahteva večji poudarek na kakovosti izvajanja storitev, predvsem pa več razumevanja in posluha za tako kakovost storitev, kot si jo želijo državljani. 
+Za vsako organizacijo velja, da je merjenje kakovosti storitev odločilno za delovanje, organizacijo in vodenje, saj daje povratne informacije o značilnostih zaznavanja kakovosti storitev pri strankah. 
+Take usmeritve lahko opazimo v Veliki Britaniji od leta 1983, ko je premier Major izdal dokument »Citizens Charter«, v katerem opredeljuje pravice državljanov do državne uprave. 
+Leta 1992 so izdali dokument »Competing for Quality«, v katerem so opredelili petletni ciklus izvajanja sistema za vrednotenje kakovosti storitev javne uprave. 
+Tudi za Francijo je značilna podobna dinamika, saj so tudi tu kakovost javne uprave izboljševali po načelih teorije celovitega obvladovanja kakovosti (TQM). 
+
+z merili uspešnosti, ki se nanašajo na doseganje ciljev združbe oziroma izidov;
+
+Zasebno
+
+V tabeli 3 je prikazana primerjava kategorij modela učinkovitosti in uspešnosti v zasebnem in javnem sektorju. 
+Pri primerjavi so navedeni tudi problemi, ki bi jih bilo treba v sistemu merjenja odpraviti. 
+Problematično je predvsem merjenje učinkov, ki jih v zasebnem sektorju lahko izrazimo vrednostno s ceno (ki kaže tudi kakovost, ki jo izdelku ali storitvi pripisuje porabnik), v javnem sektorju cen ni ali pa niso pokazatelj dejanskih stroškov. 
+Zato so opredeljene točke, ki izražajo porabo dela pri proizvodnji posamezne storitve. 
+Nato pa so na točke vezani še drugi stroški opazovane enote. 
+Cilj je opredeliti pomembnost posameznega dokončanega izdelka ali opredeljene storitve v primerjavi z drugimi. 
+Sistem sicer omogoča tudi določanje cene posamičnemu izdelku ali storitvi javne uprave. 
+
+Absolutni podatki so le redko uporabni v primerjavah med različnimi enotami. 
+Boljšo kakovost informacije o razmerju med raznovrstnimi pojavi dobimo, če uporabimo relativna števila. 
+Metoda relativnih števil je enostavna, saj temelji na osnovnih matematičnih funkcijah. 
+
+Obrazec za izračunavanje:
+
+Sorodni kazalci:
+
+Pri oblikovanju agregatnih kazalnikov je treba osnovne podatke posameznih kazalnikov preoblikovati na način, ki omogoča njihovo agregacijo in ki izraža realna razmerja med posameznimi vrednostmi spremenljivk in različnimi spremenljivkami. 
+Obstajajo različne metode standardizacije. 
+Najpogosteje uporabljene metode so (Seljak, 2000, str. 184-204): 
+
+standardizacija s standardnim odklonom,
+
+Po tem postopku dobimo standardizirane vrednosti spremenljivke v intervalu med 0 in 1. 
+Pri primerjavi različnih enot dobi pri posameznem kazalcu najboljša enota vrednost 1 in najslabša enota vrednost 0. 
+Pri medčasovni primerjavi ene enote, dobi enota v letu, ko doseže najboljši rezultat, vrednost 1 in v letu, ko je dosegla najslabši rezultat, vrednost 0. 
+Vendar je treba pri primerjavah v času zagotoviti opazovanje daljše časovne vrste.
+
+0,98
+
+0,95
+
+0,90
+
+Model standardizacije pri primerjavi institucij s podobno dejavnostjo
+
+– standardizirana vrednost spremenljivke
+
+– najmanjša vrednost spremenljivke v opazovani populaciji 
+
+– največja vrednost spremenljivke v opazovani populaciji 
+
+Izhajamo iz teoretično oblikovanih osnovnih področij, ki naj bi pomembno vplivala na uspešnost in učinkovitost. 
+V idealnem primeru bi lahko vsako od področij ustrezno predstavili z enim kazalnikom (recimo področje izida s kazalnikom davčni prihodki v primerjavi s stroški), vendar so dejavnosti institucij v državni upravi preveč raznolike, da bi bilo to možno. 
+Predvsem od dejavnosti opazovane enote je odvisno, kako obsežna je izbira kazalnikov, ki naj bi ustrezno predstavili opazovano področje. 
+
+Enota 1
+
+0,80
+
+1,00
+
+Vidimo, da je enota 1 najboljša na področju zmožnosti zaposlenih, enota 2 na področju organizacije, kakovosti in izida, enota 3 pa na področju tehničnih virov. 
+Če izračunamo iz ocen posameznih področij pri posamezni enoti povprečje, dobimo skupni kazalnik uspešnosti in učinkovitosti opazovane enote. 
+Te vrednosti kažejo, da je med opazovanimi enotami najbolj uspešna in učinkovita enota 2, sledi enota 1, najslabša pa je enota 3. 
+Če hoče manager v enoti 3 izboljšati rezultate dela, mora izboljšati stanje na področjih zmožnosti zaposlenih, organizacije in izida. 
+
+Podobno metodologijo lahko uporabimo tudi pri primerjavi enot, ki se ukvarjajo z različnimi dejavnostmi, le da v tem primeru ne moremo izhajati iz enakih kazalnikov. 
+Vsaka od proučevanih enota sama (ob pomoči zunanjega nadzornika) določi kazalnike, ki naj bi jih uporabljali pri ocenjevanju posameznih področij. 
+Enostavni kazalniki se torej med primerjanimi enotami razlikujejo, enaka pa morajo biti področja na drugi ravni združevanja, ki smo jih opredelili v teoretičnem delu naloge. 
+Ker enostavni kazalniki niso enaki, ne moremo uporabiti enake metode združevanja kot v prejšnjem primeru. 
+Zato je osnovna kategorija v tem modelu spremljanje spreminjanja v času. 
+Za standardizacijo enostavnih kazalnikov uporabimo obrazec:
+
+Leto 2000 
+
+1,00
+
+Za merjenje uspešnosti in učinkovitosti v javni upravi je najprimernejši model večstopenjskega združevanja podatkov (poglavje Izbira kazalnikov in njihovih uteži). 
+Ta nam omogoča upoštevanje velikega števila dejavnikov, ki vplivajo na vrednosti pojava in jih je razmeroma težko enolično opredeliti. 
+V tem modelu dobimo agregatne kazalce na različnih stopnjah združevanja, ki kažejo stanje oziroma spremembe na vsakem od vključenih področij. 
+Zaradi različnosti dejavnosti organov javne uprave sta enotni samo prva in druga raven združevanja, oblikovanje agregatnih kazalnikov na nižjih ravneh združevanja in enostavnih kazalnikov pa je prepuščeno managerjem posameznih institucij. 
+Tako dobimo za vsako institucijo en agregatni kazalnik prve stopnje združevanja in pet kazalnikov druge stopnje združevanja. 
+Ti bodo enako opredeljeni v celotnem sistemu javne uprave. 
+Na nižjih ravneh lahko managerji združujejo kazalnike različno v skladu z značilnostmi področja, na katerem deluje njihova institucija. 
+
+(PIPA2-4)
+
+Množica posamičnih kazalnikov ali združevanje na ravni PIPA3, PIPA4 …
+
+Po tem postopku dobimo sistem kazalnikov uspešnosti in učinkovitosti v javni upravi (The Performance Indicators of the Public Administration – PIPA), ki je do druge ravni (torej PIPA1 in PIPA2) predpisan in enoten, na nižjih ravneh (PIPA3, PIPA4 itd., enostavni kazalniki) pa lahko managerji izberejo kazalnike ali področja, ki so za njihovo institucijo najprimernejši. 
+Pet osnovnih skupin kazalnikov (opredeljenih v poglavju Sistem kazalnikov merjenja uspešnosti in učinkovitosti v javni upravi) na drugi ravni združevanja lahko dopolnimo z dodatnimi ravnmi združevanja, značilnimi za posamezno vrsto dejavnosti. 
+Pri merjenju uspešnosti in učinkovitosti davčnih uradov je uporabljena tretja in četrta raven združevanja. 
+
+Davčno upravo RS vodi Generalni urad, ki opravlja upravno funkcijo. 
+Poleg Generalnega urada jo sestavlja še štirinajst davčnih uradov in Posebni davčni urad. 
+Davčni uradi so ustanovljeni za posamezno lokalno območje in imajo izpostave kot dislocirane notranje institucijske enote. 
+Posebni davčni urad pa opravlja naloge davčnega urada na vsem območju Republike Slovenije. 
+
+Vir: http://www.gov.si/durs/index.php, 18. 10. 2003.
+
+Davčni uradi izvajajo davčno funkcijo na regionalni ravni. 
+Odmerjajo in pobirajo davke, vodijo predpisane evidence, odločajo o davčnem postopku na prvi stopnji, opravljajo kontrolo in inšpekcijske preglede davčnih zavezancev. 
+Vzdržujejo register davčnih zavezancev na lokalni ravni, evidentirajo podatke o obračunanih in plačanih davkih ter denarnih kaznih, izvajajo postopke prisilne izterjave davkov in denarnih kazni, izvajajo poračun preveč plačanih davkov, izdajajo potrdila o plačilu obveznosti in opravljajo druge naloge v skladu z zakonom in predpisi. 
+Podrejene so jim izpostave na lokalni ravni. 
+
+organiziranje in vodenje davčnega informacijskega sistema,
+
+spodbujanje plačevanja davkov kot državljanske vrednote,
+
+V Sloveniji davčni nadzor obsega davčno kontrolo in inšpekcijske preglede. 
+Kontrolo izvajajo kontrolorji največkrat v pisarnah uradov. 
+Preverjajo poslovanje zavezancev. 
+Ker je osnovni cilj davčne uprave pravilno pobrati odmerjene davke, stopnja doseganja tega cilja izraža uspešnost uprave. 
+Uspešnost se kaže v ugotavljanju zapoznelih plačil, ugotovljenih zneskih premalo plačanih davkov, neplačil in zamud. 
+Kontrolor je odgovoren za eno vrsto davka in pri zavezancih kontrolira le pravilnost postopkov pri tem davku. 
+Tak pristop imenujemo en kontrolor – en davek in je uveljavljen v večini davčnih uradov. 
+Prednosti tovrstnega pristopa so specializacija kontrolorja, poznavanje davka in hitrejša obravnava zavezanca. 
+Drug pristop zahteva prehod na nov sistem obravnave zavezancev: en kontolor – več davkov. 
+Osnovna prednost drugega načina je nedvomno vpogled kontrolorja v vse davčne obveznosti zavezanca, ki mu omogoča celovito analizo. 
+Ker je drugi način nasprotje prvega, predvidevamo, da prednosti prvega pomeni slabosti drugega. 
+Torej, kontrolor je manj specializiran, pregled v povprečju traja dlje itd. 
+Ta način se izvaja pilotsko v dveh davčnih uradih. 
+
+Davčna utaja ima vrsto negativnih učinkov na gospodarstvo. 
+Velik obseg utaj povečuje javni deficit. 
+To pomeni, da mora država proračunsko neskladje pokrivati na dražji način, to je z zadolževanjem. 
+Posledica zadolževanja je dodaten pritisk na davčne zavezance in zviševanje davčnih stopenj, to pa pomeni nove probleme. 
+Zmanjševanje davčnih utaj in splošna kontrola, ki jo izvajajo organi v sestavi ministrstev, je gotovo pomembna naloga. 
+
+Pritožbe nam služijo kot kazalnik kakovosti dela zaposlenih na davčnih uradih. 
+Vsaka institucija z visoko ravnjo kakovosti storitev ima v očeh strank podobo, ki je enkratna in drugačna od drugih. 
+To pomeni, da mora korektno obravnavati vsako stranko, delati v skladu z zakoni in predpisi ter spoštovati zakonsko določene roke za izvedbo storitev, za katere je odgovorna. 
+Zato so v to skupino vključeni kazalniki pritožb, širše pa zajemamo število prejetih pritožb na delo organa, število zavrnjenih vlog, število odstopljenih vlog na drugostopenjsko rešitev idr.
+
+Med druge naloge uvrščamo vodenje, vzdrževanje računalniških sistemov in svetovanje. 
+Slednje bi moralo biti lastno vsakemu zaposlenemu. 
+Na podlagi dobrih izkušenj tujih davčnih administracij in predlogov domačih strokovnjakov so tudi na davčnih uradih v Sloveniji uvedli svetovalno službo. 
+Zaposlili so svetovalce, ki zavezance informirajo o davčnih postopkih, davčnih novostih, vlaganju odmer … 
+Večinoma gre za telefonsko svetovanje, pri katerem svetovalec daje napotke glede davčnih postopkov in s tem izboljšuje pravilnost napovedi, zmanjšuje delo kontrolorjev ter navsezadnje povečuje zadovoljstvo zavezancev ter kakovost storitev. 
+
+porabljeni čas zaposlenih – tudi pri porabljenem času je zelo pomembno, da ga je mogoče deliti po različnih davkih; če je možno, naj bi vsak delavec izpolnjeval podatke o porabljenem času. 
+
+administrativni stroški (stroški davčnih uprav);
+
+ni natančne evidence porabe časa.
+
+Vrednosti prihodkov davčnih uprav so zato prilagojene navedenim ugotovitvam. 
+Pri postopku prilagajanja je uporabljen bruto domači proizvod po regijah. 
+BDP je enak dodani vrednosti v osnovnih cenah (povečani za davke na izdelke in storitve ter zmanjšani za subvencije za izdelke in storitve) in je torej (poenostavljeno povedano) največja osnova za pobiranje davka. 
+Davčni prihodki so »popravljeni« z indeksi BDP na osebo po regijah. 
+Če so dejanski davčni prihodki v DU Ljubljana in v DU Ptuj 1000 tolarjev, pomeni to popravljeno v DU Ljubljana 746 tolarjev (1000/1.34), v DU Ptuj 1299 tolarjev (1000/0.77). 
+
+Vzrok za takšno spremembo je indeks BDP/prebivalca, ki ima za osnovo slovensko povprečje. 
+Ta indeks znaša za osrednjeslovensko regijo 134, za pomursko pa 77. 
+BDP/prebivalca je v osrednjeslovenski regiji (oziroma DU Ljubljana) skoraj enkrat večji (13543 USD/prebivalca) kot pa v pomurski regiji (7740 USD/prebivalca) (Statistični letopis 2002, str. 558).
+
+V tabeli 9 so prikazane osnovne in popravljene vrednosti davčnih prihodkov na zaposlenega v posameznih davčnih uradih. 
+Do bistvenega zmanjšanja vrednosti kazalnika je prišlo pri DU Ljubljana, vendar to njegovega mesta v ranžirni vrsti ni spremenilo (kljub temu je močno na prvem mestu). 
+Vrstni red drugih DU se je nekoliko spremenil: napredovala je recimo DU Hrastnik (ker ima nizek BDP/prebivalca), DU Koper pa je precej nazadovala (ker ima visok BDP/prebivalca). 
+
+Davčni prihodki na zaposlenega
+
+Vrednosti kazalnika (1000 tolarjev)
+
+Rang
+
+Ljubljana 
+
+Kranj 
+
+331697
+
+5
+
+11
+
+305711
+
+Murska Sobota 
+
+Skupaj
+
+odločbe za nadomestilo za uporabo stavbnega zemljišča,
+
+Podatki o porabljenem času za posamezni učinek so določeni na podlagi pogovorov in poročil davčnih uradov. 
+Podatki o številu zavezancev za posamezen davek so podatki Davčne uprave RS. 
+V pilotni raziskavi so bili izračuni narejeni za prve štiri skupine davkov, inšpekcijo, prisilno izterjavo in pritožbe.
+
+3
+
+5
+
+5
+
+Vnos podatkov iz napovedi in popisnih listov dohodki iz kapitala – vrednostni papirji
+
+5
+
+Vir: Andoljšek, 2004.
+
+Skupina 3: dohodninske davčne napovedi – dohodki iz kmetijstva 
+
+Skupina 5: dohodninske davčne napovedi – 
+
+Izračunavanje števila točk
+
+Točke so izražene v enaki enoti mere in jih lahko uvrščamo v razmernostno mersko lestvico, lahko jih seštevamo, odštevamo, množimo in delimo. 
+V tabeli 12 je prikazan odstotek posameznih področij dejavnosti davčne uprave v skupnem doseženem številu točk. 
+Posredno kaže tudi odstotek dela in skupnih stroškov, namenjen posameznim učinkom davčnih uradov. 
+Ugotavljamo, da je največ dela davčne službe namenjenega obdelavi dohodnin, inšpekciji, DDV in prisilni izterjavi. 
+
+7548955
+
+Število doseženih točk – skupaj
+
+Odhodki na točko
+
+13552188
+
+64,8
+
+Sistem kazalnikov učinkovitosti in uspešnosti davčne uprave
+
+Vložek/vložek
+
+Učinek/učinek
+
+Izid (PIPA2-5)
+
+Davčni prihodki na zaposlenega
+
+Popravljeni prihodki od prispevkov za socialno varnost na zaposlenega
+
+011
+
+Zaporedna številka kazalnika:
+
+Kazalnik:
+
+Rang
+
+DU Brežice 
+
+4
+
+306635
+
+Indeks
+
+96
+
+343476
+
+263189
+
+105
+
+178344
+
+019
+
+Pri kazalnikih, ki naj bi kazali učinke v prihodnosti, je v imenovalcu število zaposlenih, v števcu pa so:
+
+Delež z dela odsotnih zaposlenih zaradi izobraževanja
+
+Sredstva za jubilejne nagrade na zaposlenega
+
+Delež zaposlenih, mlajših od 30 let
+
+Pri merah izida so v imenovalcu vložki tehničnih virov:
+
+Popravljeni davčni prihodki na računalnik
+
+Pri merah učinkov so v imenovalcu uporabljene enake kategorije kot pri merah izida. 
+V števcu je uporabljena agregatna mera fizičnega učinka (točke). 
+
+051
+
+Število doseženih točk za dohodnino na tekoče odhodke za blago in storitve 
+
+055
+
+Število doseženih točk iz pritožb na tekoče odhodke za blago in storitve 
+
+Delež zaposlenih na področju informatike med vsemi zaposlenimi
+
+069
+
+073
+
+074
+
+Dodatno ugotovljene obveznosti pri inšpekcijskih pregledih na zaposlenega
+
+077
+
+Učinek povečanja, zmanjšanja davka zaradi kontrole na zaposlenega
+
+Fizične mere organizacije na področju tehničnih virov
+
+Opravljeni inšpekcijski pregledi na tekoče odhodke za blago in storitve 
+
+Tekoči odhodki za blago in storitve na točko
+
+Tekoči odhodki za prevozne stroške in storitve med vsemi tekočimi odhodki
+
+124
+
+Tekoči odhodki za najemnine in zakupnine med vsemi tekočimi odhodki
+
+V poročilih OECD-ja (2001, str. 27) navajajo, da je najpogostejša ugotovitev v poročilih o merjenju uspešnosti in učinkovitosti, da je kakovost težko meriti. 
+Tudi v tej analizi so uporabljeni le nadomestni kazalniki kakovosti dela davčnih uradov in še to na razmeroma ozkem področju. 
+Vključeni kazalniki skušajo meriti kakovost z gledišča davčnih zavezancev. 
+To merijo kazalniki pritožb in kazalniki enakosti. 
+Pritožbe so zunanje znamenje nezadovoljstva zavezancev z delom davčnih uradov in tudi slabega dela (pri upravičenih pritožbah) davčnih uradnikov. 
+Enakost obravnave državljanov pa je eden od glavnih ciljev vsake javne ustanove. 
+V drugi skupini kazalnikov kakovosti so mere, ki bodo merile, ali so davčni zavezanci enako obravnavani ne glede na to, kateri davčni urad opravlja storitve zanje. 
+
+Delež ugodenih pritožb med vsemi pritožbami za dohodnino
+
+139
+
+141
+
+Znesek plačanih sklepov o prisilni izterjavi na 1000 tolarjev izdanih – davki na premoženje
+
+napake, povezane z ocenjevanjem in zaznavanjem. 
+
+176
+
+Kazalniki davčnega dolga
+
+Izterljivi dolg v prihodkih – domači DDV
+
+Izterljivi dolg v prihodkih – davek od dobička pravnih oseb
+
+187
+
+Zmožnosti zaposlenih (PIPA2-1)
+
+0,00
+
+0,30
+
+0,70
+
+0,44
+
+0,50
+
+DU 7 
+
+0,33
+
+0,57
+
+0,56
+
+0,89
+
+0,54
+
+Slika 11: Vrednosti PIPA1 za najboljše in najslabše ocenjene davčne urade
+
+Tabela 32: Kazalniki druge (PIPA2) in tretje (PIPA3) ravni
+
+Mera učinka tehničnih virov (PIPA3-5)
+
+0,65
+
+0,20
+
+0,11
+
+0,69
+
+0,60
+
+0,54
+
+1,00
+
+0,61
+
+0,35
+
+172
+
+1
+
+Cassells, F. in Thornhill, D.: Self Assessment and Administrative Tax Reform in Ireland. 
+V: Sandford Cedric (ed.): Key Issues in Tax Reform. 
+Bath, Fiscal Publications, 1993, str. 152–178.
+
+Jerovšek, T.: Razmerja med organi v sestavi ministrstev in ministrstvi. 
+Dnevi sloveske uprave Portorož, Ljubljana, 2002, str. 119–130.
+
+Kavčič, B.: Dejavniki japonske gospodarske uspešnosti. 
+Teorija in praksa št. 6, 1988, str. 810–819. 
+
+Klun, M.: Merjenje »performansa« v javni upravi, primer davčne uprave. 
+Javna uprava, letnik 39, 2003, št. 2, str. 149–156. 
+
+Košmelj et al.: Statistično sklepanje. 
+EF, Ljubljana, 2000, 312 str.
+
+Newland, C.: Symposium on Productivity in Governament. 
+Public Administration Review, 1972, str. 739–850.
+
+Pollitt et al.: Quality Improvement in European Public Services: Concepts, Cases and Commentary. 
+SAGE, London, 1995, 190 str.
+
+Rouse, J.: Performance Management, Quality Management and Contracts. 
+V: Halton, S. in Farnham, D.: Public Management in Britain, Basingstoke, MacMillan, 1999, str. 76–93. 
+
+Rowley, J.: Quality Measurement in the Public Sector: Some Perspectives from the Service Quality Literature. 
+Total Quality Menedžment, 9, 1998, str. 321–335. 
+
+Schwartz, R: Coping with the Effectiveness Dilemma: Strategies Adopted by State Auditors. 
+International Review of Administrative Sciences, 65 (1999), 4, str. 511–526.
+
+Tavčar, M.: Management proizvajanja. 
+V: Možina et al.: Management, Radovljica, 1994, str. 742–771.
+
+U. S. Governament: Creating a Governament That Works Better and Costs Less: Report of the National Performance Review. 
+Washington D. C., 1993, 323 str.
+
+Welch, S. in Comer, J.: Qualitative methods for public administration. 
+3th ed., Dorsey Press, Chicago, 2001, 225 str. 
+
+Zakon o javnih naročilih, Uradni list RS, št. 39/2000.
+

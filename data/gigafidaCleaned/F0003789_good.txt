@@ -1,0 +1,68 @@
+Novi analitski elektronski mikroskop Jeol JEM-2010F sodi po načinu delovanja med tako imenovane presevne (transmisijske) elektronske mikroskope in omogoča poleg opazovanja materialov pri zelo velikih povečavah tudi kvalitativno in kvantitativno kemijsko analizo preiskovanega vzorca, tako rekoč na atomarnem nivoju.
+Kot pri vseh presevnih elektronskih mikroskopih tudi pri JEM-2010F »opazujemo« material z uporabo pospešenih elektronov v visokem vakuumu.
+Kot vir elektronov uporablja JEM-2010F posebni, tako imenovani »field-emission« vir, pri katerem elektroni tunelirajo iz zelo ostre konice monokristala volframa v visoki vakuum.
+Krivinski radij na koncu igle meri samo nekaj nm (1 nm = 1 nanometer = 10-9 m = milijardinka metra).
+V električnem polju (2 x 105V) se elektroni pospešijo vzdolž kolone mikroskopa in se z magnetnimi lečami oblikujejo v zelo tanek curek.
+Magnetne leče imajo podobno vlogo kot brušene steklene leče pri optičnih mikroskopih.
+Curek elektronov nato usmerimo na ustrezno pripravljeni vzorec materiala.
+Osnovna zahteva je, da je vzorec preseven za elektrone (od tod tudi ime presevna oziroma »transmisijska« elektronska mikroskopija).
+To pa pomeni, da morajo biti vzorci pravzaprav zelo tanke folije materiala, debele samo nekaj deset nm.
+Elektroni, ki prodrejo skozi vzorec, na koncu trčijo v fluorescenčni zaslon in s pojavom luminescence tvorijo sliko materiala, ki jo lahko neposredno opazujemo ali posnamemo na negativ, ali pa shranimo v digitalni obliki.
+Novi analitski elektronski mikroskop JEM-2010F omogoča ne samo slikanje materialov pri velikih povečavah, ampak tudi določevanje kemijske sestave preiskovanih materialov in situ.
+Kvalitativno in kvantitativno kemijsko analizo opravljamo z različnima spektroskopskima metodama.
+Prva je tako imenovana disperzijska spektroskopija rentgenskih žarkov (EDS).
+Pri interakciji elektronskega curka z materialom se namreč nekaj energije elektronov porabi za nastanek karakterističnih rentgenskih žarkov elementov, ki material sestavljajo.
+Z ustreznim detektorjem lahko posnamemo energijski spekter rentgenskih žarkov, iz katerega dobimo podatek o kemijski sestavi.
+Druga spektroskopska metoda je tako imenovana spektroskopija izgub energije elektronov (EELS).
+Pri prehodu elektronov skozi material namreč vsi elektroni ne ohranijo enake energije.
+Z analizo spektra, ki prikazuje, kako so elektroni izgubili energijo pri prehodu skozi material, dobimo poleg podatkov o sestavi tudi pomembne podatke o koordinaciji in valenčnem stanju atomov.
+Detajl je bil posnet v svetlem (a) in temnem (b) polju.
+Posnetke so prispevali: dr. Aleksander Rečnik, dr. Darko Makovec, Nina Daneu, dipl. ing., Sašo Šturm, dipl. ing, dr. Miran Čeh
+Pogled na analitski elektronski mikroskop JEM-2010F razkriva vso kompleksnost aparature.
+V ozadju mikroskopa je viden visokonapetostni tank, ki zagotavlja izredno stabilno pospeševalno napetost elektronov 200 kV.
+Izjemna občutljivost aparature za motnje iz okolice (vibracije, elektromagnetne motnje) zahteva posebno adaptacijo prostora.
+Glede mokrišč je voda tisti dejavnik, ki v okolju prevladuje in zato kroji življenjski prostor posebnim organizmom, ki so se skozi tisočletja prilagodili vlažnim razmeram.
+To prilagajanje je torej dolgotrajen proces, prav tako kot je bilo dolgotrajno tudi vzpostavljanje razmer v biotopu.
+Zaradi naravnih katastrof (požarov, potresov, poplav, viharjev) in človekovih posegov se razmere v okolju ves čas spreminjajo, biotopi pa na novo vzpostavljajo.
+Glasnik UNESCO torej ni brezplačna revija, brezplačno je le delo uredništva, peščice navdušencev, ki jih od številke do številke ni sram beračiti, da bi ta vrhunska revija preživela - nerazumnikom navkljub, razumnikom v veselje in mladim za globlje dozorevanje.
+Slovensko genetsko društvo vabi v okviru 2.
+Kaj je to informacijski sistem?
+V Sloveniji imamo že več podjetij, ki jih izdelujejo za druga podjetja in za različne organizacije, ki brez tega danes praktično že ne morejo več poslovati.
+Imamo pa tudi Tehnološki park Ljubljana, v katerem je že več deset podjetij.
+In ker je največjo rast v parku dosegel K&S Consulting, smo o razvoju informacijskih sistemov povprašali kar njegovega direktorja Mirana Kocjančiča.
+Ja, kar po svoje, tako da je potem končni izdelek ves zakrpan in pogosto tudi skrpucalo.
+Tudi pri našem delu je tako.
+Zato kmalu nastane cela množica problemov, razloge zanje pa iščejo drugje, ne pa v dejstvu, da nekega celovitega pogleda na stvar sploh ni bilo.
+Vse skupaj se potem ustavi pri sektorju za informatiko, ki je na lepem vsega kriv, in seveda pri nezadovoljnih uporabnikih.
+Edino, kar je velika ovira - vsaj pri tem, kar počnemo mi - je dejstvo, da smo pogosto nekoliko preveč zaplankani in preveč usmerjeni zgolj v delo.
+Generacijo, ki je zdaj stara okrog 40 let, so vsa leta vzgajali, da je delo najvišja vrednota.
+Ko pa smo prišli v svet informatike, smo ugotovili, da je delo pač samo delo.
+Da nima nobene zveze z denarjem.
+Ta premik moramo narediti.
+Izvajalci tujih idej bomo.
+Naštete korake so podrobneje obdelali in jih utemeljili z računi.
+Običajni blisk naj bi povzročil nastanek nanodelcev iz silicija, silicijevega oksida in silicijevega karbida z deleži, ki so odvisni od razmerja med ogljikom in silicijevim dioksidom v izhodni snovi.
+Pri pravem razmerju bi prevladal tekoči silicij, ki bi se pri hitrem ohlajanju izločil v obliki nanodelcev.
+Pri reakciji s kisikom bi se pojavilo postopno sproščanje energije, ker bi kisik počasi dotekal v notranjost krogle iz nanodelcev.
+Ruski raziskovalci V. J. Aleksandrov, E. M. Golubev in I. V. Podmošeski so že leta 1983 objavili članek o pomenu aerosolov za krogelni blisk, ne da bi razčlenili mogoče reakcije.
+Turner, ki smo ga omenili, je poudaril pomen vlage pri reakcijah v kroglastem blisku.
+Abrahamson in Dinniss sta se pri poskusih z umetnimi običajnimi bliski prepričala, da nastanejo nanodelci silicija z velikostjo okoli sto nanometrov in se povežejo v stokrat daljše verige in te v tvorbo, ki spominja na dendrite.
+Pri tem ima lahko pomembno vlogo odbojna sila zaradi naelektrenih delcev.
+Običajni bliski zapustijo v pesku steklaste tvorbe, fulgurite, ki bi lahko vplivali na nastanek kroglastega bliska.
+Pri poskusih z okroglo vdolbino, kakršna bi lahko nastala na vrhu fulgurita, so dobili sveteče krogle s premerom nekaj deset centimetrov, a obstajale so samo nekaj tisočin sekunde.
+Znano je tudi, da nastanejo kovinski nanodelci, če preskoči običajni blisk na kovino.
+Tako bi lahko bili pri nekaterih kroglastih bliskih vpleteni tudi kovinski nanodelci.
+ovost na internetu bodo v kratkem spletne strani Ministrstva za zdravstvo Republike Slovenije (naslov je http://www.gov.si/mz), namenjene zdravemu načinu življenja z orisom dejavnikov tveganja in dejavnikov zdravja, ki so še v pripravi.
+Stran se imenuje Zdravje Slovencev v 3. tisočletju.
+Poudarek bo za zdaj na zdravi prehrani in telesni aktivnosti.
+V prvem delu bodo bralci našli splošne podatke o živilih, načinu pripravljanja hrane, kuharske recepte, jedilnike, nasvete v zvezi z zdravim načinom prehranjevanja in povezave (»linke«), na katerih bodo našli obširnejše podatke o posameznih naštetih temah.
+V drugem delu pa bodo na voljo podatki o športu in rekreaciji ter »on-line« merilec telesne teže.
+Otroci in njihovi starši lahko izbirajo med »peresniki« živahnih barv, ki omogočajo samodejno injiciranje - dovolj je le pritisk na gumb.
+Glavobol, bolečina tisočletja, ki samo v sosednji Italiji prizadene okrog 5 milijonov ljudi (3-krat več žensk kot moških), vseh starosti (največ med 18 in 65 letom), sodi po ugotovitvah poznavalcev med kronična, progresivna obolenja, ki v veliki meri spodbujajo obolevnost, delanezmožnost in invaldinost aktivne populacije ter znatno prispeva k porastu bolniškega staleža.
+Visoki so tudi stroški preprečevanja in lajšanja oziroma zdravljenja omenjene patologije.
+Ko je celica zadeta in okvarjena, že lahko govorimo o drugi fazi.
+Rečemo ji lahko tudi biološka faza.
+Ta traja od nekaj ur prek nekaj tednov do več let, odvisno, katere celice so prizadete.
+Celice imajo zmožnost popravljanja napak, tako imenovani »repair mehanizem«.
+Mateja Režek je postala doktorica znanosti z disertacijo Politične spremembe v Sloveniji v desetletju po sporu z informbirojem.
+Polona Dobnik - Dubrovski je postala doktorica znanosti z disertacijo Vpliv geometrije biaksialnih tkanin na njihovo poroznost.

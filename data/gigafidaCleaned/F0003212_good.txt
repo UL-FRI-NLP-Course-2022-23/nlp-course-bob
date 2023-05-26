@@ -1,0 +1,11 @@
+Sestavil Mark Huckvale
+Čar sudokuja je dvojen: prvič, zanj ni potrebno znanje nekega jezika ali kako drugo posebno znanje, in drugič, če je naloga pravilno zastavljena, je rešitev vedno samo ena, dosežemo pa jo z logičnim razmišljanjem in izločanjem, brez ugibanja.
+Sudoku pomeni nekaj takega kot »razvrščanje številk«, toda beseda »številka« naj vas ne zavede: sploh ni treba, da ste dober matematik ali da v glavi zlahka obračate števila.
+Sudoku je izziv čiste logike, številke pa so zgolj simboli.
+Namesto njih bi lahko uporabljali tudi risbe cvetlic ali geometrijske like.
+Pomembno je to, da jih je devet, in cifre od ena do devet so zato kot nalašč za to igro.
+– v vsaki vrstici devetih polj je vsaka številka vpisana le enkrat,
+Za lažje razumevanje bom najprej opisal, kako rešujemo osnovni sudoku različico, ki vsebuje 2 x 2 kvadrata, vsak kvadrat pa 2 x 2 polji.
+Vsaka vrstica, stolpec in kvadrat morajo vsebovati številke od 1 do 4.
+Spodaj je primer osnovnega sudokuja in rešitve.
+In to je vsa umetnost!

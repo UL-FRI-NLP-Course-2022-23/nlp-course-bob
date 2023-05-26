@@ -1,0 +1,13 @@
+O izkoriščanju vpliva majhnih motenj je na začetku 50. let tega stoletja razmišljal ameriški matematik John von Neumann, ki sicer velja za neke vrste očeta današnjih digitalnih računal.
+Omenjal je možnost, da bi z majhnimi, načrtovanimi atmosferskimi motnjami lahko vplivali na vreme v bližnji prihodnosti in ga po želji spreminjali.
+Od takrat je preteklo kar štirideset let in vemo, da z vremenom še danes ne upravljamo.
+Zato pa je bilo v zadnjih petih letih razvitih veliko metod za krmiljenje kaotičnih
+procesov, ki sicer niso tako kompleksni kot vreme, vendar so zaradi kaotične narave pri njih klasične metode krmiljenja
+Ob znanem začetnem stanju lahko v idealnem primeru (kadar motenj iz okolice ni) dokaj natančno napovemo končno stanje.
+Če pa je začetno stanje le malo spremenjeno, je razlika v končnem lahko
+uporabljana metoda temelji prav na uporabi majhnih, izbranih motenj.
+Z njihovo pomočjo je mogoče kaotično obnašanje procesa spremeniti v periodično.
+Dokazano je namreč, da je v kaotičnem procesu skrito neskončno mnogo periodičnih gibanj, ki pa so nestabilna in jih zato navzven ne opazimo.
+Če bi bilo katero od njih stabilno, bi proces deloval periodično in ne kaotično.
+Dejansko proces nekaj časa približno sledi nekemu periodičnemu gibanju; zaradi nestabilnosti ga hitro zapusti ter sledi drugemu periodičnemu gibanju -- in zgodba se ponavlja v nedogled.
+Tako na kaotični proces lahko gledamo kot na proces, ki hitro spreminja nihaj svojega periodičnega gibanja in zato daje vtis neperiodičnosti in naključnosti.

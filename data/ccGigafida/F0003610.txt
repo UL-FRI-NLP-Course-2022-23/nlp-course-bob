@@ -1,0 +1,11 @@
+sistemom, imenovanim variabilni VANOS M3. 
+Sam sistem VANOS, s kakršnim so opremljeni motorji v modelih BMW 320i, 325i, 520i in 525i, ima dve možni stopnji delovanja, medtem ko se ponaša 
+
+prilagodljivostjo pogojem delovanja motorja in zahtevam, torej poskrbi za optimalno delovanje motorja pri vsakem številu 
+
+-- Računalnik sistema VANOS 
+
+-- Dva označitvena koleščka za pozicioniranje lege odmične gredi.
+
+Krmilna shema variabilnega sistema VANOS M3
+

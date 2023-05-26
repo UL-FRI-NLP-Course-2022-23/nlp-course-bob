@@ -1,0 +1,18 @@
+se na ovitku razglaša za 'ključni multimedijski referenčni vodnik po svetovni zgodovini'.
+Še več, ko program poženeš, se nad naslovom prikaže še napis 'enciklopedija'.
+Ampak že po prvem sprehodu ti postane jasno, da nikakor ne gre za enciklopedijo, ampak zgolj za računalniško preslikavo ene tistih podatkovno površnih, likovno pa toliko bolj bogatih poljudnih knjig, ki jih tako radi kupujejo analfabeti današnjih dni.
+Saj poznate te 'priročnike', v katerih vsaka dvojna stran obravnava po eno osrednjo ilustrirano temo, okrog nje pa so organizirane dopolnilne podteme spet s svojimi ilustracijami.
+V naši 'enciklopediji' je na primer 2. svetovna vojna, ki nedvomno zahteva bolj nadrobno in obenem širšo obravnavo kot večina drugih konkretnih zgodovinskih tem, predstavljena z glavnim (povzemnim) člančičem, ki obsega cca. 6 vrstic.
+Poleg ene ilustracije in enega videa je mogoče od tod s klikanjem odpirati in zapirati še okenca s podtemami: holokavst (5 vrstic plus slika), zavezniško napredovanje (8 vrstic + preprosta skica prebojev), bombardiranje Londona (8 vrstic + slika + video), potek vojne (45 vrstic brez vizualij).
+V glavnem tekstu sta še dve obarvani gesli - blitzkrieg in Tretji rajh - in če klikneš nanju, boš priklical še nekajvrstični razlagi zanju.
+Potem je tu še ikona z 'glavnimi datumi': pri tem geslu sem jih naštel 27, obsegajo pa od 1 do 3 vrstice besedila.
+Vsega je torej besedila cca. 125 vrstic (po cca. 75 znakov), kar znese 9375 znakov oziroma tretjino avtorske pole.
+Ker je zgodovina v programu razdeljena v 10 časovnih obdobij, v vsakem obdobju pa posamezne kontinente zastopa po 10-16 tem, je takšnih in podobno obdelanih tem torej cca. 130.
+Besedila je torej 40-50 pol - ravno prav za knjigo velikega formata.
+Dodani so še štirje 'leksikončki', ki obravnavajo 'vsakdanje življenje', 'kulturo', 'iznajdbe' in 'biografije', a ti ne zavzemajo ne vem koliko prostora, saj obsega biografski leksikon, ki je od teh najobsežnejši, vsega 78 življenjepisov po 10-30 vrstic.
+Iznajdbe, kulturo in vsakdanje življenje (ki se deli tu na 'hrano', 'obleko' in 'zdravila') pa po cca. 35 gesel.
+Mogoče bodo po tej zgodovini z veseljem listali tisti, ki jim je vseeno, na kaj bodo naleteli.
+Nemogoče pa ga je uporabljati kot referenčnik.
+Takšno iskanje predpostavlja vnaprej določen cilj ali vsaj vnaprej določeno smer.
+Kdor ve, kaj (približno) išče, bo razočaran, kajti v programu je kratko malo preveč podatkovnih lukenj in belih lis.
+Pač še ena hedonistična ('paša za oči') izdaja, preoblečena v platnice praktičnega priročnika.

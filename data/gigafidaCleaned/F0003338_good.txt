@@ -1,0 +1,4 @@
+Omenili smo že, da igra pri detekciji nabitih delcev pomembno vlogo ionizacija v snovi.
+V določevanja mesta nastanka ionizacije se ne bomo spuščali podrobno.
+Omenimo le, da v ta namen pogosto uporabljamo detektorje, napolnjene s plinom in prepredene z množico tankih žic (debelih stotinko milimetra), dobimo pa električne signale, ki nam povedo, kje je ionizacija nastala.
+Obdelavo merskih podatkov razdelimo v grobem na tri dele:

@@ -1,0 +1,525 @@
+Vsi zgoraj omenjeni monitorji so vendarle dokaj dragi, zato smo se odločili podeliti še en zlati Monitor, in sicer modelu, ki za precej manj denarja še vedno ponuja dobro sliko.
+To je LG Flatron 775FT, ki stane okoli 72.000 tolarjev in je torej res ugoden nakup.
+Slika je dovolj ostra in kontrastna, sprijazniti pa se bo treba z nekolikšno občutljivostjo za svetlost, ki moti pri preklapljanju med okni.
+V poslovnem svetu, ki ga je na osebni ravni zakoličil IBM PC, monitor ali ne monitor nikoli ni bilo vprašanje.
+»V paketu« smo poleg računalnika dobili tudi majhen, 14-palčni črno beli (ali črno zeleni) monitor.
+Resda je znal prikazovati samo znake, grafičnih podob pa ne in res je tudi, da so Spectrumi že prej poznali barven prikaz, toda za poslovni računalnik to ni bila nobena hiba.
+Ameriško podjetje Hercules je obstoječemu znakovnemu prikazu s svojo grafično kartico dodalo še visokoločljivi (720 × 348 pik) grafični, vendar še vedno črno beli prikaz, ki je omogočal delo z obstoječim, prej le znakovnim monitorjem in je zato dosegel velik uspeh (danes podjetje Hercules ne obstaja več, smo pa še lani pri njih lahko kupili zelo dobre grafične kartice 3D).
+Vse to in še kaj so lastnosti, o katerih bi se moral vsak kupec pred nakupom monitorja prepričati sam (o ceni in garancijski dobi se gotovo vsak prepriča).
+Težava je v tem, da večina uporabnikov monitor kupuje vsakih nekaj let (povprečen monitor preživi več računalnikov) in da nikakor nima primerjalnega pregleda nad drugimi monitorji na tržišču.
+In tudi če bo prodajalca uspel prepričati, naj mu monitor, ki ga namerava kupiti, pokaže in priklopi na računalnik, mu to ne bo kaj dosti pomagalo.
+Na ta način se da sicer odkriti nekaj očitnih in velikih anomalij, podrobnosti pa ne.
+Frekvenčno je sicer dovolj zmogljiv za ločljivost 1280 × 1024 pik, vendar je slika zelo neostra in meglena.
+Pri ločljivosti 1280 × 1024 pik bi se s tem monitorjem pogojno dalo tudi delati (če odmislimo, da so črke pri taki ločljivosti na 17-palčnem monitorju premajhne), vendar je zgornji levi rob zelo meglen in neoster.
+Drugi Hyundaiev model je še cenejši (in frekvenčno šibkejši), a po nekaterih lastnostih boljši (drugod pa spet slabši).
+Na pogled se modela skorajda ne razlikujeta, pa tudi nastavitveni menu imata enak.
+Videti je, kakor bi nastal kje drugje, ne v tovarni, iz katere prihajajo kakovostni Iiyamini modeli Vision Master.
+Od njih se namreč razlikuje tako po zunanjosti (ki učinkuje nekako »osnovno«) kot po nastavitvenih menujih; ti so precej nerodni in nekoliko špartanski.
+V Vision Master 404 je vgrajena natančna elektronika, saj ob hitrih svetlih prehodih slika popolnoma nič ne utripa.
+Žal pa je vendarle kar precej občutljiv za svetlost in to se v določenih primerih opazi tudi med preklapljanjem s programa na program.
+Slika je na sredini zaslona zelo ostra, v vogalih pa nekoliko manj.
+To je očitno predvsem na namizju z belimi črkami na modro zelenem ozadju.
+Enakomernost slike je dokaj dobra, čeprav ne vrhunska.
+Pri navadnem delu s tem vsekakor ni težav.
+Slika je živa, pa tudi s konvergenco je vse videti v najlepšem redu.
+Tudi Likomovi monitorji so namenjeni kupcem, ki gledajo predvsem na ceno.
+Model L7031 je res zelo poceni (čeprav ni bil najcenejši na tokratnem preizkusu), vendar ima tako slabo sliko, da bi ga težko priporočili.
+Nastavitveni menuji so zelo popolni, po njih pa se je, žal, zelo težko sprehajati.
+Posebnost tega monitorja je tipka FPM (Fine Picture Mode); s pritiskom nanjo povečamo kontrastnost.
+V nekaterih primerih rabe je to primerna rešitev, vendar lahko povzroči tudi to, da so črke na zaslonu videti preveč »zažgane«.
+Tipka se je izkazala za zelo koristno, ko smo monitor uporabljali pri ločljivosti 1280 × 1024.
+Takrat je slika nekoliko bolj meglena (pri vseh 17-palčnih monitorjih), način FPM pa je to malce ublažil.
+Ploska trinitronska cev zagotavlja zelo kontrastno in živobarvno sliko in to je opaziti tudi pri tem Mitsubishijevem modelu.
+Ostrina je zelo dobra (z majhnim odstopanjem ob robovih), pa tudi enakomernost je kar primerna.
+Monitor bi se še veliko bolje odrezal, ko ne bi imel težav z utripanjem in občutljivostjo za svetlost.
+Predvsem slednje moti tudi pri navadnem delu.
+Ploski trinitron FE700 podjetja NEC ima zanimivo ceno, še posebej, ker monitorji tega izdelovalca dolga leta niso veljali ravno za cenovno dostopnejše.
+Zunanjost je nekoliko nenavadna, upal bi si celo zapisati grda, vendar je to stvar okusa.
+Prozorna ploščica na sprednji strani je očitno poizkus izdelovalca, da bi izstopal z drugačnostjo.
+Nastavljamo klasično NEC-ovsko s tipkami ter z zelo lepimi in uporabnimi menuji, ki se jih hitro privadimo.
+Nastavitev je več kot dovolj.
+Frekvenčno je monitor dovolj zmogljiv le za delo pri ločljivosti 1024 × 768 pik.
+Philipsovi monitorji imajo po neodvisnih raziskavah v Sloveniji največji tržni delež, razlog pa je verjetno v tem, da so k nam zašli med prvimi in se pač »prijeli«.
+Pred leti smo med preizkusi prvič opazili, da ne dosegajo več nekdanje kakovosti.
+Nizka cena je naredila svoje.
+Zdaj z zadovoljstvom opažamo, da se stvari izboljšujejo.
+Samsungovi monitorji so znani po tem, da so ponavadi dokaj dobri in nikoli ne sodijo v najvišji cenovni razred.
+To bi lahko rekli tudi za model 700NF (Natural Flat je oznaka za Mitsubishijeve ploske cevi).
+Ni absolutno najboljše, kar si lahko privoščite, vendar je naprodaj po dokaj ugodni ceni.
+Monitor nikakor ne sodi med boljše, vendar ni ravno slab.
+Dokaj ugodna cena kar nekako ustreza kakovosti.
+Seveda pa kratka cev pomeni tudi težave z ostrino ob robovih in neenakomernostjo slike.
+Na sredini zaslona je bila slika sicer zelo ostra, bolj kot pri Targi 1795A, ob robovih pa precej manj.
+No, težave z enakomernostjo so bile enake, opazne pa so bile le na belem ozadju.
+Ta monitor je bil še bolj občutljiv za svetlost, saj je ob hitri posvetlitvi dela zaslona zelo potemnil preostali del, tako da je motilo že med preklapljanjem s programa na program.
+Na drugi strani se je vgrajena kratka cev izkazala z dobro kontrastnostjo in živimi barvami.
+Utripanje je bilo le malenkostno, tako da ga uporabnik pri normalnem delu sploh ne bo opazil, enako dobra pa je bila tudi konvergenca.
+Monitor je torej zaradi kratke cevi nekoliko dražji od modela 1795A, ima bolj kontrastno sliko, vendar ob robovih precej bolj neostro.
+Eden najcenejših monitorjev na tokratnem preizkusu je bil, povsem primerno ceni, tudi eden najslabših.
+Kljub imenu Viewpoint gre očitno za enega od brezimnih monitorjev, ki jih izdelujejo skorajda brezimna podjetja z Daljnega vzhoda, potem pa jih prodajajo pod različnimi imeni, po potrebi celo dovolijo prodajalcem, da si sami izmislijo kakšno ime zanje.
+Navzven učinkuje nekoliko zastarelo, prav tako nastavitveni menuji.
+Nastavitev je sicer dovolj, vendar z njimi slike nismo mogli popolnoma poravnati levi spodnji vogal je ostal nekoliko ukrivljen.
+Cenenost monitorja se najbolj opazi po zelo slabi ostrini slike.
+Tako neostro sliko imajo ponavadi starejši monitorji, ki jim je ostrina z leti opešala.
+Poleg tega je slika zelo neenakomerna, čeprav je to opaziti le na popolnoma beli podlagi, kjer se pokažejo sive maroge.
+Zaradi teh dveh hib je slika tudi nekoliko medla in nekontrastna.
+Pri utripanju monitor sliko širi kar za tri milimetre; to je še posebej opazno pri preklapljanju s programa na program.
+Zanimivo, da monitor kljub opisanim težavam ni čisto nič trpel zaradi slabše konvergence.
+Tudi ta model je frekvenčno prešibak za ločljivost 1280 × 1024.
+Nova funkcija v menuju Save for Web poleg tega omogoča natančno optimalizacijo datotek za spletno rabo, tako da imamo lahko velikost grafike in s tem hitrost nalaganja spletne strani vselej pod nadzorom.
+Pri uporabi novega ukaza lahko naenkrat na zaslonu vidimo do tri različno optimalizirane slike predmetov in s tem lažje ocenimo, kateri zapis in kolikšno stiskanje bomo uporabili.
+Illustrator tako odslej pozna posamezno zaslonsko piko kot element za nastavitve položaja in velikosti elementov.
+Poleg tega lahko vključimo način dela, v katerem je vektorska risba videti kot rastrska slika, ne da bi morali v resnici narediti pretvorbo.
+To je še posebej koristno, ko delamo zelo majhne spletne elemente, recimo napise, in želimo natančno videti, kakšen bo končni učinek.
+Da bi lahko vse spremembe primerno pravilno zabeležili v datotekah, obenem pa olajšali prenos podatkov v druge programe, so pri Adobu spremenili zapis Illustratorja.
+Datoteke zdaj temeljijo na zapisu PDF, ki je pravzaprav nastal prav zaradi tega da bi lažje prenašali dokumente med programi, pa ne samo tistimi od podjetja Adobe.
+Bo pa sprememba povzročila najbrž manjše težave nekaterim starejšim programom, ki ne podpirajo zapisa PDF.
+K sreči Illustrator pozna še kopico drugih zapisov, vključno z zelo starimi.
+Programiranje dejavnih streženih strani ASP je vse bolj pogost način za izdelavo dinamične spletne vsebine.
+Razlog priljubljenosti strani ASP je seveda v spletnih strežnikih Personal Web Server in Internet Information Services, ki so najnovejšim Oknom že priloženi, za starejše različice pa so na voljo kot brezplačni dodatek.
+Ne glede na to, ali z ASP pripravljamo malo bolj pestro domačo stran, ali pa smo ga uporabili za gradnjo zapletenega spletnega programa, nam bo prišlo prav nekaj nasvetov in zvijač.
+Ostanimo v toku
+Tu je spletni dom Microsoftovih skriptnih tehnologij, ki pokrivajo tudi skriptna jezika vbscript in jscript, v katerih lahko programiramo dejavne strežene strani ASP.
+Med drugim bomo tu lahko našli:
+– Najbolj svežo različico skriptnih tolmačev, ki se namestijo kot sistemski dodatek, tako da jih lahko izkoriščajo vsi programi, ki uporabljajo tehnologijo ActiveScripting (IIS, IE, WSH …).
+Skriptni tolmači so na voljo tudi v slovenščini (prevedena so obvestila o napakah in še nekateri elementi, skriptni jeziki so seveda nespremenjeni).
+– Mešalnik kode za skripte (script encoder), s katerim lahko zakrijemo vsebino spletnih strani ASP.
+Danes si že skoraj ne moremo več predstavljati življenja brez računalnikov, prenosnih telefonov, pametnih kartic, plačilnih kartic in drugih elektronskih naprav, povezanih v nekakšno elektronsko omrežje, najsi bo to internet, omrežje GSM ali omrežje bančnih avtomatov.
+Z nezadržnim razvojem računalniške tehnologije in vse večjim povezovanjem v velika omrežja postaja varnost zasebnih podatkov vse pomembnejša.
+Varnost je seveda povezana z načinom prepoznavanja in zanesljivostjo identifikacije.
+Gesla za dostop do bankomata, računalnika ali drugega varovanega sistema so lahko zapletena, radi jih pozabimo, pa tudi varnost ni ravno neomejena, saj se jih spretni nepridipravi lahko kaj hitro polastijo.
+Veliko varnejše, hitrejše in enostavnejše prepoznavanja posameznika je biometrika.
+Biometrični sistemi zaradi varnosti v svoji bazi podatkov ne hranijo dejanskih posnetkov naših »intimnih« lastnosti, temveč le njihove matematične modele, iz katerih pa je nemogoče sestaviti originalno sliko.
+Pri tipalih prstnih odtisov, na primer, si biometrični sistem zapomni le poglavitne značilnosti vzorca, kot so razvejenost, začetek in ponor prog, in jih shrani kot točke in vektorje.
+Kljub takemu pomanjšanju števila podatkov se napake zgodijo le v enem od 100.000 primerov.
+Najnovejši Coolpix se po videzu skoraj ne razlikuje od modela 950.
+Ohišje je razdeljeno v dva dela desnega držimo, levega (v njem je objektiv) pa vrtimo okoli vodoravne osi za kot 280 stopinj.
+To in vgrajeni zaslonček olajšata fotografiranje iz čudnih položajev in delo s stojalom.
+Zaslonček lahko ugasnemo in fotografiramo z iskalom, ki pa je zelo nenatančno.
+Fotografiramo lahko seveda v samodejnem, pol-samodejnih in ročnem načinu.
+Vplivamo lahko na način merjenja svetlobe, ostrenje in moč bliskavice, po potrebi pa lahko naredimo tudi več zaporednih posnetkov z različnimi osvetlitvami (bracketing).
+Seveda je na voljo tudi ogled posnetega materiala.
+Tudi s programom CD Winbench99 smo dobili kar dobre rezultate.
+V primerjavi z običajno enoto CD-ROM 48x, ki je dosegla rezultat 1360, smo pri enoti DVD dosegli rezultat 1500 ter povprečni čas dostopa 95,5 ms.
+Kakor predhodne Pioneerjeve enote se je tudi ta enota odlično izkazala ob branju digitalne glasbe, saj smo dosegli povprečni rezultat 13,1x.
+Enota se tudi dobro obnese ob predvajanju filmskih DVD-jev, za kar potrebujemo odkodirno kartico.
+Za gledanje filmov DVD tako ali tako zadostuje hitrost 1x.
+Pri programski izbiri regije imamo na voljo petkratno možnost spremembe.
+Po petih se regija zaklene na zadnjo vneseno izbiro.
+• informacija o algoritmu, s katerim je bil narejen digitalni podpis certifikata,
+Za potrjevanje veljavnosti javnih ključev in s tem posredno identitete uporabnika najdemo v internetu tudi druge oblike potrdil.
+Okleščena različica prej opisanega zapisa certifikata, namenjena za uporabo v protokolu WTLS (Wireless Transport Layer Security) ali v protokolu SSL, prilagojenemu za brezžično okolje, se imenuje certifikat WTLS.
+Certifikati WTLS omogočajo medsebojno preverjanje identitete strežnika WAP in odjemalca WAP in vzpostavitev varnega kanala med njima.
+Osnovni podatki so enaki kakor v certifikatih X.509, vendar zaradi drugačne predstavitve zavzamejo manj prostora, certifikati WTLS pa tudi nimajo dodatnih razširitev.
+Poizkusni certifikat WTLS lahko dobite na spletnih straneh z naslovom http://www.freecerts.com.
+Svojo obliko potrdila ima tudi program PGP, ki pa vsebuje premalo informacij, da bi bilo takšno potrdilo res uporabno v globalnem elektronskem poslovanju.
+Preverjanje digitalnih podpisov in neokrnjenosti potrdil je lažji del overjanja javnih ključev in poteka povsem samodejno.
+Težji del je odločitev, v kolikšni meri lahko zaupamo agencijam za overjanje javnih ključev, ali je bila identiteta imetnikov ključev dovolj preverjena za določen namen uporabe in ali se v določeni situaciji ključ sploh sme uporabiti.
+Dejstvo, da ima AC vgrajen svoj javni ključ v znanih brskalnikih, namreč še ne pomeni, da ga lahko uporabljamo za karkoli.
+Pomeni le, da je AC plačala zajetno vsoto denarja za vključitev svojega ključa v programe najbolj znanih svetovnih proizvajalcev programske opreme.
+Stopnjo zaupanja v povezavo med imenom uporabnika in njegovim javnim ključem in pogoje uporabe lahko določimo šele na podlagi informacij o delovanju posamezne AC, na primer o postopkih preverjanja identitete naročnikov certifikatov, o varnostnih ukrepih AC ter pozitivnih ali negativnih izkušnjah s posamezno AC.
+Postopki delovanja AC, njeni varnostni ukrepi in pogoji uporabe ključev so del politik certificiranja (certificate policy) in opisa postopkov delovanja AC (CPS - Certification Practice Statement).
+Kakšna je vsebina politik certificiranja in na kaj moramo paziti, kadar uporabljamo javne ključe in digitalne certifikate v poslovne namene?
+Najprej moramo biti pozorni na namen uporabe ključa.
+Ali je ključ namenjen za digitalno podpisovanje ali za šifriranje, ali ga lahko uporabljamo le za zaščito podatkov v svetovnem spletu ali tudi v elektronski pošti, katere dokumente lahko podpišemo in podobno.
+Kakor povsod v poslovnem svetu morajo biti opredeljene zahteve in odgovornost vpletenih subjektov.
+Politika na primer določa odgovornost overitelja za svoje storitve in odgovornost lastnika glede varovanja ključa.
+Določa tudi minimalne varnostne zahteve, ki jih morajo upoštevati vpleteni subjekti, tako lastniki ključev kakor ponudniki storitev in njihovi uporabniki, kompleksnost preverjanja identitete naročnika certifikata in pomen imen.
+Politika, v skladu s katero je bil certifikat izdan, je v certifikatu identificirana z zaporedjem števil.
+Pravila infrastrukture EuroPKI, ki bo nekoliko podrobneje predstavljena v nadaljevanju, na primer, so enolično določena z zaporedjem 1.3.6.1.4.1.5255.1.1.1.
+Žal trenutne različice brskalnikov, spletnih strežnikov in programov za varno elektronsko pošto še ne znajo pravilno obravnavati politik, večina jih ne zna niti izpisati identifikatorja.
+Od bolj znanih programov je izjema Microsoftov Internet Explorer, pri katerem izpis podrobnejših podatkov o certifikatu vsebuje tudi predpisane politike certificiranja.
+V Sloveniji je bil junija sprejet zakon o elektronskem poslovanju in elektronskem podpisu.
+Zakon je v skladu z omenjenima Modelnim zakonom o elektronskem poslovanju in direktivo Evropske unije in prav tako razlikuje med navadnimi in varnimi elektronskimi podpisi ter med navadnimi in kvalificiranimi potrdili, ki povezujejo podatke za preverjanje elektronskega podpisa z določeno osebo.
+Lastnoročnemu podpisu je enakovreden samo varen elektronski podpis, ki je overjen s kvalificiranim potrdilom.
+Predlog zakona določa pogoje, ki jih morajo izpolnjevati ponudniki in uporabniki storitev, ki so v zvezi z overjanjem ali elektronskimi podpisi, določa tehnične zahteve za varno elektronsko podpisovanje, obliko kvalificiranih digitalnih potrdil ter prostovoljno akreditacijsko shemo, ureja odgovornosti vpletenih subjektov in določa obliko nadzora ponudnikov storitev.
+Tehnologija varovanja podatkov v elektronskem poslovanju se hitro spreminja, zato je tudi slovenski zakon tehnološko nevtralen.
+Podrobnejši opis meril za izpolnjevanje tehničnih zahtev in ugotavljanje zanesljivosti overiteljev bo moral biti določen v podzakonskih aktih, ki jih je laže spreminjati v skladu z razvojem.
+Enako velja za vsebino kvalificiranih potrdil.
+Kljub zakonu pa se lahko poslovni subjekti v zaprtih sistemih še vedno sami med seboj dogovorijo, pod kakšnimi pogoji bodo sprejeli elektronsko podpisane podatke.
+Blejsko podjetje Perftech se je po nekaj mesecih poizkusnega trženja prenosnih računalnikov podjetja Asus odločilo za resno predstavitev.
+Perftech je sicer že nekaj časa v večinski lasti skupine Autocommerce, njihovo poslovanje pa se deli na več programov.
+Tržijo lastna programska poslovna paketa Krmar in Ciklon, pri prodaji in trženju strojne opreme pa jim je v veliko pomoč sodelovanje s podjetji, kot so AT&T, Lucent, Cisco, Accton, IBM, Asus itd.
+So tudi upravitelji internetnega omrežja S5.net in po nekaterih podatkih po velikosti drugi največji.
+Pri ponujanju dostopa do interneta se bolj usmerjajo na poslovne uporabnike oziroma podjetja kakor na končne domače uporabnike.
+Izdeluje: Fujitsu-Siemens, www.fujitsu-siemens.com.
+Najhitrejši so bili že v začetku poletja pri podjetju Nvidia in predstavili nov grafični procesor GeForce 2 GTS; nato je s precejšnjo zamudo sledil 3dfx z VSA100 (kar dva skupaj napajata Voodoo 5500); vsi presenečeni pa smo v zadnjih dneh julija dočakali tudi novi Radeon podjetja ATI.
+Presenečeni zato, ker so pri ATI-ju dejansko prvič v zgodovini tega kanadskega podjetja izdelek do kupcev pripeljali v obljubljenem času.
+ATI je pred leti vstopil v svet hitre trirazsežne grafike s pospeševalnikom Rage3D.
+Vendar pa je doslej venomer ostajal vsaj korak za najzmogljivejšimi.
+Če pa so že uspeli narediti grafično kartico, vredno najzahtevnejših uporabnikov, so morali le ti čakati na gonilnike mesece, leta …
+Pri ATI-ju se zavedajo preteklih težav in očitno je nekdo močno pljunil v roke, saj so prve kartice z novim grafičnim procesorjem Radeon na prodajnih policah v Ameriki že sredi julija in ne šele avgusta, kakor je bilo uradno napovedano.
+Radeon je ATI-jev prvi grafični procesor z vrsto tehnoloških izboljšav.
+Med drugim vsebuje jedro T&L, ki so ga poimenovali Carisma Engine.
+Zmogljivost je na ravni zmogljivosti GF2.
+Če pogledamo gole številke, vidimo, da je Radeon malce šibkejši, predvsem kar se tiče računske moči in števila cevovodov.
+Toda rešuje ga tehnična popolnost, saj so pri ATI-ju razmislili in vanj vgradili tehnologijo HyperZ.
+Pod tem imenom se skrivajo tri tehnike, ki pri izrisovanju in preračunavanju scene in nato zaslonske slike že pred računanjem iz scene odstranijo tiste elemente slike, ki so skriti za drugimi.
+Tako optimalizirajo delovanje, saj se izračunajo samo vidni elementi slike, in prav HyperZ je zaslužen za odlične hitrosti pri 32-bitni barvni globini in večjih ločljivostih.
+Adobe je lansko leto predstavil nov program z imenom InDesign, ki naj bi tekmoval s QuarkXpressom, naj bi bil po videzu in uporabnosti podoben standardnim in uveljavljenim orodjem za obdelavo slik (Illustrator, recimo) iz iste založniške hiše, hkrati pa naj bi bil zgrajen modularno.
+Torej majhno osnovno jedro, kompaktno in hitro, na katerega bi nalagali dodatke (plug-in), tako kakor pri vsakem sodobnem brskalniku po svetovnem spletu.
+Plemeniti nameni in konec koncev tudi pametni: novih standardov zapisa, na primer, ni treba dograjevati z novimi različicami, marveč le z novim dodatkom.
+Še več: za raznolikost dodatkov v tem primeru lahko poskrbijo drugi programerji orodje »Adobe InDesign SDK« dobite na plošči poleg programa ...
+Za povrh so pri Adobu sklenili, da bodo toplo vodo uporabljali in ne le izumili.
+In so sklenili podpreti obstoječi programski jezik za pisanje skript: AppleTalk na Macih in Visual Basic pod Okni.
+Ne, tega programerskega paketa ne priložijo in si ga torej morate omisliti sami, dodali pa so nujni vmesnik in navodila.
+Programerji v Visual Basicu bržkone ne bodo imeli večjih težav, razen mogoče v trenutku, ko bodo stavci dojeli, koliko nerodnih vsakdanjih opravil jim lahko prihrani čisto enostaven program.
+Eno takih so zagotovo tiskalniki in fotokopirni stroji.
+Obe skupini naprav imata sicer enako nalogo, tisk dokumentov, vendar sta bili to v preteklosti precej ločeni področji.
+Toda proizvajalci fotokopirnih strojev vse hitreje zastarelo analogno tehnologijo zamenjujejo z naprednejšo in učinkovitejšo digitalno tehniko, tako da so fotokopirni stroji vse bolj podobni laserskim tiskalnikom.
+Program, ki skrbi za uspešni prenos datoteke med obema okoljema, mora podaljšek spremeniti v datotečni stvarnik in tip ter nasprotno.
+V Macovem operacijskem sistemu za to poskrbi kontrolna plošča File Exchange, pri PC-jih pa delo spet opravi MacDrive 2000.
+V obeh primerih moramo sami določiti, kateri program bo odprl posamezno vrsto datotek, oba pripomočka pa nam v nastavitvah priporočata najboljšo izbiro.
+Povsem drugačna rešitev je uporaba programov za posnemanje drugih operacijskih sistemov.
+Na Macu lahko posnemamo Okna s programoma Soft Windows 98 (www.fwb.com) ali Virtual PC (www.connectix.com), o okenskem posnemovalniku Maca SoftMac 2000 (www.emulators.com) pa smo pisali v junijski številki Monitorja.
+Na koncu smo se še pozabavali in naredili projekt za ploščo DVD.
+S programom DVDit! imamo sicer le omejene možnosti (začetni zaslon z grafičnim menujem, na katerega lahko povežemo videoposnetke), toda cilj vseeno dosežemo zelo hitro.
+To so datoteke, ki bi jih lahko posneli na zapisljiv nosilec DVD-R in predvajali v enoti DVD-ROM ali domačem predvajalniki DVD.
+Če je projekt dovolj majhen, ga lahko posnamemo celo na navadno ploščo CD-R, kar je odlično (in cenovno ugodno) za krajše prikaze.
+S paketom pa lahko naredimo tudi posnetke VideoCD, ki sicer uporabljajo manj kakovostni zapis MPEG-1, vendar zato na eno ploščo CD-R spravimo skoraj ves film.
+Za računalniški del uradnega olimpijskega spletišča torej spet skrbi Veliki Modri s svojim superračunalnikom IBM RS/6000 SP in vso pripadajočo podporno železnino.
+Podatki se bodo zbirali v programu DB2 Universal Database, za splet pa bodo pripravljeni v Lotus Domino R5.
+Ampak to že sodi k tehničnim podrobnostim, ki večine uporabnikov ne bodo zanimale, če bo le vse teklo brez zatikanja.
+Spletišče svetovne razstave je zgledno oblikovano in urejeno, glavni čar pa mu dajejo, tako kot svetovni razstavi sami, prispevki posameznih sodelujočih držav.
+Od katerih so se nekatere potrudile bolj in druge manj, vsekakor pa se navidezni Expo 2000 splača obiskati, če vas že na pravega ne bo.
+Težavi sta bili predvsem dve.
+Takšno samodejno zbiranje informacij ima smisel predvsem, ko smo v internet priključeni ves čas, na primer prek kabelskega omrežja.
+Še pomembnejšo omejitev pa predstavlja odjemalni program, ki mora seveda biti prav tako ves čas pognan in če ni dovolj majhen in neopazen, začne uporabnika prej ali slej motiti.
+In PointCast nikakor ni sodil med majhne in neopazne programe, Microsoftovo dejavno namizje s kanali pa tudi ne.
+Obe omejitvi sta sicer danes manj opazni, kakor sta bili še pred par leti, saj so računalniki precej zmogljivejši in tudi veliko več jih je ves čas priključenih v internet, a tudi to očitno ni dovolj.
+PointCastov odjemalni program si je v najboljših časih namestilo skoraj 10 milijonov uporabnikov, od katerih je bil poldrugi milijon rednih, a do začetka letošnjega leta jih je ostalo samo še nekaj stotisoč.
+Ki so marca dobili še zadnji novici slabo in dobro.
+Slaba je bila, da bodo PointCast ukinili, dobra pa, da bo njegovo delo v nekoliko spremenjeni podobi nadaljeval EntryPoint.
+Iskalniki se hitro razvijajo in če bi radi ostali na tekočem, se splača od časa do časa obiskati spletno stran, na kateri boste izvedeli vse o iskalnikih in iskanju.
+Tu boste našli seznam vseh omembe vrednih iskalnikov, od splošnih do najrazličnejših specializiranih, podroben opis vsakega od njih, različne ocene in meritve njihove velikosti in uspešnosti.
+A samo dober iskalnik pogosto ni dovolj, znati ga je treba tudi uporabljati.
+Zaradi tega boste prav tu našli tudi številne nasvete za uspešno spletno iskanje.
+Skratka, obvezna postaja za vse, ki spletno iskanje jemljejo resno.
+Sergey Brin, eden od soustanoviteljev Googla, pravi, da že v nekaj letih iskalnikov, vsaj takšnih, kakor jih poznamo danes, sploh ne bo več.
+Namesto njih naj bi imeli posebne iskalne programe, opremljene z umetno pametjo, ki bi iskali na podlagi naših navad, prejšnjih iskanj in našega dela z računalnikom.
+Zametek takšnega programa, ki si ga lahko ogledamo že danes, je Kenjin (www.kenjin.com) podjetja Autonomy Systems.
+Program v ozadju opazuje, kaj pišemo in počnemo z računalnikom, sproti pregleduje splet (če smo natančni svoje stvarno kazalo) in išče spletne strani, ki so povezane z našim trenutnim početjem.
+Pišem torej o severnih medvedih in ko želim priti do dodatnih podatkov, mi iskalnika sploh ni treba uporabiti, saj imam povezave do spletnih strani o severnih medvedih, Arktiki, sesalcih in drugih sorodnih področjih že pripravljene.
+Vse skupaj je sicer še precej v povojih in le pogojno uporabno, tako pač kakor pri večini novosti, a kakor so vedeli povedati že Stari vsak začetek je težak.
+Ena od velikih prednosti Nikona D1 pred bolj običajnimi fotoaparati je hitro zajemanje slik.
+Fotografiramo lahko s hitrostjo 4,5 slike na sekundo, v medpomnilnik pa se shrani kar 21 fotografij.
+Ko je medpomnilnik zapolnjen, začne slike zapisovati na kartico (kar lahko traja dokaj dolgo dobrih deset minut, če zapisujemo RGB TIFF), čim se del medpomnilnika sprosti, pa že lahko fotografiramo naprej.
+Fotoaparat se vede, kakor da bi vseboval film občutljivosti 200 ISO/ASA, kar pa lahko spremenimo tudi na 400, 800 ali 1600 in tako fotografiramo v svetlobno slabih pogojih.
+Na voljo je tudi šest prednastavljenih temperatur bele, lahko pa uporabimo kar referenčni beli objekt in pustimo fotoaparatu, da temperaturo bele nastavi sam.
+Poleg običajnega fotografiranja D1 omogoča tudi delo s predogledom (najprej si ogledaš sliko, nato fotoaparatu ukažeš, naj jo shrani ali izbriše) in s takojšnjim ogledom (fotoaparat sliko najprej shrani, nato pa jo prikaže na zaslončku).
+Seveda je na voljo tudi prikaz shranjenih fotografij, urejanje v mape, tiskanje, pa tudi histogram svetlobnih vrednosti in označevanje najsvetlejšega dela slike.
+Fotoaparat ima vgrajen videoizhod (PAL in NTSC), ki omogoča ogled slik na televiziji.
+IBM je objavil podatke o svojem novem najzmogljivejšem superračunalniku.
+Toda Apple zaradi majhnosti ni varčeval pri zmogljivosti računalnika.
+Novi PowerMac G4 Cube poganja procesor PowerPC G4 s hitrostjo 450 MHz ali 500 MHz, osnovni pomnilnik velikosti 64 MB lahko razširimo do 1,5 GB, na voljo pa sta tudi 20 MB ali 40 MB disk.
+Računalnik ima vgrajeno tudi enoto DVD-ROM in sicer v izvedbi z režo, ki je na zgornji strani računalnika, tako da je plošče lažje vtakniti računalnik (podobno kakor kruh v pekač).
+V osnovni izvedbi ima računalnik tudi omrežno kartico Ethernet s hitrostjo 10/100 Mb/s, modem s hitrostjo 56 kb/s, dve vtičnici USB in dve vtičnici Firewire.
+Vse naštete novosti dokazujejo, da je podjetje Apple v dobri formi.
+To potrjujejo tudi poslovni rezultati.
+V zadnjem četrtletju so namreč ustvarili 200 milijonov dolarjev dobička, kar je približno toliko kakor lani v istem obdobju.
+Zato pa se je povečal promet, ki je zrasel za 17 % in dosegel 1,8 milijarde dolarjev v trimesečju.
+V tem obdobju so tudi prodali kar dober milijon računalnikov, kar je nov rekord družbe Apple.
+Eden ključnih razlogov za hiter uspeh interneta je zagotovo imenski sistem za dostop do ključnih strežnikov in storitev.
+Namesto da bi uporabniki za dostop morali tipkati štirištevilčne naslove TCP/IP (na primer 193.189.181.229), do strežnikov dostopamo s precej bolj informativnimi imeni (recimo www.infomediji.si).
+Vsa imena pa so povezana v domene, ki so združene okoli prvonivojskih domen.
+Prav ta sistem je v zadnjih letih tarča številnih kritik.
+Prvonivojskih domen je trenutno le sedem (.com, .edu, .gov, .int, .mil, .net in .org), seveda, če izvzamemo dvoznačne domene posameznih držav (slovenska je .si).
+To pa je za naraščajoče število strežnikov in storitev precej omejujoče.
+Manj znani pa so podatki o tem, kakšno računalniško opremo so za dosego uspeha uporabili znanstveniki.
+Uporabljena je bila gruča računalnikov Compaq AlphaServer, ki jo je poganjal operacijski sistem Tru64UNIX in programska oprema za gruče TruCluster.
+Gručo je sestavljalo kar 600 procesorjev Alpha, ki so na sekundo opravili do trilijon operacij, potrebnih za primerjave več kakor treh milijard parov genov v DNA, ki so privedli do tega pomembnega odkritja.
+Transmeta je navezala uspešne poslovne stike tudi s številnimi japonskimi proizvajalci, kot so Fujitsu, NEC in Hitachi.
+Močno jim pomagajo tudi dobri odnosi z nekaterimi ključnimi tajvanskimi proizvajalci prenosnih računalnikov, kakršen je družba Qunta (ta ima celo delež pri družbi Transmeta), ki za družbo IBM izdeluje prenosnike ThinkPad 240, poleg tega proizvaja tudi nekatere izdelke za družbe Compaq, Hewlett Packard in Dell.
+Zato ni izključena možnost, da bomo Crusoe nekega dne lahko videli tudi v izdelkih teh družb.
+Med velikimi podporniki je tudi tajvanska družba FIC (znana po prenosnikih Leo), ki je junija prikazala prototip bodočega peresnika z imenom Aque 3200, ki bo uporabljal najmanjši Transmetin procesor in operacijski sistem Mobile Linux.
+Trenutni procesorji Crusoe 5400 delujejo s hitrostmi med 300 in 600 MHz.
+Toda čeprav je procesorje Crusoe podjetje Transmeta uvrstilo na spodnji del cenovne in zmogljivostne lestvice, pa se, tako kaže, ukvarjajo tudi z možnostjo, da bi z izdelki posegli v razred najzmogljivejših prenosnikov.
+Menda pripravljajo močnejši procesor Crusoe 5800, ki bo prvi izdelek, narejen v 0,13-mikronski arhitekturi.
+Po sedanjih načrtih naj bi deloval s hitrostmi med 800 MHz in 1 GHz, kar ga uvršča med najhitrejše mobilne procesorje na tržišču, s čimer bi ulovil izdelke družb AMD in Intel.
+Procesor naj bi imel 1 MB velik drugostopenjski predpomnilnik, kljub vsemu pa bi deloval z zelo nizko napetostjo le 1,2 volta.
+Po vsej verjetnosti naj bi procesor podpiral 200 MHz sistemsko vodilo in pomnilnike DDR DRAM.
+Pred tem pa bodo pri Transmeti predstavili cenovno zelo privlačen 533 MHz procesor z 256 KB drugostopenjskim predpomnilnikom in 133 MHz podporo za sistemsko vodilo.
+Po vesteh iz krogov blizu družbe naj bi cenovno zlahka premagal Intelove in AMD-jeve modele.
+Microsoft predstavil Office 2001 za Macintoshe
+Internet in globalna povezanost vplivajo na vso programsko opremo, tudi na izdelke CAD.
+Autodesk je tako predstavil niz novih izdelkov, pri katerih je glavni poudarek ravno na internetnih zmožnostih in združevanju načrtovanja s skupinskim delom in internetno povezljivostjo.
+Centralna novost je vsekakor novi paket AutoCAD 2000i, ki je izpeljan iz lani predstavljene različice AutoCAD 2000.
+Novi program ima niz zanimivih novosti, med katerimi so funkcija Publish to Web za hitro in preprosto objavo načrtov ali njihovih delov v spletnih strežnikih.
+Povsem so spremenili tudi sistem za vgradnjo spletnih povezav v načrte, ki sedaj spominja na tistega iz paketa Microsoft Office 2000.
+AutoCAD 2000i pa ne prinaša le novosti za objavo načrtov v spletu, temveč tudi za uporabo spletnih informacij v načrtih.
+Z novo tehnologijo i-drop lahko uporabniki načrte s spletnih strani (ustrezno pripravljenih) preprosto odvlečejo v svoj načrt in jih uporabijo kot sestavne dele za načrt.
+Microsoft je na konferenci Professional Developers Conference (PDC) predstavil prvo razvojno različico novega 64-bitnega operacijskega sistema Windows.
+Nova različica, ki jo imenujejo 64-bit Windows Preview Release, je namenjena zgolj razvijalcem strojne opreme, ki bodo prvi ponudili 64-bitna Okna ponudili v računalnikih z bodočimi 64-bitnimi procesorji Intel Itanium.
+V Microsoftovem »jeziku različic« to pomeni, da je koda dovolj zanesljiva za preizkušanje strojne opreme in morda za razvoj prvih temeljev za bodoče programe.
+64-bitna Okna bodo temeljila na današnjem operacijskem sistemu Windows 2000, z ustrezno spremenjenimi knjižnicami in nekaterimi temeljnimi zmožnostmi (recimo podporo za večji pomnilnik).
+Največja posebnost novih Sonyjevih ročnih računalnikov je enota za razširitvene kartice Memory Stick.
+Proizvajalec bo sprva v tej obliki ponudil predvsem razširitve pomnilnika, za naslednje leto pa imajo v načrtu tudi drugačne module, kot so vmesnik Bluetooth, miniaturna digitalna kamera in sprejemnik GPS.
+Žal kartice Memory Stick vsaj v prvi različici računalnikov ne bodo združljive z moduli, ki jih Sony uporablja v predvajalnikih glasbe MP3, tako da ročnega računalnika ne bo mogoče uporabljati za predvajanje glasbe.
+Druga posebnost je posebna krmilna palica-tipka, s katero je mogoče krmiliti večino funkcij programov v računalniku brez peresa.
+Podjetje Yahoo, lastnik enega najbolj znanih iskalnikov in informacijskih portalov, ima za sabo izjemno uspešno poslovno obdobje.
+Zaslužek je v zadnjem četrtletju znašal kar 73,9 milijona dolarjev ob prometu v višini 270,1 milijona dolarjev.
+To je bistveno bolje od dobička v višini 27,1 milijona dolarjev in prometom 128,6 milijona dolarjev v lanskem letu.
+Yahoo je vse bolj uspešne predvsem zaradi širitve dejavnosti na nova področja in geografske regije.
+Yahoo v teh časih dosega že 650 milijonov pregledov strani na dan, po ocenah pa imajo kar 156 milijonov odjemalcev.
+Podjetje Palm pospešeno pripravlja boljšo komunikacijsko podporo za svoje ročne računalnike.
+Že jeseni naj bi predstavili prvi vmesnik Bluetooth, ki omogoča brezžično komunikacijo z bližnjimi napravami, zlasti primerno opremljenimi mobilnimi telefoni.
+Palm bo vmesnik Bluetooth sprva predstavil kot dodatni modul za pritrditev na dno računalnika, obenem pa pripravljajo nova ohišja za svoje računalnike, ki bodo imeli vmesnik vgrajen v notranjosti.
+Temu vmesniku bo zelo kmalu sledil tudi modul za brezžično komunikacijo prek protokola GPRS, ki ga nameravaj podpreti večina operaterjev telefonije GSM v Evropi.
+Modul, ki bo omogočal podatkovne komunikacij s hitrostmi do 115 kb/s (precej boljše od današnjih 9,6 kb/s), bo sprva na voljo kot zunanji dodatek, Palm pa namerava GPRS tehnologijo predstaviti kot sestavni del novih računalnikov, ki bodo na vrsti v letu 2001.
+Podjetje PeopleSoft, eno vodilnih pri programski opremi za vodenje podjetij (ERP), je oznanilo povsem nov rod izdelkov, ki v celoti temelji na internetnih tehnologijah.
+PeopleSoft 8 je nova različica paketa, ki so ga iz standardne programske zasnove spremenili v spletni program s projektom, ki je trajal dve leti, porabil skoraj pol milijarde dolarjev vložka in zahteval predelavo 108 osnovnih programov s skoraj 14.000 obrazci, ki so na voljo uporabnikom.
+Namesto da bi program morali namestiti v posamezno delovno postajo, so vse funkcije paketa dosegljive iz spletnega brskalnika.
+PeopleSoft je prvi proizvajalec največjih programskih izdelkov, ki je svoj izdelek prenesel v celoti na internetno platformo.
+IBM je za nove procesorje za velike računalnike z delovnim imenom »Modri plamen« razvil doslej najhitrejša pomnilniška vezja.
+Inženirji so uspeli pomnilniško vezje SRAM »naviti« do hitrosti 2 GHz, pri čemer znaša čas dostopa do podatkov le 430 ps (pikosekund).
+Na pomnilniškem vezju lahko shranimo 34 kilobitov.
+Združenje evropskih publikacij, ki pokrivajo področje fotografije TIPA (Technical Image Press Association), je objavilo najboljše izdelke leta tudi v digitalni fotografiji.
+Po mnenju strokovnega tiska je najboljši digitalni fotoaparat za široko rabo Nikon CoolPix 990, medtem ko v profesionalni fotografiji ta naslov pripada močnejšemu modelu Nikon D1.
+Najboljši brizgalnik za fotografije je Canon BJC-8200, najboljši optični bralnik pa Agfa DuoScan HiD.
+Najboljši program za obdelavo fotografij je Adobe Photoshop 5.5.
+Koncept globalnega porazdeljenega obdelovanja, ki je doživel velikanski uspeh s programom SETI@home (projekt iskanja zunajzemeljske inteligence z obdelovanjem majhnih delov podatkov z množico osebnih računalnikov v njihovem neizkoriščenem času), bo očitno dobil tudi komercialne posnemovalce.
+SETI@home je bil izjemno uspešen, saj so računalniki po svetu v enem letu opravili za okrog 300.000 let računanja.
+Družbe Distributed Science, United Devices in Parabon nameravajo strankam ponuditi obdelovanje velikih količin podatkov z množico računalnikov, priključenih v internet.
+Podjetja nameravajo za obdelovanje podatkov sodelujočim prostovoljcem plačati.
+Po sedanjih ocenah naj bi v povprečju posamezniki zaslužili okrog 10 dolarjev na mesec.
+Podatki bodo za naročnike varni, saj bodo ustrezno kodirani.
+Po navedbah je največji, Distributed Science, že pritegnil okrog 39.000 posameznikov s skupno čez 77.000 računalniki.
+Intel je v zadnjem četrtletju znova blestel.
+V tem obdobju so zrušili rekord v številu prodanih izdelkov, čeprav so se otepali s številnimi tehničnimi nevšečnostmi in težavami.
+Celoten prihodek je tako znašal rekordnih 8,3 milijarde dolarjev, kar je za 23 % bolje od enakega obdobja pred letom dni.
+Če ne upoštevamo stroškov za nakup nekaterih podjetij (okoli pol milijarde dolarjev), je čisti dobiček 3,5 milijarde dolarjev, kar je za 98 % bolje kakor pred letom dni.
+V to je že vštet visok strošek (čeprav ne za samega Intela), ki ga bo podjetje moralo plačati za zamenjavo osnovnih plošč s pokvarjenim naborom Intel 820.
+Intel kljub temu meni, da bi lahko poslovali še bolje.
+Proizvodnja ne dohaja povpraševanja, zato se intenzivno pripravljajo na zagotovitev dodatnih zmogljivosti.
+Poleg tega je letošnje leto prehodno za proizvodno tehnologijo, saj naj bi že konec letošnjega leta 90 % izdelkov naredili v naprednejši 0,18-mikronski tehnologiji.
+Imenik ODP je kmalu sprejel tudi eden najbolj priljubljenih iskalcev, Google.
+Ne glede na zelo učinkovito urejanje najdenih naslovov je kakovosten imenik še vedno zelo koristno dopolnilo iskalnim mehanizmom.
+S tem smo pravzaprav že opisali vse možnosti osnovnega modula protivirusnega programa.
+Med nastavljivimi lastnostmi omenimo le še tisto, s katero določimo podaljške datotek, ki naj jih iskanje virusov preverja.
+Določanje podaljškov bi bilo uporabniško veliko bolj prijazno, če bi bilo mogoče uporabiti nadomestni znak '?'.
+Podaljška exe in com sta privzeta in ju ni mogoče izločiti iz iskanja, to pa včasih tudi ni zaželeno.
+Koristen je seznam virusov s kratkimi opisi značilnosti, saj uporabnika z okuženim računalnikom navadno najprej zanima, kako nevaren je najdeni virus.
+O rezultatih posameznega iskanja lahko program sestavi poročilo in ga shrani na uporabniško določenem mestu.
+Kljub navidezno skromnemu naboru možnosti pa bo večini domačih uporabnikov to zadostovalo.
+Izdelovalci programske opreme se zavedajo, da je ranljivost operacijskih sistemov Windows 95/98 v primerjavi z Windows NT/2000 tržna niša, ki se jo splača izkoristiti.
+V številnih računalnikih teče cenejši in preprostejši operacijski sistem, ki je zelo slabo zavarovan pred namernimi poskusi vdora in nenamernimi poškodbami zaradi neznanja ali nerodnosti.
+Program Panda Security vas bo skušal ubraniti pred tovrstnimi nevarnostmi.
+Uporabniku lahko dovolimo delati z računalnikom samo v določenih časovnih obdobjih, razmejenih po urah.
+Tu je program napačno prikazoval tedensko mrežo, na kateri sestavimo razporeditev, tako da ni bila vidna v celoti, drugače pa je stvar lepo zamišljena in izpeljana.
+Panda Security lahko tudi zapiše vse poskuse dostopa do prepovedanih sredstev v dnevnik.
+Omogoča tudi kodiranje izbranih datotek s podanim ključem.
+Ta možnost pa ni dostopna iz glavnega okna programa, ampak s priročnega menuja, ko z desnim gumbom kliknemo datoteko v pregledovalniku datotek.
+Novost je tudi gumb na kameri, s katerim lahko sprožimo prenos samostojne slike v program za urejanje slik, medtem ko je mikrofon imel tudi že starejši model.
+Po novem ob kameri dobimo tudi majhno stojalce, ki je bolj uporabno od nekakšnega gumijastega podstavka, katerega smo ob kameri dobili prej, vendar je še nekoliko nerodno.
+Je pa uporabno v povezavi s priloženo programsko opremo.
+Eden od programov (Xerox Pagecam) namreč omogoča optično branje dokumentov, s čimer lahko do neke mere nadomesti optični bralnik.
+Žal pa program ne prepoznava šumnikov, pa tudi njegova natančnost ni ravno najboljša, kar pa je bolj verjetno posledica manj natančnega branja dokumenta, kakor ga zmorejo ploski optični bralniki.
+Priloženih je še nekaj standardnih programov, ki omogočajo postavitev videokonferenčne zveze (Netmeeting, VideoLink …) in program za pošiljanje videoposnetkov po elektronski pošti (iz posnetka naredi datoteko EXE, ki ob zagonu predvaja posnetek).
+Pa še končni vtis - kamera ponuja zelo dobro zajemanje videa pri ločljivosti 352 × 288 in zelo dobre samostojne slike ločljivosti 640 × 480 pik.
+Priloženi so gonilniki za Windows 98/2000 in Macintosh.
+Zaenkrat se boste z vsakim hvaljenjem Telekoma Slovenije osmešili, zato vam svetujem, da se političnih nasprotnikov znebite na drugačen način.
+»P0006687« Jure Jerman v meteorološki sobi, kjer zbirajo rezultate kompleksnih vremenskih modelov in pripravljajo vremenske napovedi.
+Prvega v naših podjetjih pogosto srečamo kot zmogljiv strežnik podatkov, za računanje pa ga uporabljajo na inštitutu Jožef Stefan, drugega pa v grafičnih studiih.
+»Vrana 4 3« 64-računalniški multiračunalnik VRANA 4, ki ga na Kemijskem inštitutu Slovenije uporabljajo za simulacije potekov kemijskih reakcij
+»Vrana 4« 64-računalniški multiračunalnik VRANA 4, ki ga na Kemijskem inštitutu Slovenije uporabljajo za simulacije potekov kemijskih reakcij
+Pri posebnih tipkovnicah nikakor ne moremo mimo slovenskega podjetja Tipro, ki se je specializiralo za izdelovanje tovrstnih izdelkov.
+Morda so še najbolj znane njihove tipkovnice MID (Modular Input Device), ki pravzaprav nimajo dokončno definirane velikosti in funkcije.
+Sestavimo jih namreč sami iz posameznih modulov.
+Osnovni deli imajo tipke, ki jih je mogoče programirati in jim lahko po želji določimo katerokoli nalogo, dodamo jim lahko module s čitalniki magnetnih in pametnih kartic, skupaj pa jih povezuje povezovalni modul, ki prepozna vse priključene dele tipkovnice, hrani podatke o funkcijah tipk in skrbi za komunikacijo z računalnikom.
+Tipkovnice MID lahko kadarkoli razširimo z dodatnimi moduli, zato so kakor nalašč za razne trgovinske obrate, bančne terminale, restavracije in v industriji.
+Izjemna prilagodljivost orodij v Unixu pa ima tudi slabo stran.
+Spoznali so jo vsi, ki so že kdaj sami v celoti prilagodili sistem s številnimi strežniki in odjemalci za delovanje v omrežju.
+Čeprav so praktično vse datoteke z nastavitvami zapisane kot navadno besedilo, jih je treba prilagajati vedno drugače.
+Poznati in obvladati temeljne storitve sistema, kot so inetd, DNS, httpd, elektronska pošta, redna opravila cron…, ni mačji kašelj in izkušeni vzdrževalci sistemov Unix so zelo iskano, dobro plačano »blago«.
+Med navdušenci za Linux, ki se prav tako spopadajo s številnimi nastavitvami sistema, saj gre za izpeljanko Unixa, se je znašel tudi Carl Sassenrath.
+Ob prilagajanju delovanja sistema se je znova ogrel za zamisel, ki je v njem tlela že skoraj petnajst let, da bi naredil nov skriptni jezik, ki bi učinkovito zadovoljil vse potrebe po komunikaciji med človekom in računalnikom.
+Tokrat se je odločil, da jo bo izpeljal do konca.
+Nov skriptni jezik, REBOL (Relative Expression-Based Object Language, izgovarjamo kot »rebel«, kar v angleščini pomeni upornik), je nastal daleč od vrveža Silicijeve doline, v Sassenrathovem novem domovanju.
+S podporo treh milijonov dolarjev ustanovnega kapitala, ki sta ga vložila nekdanja vodilna uslužbenca podjetja Gateway, in peščice sodelavcev je konec lanskega leta ugledal luč sveta na številnih računalniških platformah.
+Na spletnih straneh rebola (http://www.rebol.com/nutshell.html) najdemo še nekaj zelo kratkih programčkov, ki so ena najboljših reklam za novi programski jezik, kar sem jih videl v spletu.
+Oglejmo si še nekaj zgledov rabe rebola, za katere tam najdemo navdih.
+Naslednji zgled je zapisan kot zunanja datoteka (datoteke s skriptno kodo naj bi se v rebolu shranjevale s podaljškom .r), zato potrebuje glavo.
+Glava ni nič posebnega, le blok z dodatnimi podatki o skriptu, kot so njegov naslov, različica, kategorija, datum in zahtevana različica jedra rebola, ki je skript sposobna izvajati.
+Blok z glavo je lahko prazen, vendar pa ga moramo zapisati, če želimo skript shraniti v zunanji datoteki.
+V tem zgledu določamo posebno narečje, ki opisuje ukaze za delo s spletnimi stranmi.
+Narečje omogoča prenašanje datotek v strežnik in iz njega ter obveščanje upravitelja o poteku dogodkov.
+'shrani datotecno-pravilo (
+Prilagoditev vmesnika CGI za sodelovanje z rebolom se od strežnika do strežnika razlikuje, osnovna pravila pa so:
+; bodisi ga vzpostavimo
+Uradna in na široko objavljena ugotovitev, ki spoznava najuspešnejše slovensko podjetje za krivo odrekanja pravice malemu ABM, da bi tudi njegovo ploščo s programom za priklop v internet prilagalo paketu ISDN 3000, ne pa le plošče svojega hčerinskega podjetja SiOL, je gotovo svojevrstno zadoščenje.
+Ne le za ABM in njegovega borbenega direktorja Borisa Horvata, temveč tudi za velik del javnosti, ki meni, da si Telekom vendarle privošči preveč.
+AI 04.jpg Illustrator 9 omogoča interaktivno optimalizacijo gradiva za splet.
+AI 07.jpg Delo s plastmi je lažje tudi zaradi pomanjšanega prikaza vsebine v orodjarni.
+Osnovno načelo delovanja je na moč enostavno.
+Tipke na tipkovnici si lahko predstavljamo kot nekakšno matriko z vodoravnimi in navpičnimi koordinatami, v kateri je, denimo, črka A druga tipka v tretji vrstici in ima torej koordinate (2,3).
+Pod tipkami v drobovju tipkovnice je prav taka matrika električnih prevodnikov; ko tipko pritisnemo, se pod njo prevodnika skleneta in skoznju steče električni tok.
+Vsaka tipkovnica ima vgrajen tudi majhen procesor, ki stalno nadzoruje stanje vsake tipke in po takem stiku takoj ugotovi koordinate pritisnjene tipke.
+Po kablu, s katerim je tipkovnica povezana z računalnikom, pošlje začetno kodo pritisnjene tipke, ko tipko spustimo, pa še zaključno kodo.
+V računalniku je poseben procesor, ki skrbi za nadzor nad tipkovnico.
+Ko prejme sporočilo o pritisnjeni tipki, primerja njene koordinate s kodno stranjo, ki je določena z operacijskim sistemom, in ji pripiše ustrezen znak v našem primeru je bila koordinati (2,3) pripisana črka A procesor pa nato glede na znak ali ukaz ustrezno ukrepa na primer pošlje sliko črke A prek grafične kartice na zaslon.
+Membranske tipkovnice so, kot rečeno, na voljo v različnih izvedbah.
+Najpogostejši je mehanizem stikalne membrane, sestavljene iz dveh slojev, na katera je nanesena mreža prevodnikov, med njima pa je vmesna neprevodna membrana, ki ima na mestu vsake tipke odprtino.
+Ko tipka pritisne na zgornjo membrano, se ta pod pritiskom vda, skozi odprtino v srednji membrani se dotakne spodnje in s tem sklene tokokrog.
+Tipkovnica 5201 je najcenejši in najosnovnejši model v ponudbi tajvanskega proizvajalca BTC (Behavior Tech Computer Corp.).
+Njena največja odlika je sorazmerna majhnost, kar bo prišlo prav vsakomur, ki ima težave s prostorom na mizi.
+Tipkovnica ima večstopenjski mehanizem uravnavanja naklona (pri drugih tipkovnicah le dve stopnji), ki pa je brez gumijaste podloge in zato na gladki podlagi rahlo zdrsuje.
+Še ena posebnost so tri posebne tipke, ki izkoriščajo ACPI (Advanced Configuration and Power Interface) operacijskih sistemov Windows 98 in Windows 2000, namenjene pa so zaustavitvi sistema, prehodu računalnika v mirovanje za varčevanje z energijo ter njegovemu bujenju.
+Zanimiva tipkovnica, ki se ponaša s kar nekaj nenavadnimi lastnostmi in je že na prvi pogled drugačna od klasičnih izdelkov.
+Ergonomičnost te tipkovnice ni dosežena s »prelomom«, ki se najpogosteje uporablja pri ergonomskih tipkovnicah, temveč le presledkom po sredini in podaljšanim spuščenim sprednjim delom.
+Ideja je sicer zanimiva, a je za roke taka lega lahko precej okorna.
+Glavni namen prelomljenih tipkovnic je namreč naravni kot drže zapestij pri tipkanju, pri tej tipkovnici pa zapestja ostanejo v vzporednem položaju le razmaknejo se za vmesni presledek, kar pa nas lahko celo moti.
+Tipk je le 83 (ni številčnih tipk), dodana pa je posebna funkcijska tipka Fn, s katero lahko izkoriščamo alfanumerični del tipkovnice kot numerični.
+Druge tipke so razporejene tako kakor pri prenosnih računalnikih, črke pa so angleške.
+Tipkovnica je zaradi majhnosti in funkcionalnosti zelo primerna za omejene delovne prostore ali prenosne sisteme, kjer bi bile miške v napoto, žal pa ni ravno za vsak žep, saj je zaradi visoke tehnologije cena tudi primerno visoka.
+Za tiste, ki jih motijo dolgi prepletajoči se kabli, hkrati pa so naveličani mučenja zapestij na navadnih škatlastih tipkovnicah in si želijo udobja ergonomske tipkovnice, je Logitechova brezžična ergonomska tipkovnica kar se da primerna.
+Tipkovnica je na sredini »prelomljena«, oziroma razdeljena na dva dela.
+Prelomljena oblika tipkovnice omogoča čim bolj naravno lego zapestja, a je njena uporaba smiselna le za tiste, ki tipkajo desetprstno, pri čemer zapestja praktično mirujejo in se premikajo le prsti.
+Če ne tipkate desetprstno, vas bo taka tipkovnica verjetno precej motila, saj ni le prelomljena, temveč tudi zaobljena in ima velik presledek med levo in desno polovico.
+Za brezžično delovanje prav tako kakor pri modelu iTouch poskrbi radijski sprejemnik, ki ga na računalnik priključite z vmesnikom PS/2 ali PC/AT.
+Tipkovnici je priložena brezžična ergonomsko oblikovana miška s koleščkom, ki pa je prirejena le za desničarje.
+Miška ima ob strani še dodaten gumb za palec, kateremu funkcijo sami določimo.
+Tipkovnica ima tako kakor model iTouch 12 dodatnih tipk za križarjenje po internetu, tipke za upravljanje pogona CD-ROM, za glasnost zvočnikov, ter tipko za »uspavanje« računalnika.
+Vseh tipk je 104 standardnih, razporejenih na angleški način, tako da moramo za slovenske črke poskrbeti sami, dodana pa je še 105. tipka »Logitech«, ki ji lahko vprogramiramo poljubno funkcijo.
+Tipkanje je mehko, a skoraj neslišno torej brez tistega značilnega »klika«, in tudi klecni učinek je manj izrazit kakor pri modelu iTouch.
+Tudi tej tipkovnici je priložen dodaten naslon za zapestje in pa seveda program iTouch, s katerim izkoristimo vse prednosti dodatnih tipk.
+Tipkovnica je skoraj enaka prej opisanemu modelu (Microsoft Internet Keyboard), le da ima izvedba Pro nekaj majhnih, a koristnih dodatkov.
+Tipkovnica ima enako angleško postavitev osnovnih 104 tipk (tudi tu moramo sami poskrbeti za slovenske črke), dodatnih tipk pa je kar 19; tistim za lažje križarjenje po internetu in udobnejše delo z Okni so dodali še večpredstavne tipke tipke za naravnavanje glasnost zvoka in upravljanje pogona CD-ROM pri poslušanju glasbenih plošč.
+Tipkovnico lahko na računalnik priključimo tako s priključkom PS/2 kakor tudi z USB, na tipkovnici pa najdemo še dva dodatna priključka USB, kar utegne biti zelo dobrodošlo.
+Drug koristen dodatek, ki ga lahko ima tipkovnica, je čitalnik magnetnih kartic, ki pride prav v mnogih manjših podjetjih, trgovinah, restavracijah, skladiščih, skratka povsod, kjer imamo veliko opravka z branjem magnetnih kartic.
+Uporaba čitalnikov magnetnih kartic vgrajenih v tipkovnico je zelo enostavna, saj tipkovnico enostavno priključimo na računalnik in začnemo uporabljati čitalnik, hkrati pa še prihranimo veliko prostora, saj ne potrebujemo dodatnih »škatel« in kablov.
+V besedilu so izbire po menujih označene s krepko pisavo in piko med izbiro (File.
+Header ipd.), enako so označeni tudi elementi v pogovornih oknih.
+Kombinacije tipk na tipkovnici zapisujemo takole Ctrl+Shift+A, kar pomeni, da je treba pritisniti in držati tipki Ctrl in Shift, hkrati pa pritisniti še tipko A (potem lahko vse tri izpustimo).
+Izbire za programe v več jezikovnih inačicah so ločene z znakom / (Datoteka.
+Vse, kar je treba vpisati v vnosna polja, je pisano z malimi tiskanimi črkami (c:\windows\system, notepad.exe ipd.).
+(word.tif) V Wordu je med tekstom kup slik.
+Nekoč so bile pripeljane med tekst z ukazom Vstavljanje slike, Poveži z datoteko.
+Ali se lahko dobi informacijo, od kod (disk, mapa, ime datoteke) je bila ta datoteka pripeljana?
+(excel.tif) Če ste uporabniki Microsoft Excela, skoraj gotovo poznate možnost samodejne vsote (AutoSum).
+Če smo vnesli kup števil in smo v prazni celici pod njimi, lahko v standardni orodjarni kliknemo gumb z oznako za vsoto in Excel bo samodejno vstavil ustrezno obliko funkcije =SUM(), ki bo seštela vrednosti v sosednjih celicah.
+Najprej v celico, npr. v A1, vnesemo začetni datum.
+V sosednjo celico, denimo, da bomo potovali po stolpcih, zato naj bo to B1, vnesemo naslednjo formulo:
+Če pa e-naslov ni ključen za uspešno prijavo, si lahko izmislimo posebno obliko elektronskega naslova, ki je regularen, hkrati pa tistega, ki po njem poizveduje, nedvoumno obvesti o tem, da je izmišljen.
+Na srečo pa obstajajo dobri ljudje, predvsem Mark Rusinovich in Bryce Cogswell, z zadosti znanja, ki so premostili tudi prepad med omenjenima datotečnima sistemoma.
+Brezplačni dodatek, ki omogoči branje diskov z NTFS tudi v Oknih 98 (deluje tudi z Okni 95), lahko najdemo na spletnem naslovu:
+Diske z NTFS je mogoče brati celo v DOS-u in tudi ta dodatek najdemo na istem spletišču:
+Vse dodatke je mogoče kupiti tudi v izboljšani obliki, ki poleg branja podatkov omogoča tudi shranjevanje.
+net group <ime skupine> /add /domain ustvari novo skupino
+Na delovnih postajah pa lahko delamo s krajevnimi uporabniškimi skupinami:
+net localgroup <ime skupine> izpiše člane skupine
+Skoraj ne mine dan, da se ne odkrije kak nov nevaren varnostni spodrsljaj, ki so ga zakrivili Microsoftovi programerji.
+Saj ne, da bi bili kaj dosti bolj površni od kolegov v drugih podjetjih, težava je predvsem v tem, ker je Microsoftova programska oprema tako razširjena in dostikrat opremljena s kar preveč funkcijami, ki jih je žal mogoče tudi zlorabljati.
+Silno pestra izbira procesorjev je rodila novo raven abstrakcije računalnika.
+Programski vmesnik strojna koda je dobil svojo prenosljivo različico: programski jezik C. Njegova učinkovitost je bila hitro dokazana na Unixu.
+Ta operacijski sistem je bilo mogoče brez velikega truda prenesti v najrazličnejše računalnike, proces prenosa Unixa ali katere njegove različice v vedno nove naprave pa teče še danes.
+Vendar se C ni uveljavil kot nova platforma, ki bi zagotavljala združljivost različnih strojnih arhitektur, saj se je vmes vrinil nov programski vmesnik operacijski sistem.
+HWND hWndC=NULL; // globalna spremenljivka ročica okna, v katero zajemamo
+hWndC = capCreateCaptureWindow ( // zgradi okno za zajemanje videa
+Kadar želimo zajemati in obdelovati video brez sprotnega prikaza na zaslonu, lahko namesto ukaza capCaptureSequence uporabimo ukaz capCaptureSequenceNoFile, ki sproži zajemanje videa brez prenosa v datoteko.
+Uporaben je skupaj s povratno klicanimi funkcijami gonilnika, kakršni sta capSetCallbackOnVideoStream in capSetCallbackOnWaveStream.
+Funkcijo pokliče gonilnik, preden bi zapisal trenutni okvir na disk (ko je pisanje omogočeno).
+Nič čudnega torej, če so se v ZDA založbe in filmski studii odločili temu narediti konec.
+Tako proti Napsterju kot proti Scour Exchange so vložili tožbe in najverjetneje bodo dosegli, da bodo take strežnike sistemsko prepovedali.
+Prav lahko se zgodi, da Napsterja, ko bo izšel ta članek, sploh ne bo več.
+Sodišče je namreč odločilo, da morajo spremeniti programsko opremo ali ustaviti dejavnost.
+Sodnik je zapisal dobesedno takole: »Napster je napisal program in njegova naloga je, da onemogoči uporabnikom izmenjevati avtorsko zaščiteno vsebino.
+Ustvarili so pošast, ki se je skrbnikom izmuznila iz rok«.
+Zanimivo pa bo videti, kako se bodo stvari razvijale naprej.
+Kot sem zapisal, se ob zaprtju enega takoj najdejo številni drugi.
+Morda ne več v ZDA, ker tam zakonodajalci stvari ne mislijo spustiti iz rok.
+Morda se bo vse skupaj preselilo v strežnike v drugih državah, recimo v Tongo (.to), ali pa v države, v katerih se načeloma sploh še ne menijo za avtorske pravice (tudi nekatere blizu nas).
+Vsekakor se zdi, da bodo temu valu sledili drugi, in vojna še zdaleč ni končana.
+Menim, da je edini korak, ki ga lahko glasbena in filmska industrija naredita, da bi omejili nezakonito širjenje vsebine (preprečiti tega tako ne moreta), prehod na pretočne zapise.
+Zdajšnje dogajanje bo izdelovalce najbrž samo še spodbudilo k temu, da bodo razvili sistem, v katerem bomo vsebino le »najeli«, ne pa odnesli s seboj domov na takem ali drugačnem nosilcu.
+Podobno načrtujejo tudi izdelovalci programske opreme da bomo programe uporabljali zgolj v oddaljenih strežnikih.
+Žal ima posnemanje tudi slabosti.
+Operacijski sistem in programska oprema, ki teče v njem, zahtevata strojne vire, pa naj so navidezni ali resnični.
+Vključitev enega navideznega računalnika že upočasni sistem, z vsakim nadaljnjim pa se delovanje izrazito upočasni.
+Izdelovalec navaja upočasnitev delovanja v navideznem računalniku za 530 %.
+Danes uporabljajo v Laboratoriju za digitalno procesiranje signalov vzporedne računalnike pri razvoju novih telekomunikacijskih tehnologij.
+Tu ogromna količina podatkov od računalnika zahteva zelo hitro delovanje, hkrati pa je veliko možnosti za izrabo vzporednosti.
+Tipična primera sta stiskanje in razširjanje žive slike in zvoka.
+Zato že od leta 1985 pri svojem delu uporabljajo sistolična polja.
+Delo 17-članske skupine je razdeljeno na tri področja: reševanje teoretičnih problemov vzporednosti (paralelizacije), načrtovanje novih arhitektur in reševanje arhitekturnih problemov ter storitve na podlagi novih znanj o vzporednih računalniških sistemih.
+Pod vodstvom prof. dr. Vojka Valenčiča v laboratorijih za numerične metode v elektrotehniki ter biomedicinske oslikave in biomehaniko mišic na Fakulteti za elektrotehniko že vrsto let uporabljajo vzporedne računalnike.
+Med drugim računajo tudi elektromagnetna polja znotraj obsežnih geometrij, s katerimi lahko najdejo odgovore na številne praktične probleme, kot denimo, kako se porazdeli energija elektromagnetnega polja v glavi uporabnikov zaradi bližine antene mobilnega telefona.
+Problem je računsko zahteven, saj je treba modelirati biološka tkiva glave, posebej na vseh delih možganov.
+Že v letih 93/94 so želeli sodelovati pri nabavi prvega slovenskega superračunalnika proizvajalca Convex in si s tem zagotoviti del njegovih zmogljivosti, a žal niso imeli dovolj finančnih sredstev.
+Zato so se odločili za drugačno pot.
+Kupili so dve zmogljivi razširitveni kartici za osebni računalnik (PC), od katerih je vsaka vsebovala po štiri specializirane 32-bitne Inmosove računalnike v enem čipu z oznako T900.
+Omogočali so hitro medsebojno komunikacijo in obdelavo velikih količin podatkov.
+K hitrosti je pomembno prispeval tudi porazdeljeni pomnilnik, ki so ga sestavljali krajevni pomnilniki T900.
+Osrednji del razširitvenih kartic je bilo križno stikalo (crossbar switch) C104, s katerim je bilo mogoče med osmimi T900 ustvariti poljubne omrežne topologije (obroč, mreža, zvezda); kakršne je zahtevala narava trenutnega problema.
+Čeprav je bil po besedah prof. Valenčiča Inmosov sistem dober, je imel kljub vsemu pomanjkljivosti.
+Ni bil dovolj razširjen, kar je imelo za posledico slabo in nedodelano programsko opremo.
+Čeprav je po zmogljivosti prekašal celo 16-bitni večprocesorski računalnik z enakim številom procesorjev, z njim niso mogli rešiti bistveno večjega problema.
+Skupina prof. Valenčiča je iz razmerja med računanjem in komunikacijo ugotovila, da bi problem računanja električnega polja lahko najhitreje rešili z 48 računalniki T900.
+Vendar bi zaradi kvadratičnega naraščanja obsega računanja pri linearnem povečevanju velikosti problema potrebovali še veliko več računalnikov.
+Žal jih je bilo na dveh razširitvenih karticah le 8, pa še od teh so morali enega zaradi pomanjkanja vhodno-izhodnih povezav uporabiti le za komunikacijo s PC-jem.
+Denimo, če bi hoteli rešiti desetkrat večji problem v enakem času, bi celo v idealnem primeru (pri neupoštevanju zakasnitev pri komunikaciji) potrebovali kar 100 računalnikov.
+Tako nisem mogel mimo vprašanja, ali prof. Vojko Valenčič pozna dr. Milana Hodoščka, ki je že sestavil bistveno večje multiračunalnike iz poceni osebnih računalnikov.
+Njihovo programiranje je v primerjavi s T900 veliko preprostejše, izplen v obliki pohitritve pa očitno dokaj velik.
+Zaradi nizke cene posameznih računalnikov in povezovalnega omrežja je mogoča tudi vsakoletna nadgradnja ali nakup od 64 do 128 ali celo več novih računalnikov.
+Prepočasne multiračunalnike je mogoče tudi razdreti in njihove sestavne dele nameniti za pisarniško rabo.
+Prof. Valenčič odgovarja, da sta z dr. Hodoščkom sicer dobra prijatelja, kljub temu pa se v tem pogledu z njim ne strinja povsem.
+Meni, da ni pomembna le hitrost računanja, ampak tudi hitrost rešitve nekega problema.
+Kaj pomaga desetkrat hitrejši računalnik, če njegovo programiranje vzame toliko časa, da bi enak problem rešili hitreje s preprostim programom za enoprocesorski računalnik?
+Po drugi strani je mogoče z optimalnejšim algoritmom računanje na enoprocesorskem računalniku pohitriti celo za dvajsetkrat.
+To je več, kakor bi pridobili z velikim multiračunalnikom.
+Skupina prof. Vojka Valenčiča poleg čistega raziskovalnega dela razvija tudi dve pomembni programski orodji JaKoB in WebSET.
+Javanski konstrukcijski objekti (JaKoB) so skupek javanskih programčkov, ki prek internetne strani omogočajo poučevanje elektrike in magnetike s prvinskimi zakoni in jih že uporabljajo na nekaterih slovenskih srednjih šolah in pri predavanjih na Fakulteti za elektrotehniko.
+Atraktivne sličice poizkusov so z dovoljenjem prof. Valenčiča objavili celo v tujih učbenikih fizike v Združenih Državah Amerike.
+Kar ni presenetljivo, saj sem si številne poizkuse (princip elektroosmoze in elektrofiltra, naelektrenje avtomobila, ki vozi po cesti, naelektrenje oblakov, zakaj obstajajo snovi) z zanimanjem ogledal tudi sam.
+Vsekakor je treba priznati, da prinese ogled poteka in celo skupna interakcija učenca in učitelja pri poizkusu učencu ne le teoretično znanje, ampak tudi pomembne izkušnje in predstave.
+Projekt WebSET, ki je začel teči 1. maja letos, pa je namenjen poučevanju fiziologije kirurgije prek interneta.
+To ne preseneča, saj je to veda, ki zahteva izjemno veliko praktičnih izkušenj, posebej pri spoznavanju novih metod, tehnologij in tudi dobrih postopkov za numerične simulacije in grafiko.
+Čeprav se zdi, da imata omenjena projekta z vzporednim procesiranjem bolj malo skupnega, to ne drži, saj skupina profesorja Valenčiča pravkar meri hitrosti izvajanja javanskih programčkov v večprocesorskem sistemu Origin 200.
+Tako velik računalnik pa bi ne mogel delovati brez zanesljivega operacijskega sistema.
+Na VRANA-h teče Linux, saj za njegovo uporabo ni treba plačati licence, hkrati pa je to operacijski sistem, ki se zelo hitro razvija.
+Zanj je, poleg standardno vgrajenega prevajalnika za C in C++, na voljo tudi precej drugih programskih jezikov, med njimi tudi Fortran, ki ga dr. Hodošček uporablja pri pisanju simulacijskih programov, lastne programske knjižnice za komunikacijo med računalniki pa je razvil v programskem jeziku C. Programi zmorejo z računalnikom VRANA-3 simulirati kemične reakcije molekul z do 100.000 atomi s korakom ene femtosekunde (10 na -15. potenco) in trajanjem ene nano- ali mikrosekunde (tisočinko milijoninke in milijoninko sekunde).
+To je zelo pomembno pri načrtovanju zdravil, pri katerem je treba hitro preizkusiti tudi do 50.000 različnih spojin, s katerimi vplivamo na beljakovine v človeškem telesu.
+Žal računalniki kljub procesni moči še niso dovolj veliki za simulacije globalnih kemičnih procesov, sintezo zelo velikih molekul, kakršna je DNK, ali za podrobno opazovanje kemičnih reakcij, ki trajajo dlje od ene nano- ali mikrosekunde.
+Seveda ni vseeno, ali želimo v kratkem času preizkusiti eno spojino ali v daljšem času ogromno množico spojin.
+V prvem primeru bomo s procesi v različnih računalnikih reševali isti problem in bo komunikacije med njimi sorazmerno veliko, v drugem pa bomo vsako kemično reakcijo simulirali v svojem računalniku, neodvisno od preostalih.
+Zato komunikacije v omrežju skoraj ne bo.
+Slednje omogoča, da z N računalniki dosežemo teoretično največjo pohitritev N, če ne upoštevamo prenosa simulacijskih parametrov in rezultatov iz in v nadzorni računalnik.
+Hkrati je dodeljevanje nalog posameznim računalnikom dinamično, kar pomeni, da delo dobi tisti, ki je prost.
+Poleg tega lahko v multiračunalnikih VRANA vzporedno teče tudi več manj zahtevnih simulacij.
+Omenili smo že, da ga računajo s kompleksnimi vremenskimi modeli.
+Zanimivo pa je še to, da za simulacijo 400 sekund v naravi porabijo 4 sekunde in da se v vsakem časovnem koraku med dvema računalnikoma pretoči od 10 MB do 50 MB podatkov.
+Če bi hoteli le pohitriti računanje, bi hitro naleteli na oviro, Amdahlov zakon, ki pravi, da je pohitritev z neomejenim številom računalnikov lahko v idealnih razmerah kvečjemu enaka količniku 1/A; pri čemer je A delež računalniškega programa, ki se ga ne da paralelizirati.
+Zato je edina smiselna pot povečevanje problema, kar opisuje Gustafsonov zakon.
+Na ta način je mogoče izračunati vremensko napoved na gostejši mreži, kar pa še ne zagotavlja njene večje natančnosti.
+Veliko je odvisno tudi od robnih pogojev, ki jih HMZS dobiva iz superračunalniškega centra za napovedovanje vremena v Pragi; medtem ko globalno vremensko napoved za celotno področje Evrope za prvih 6 ur računajo v Franciji.
+Jure Jerman takoj doda, da brez robnih pogojev vremenske napovedi za Slovenijo ne morejo izračunati.
+Natančnost vremenske napovedi za Slovenijo je poleg tega odvisna tudi od meritev v vremenskih opazovalnicah na terenu in višinske meritve, ki jo opravljajo z vremenskim balonom enkrat dnevno.
+Če bi hoteli izboljšati vremensko napoved, bi morali hkrati z novo računalniško opremo povečati tudi število opazovalnic in uporabiti več vremenskih balonov, kar pa ni ravno poceni, saj so baloni, ki stanejo nekaj 100 mark, namenjeni le za enkratno uporabo.
+SGI-jeve sisteme v slovenskih znanstvenih krogih kar pogosto zasledimo.
+To ne preseneča, še posebej, ker so fakultete in inštituti pred leti kupili veliko grafičnih postaj, med računalniki pa je tudi nekaj zmogljivejših strojev.
+Po besedah Vladimirja Makuca naj bi bil med računalniki, ki so namenjeni izključno za znanstveno rabo, trenutno najbolj zmogljiv SGI Power Challenge L na inštitutu Jožef Stefan.
+Sicer so precej računalnikov prodali tudi kot datotečne strežnike poslovnim uporabnikom.
+Med njimi so največji Telekomov 8-procesorski strežnik, v katerem teče zbirka podatkov Informix, 6-procesorski računalnik podjetja Magistrat International in računalnik, ki ga jedrska centrala Krško uporablja v svojem simulatorju.
+Vsi drugi stroji so manjši z do štirimi procesorji, v njih pa večinoma tečejo Oraclove zbirke podatkov; kar je posledica velikega cenovnega preskoka med štiriprocesorsko in več kakor štiriprocesorskimi arhitekturami.
+Za konec sem prihranil še zelo zanimivo vprašanje, kako poteka sodelovanje HP-ja z Intelom pri razvoju nove arhitekture IA-64.
+»Hewlett Packard in Intel sta pred več leti v razvoj stopila vsak s polovičnim investicijskim deležem, danes pa je razmerje že 70 % proti 30 % v korist Intela.
+To je tudi razumljivo, saj je HP prevzel povezovanje Itaniuma s HP-UX, Intel pa s 64-bitnimi Windows 2000, kar je veliko bolj zahtevno«, meni Iztok Glušič.
+Novi procesor je za HP pomemben, saj je prispeval znanje o procesorjih PA-RISC in osnovnih ploščah, Intel pa znanje o procesorjih Pentium (tipa CISC), ki jih vgrajuje v osebne računalnike.
+Tako bo Itanuim, katerega prvo prodajno različico pričakujemo konec letošnjega leta, most med svetom osebnih računalnikov in majhnih delovnih postaj ter velikih in srednjih računalnikov.
+Na to kaže tudi zadnja načrtovana različica procesorjev PA-RISC PA-8700, ki naj bi ji sledili procesorji z arhitekturo IA-64.
+Medtem so večjim proizvajalcem programske opreme že na voljo preizkusne različice računalnikov z Itaniumom, ki deluje na HP-jevi osnovni plošči.
+Največji večprocesorski računalnik, ki ga lahko ponudijo pri podjetju Jabolko, je Applov 2-procesorski Power Mac G4.
+Vendar to še ne pomeni, da teh predvsem v ZDA priljubljenih računalnikov ni mogoče uporabiti za zahtevno znanstveno računanje.
+Podjetje CSP iz Massachusettsa je razvilo zanimivo tehnično rešitev za gradnjo multiračunalnikov z omrežjem Myrinet.
+Vsak procesni modul vsebuje štiri neodvisne računalnike z 256 MB pomnilnikom, povezane z omrežnim stikalom.
+Medsebojno lahko povežemo od 12 do 21 procesnih modulov.
+Multiračunalnik uporablja Terra Soft Solutionsovo distribucijo operacijskega sistema Linux.
+Black Lab Linux vsebuje tudi multiračunalniško programsko razvojno okolje, ki temelji na že omenjeni knjižnici MPI.
+CSP znanstvenim programom namenja še programski knjižnici VSIPL in ISSPL-ALT.
+Prva vsebuje funkcije za vektorsko računanje in obdelovanje signalov, druga pa funkcije za obdelavo slik.
+Več podatkov je na spletnem naslovu www.
+Za Xircom že običajna je zelo dobra podpora z gonilniki.
+Podprti so Windows 98, 2000 in celo NT.
+To je presenetljivo predvsem zato, ker Windows NT nima gonilnikov za krmilnike USB na matičnih ploščah in so jih morali pri Xircomu napisati sami.
+Kolikor vemo, je edina druga naprava USB, ki trenutno tudi dela v Windows NT, iOmegin ZIP.
+Japonski proizvajalci, zlasti Casio in Sharp, so to praznino zapolnili že pred mnogimi leti z osebnimi organizatorji podatkov, ki so za stopnjo nad računali in stopnjo pod računalniki.
+A so običajno še razmeroma veliki, saj imajo poleg kolikor toliko velikega zaslona vgrajene (pre)majhne tipkovnice.

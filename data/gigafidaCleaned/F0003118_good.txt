@@ -1,0 +1,470 @@
+Testiranja pogonov CD-ROM smo se lotili tako podatkovno kakor tudi glasbeno.
+Pri slednjem smo v vseh pogonih CD-ROM poizkusili prebrati prvo pesem z enega glasbenega CD (dvomimo, da bi ga kdo poznal, zato imena ne bomo navajali...) in jo shraniti na disk v obliki datoteke WAV.
+Za to smo uporabili program WinDAC32, ki smo ga nastavili tako, da je glasbo prebiral, kar najhitreje je mogel.
+Čas, ki ga je program (oz. CD-ROM) porabil za zapis pesmi dolžine 4 minute in 16 sekund v datoteko dolžine 45.264.284 bajtov, smo delili s 150.000 in ga zapisali v tabelo kot število, s katerim največkrat opisujemo hitrost pogonov CD-ROM »število x«.
+Prenosniki, lažji od 2,5 kg, bodo imeli vgrajen Intelov procesor Pentium II s taktom 233 MHz.
+S 3,5 cm bodo za 5 mm debelejši od obstoječega modela ThinkPad 560, vanje pa bomo lahko vgradili enoto CD-ROM debeline 12,5 mm.
+Združitev podjetij Seagate Technology in Quinta je obrodila prve sadove v Kaliforniji bodo odprli center za razvoj optične tehnologije.
+Po Piererovih besedah so projekti v Aziji v osnovi zdravi in nanje ne bodo vplivali gospodarski pretresi na tem območju.
+Morebitni izpad dohodka bodo nadomestili z močnim povečanjem drugod, še poudarja Pierer.
+Leta 1997 je prišlo do preobrata, ki pa ni bil posebej očiten.
+Na trg so postopoma začeli prihajati »namenski« grafični pospeševalniki, namenjeni rabi doma in predvsem igram.
+Mejnik je bila grafična kartica Diamond Monster 3D in njene posnemovalke, ki so promovirale grafični pospeševalnik 3Dfx Voodoo.
+Ta je v PC vnesel dinamiko in lepo sliko, ki smo jo dotlej lahko občudovali le pri igralnih konzolah in predvsem igralnih avtomatih.
+3Dfx Voodoo se je med izdelovalci in predvsem uporabniki iger »prijel« in to se je lepo pokazalo tudi pri prodaji.
+Odziv tekmecev je bil le še vprašanje časa.
+Monster3d2.jpg: Diamond Monster 3D II uporablja procesor Voodoo 2.
+AltaVista Personal Search je odlično orodje, ki olajša delo z vsakim računalnikom.
+Program je enostaven, hiter in po svoje zelo domiseln.
+Njegova glavna omejitev je nepoznavanje najnovejših zapisov datotek, saj od bolj znanih ne pozna novega Worda …
+Če ste pozabljivi in na vašem disku vlada nered, si program vsekakor poberite z interneta (http://altavista.digital.com/av/content/searchpx.htm)!
+Če vam je dovolj ločljivost 800 × 600 pik, jo vsekakor raje uporabite.
+Pri tem je kakovost slike enako dobra kakor pri višji ločljivosti, le da imamo na zaslonu hkrati vso sliko.
+Tudi tu bi priporočili osveževalno frekvenco 60 Hz.
+Škoda, da kljub obilici nastavitvenih možnosti slike nismo mogli raztegniti čez ves zaslon, ampak je na obeh straneh ostalo 12 centimetra črnega roba.
+Kaj: TV kodirnik omogoča prikaz računalniške slike na televizorju.
+Intel je za svojo novo družino cenejših procesorjev izbral novo ime.
+Procesorji, ki so nastajali pod delovnimi imeni Covington in Mendocino, se bodo uradno imenovali Celeron.
+Po predstavitvi prvotnega procesorja Pentium tokrat torej prvič dobivamo novo oznako, ki nakazuje novo smer razvoja Intelovih procesorjev.
+Z različnimi imeni bodo skušali jasno ločiti različno tržno namembnost svojih izdelkov, ki so jih navadni kupci doslej po priponah težko ločili.
+Intel je hkrati tudi razložil razdelitev trga PC na tri segmente.
+Na vrhu ponudbe bodo sistemi s ceno nad 2500 dolarjev, pravijo jih računalniki za ljubitelje in profesionalce (Enthusiast PC in Professional PC).
+V srednji skupini so po zmogljivostih in ceni optimalni sistemi, namenjeni najširši rabi, ki bodo stali od 1300 do 2400 dolarjev.
+Ta skupina se imenuje »Performance PC«.
+Najpreprostejši so tako imenovani osnovni PC (Basic PC), ki stanejo od 800 do 1200 dolarjev, prav tem pa je namenjen novi procesor Celeron.
+Drugi pomembni Digitalov partner je Oracle, ki je z arhitekturo Alpha dobil idealno platformo za svojo zbirko podatkov.
+Oracle je bil med prvimi ponudniki relacijskih zbirk za to platformo, ponudil pa je tudi prvo v celoti 64-bitno izvedbo relacijske zbirke podatkov.
+Oracle s svojima zbirkama podatkov Oracle V7 in Oracle Rdb (ki jo je kupil od Digitala) zagotavlja velik krog uporabnikov na platformah OpenVMS in Digital Unix, v zadnjem času pa tudi na Windows NT, predvsem z zaključenimi paketi za podatkovna skladišča in spletnimi strežniki.
+Razmerje med izdelki in storitvami se nagiba v prid slednjim, kar kaže tudi podatek, da se več kot polovica zaposlenih ukvarja s svetovanjem, implementacijo rešitev in servisiranjem uporabnikov.
+Po zaključku transakcije sredi letošnjega leta (odobriti jo morajo še delničarji in ameriška vlada) je pričakovati določeno konsolidacijo znotraj združenega podjetja Compaq-Tandem-Digital v smeri združevanja prodajne, servisne in storitvene mreže na nivoju celotnega podjetja ter pozicioniranje blagovnih znamk.
+Pričakovati je, da bodo pod blagovno znamko Compaq še naprej ponujali osebne računalnike, prenosnike in strežnike, temelječe na procesorjih Intel, pod Digitalovo blagovno znamko zmogljivejše strežnike (vsekakor pa strežnike, temelječe na Alphi), pod Tandemovo blagovno znamko pa strežnike visokih zmogljivosti.
+Poskusili smo izvedeti, kaj o nastanku drugi največje računalniške družbe menijo »prizadeti«: Compaq, Digital, Tandem in podjetja, ki jih zastopajo.
+V Compaqovi podružnici na Dunaju še niso imeli kaj prida podatkov o načrtih za prihodnost.
+»Kot je znano, je prvi mož Compaqa Eckard Pfeiffer takoj po prevzemu Digitala objavil, da ne bodo dajali nikakršnih sporočil za javnost najmanj do prvih dni aprila, saj bi radi v tem času opravili celovito analizo trenutnega stanja in izdelali strategijo za razvoj in nastop«, nam je povedal Duško Miloševič iz Compaqove dunajske pisarne.
+Tudi glede podjetij, ki v Sloveniji zastopajo Compaq, Digital in Tandem meni, da do nadaljnjega ni pričakovati posebnih sprememb.
+Kaj pa menijo predstavniki naših podjetij?
+Pogovarjali smo se s predstavniki podjetij Aster, ADD in ECS.
+Da pa bi razumeli, zakaj do tega sploh pride, si oglejmo, kako pravzaprav deluje podprogram Delay.
+Zdaj pridemo do protislovja; le kako naj določen narod v celoti preide v »pravo dvojezičnost«, če je predpogoj zanjo približno enakovredno znanje maternega in mednarodnega jezika, ki pa je za velik del ljudi nedosegljivo?
+Trditev, da je prava dvojezičnost Slovencem usojena, je zelo nevarna.
+Nikolajevo namišljeno stanje, v katerem bi večina pisnih in elektronskih virov in uradnega, znanstvenega in kulturnega sporazumevanja bila v angleščini, ni dvojezičnost, temveč je uveljavitev angleščine kot uradnega jezika.
+Da se razumemo, nič ni narobe z dejansko večjezičnostjo posameznikov: čim več Slovencev govori poleg materinščine še tuje jezike, tem večje možnosti za uspeh imajo v življenju in tem bolje se bo godilo tudi narodu.
+Prava dvojezičnost bi bila »demokratična«, če bi vzporedno izdajali vse knjige, revije, filme in programe v angleščini in slovenščini.
+A stvarnost je neusmiljena: večina ljudi noče ali pa nima priložnosti, da bi se dobro naučila dveh jezikov hkrati in ju tudi stalno uporabljala navadno izbere en jezik kot glavni.
+Prava, simetrična dvojezičnost je izmišljen pojem zato, ker ima lahko človek samo en materni jezik, tako kakor ima samo eno mater.
+In prav v tem je nevarnost govorjenja o taki dvojezičnosti, ki je za narod v celoti nedosegljiva, pripravlja pa plodna tla za rast nenaravnega križanca angleščine in slovenščine, ki bi izgubil lepoto, uporabnost in smisel tako prvega kakor drugega jezika.
+Ime Xerox večinoma povezujemo s fotokopirnimi stroji, nekoliko manj znana pa je pestra ponudba drugih njihovih izdelkov, sistemov in storitev za učinkovito obdelovanje in nadzorovanje dokumentov.
+DocuShare je namenjen heterogenemu večuporabniškemu okolju, v katerem je potreben hiter in enostaven dostop do pomembnih podatkov.
+Na voljo je tako za strežnike NT kakor tudi za strežnike Sun Solaris.
+Njegova poglavitna prednost je v tem, da uporabnikom omogoča preprosto delo iz vsake delovne postaje z omrežno povezavo s spletnimi brskalniki, torej tudi z zelo oddaljenih mest, in dokaj standardiziran dostop, ki ni pogojen z vrsto operacijskega okolja.
+Vmesnik DocuShare je zelo prijazen in od uporabnikov ne zahteva posebnih računalniških znanj.
+Uporabniki sami z nekaj preprostimi operacijami oblikujejo nova uporabniška imena in skupine, dodajajo dokumente v zbirke v strežniku in zelo natančno določajo pravice dostopa uporabnikov, celo na ravni posameznega dokumenta ali imenika.
+Nepooblaščeni uporabniki sploh ne bodo vedeli, da določen dokument obstaja.
+Dokument je tu razumljen v najširšem smislu in zajema sleherno uporabno datoteko, torej tudi slikovne, zvočne, video in druge datoteke.
+Na osnovni strani je tudi funkcija »Whats New«, ki omogoča hiter in enostaven vpogled v vse spremembe, ki so se zgodile v strežniku v določenem časovnem obdobju (novi uporabniki, novi dokumenti, spremenjeni dokumenti itd.).
+Iskalno orodje omogoča izbiro dokumentov glede na lastnosti dokumenta ali njihovo vsebino.
+Za lastnosti dokumenta poleg imena datoteke štejemo opisno ime, povzetek in ključne besede, ki jih določimo ob dodajanju v zbirko in po potrebi spreminjamo.
+Izpis rezultatov iskanja je v padajočem zaporedju ustreznosti (relevantnosti).
+Iskanje po vsebini dokumentov obvlada več kakor 30 formatov datotek, med njimi pa (zaenkrat še) ni datotek najnovejše Microsoftove pisarne (Office 97) in datotek pdf.
+TIF: DocuShare omogoča zmogljivo iskanje dokumentov v svojih zbirkah.
+Lotus se je tudi pravočasno odzval na spremembe na trgu in različico 4 spremenil tudi v zmogljiv spletni strežnik (od nedavnega imenovan Domino), ki ob vsem skupaj ohranja prednosti tudi v primeru spletne uporabe.
+Skoraj vse, kar je mogoče postoriti v odjemalcu Notes, lahko počnemo tudi prek spletnega brskalnika, kar je dobra osnova tudi za izgradnjo spletnih uporabniških programov, na primer trgovanja po internetu.
+V zadnji različici 4.6 so dodali podporo tudi za dostop do pošte z odjemalcem POP3 in združljivost z razpravljalskimi bazami s protokolom NNTP.
+Z novimi možnostmi, kot je podpora za pošto v formatu SMTP, je celoten strežnik mogoče preprosto priključiti v internet, ob tem pa izkoriščati vse prednosti spletne in običajne rabe.
+Notes je med redkimi izdelki, ki vse navedene lastnosti vsebuje v enem samem paketu.
+Če ste arhitekt, boste dolgo in pazljivo izbirali orodje za risanje, če ste pisatelj, boste pozorno izbrali urejevalnik besedil.
+Veliko časa pa boste presedeli tudi ob programu za elektronsko pošto, ki ste ga morda kar nekje pobrali, ne da bi o njem razmislili, si ga ogledali in preizkusili.
+Ker so to programi, v katere buljimo vsak dan kako minuto dlje, smo se v uredništvu odločili za temeljitejše testiranje.
+Dostikrat boste naleteli na kratico IMAP (»Internet Messaging Access Protocol«), ki vam omogoča tudi drugačen način dela: pošta je lahko neprestano shranjena na strežniku.
+Pri sebi vam torej ni treba imeti kopij pisem, je pa res, da tak način dela za ljudi, ki dostopajo do strežnika prek modemske povezave, ni ravno priporočljiv.
+S tem smo obdelali odgovore na zoprna vprašanja, ki jih zastavljajo poštni programi pri nameščanju.
+Ni vam jih treba znati na pamet, vsekakor pa shranite list, na katerem vam jih ponudnik dostopa do interneta sporoča.
+Elektronsko pismo je sestavljeno podobno kakor navadno slika 1.
+Telo pisma je prostor za vsebino, nekakšen prazen list.
+Tjakaj boste napisali, kar želite.
+Pomembnejša je glava pisma, saj so v njej zapisani podatki, ki bodo omogočili omrežju pismo zares vročiti.
+Zagotovo morate vtipkati naslovnika; natančneje, njegov elektronski naslov, na katerega pišete.
+Na sliki 1 je prostor za naslov v vrstici z oznako »Za:«.
+Vse drugo ni obvezno.
+Priporočam vam, da izpolnite še zadevo vašega pisanja, kratek povzetek v nekaj besedah, s katerim poveste, o čem sploh pišete, in ki pozneje pomaga naslovniku laže najti in arhivirati vaše pismo.
+Kopijo pisma lahko pošljete poljubno mnogo naslovnikom, prav tako skrite kopije o obojem bo tekla beseda pozneje.
+Program iz teh podatkov sestavi dejansko glavo pisma, ki potem odpotuje skupaj z vsebino.
+V njej je veliko več podatkov, ki so vsi hudo računalniški, zato sem jih izločil v poseben okvir, da bi ne moril bralcev, ki se nočejo poglabljati v globine e-pošte.
+Preberite si okvir z naslovom Glava sporočila.
+Zakaj bi moral človek pred izbiro poštnega programa sploh razmisliti?
+Ker je arhiv elektronske pošte z vsakim prispelim pismom vse pomembnejši.
+Še preden se dobro zaveste, že postanete odvisni od podatkov, ki so v njem.
+Vsak poštni program zapisuje arhiv v sebi lastni obliki in prav majhne možnosti imate ohraniti arhivirana pisma, ko se odločite menjati program.
+Meni osebno se to ne zdi prav bistvena postavka, a sodobni časi jo zahtevajo.
+Novejši programi podpirajo obliko zapisa HTML in očitno se bo uveljavila.
+Priporočam ga ljubiteljem umirjene klasike.
+Po sposobnostih je pri vrhu, kakih oblikovalskih ali programerskih presežkov ne premore, pa vendar ima dovolj odlik, da ga lahko mirno postavim med zmogljivejše izdelke, kar jih obravnava ta članek.
+Med namestitvijo sprašuje ohoho zadev, kar pomeni, naj začetniki raje držijo izkušenega uporabnika za roko; če je treba, tudi z lisicami.
+Za povrh docela podpira šumnike, kar je prijetno presenečenje glede na stanje pri večini konkurentov.
+V levem oknu odpre precej map in, zanimivo ter praktično, imena različnih strežnikov so kar v prvi izmed njih.
+V drugi mapi je adresar, v tretji samodejni odgovori, v četrti pravila razvrščanja in tako naprej.
+Vzemimo pod drobnogled življenje urednika revije, ki mu sodelavci pošiljajo članke po elektronski pošti.
+V mapo prispe pismo z orjaško pripeto datoteko, v kateri so shranjena besedila in slike.
+Pazite, orjaški paket!
+Urednik mirno klikne ikono za odgovor s citatom izvornega sporočila, tako da bo avtor vedel, na kaj mu urednik odgovarja.
+Eh, saj ne napiše veliko.
+Recimo, samo: »Potrjujem prejem članka.
+Čez pol ure pa se po telefonu penasti avtor dere na urednika in ga zmerja.
+Vpije nekaj o tem, da bi tak renomiran pisec že moral vedeti, kdaj se pošiljajo datoteke in kako, predvsem pa, zakaj urednik ubogega avtorja zaj...
+Urednik kar leze pod mizo in nič mu ni jasno.
+Avtor pojasni, da je prek modema vsaj dvajset minut prejemal urednikov odgovor in medtem postal že hudo radoveden, kaj vse mu pošiljatelj dostavlja, da traja tako dolgo.
+Izkazalo pa se je, da je urednik poslal avtorju članek nazaj.
+Če ni dober in ni za objavo, so tudi bolj blagi načini za obveščanje avtorja kakor tako grobo namigovanje.
+Avtor trešči slušalko na vilice, urednika pa prešine strašna misel.
+Pogledat gre arhiv odposlane pošte, in res: ko od programa Lotus Notes zahtevate, naj citira izvirno sporočilo, to tele citira tudi pripeto datoteko!
+Česa takega še nisem videl.
+Če se torej zahvalite avtorju za nekaj megabajtov dolgo poslano sliko in uporabite običajni gumb za citat, mu s tem vrnete sliko.
+Netscape Mail Notification je droben pripomoček, ki čaka v vrstici stanja in tu in tam preverja pošto.
+Problem je le v tem, da preverja mehanično na določeno število minut, pa če ste na zvezi ali ne v tem primeru začne obračati številko, kar ni vsakič najprimerneje.
+Nekateri programi to postorijo veliko bolje preberite okvir z naslovom Koristni pripomočki.
+Pohvaliti pa moram izvažanje in uvažanje podatkov iz adresarja v obliko LDIF ter izvažanje sporočil v navadno besedilo.
+Sploh slednje Messenger opravi temeljito in izvozi tudi pripete datoteke.
+V novičarskih skupinah ljudje razpravljajo pišoč javna pisma.
+Imamo pa tudi drugačno dopisovanje, ki je primerno za manjše skupine pismo pošljete vsem ljudem na določenem seznamu (mailing list).
+Za razliko od vaših lastnih seznamov, ki jih lahko sestavite sami, so ti seznami spravljeni v strežnikih.
+Recimo, da ste velik navdušenec za glasbo Rolling Stones.
+Svoj elektronski naslov uvrstite na seznam vam podobnih in izmenjava se lahko začne.
+Vaše pismo bodo dobili vsi s seznama in če vam bo kdo odgovoril, bo kopija prav tako šla vsem.
+Vsak seznam ima načeloma dva naslova: enega za posredovanje pošte, drugega za prijavljanje in odjavljanje.
+Saj ne želijo vsi bralci zvedeti za vsakega, ki se je prijavil, pa tudi ne za vsakega, ki je odnehal.
+Ostanimo pri konkretnem zgledu navdušencev nad Rollingi.
+Prijavite se tako, da na naslov upravitelja majordomo@majordomo.pobox.com pošljete pismo, ki naj ima v vsebini en sam stavek:
+V glavi e-pisma označuje prostor, kamor vtipkate naslove tistih, ki naj dobijo kopijo sporočila, ki ga pravkar pišete.
+V pismu bodo navedeni prejemniki vseh kopij.
+Latin 2Glej geslo »ISO-8859-2«.LDAPStandard, po katerem program zahteva podatke o naslovniku tudi od raznih javno dostopnih strežnikov z imeniki e-naslovov.
+Okrajšava za »Simple Mail Transport Protocol«.Snail mailNavadna pošta, ki jo raznašajo poštarji.
+Večina poštnih programov zna v ozadju preveriti, ali je v vaš strežnik prispelo kaj nove pošte.
+Do težav pride pri modemski povezavi.
+Iz neznanih razlogov večini programov ne morete ukazati, naj preverjajo novo pošto le tedaj, ko ste na zvezi.
+Zelo koristen pripomoček je program NewMail za Win95/NT4.0, ki mu lahko določite več POP strežnikov, po katerih preverja novo pošto.
+Določite lahko vse tiste drobne malenkosti, ki naredijo program uporaben, tudi pregledovanje samo takrat, ko ste povezani z omrežjem.
+Izberete lahko obliko obvestila, recimo opozorilo na zaslonu, v katerem program celo našteje prispela pisma.
+Za povrh je program tak, kakor mora biti: majhen in zna lepo čepeti v vrstici stanja.
+Ko poženete Canine Mail, takoj črno na belem (dobesedno!) ugotovite, da ste v težavah.
+Nato začnete tipkati osebne podatke in sproti morate klikati gumb za shranjevanje, drugače jih program hitro pozabi.
+Kadarkoli se poskusite povezati, vam ne uspe.
+Morda zato, ker program neprestano sporoča napako pri branju osebnih podatkov, ki ste jih pravkar shranili.
+Ste jih res?
+Greste pogledat in pol jih manjka.
+Čemu rabi belina desno spodaj, ne vem, verjetno pa branju prispele pošte.
+Edina odlika programa je ta, da se sam poslovi po petnajstih minutah, češ da ni registriran in zato noče več delovati (kakor da bi bil dotlej kaj naredil!).
+Omislite si ga lahko na http://www.ajcs.on.ca/canine.html za 29,95 dolarja.
+Boju proti vsiljivi pošti so se pridružili tudi avtorji poštnih programov.
+Če je vaš program sposoben preusmeriti pošto po postavljenih pravilih, lahko vse možne različice, ki imajo v rubriki zadeva besedico »razprodaja« ali celo samo znak $, mirno takoj romajo v smeti.
+Ja, celo to: če program naleti na besedo »sreča«, lahko pismo prav tako mirno uniči.
+Hej, kam smo prišli?
+Prej ali slej boste morali poseči po bolj specializiranem programu za boj proti vsiljivcem.
+Tak program naj bi poleg odkrivanja vsiljive pošte po ključnih besedah v naslovu obvladal tudi sezname nezaželenih ljudi in po potrebi tudi protestiral.
+Ne samo odvrgel vsiljivo pismo, marveč poslal nazaj pripravljen protest.
+Ne naštevam ničesar takega, kar že tako ali tako ne bi zmogli storiti s samim poštnim programom, a avtomatizacija je vseeno dobrodošla.
+Za začetek preverite enega enostavnejših, ki se imenuje Spam Hater in je za osebno rabo brezplačen.
+Dobite ga na naslovu http://www.compulink.co.uk/~net-services/.
+Najboljši tovrstni programi pošto obdelajo že v strežniku POP, ne da bi jo prenašali k vam.
+Elektronsko pismo je bolj dopisnica kakor karkoli drugega.
+Prave zasebnosti nimate in tega ne smete pozabiti.
+Pismo namreč ne potuje v ostri črti do naslovnika, temveč se opoteka od strežnika do strežnika.
+Vsak upravitelj si ga lahko ogleda, da o kakih teorijah zarote in mafijah, ki prežijo na vas, niti ne govorimo.
+Sodobni poštni programi vam omogočajo šifriranje sporočil.
+V veljavi sta dva standarda: prvi, starejši, se imenuje PGP, drugi, novejši, pa S/MIME.
+Slednjega podpirata oba, Microsoftov in Netscapov poštni program četrte različice.
+Preden začnete pošiljati šifrirana sporočila, si morate priskrbeti elektronski podpis (imenovan tudi »elektronski ID«), ki je tako rekoč vaša elektronska osebna izkaznica.
+Da bi jo dobili, morate seveda na občino hej, a ne vašo, krajevno, marveč na elektronsko.
+Z izdajanjem overovljenih podpisov se ukvarjajo posebna podjetja.
+Microsoft je pripravil seznam takih podjetij na http://www.microsoft.com/ie_intl/sl/ie40/oe/certpage.htm.
+Prvo na seznamu je VeriSign (https://digitalid.verisign.com/), pri katerem lahko svoj elektronski podpis dobijo tudi uporabniki drugih poštnih programov.
+Za Microsoft Outlook Express 4.71.1712.3 pa se je izkazalo, da ne spreminja nastavitve charset.
+Uporabi tisto, kar je nastavil uporabnik.
+V žargonu pravijo tem javno dostopnim imenikom elektronskih naslovov tudi »internetne bele strani«, pač po analogiji s telefonskim imenikom.
+email3_calypso_detajl.tif Program Calypso prikaže vse svoje nastavitve kot mape: pregledno za poznavalce, prekičasto za začetnike.
+email3_email97_detajl3.tif Polna različica programa E. Corp Email 97 premore prevajalnik pisem v različne jezike.
+Tile sliki spadata k okvirju Bolj ali manj koristne zanimivosti:
+Brezplačen pa bo za lastnike Outlooka 97.Brezplačen za lastnike programa Windows.59 dolarjevBrezplačen.44,95 dolarjaBrezplačen.89 dolarjev, akademska cena 44,50 dolarja.
+V ceno je vključen slovenski priročnik.
+Fizično je zapisovalni CD narejen podobno kakor navadni srebrni CD.
+Osnova je plošča iz prozorne plastike, ki skrbi za trdnost celote tudi pri hitrem vrtenju, kakršnega zmorejo današnje enote CD-ROM.
+Na drugi strani plošče je zaščitni sloj, ki skrbi, da so podatki zaščiteni pred poškodbami in ultravijolično svetlobo.
+Nad tem slojem so lahko še dodatni zaščitni sloji, pogosto združeni z natisnjeno vsebino ali pa prelepljeni z nalepko.
+Dobro je vedeti, da so podatki tik pod zgornjim delom plošče, torej tam, kjer so ponavadi napisi, tako da je treba predvsem tu paziti na morebitne praske, prav tako pa na ploščo ni dobro pisati s kemično agresivnimi pisali ali nanjo lepiti nalepke z nepreverjenim lepilom.
+Pod zaščitnim slojem je sloj za odboj svetlobe, ki jo z laserjem usmerimo na površino diska.
+Med odbojnim slojem in plastično osnovo je še poseben sloj organske snovi, na katerega podatke zapisujemo.
+Medtem ko pri navadnem CD govorimo o možici hribčkov, ki jih naredijo v tovarni, in skrbijo za odboj oziroma razpršitev svetlobe, najdemo na zapisljivih ploščah množico luknjic in ravnih delov, ki prav tako usmerjajo svetlobo.
+Vse skupaj je razporejeno v spirali od središča plošče (kjer je začetek) proti zunanjemu obodu.
+Pri ploščah CD-R brazdo za vodenje laserja že v tovarni vrežejo na disk, njej pa nato sledi laserska glava pri zapisovanju podatkov.
+Celotna spirala naredi 22.188 »obhodov« okoli diska, kar pomeni okoli 600 sledi na milimeter.
+Če bi spiralo »odvili«, bi bil zapis v celoti dolg okoli 5,6 km.
+Intelovi tekmeci ne čakajo
+Še pomembnejša novost je novi procesor iz družine MediaGX, ki je energijsko varčen in zato namenjen rabi v notesih.
+Nov procesor MediaGX s hitrostjo 200 MHz je že uporabil Compaq za svoj prenosnik iz družine računalnikov za rabo doma, Presario.
+Novi procesor ima manjšo porabo energije in zmore višje hitrosti, poleg tega pa podpira ukaze MMX ter nekatere druge tehnologije, kot so pomnilniki SDRAM.
+Zaradi visoke stopnje integriranosti novost omogoča izdelovanje prenosnih računalnikov, cenejših od 2000 dolarjev.
+AMD je prav tako kakor Cyrix začel izdelovati procesorje z 0,25-mikronsko arhitekturo, le da je korak pred tekmecem.
+Na trg je namreč že poslal prvi procesor K6 s hitrostjo 266 MHz, tako da trenutno ponuja najhitrejše izdelke v spodnji kategoriji in je celo za korak pred Intelom, ki podobnega izdelka ne bo imel v programu.
+IBM je že začel vgrajevati procesor AMD K6 s hitrostjo 266 MHz v svoje najnovejše modele iz družine Aptiva E.
+Kakšen sploh je sistemski nadzor?
+Programski nadzor (application management) je npr. zgoraj omenjeni nadzor nad Notesom.
+Iz sistemske konzole (ki jo lahko poganjamo v najrazličnejših sistemih od Windows NT do AIXa) lahko nadzorujemo porabo pomnilnika in drugih sredstev, lahko nadzorujemo uporabnike strežnika Notes, določamo jim lahko dostopne pravice in gesla in še in še.
+Vse to je seveda zanimivo zato, ker to lahko počnemo s kateregakoli omreženega mesta v našem sistemu, pa čeprav je strežnik Notes na drugi strani Atlantika.
+Golubeff: Z razvojem dogodkom v Evropi smo zadovoljni.
+Tukaj imamo tudi nekaj proizvodnih obratov in distibucijskih središč, med katerimi je treba omeniti središče na Irskem.
+Sistem: Na današnjem srečanju ste posebno pozornost namenili elektronskem trgovanju.
+i publish je zanimiv in zelo dognan izdelek, ki zmanjša razdaljo med poznavanjem namiznega založništva in dobrim oblikovanjem.
+Kljub omejitvam je vreden svojega denarja, saj nam prihrani veliko časa.
+Čas pa je tako ali tako denar!
+HP je bil v svetu žepnih računalnikov že doslej trdno zasidran z modeloma 300LX in 320LX.
+Slednji je dobil naslednika HP 360LX Palmtop PC, predstavili pa so tudi že žepni računalnik z barvnim zaslonom HP 620LX.
+No, to, kar smo povedali doslej, je teorija.
+Ta se od prakse razlikuje v toliko, da je v resnici treba natančno določiti, čemu so taki skenerji sploh namenjeni.
+Od svojih začetkov, ko so bili večinoma še sivinski, je veljalo, da so mišljeni kot dodatek faks/modemu, ki omogoča izvedbo navadne faksimilne naprave.
+Pri naštetem nas zgornje omejitve ne motijo prav zelo.
+Res je, da zamikanje za optično branje ni najboljše, vendar so današnji programi za OCR že tako natančni, da znajo take omejitve preseči.
+Magic 8 je soliden napredek v primerjavi s prejšnjo različico.
+Večjih presenečenj resda ne prinaša, zato pa tudi večjih pomanjkljivosti nismo zasledili.
+Kdor Magic že uporablja, bo v različici 8 težko našel razloge za prehod na drug sistem.
+Čeprav v dokumentaciji na več mestih piše, da zna Magic ustvariti programe v javi, ni tako.
+V resnici skupaj s paketom za internet dobimo poenostavljeno različico odjemalca Magica, napisano v javi.
+Če uporabljamo javanske obrazce, brskalnik najprej naloži tega odjemalca, potem pa mu strežnik v obliki tekstovne datoteke posreduje opis obrazca.
+Med orodja za podporo skupinskega dela uvrščamo orodja za elektronsko pošto, spletne brskalnike in druge programe za pregledovanje in prenos podatkov.
+Kopičenje podatkov pripelje do sodelovanja, ko se podatki v kontekstu spremenijo v znanje.
+Sodelovanje med posamezniki v skupini omogoča kopičenje znanja, njegovo uporabo in enotni dostop do nakopičenih podatkov.
+Zaščito in mehanizme varnosti jim zagotavlja najeti vod do Centra vlade za informatiko, kjer je nameščen osrednji požarni zid.
+Drugim uporabnikom prav zaradi večje varnosti ne omogočajo dostopa do omrežja.
+Sistem kodiranja, ki ga vsebuje Lotus Notes, omogoča tudi možnost zaščite zasebnosti elektronskih sporočil.
+V prihodnje bodo pri uporabnikih poskusili uveljaviti uporabo elektronskega podpisa.
+Pred časom so poskusili uporabljati program PGP, vendar so program opustili.
+Kljub temu niso imeli težav glede varnosti, saj Salusovi podatki, ki potujejo po elektronskih poteh, niso hudo zaupne narave.
+V deželo prihaja pomlad in, verjeli ali ne, to prej ali slej opazijo celo najbolj vneti deskarju po internetu.
+Zato smo tokrat na našem rednem mesečnem potepu po internetu obiskali nekatere spletne strani, ki nas bodo dodobra predramile iz zimskega spanja.
+Zimska oblačila ste torej do naslednje zime shranili v naftalin.
+V dobi goreteksa, polarteca in podobnih umetnih snovi moljem sicer trda prede, ampak z njimi, molji namreč, se bomo ukvarjali kdaj drugič.
+Mi se raje vrnimo k oblačilom.
+Zgroženi ste namreč opazili, da je vaša pomladna garderoba obupno zastarela.
+Preden se brezglavo zapodite v trgovine in začnete zapravljati za najnovejše krpice, se vsekakor splača teoretično podkovati.
+Kaj se torej nosi letošnji pomlad?
+Odgovor boste, kot vedno, našli v internetu, in sicer v modnem omrežju.
+Verjetno ste že slišali, da je edini izdelek človeških rok, ki so ga s prostim očesom videli ameriški astronavti iz vesolja, veliki kitajski zid.
+Trditev je že stara in čeprav bi moralo biti vsakomur, ki vsaj malo misli tudi z lastno glavo, jasno, da ne more biti resnična, jo še vedno tu in tam zasledimo v tem ali onem časopisnem članku, televizijski oddaji ali kje drugje.
+Kitajski zid je namreč res dolg nekaj tisoč kilometrov, vendar v višino in širino meri le nekaj metrov, veliko premalo, da bi ga lahko videli iz vesolja.
+Nekako tako, kakor če bi gledali nekaj sto metrov oddaljeno nit sukanca.
+Ne glede na to, kako dolga bi bila, bi je ne videli.
+Tretji del Nahtigalove knjige pa je namenjen internetu.
+V njem spoznamo osnovne pojme, povezane s svetovnim omrežjem ter se naučimo, ko se z njim povezati.
+Avtor obdela tudi Microsoftov Internet Explorer ter nekaj pozornosti posveti delu z elektronsko pošto in programu Internet Mail.
+Knjigo zaključujejo trije dodatki, v katerih spoznamo program za delo s stisnjenimi datotekami WinZip, peščico zanimivih spletnih naslovov in dodatne vaje.
+Lahko pa se seveda tudi..., ah ne, tradicija gor ali dol, tokrat se prav gotovo ne motim!
+Sun in konzorcij za VRML bosta ustanovila skupno telo, ki bo bdelo nad integracijo Jave 3D in VRML.
+CA je za prevzem ponudil visoko vsoto 9 milijard dolarjev, vendar pri CSC trdijo, da je ponudba mnogo prenizka, upoštevajoč kratkoročne in dolgoročne možnosti podjetja.
+Poleg tega naj bi povezava s CA s poslovnega vidika ne bila smiselna, saj bi dolgovi, nastali pri prevzemu, zmanjšali kreditno zaupanje v CSC, obenem pa bi CSC izgubil nevtralnost pri izbiri platform za svoje izdelke, zapustilo pa bi ga tudi več ključnih delavcev.
+Pravzaprav gre pri dobrih programih za več kakor zgolj prepoznavanje znakov.
+Vanje so namreč vgradili slovarje za posamezne jezike, s katerimi programi preverjajo pravilnost prepoznanih besed in s tem zelo izboljšajo natančnost prepoznavanja.
+Zaenkrat ni še v noben program za prepoznavanje znakov vgrajen slovenski slovar, izvedeli pa smo, da se zastopnik podjetja Recognita že dogovarja o pripravi slovarja, ki bi ga lahko slovenski uporabniki enostavno dodali Recogniti Plus.
+Programi za prepoznavanje znakov že dolgo niso namenjeni zgolj prepoznavanju črk.
+Trudijo se s prepoznavanjem tipografij ali vsaj njihovih velikosti in osnovnih značilnosti (nagnjeno, polkrepko, podčrtano), določiti poskušajo obliko besedila (en ali več stolpcev) in njegovo prelivanje, poiščejo in izločijo slike, na koncu pa poskušajo narediti dokument, ki bo tudi po oblikovanju kar najbolj podoben izvirniku.
+V prejšnjem stavku je kar nekaj pogojnikov.
+Programi namreč našteto poskušajo, uspeva pa jim zaenkrat še ne, zato je včasih bolje, če zahtevnejše možnosti izklopimo in prepoznavamo le golo besedilo.
+Drugo, kar ponujajo programi (prepoznavanje rokopisa, črtne kode, posebnih znakov …), pa si bomo ogledali pri posameznih predstavnikih.
+RECOGNITA PAGE RECOGNITION.
+Za: Nizka cena, majhne strojne zahteve, prepoznava slovenščino, enostavna raba.
+Proti: 16-bitni program, zelo nenastavljiv, ne da se ga učiti, prepoznavanje je slabo, program za odstranitev ni priložen.
+Intel bo izdeloval procesorje StrongARM
+Gospodarska kriza na nekaterih svetovnih trgih je po mnenju predstavnikov podjetja Intel eden izmed krivcev za manjše povpraševanje po procesorjih v prvem letošnjem poslovnem četrtletju.
+Zato so se odločili svoje delničarje opozoriti, da bodo zaslužki v tem obdobju najbrž nižji od napovedanih.
+Po prvih projekcijah rezultatov naj bi se prodaja v primerjavi z zadnjim četrtletjem lanskega leta zmanjšala za okoli 10 %, vendar menijo, da je zmanjšanje le prehodno.
+Sunova družina mikroprocesorjev, optimaliziranih za izvajanje programske kode v javi, je dobila pomembnega zaveznika.
+Podjetji Sun in IBM sta namreč podpisali licenčno pogodbo, po kateri bo IBM dobil pravico izdelovati in uporabljati procesorje picoJava v svojih računalniških sistemih.
+IBM se je tako pridružil drugim podpisnikom licenc, kot so LG Semicon, Mitsubishi Electronics, NEC, Samsung Electronics in drugi.
+Evropski tržni segment, povezan z internetom, se naglo povečuje in dosega vrtoglave vsote.
+Če se je v tem poslu leta 1996 v Evropi obrnilo samo 676 milijonov dolarjev, se jih je leta 1997 že 1,9 milijarde, kar pomeni letno povečanje za 182 %.
+Po napovedih IDC naj bi letno povečanje tega področja, ki obsega internetno oglaševanje, podporo strankam in elektronsko trgovino, znašalo 39,9 %, tako da bi skupna vsota do leta 2001 dosegla 7,3 milijarde dolarjev.
+Microsoft bo junija objavil četrti komplet popravkov za operacijski sistem Windows NT 4.0.
+Service Pack 4 je nastal na izrecno željo uporabnikov, ki so od izdelovalca zahtevali boljši nadzor nad zaščito v sistemu.
+Microsoft se je zato odločil, da bo poleg manjših popravkov v paket vključil tudi modul Security Configuration Editor, ki je bil doslej načrtovan šele za Windows NT 5.0.
+Novi dodatek bo deloval v povezavi z nadzorniškim modulom Microsoft Management Console, omogočal pa bo omrežni centralni nadzor zaščite v enem ali več strežnikih.
+To bo, kakor kaže, tudi edina novost, saj pri Microsoftu ne nameravajo dodajati novih modulov pred predstavitvijo sistema Windows NT 5.0.
+Komplet Service Pack 4 so v osnovi načrtovali za konec lanskega leta, vendar se je razvoj zaradi dela z novo različico operacijskega sistema zavlekel.
+Microsoft pričakuje, da bo v istem obdobju objavil tudi drugo razvojno različico Windows NT 5.0.
+Potem ko so pri Microsoftu osvežili svoj paket BackOffice in mu dali oznako 4.0, je na vrsti nova različica, 4.5, ki bo na voljo kmalu po predstavitvi dveh novih sestavnih delov paketa.
+BackOffice torej načrtujejo po predstavitvi nove različice baze podatkov Microsoft SQL Server 7.0 in nadzorniškega paketa System Management Server 2.0, ki sta trenutno v zadnjih fazah razvoja.
+Poleg teh dveh novosti bo premogel tudi nov uporabniški vmesnik za posamezna opravila in povsem nov namestitveni program, ki bo poenostavil predvsem bolj zapletene namestitve.
+Med namestitvijo bo mogoče določiti ciljno domeno, vse skupaj pa avtomatizirati s skriptnim jezikom.
+Novosti bodo tudi v nadzorniški konzoli, ki jo bo mogoče prilagoditi posameznim upravnim nalogam, oziroma določiti funkcije, ki jih posamezen upravitelj vidi.
+Microsoft bo na podlagi nove različice paketa BackOffice pripravil tudi novo izdajo strežnika Small Business Server, ki bo premogel nekatere novosti iz matičnega paketa.
+Preden začnemo delati z novim QuarkXPressom, se moramo bržkone seznaniti z orodji.
+Teh je toliko, da sploh niso prikazana vsa hkrati, ampak imamo do skritih dostop prek podpalet, ki skočijo iz ikone izbranega orodja.
+Ni pa nujno, da je tako.
+Paleto lahko namreč povsem spremenimo orodja premikamo, jih skrivamo in spet prikazujemo.
+Druga večino časa na zaslonu prikazana paleta je paleta z merami, ki se spreminja glede na izbrani element.
+Lastnosti, ki jih ne moremo nastaviti v njej, nastavljamo s pogovornimi okni, ki imajo v novi različici podstrani, in ker z ene na drugo preklapljamo z jezički, ni več treba zapirati prvega okna, da bi lahko v drugem nastavili kaj drugega, ampak samo kliknemo pravi jeziček.
+Okvirom lahko seveda dodajamo obrobe.
+Slogi zanje so skupni s slogi črt (ravnih in krivulj), vse skupaj pa lahko dodobra prilagodimo svojim potrebam v posebnem pogovornem oknu.
+Ustvarjamo lahko nove sloge ali spreminjamo obstoječe.
+Najprej se moramo odločiti, ali bomo slog črte spreminjali po širini ali po dolžini.
+Izdelujemo lahko namreč obrobe, ki imajo več vzporednih različno debelih črt, in take, ki imajo le eno črto, je pa zato ta prekinjena na različne načine.
+Ko se odločimo za vrsto, z miško na merilu z označenimi odstotki določamo, iz koliko delov bo črta, kako široki bodo, in še nekaj drugih lastnosti.
+Ko slog shranimo, ga lahko prirejamo obrobam in krivuljam, določamo, kakšne barve bodo črte, pike ali karkoli smo že ustvarili, ločeno pa lahko določimo tudi barvo praznega prostora v vzorcu.
+Črte imajo lahko na začetku in koncu tudi puščice, vendar smo tu z možnostmi precej omejeni na le nekaj vdelanih vrst.
+Posvetimo se še malo besedilu v okvirih.
+Po višini ga lahko poravnavamo na štiri načine na vrh, na dno, na sredino ali poravnano.
+Slednje pomeni, da QuarkXPress poveča razmike med vrsticami, tako da besedilo enakomerno zapolni vso višino okvira.
+To nam utegne priti prav, če želimo imeti vse stolpce natanko enako visoke, hkrati pa se samodejno znebiti vseh morebitnih vdov ali sirot.
+Je pa res, da se v tem primeru vrstice ne ujemajo med stolpci če pogledamo vrstico nekje v sredini prvega stolpca, ni nujno, da bo v natanko isti višini kot ustrezna vrstica v naslednjem stolpcu.
+Kaj nam je bolj všeč, se moramo odločiti sami (ali pa se z ročnimi posegi potruditi, da zadovoljimo obema zahtevama).
+Dokler elektronska pošta v podjetju ne preraste v osnovni način komunikacije, lahko govorimo o tem, da se uporablja pretežno za komuniciranje z zunanjim svetom ali pretežno za komuniciranje v podjetju.
+V prvem primeru ima podjetje na primer nekaj poštnih naslovov za komunikacijo s partnerji, v drugem pa je običajno nameščen sistem za elektronsko pošto v podjetju, ki ni povezan z internetom.
+Med večjimi podjetji, ki so sodelovala v anketi, je več takih, ki uporabljajo elektronsko pošto pretežno za komunicirajo z zunanjim svetom (več kakor 60 odstotkov; kar četrtina vseh pa uporablja e-pošto izključno za komunikacijo zunaj podjetja), kakor tistih, ki jo uporabljajo pretežno za sporočanje znotraj podjetja.
+Po teh podatkih lahko sklepamo, da tudi v podjetjih, ki imajo elektronske naslove, elektronska pošta še ni uveljavljena tako kot na primer telefon.
+Potrošništvu so se podredili tudi računalniki, te nenavadno zmogljive naprave, za katere se navadnemu smrtniku, ki morda približno razume pralni stroj ali celo avtomobil, niti sanja ne, kako so sestavljeni in kako delujejo in kaj vse zmorejo v pravih rokah.
+Eno od osnovnih načel potrošništva pa je pretirano, osladno, kičasto ponujanje robe potrošniku.
+Seveda gre za prefinjeno vsiljevanje, kajti nihče ne potrebuje toliko, kolikor mu skuša sodobni svet potisniti po goltancu.
+Zato je treba vsiljevanje pospremiti z lepimi besedami, »pametnimi« slogani in ugodnimi pogoji (smešno je, da kdo zaradi ugodnih pogojev kupi kaj, česar ne potrebuje, vendar se to dogaja vsak dan in povsod.)
+A to ni to.
+Operator indeksiranja naj bi bil hiter, izvedel naj bi se v času, neodvisnem od velikosti indeksa.
+Ta pa je očitno tem počasnejši, čim večji je n. Drugače povedano: list ima bedne iteratorje.
+Znajo lesti naprej in nazaj po seznamu, skakati pa ne.
+Do elementa na seznamu se lahko prebijem le tako, da prej pozdravim tudi vse pred (ali za) njim.
+Dodajanje in brisanje elementov je tako ali tako mogoče pri vseh podatkovnih strukturah, iskanje določenega elementa, jasno, tudi.
+Če so tudi operacije z množicami definirane za vse, čemu posebni predmeti za množice?
+Zato, ker so ti predmeti pri dodajanju, brisanju in iskanju prepričljivo hitrejši od predmetov, ki smo jih spoznali doslej.
+Koliko časa potrebuje vector<int>, da preveri, ali je v njem kaka šestica?
+Hja, če je v njem petnajst sedmic, bo pregledal ves vektor, torej bo potreboval 15 primerjanj.
+No, multiset<int> bi shajal s kakimi štirimi primerjanji.
+(Kakšna je razlika med set in multiset?
+V prvem je vsak element lahko le enkrat, v drugem večkrat.
+Če v set petnajstkrat vpišemo sedmico, bo v njej ena sama sedmica, v multisetu pa bi jih bilo petnajst.)
+Naštejmo imena funkcij za delo z množico!
+Dodajanja s push_back ni več, saj ne odločamo sami o tem, kam se element vstavi.
+Elemente vstavljamo z insert, ki mu ni več treba povedati mesta vstavljanja.
+Sedmico torej vstavimo z insert(7).
+Če slutimo, da je element že v množici, in vemo, kje, lahko povemo tudi naslov in element bo vstavljen le, če ga na onem naslovu ni.
+Tako bo insert(si, 7) vstavljanje opravil le, če je *si!=7 (seveda bo tudi v tem primeru prej preveril, da se sedmica ne skriva kje drugje).
+Za brisanje sta na voljo dve različici funkcije erase; erase(si) se znebi elementa, na katerega kaže si, in erase(7) pospravi vse sedmice.
+Kakor drugi razredi, ki smo jih videli, pozna tudi set funkciji size in empty (in še par drugih, ki smo jih doslej zamolčali in pri tem bo tudi ostalo).
+Število pojavitev elementa v množici prešteje funkcija count.
+Za običajno množico seveda lahko vrne le 0 ali 1.
+Kje so omejitve množic?
+Elementi v množici nimajo poljubnega vrstnega reda.
+Včasih je to omejitev, včasih ne.
+Če programiramo telefonski imenik, nimamo nič proti, da se elementi vstavljajo urejeno.
+V običajni množici je vsak element lahko le enkrat, kar spet ni omejitev navadno si tega želimo, če ne, pa uporabimo multimnožico.
+(Kako set ve, da sta dva elementa tipa Tocka enaka, če zanjo vendar ni definiran operator ==?
+Tole predpostavi: če !(a<b) && !(b<a), sta a in b enaka.
+Včasih se je pri definiciji relacije < dobro spomniti, da se bo uporabljala tudi v ta namen.)
+Tudi iteratorji množic so zelo zelo ubogi.
+Zaradi drevesne predstavitve množice iteratorji niso nič gibčnejši od iteratorjev seznamov; pomikajo se lahko le za en element naprej in nazaj.
+Imajo pa še hujšo omejitev: elementi, na katere kažejo, so konstantni.
+Naslednje kode prevajalnik ne bo pripravljen prevesti.
+stev.erase(si);
+Za vstavljanje elementov sta dva načina.
+Prvega smo uporabili za prirejanje barv točkam; če barvi točk A in B še nista bili določeni, ju je map dodal v drevo.
+Drugi je stari insert, ki ga uporabimo tako, da vstavimo par:
+Kdaj uporabiti map in kdaj raje ne?
+Če imamo sto točk, oštevilčenih od 1 do 100, jim barv gotovo ne bomo vpisovali v map<char, char>, temveč v vector<char>(100).
+Naprej, tudi imenika s petimi osebami ne bomo deklarirali z map<string, long>, temveč bomo osebe vpisali v vector<pair<string, long> > in osebe iskali tako, da bomo po vrsti pregledovali elemente v vektorju.
+Veliko hitreje bo.
+Kadar imamo večjo količino podatkov, ki imajo po možnosti še ključe čudnih tipov, pa bo map kar prava reč.
+Sklad je preprosta podatkovna struktura, o kateri večina naših bralcev že ve, da je podobna kupu krožnikov, na katerega lahko položimo nov krožnik (push) ali krožnik z njega vzamemo (pop), a vedno le od zgoraj, bognedaj iz sredine.
+Poleg tega lahko pogledamo vsebino zadnjega krožnika (top) in preverimo, da ni kup morda prazen (empty in size).
+Za sklad lahko uporabimo kar vector, saj vse operacije, ki jih potrebujemo, skriva pod imeni push_back, pop_back, back, empty in size.
+Tistemu, ki ga moti, da ima vektor preveč operacij, STL ponuja stack<vector <T> >.
+Razred stack vsebuje vector, skrije vse njegove operacije, razen prej omenjenih, te pa ustrezno preimenuje.
+Obstaja teorija, ki definira in na nadvse zapletene načine analizira sezname, vrste, razpršene tabele, cel gozd različnih dreves…
+Zadržal sem se in se ji odpovedal.
+Poskušal sem biti čimbolj praktičen: priznal sem, kaj v resnici uporabljam, podrobno opisal, kar se mi zdi v STL koristno, in izpustil, kar se mi zdi nepotrebno.
+(Da bi ne bil krivičen: že STL sam je napisan tako, da čistega balasta struktur, ki so zanimive zgolj teoretikom pravzaprav ni.)
+Bralec, ki bo, navdušen nad ravno prebranim, vzel v roke STL, se bo kmalu streznil in ugotovil, da poleg teorije in prakse obstaja še resnično življenje in da resnično življenje smrdi.
+Nasvet za resnično življenje: vzemite dober prevajalnik za C++.
+Dober prevajalnik ne pozna le kalupov (brez teh ni STL), temveč vsaj še novotarijo z imenom default template arguments.
+Razred set, recimo, je določen približno takole
+Drugi argument kalupa je, če ne določimo drugače, less<T>.
+Ker v praksi redko določamo drugače, bomo pri set skoraj vedno navedli le tip elementa, nikoli tudi tipa elementa za primerjanje.
+Določeni prevajalniki privzetih vrednosti parametrov kalupa ne omogočajo, zato je treba less stalno navajati.
+Naslednje, kar lahko pričakujete od prevajalnika, so template member functions.
+Nekateri (če ne kar vsi) razredi v STL vsebujejo funkcije, ki so opisane s kalupi torej kalupi kot člani razreda.
+Brez tega boste (kot navsezadnje tudi brez privzetih parametrov od prejle) preživeli, škoditi pa ne more, če so vam na voljo.
+Moja izbira je Microsoftov Visual C++ 5.0: resda mu lahko očitam neverjetno potratnost s pomnilnikom in prilično počasnost (z 32 megabajti na Pentiumu 150 je na meji uporabnosti za večje programe, s 64 megabajti na Pentiumu 200 Pro pa je že uporaben), zato pa mi ponuja vse priboljške C++, o katerih sem kdaj slišal.
+No, lahko da sem katerega preslišal; vsekakor pa je imel takrat, ko sem ga izbral, vse, kar so imeli vsi njegovi konkurenti skupaj.
+Drugi očitek so sporočila o napakah, ki so pogosto tako pošastno zapletena, da mi ne povedo ničesar; prepogosto se moram ubadati s tem, kdo je vključil katero knjižnico in uporabil njen predmet ter zakaj zaboga to nekoga moti.
+Da ne govorimo o strahotni »internal compiler error«, za katero mi dokumentacija pravi, da to napako odpravim tako, da spremenim svojo kodo kot da bi druge napake nagovarjale k temu, da jo pustim nespremenjeno.
+Še vedno čisto osebno: Visual C++ 5.0 mi v zameno za mučenje ponuja spodobno definicijo C++.
+Če imate raje prijaznost in hitrost, pa se ozrite tudi okrog.
+Medtem ko se Microsoft pripravlja na predstavitev nove, večuporabniške različice operacijskega sistema Windows NT z imenom Windows NT Terminal Server, pri IBM načrtujejo odgovor na skorajšnji izid odjemalcev, imenovanih Windows Based Terminal (WBT).
+IBM se je pred časom odločil, da ne bo podprl Microsoftove in Intelove pobude za »lahke« odjemalce NetPC, ampak bodo podprli omrežne računalnike (NC).
+Toda pri odjemalcih WBT, ki bodo večinoma zasnovani na operacijskem sistemu WIndows CE, bo IBM vseeno zagotovil podporo NT Terminal Server.
+Pred kratkim so kupili licenco za Citrixovo tehnologijo ICA, enega od dveh sistemov za dostop do strežnika NT Terminal Server.
+Odjemalec ICA bo kmalu vgrajen v omrežne računalnike IBM Network Station 100 in 300, s tem pa bodo še povečali podporo dostopu do različnih sistemov, ki že zdaj omogoča dostop do mini in mainframe računalnikov, pa tudi do sistema X-Windows.
+Da bi laže tekmovali z odjemalci WBT, bodo pri IBM tudi znižali cene na okoli 500 dolarjev za funkcionalnega odjemalca z zaslonom.
+Temu naj bi kmalu sledil tudi poseben »lahki« strežnik, najbrž sorazmerno vsakdanji PC ali manjši strežnik, ki bo zagotavljal predvsem zagon omrežnih računalnikov in terminalov v oddaljenih pisarnah, ki so povezani na osrednji računalnik.
+Predvidena cena znaša okoli 800 dolarjev.
+Compaq je prenovil svojo družino delovnih postaj Professional Workstation z novimi modeli, ki imajo tudi najhitrejši Intelov procesor Pentium II s hitrostjo 333 MHz.
+Z njimi skušajo ohraniti dobro prodajo, saj so v vsega 15 mesecih prodali več kakor 100.000 enot.
+V družinah Professional Workstaton 5100 in 6000 so na voljo modeli z enim ali dvema procesorjema Pentium II in hitrostmi od 266 do 333 MHz.
+Za razliko od drugih delovnih postaj na Intelovi platformi pri Compaqu uporabljajo arhitekturo HPSA (Highly Parallel System Architecture), ki uporablja dva sistemska krmilnika za dostop do pomnilnika in dvojno vodilo PCI.
+Skupaj s tem so dosegli pomnilniško prepustnost 1,07 GB/s in V/I prepustnost 267 MB/s. V novih sistemih ponujajo tudi najnovejšo grafično kartico Elsa Gloria Synergy, ki uporablja procesor 3DLabs Permedia 2, pri 8 MB pomnilniku pa dosega ločljivosti do 1920 × 1200 pik.
+Družina Professional Workstation 5100 stane v ZDA okoli 4000 dolarjev za računalnik s procesorjem Pentium II 333, grafično kartico Matrox Millenium II, 64 MB RAM in 4 GB disk, pa tudi več.
+Najcenejši modeli iz družine 6000 stanejo 200 dolarjev.
+Hkrati so na ameriškem trgu močno pocenili dosedanje delovne postaje, tako da osnovni model Professional Workstation 5000 s Pentiumom Pro, podporo drugemu procesorju, 32 MB RAM in 2 GB diskom dobimo že za manj kakor 2000 dolarjev.
+Enote CD-ROM se od svojih začetkov niso kdo ve kako spremenile.
+Še vedno zmorejo brati le podatkovne in glasbene plošče.
+Spremenila se je le njihova hitrost.
+Včasih smo imeli enote s hitrostjo prenosa 150 KB/s, tokrat pa smo preizkušali tudi take s hitrostjo prenosa več kakor 6 MB/s!
+Torej več kakor zmore marsikateri disk.
+Resda se povprečni dostopni čas ni tako zelo zmanjšal, pa vendar so enote CD-ROM danes bistveno hitrejše kakor nekdaj.
+Hitrosti, če jih navajamo v »enoti x«, ki pomeni, kolikokrat hitreje od prvotnih enot CD-ROM zna CD-ROM vrteti ploščo, znašajo 24 ali 32x.
+Prav težko je že dobiti karkoli počasnejšega (izjema so modeli SCSI, ki se malce počasneje »obnavljajo« vsaj pri nas), preizkusili pa smo tudi že primerek, ki je deloval s hitrostjo 34x.
+Seveda moramo za te enote CD-ROM odšteti toliko kakor nekdaj za bistveno počasnejše, a tega smo v računalništvu že vajeni...
+Asus je popoln novinec v svetu enot CD-ROM.
+Kakor se za to znano tajvansko tovarno (slovi predvsem po matičnih ploščah, grafičnih karticah in v zadnjem času tudi po vmesnikih ISDN) spodobi, je na ta trg zakorakala z majhno prednostjo pred drugimi.
+Njihov CD-ROM ima namreč edini oznako 34x!
+To vrednost smo tudi res izmerili!
+Na skrajnem zunanjem delu plošče CD-ROM smo podatke prebirali kar s hitrostjo 6170 KB/s, kar je celo 41x (povprečje pri enotah CD-ROM 32x je drugače bilo 5500 KB/s oz. 36x)!
+Poudariti pa je treba, da je ta hitrost mogoča res le na skrajnem zunanjem delu spirale in torej ne daje prave predstave o zmogljivostih.
+O teh natančneje govori Winbench Winmark, ki je Asus postavil na tretje mesto.
+Kljub zelo hitremu prenosu in kratkemu dostopnemu času se je uvrstil za oba Toshibina modela.
+Naslednji rod pogonov CD-ROM se imenuje DVD-ROM.
+Kaj sploh pomeni DVD?
+Digital Video Disk ali, po drugi različici, Digital Versatile Disk, vse bolj pa se širi tudi v naše kraje.
+Na kratko bi lahko rekli, da gre za CD-ROM z bistveno večjo podatkovno zmogljivostjo, ki poleg drugega omogoča tudi hranjenje filmov.
+Pa pojdimo po vrsti...
+Da bi vsaj delno ugodil Hollywoodu, dovoli le petkrat zamenjati izbiro območja DVD.
+Torej si ne moremo prav velikokrat premisliti in izbirati med gledanjem ameriškega ali evropskega filma.
+V prehodnem obdobju, ko v Evropi vlada pomanjkanje filmov, je to vsekakor omejitev.
+Poleg tega bodo ameriški filmi najbrž še nekaj časa cenejši od evropskih.
+Ima samo eno hibo.
+Regijsko zaščito DVD ima namreč vgrajeno že v samo čipovje (resda v FlashRAM, kar odpira pot raznim nadobudnim hekerjem).
+To pomeni, da jo boste lahko uporabljali le za tisto kodno regijo, kateri je bila namenjena že ob izdelavi.
+Mi smo testirali kartico z regijsko kodo 2.
+Imeli smo veliko srečo in smo celo uspeli najti nemški film DVD.
+Tudi zgoraj omenjeno napako v Works sem jim sporočila, pa nisem še nikjer zasledila, da bi bilo o tem kaj zapisano.
+Morda ste že opazili, da v Wordu 97 tipka Ins ne opravlja nobene naloge več.
+Tipko Ins lahko vseeno pametno uporabite za lepljenje vsebine odložišča (namesto ukaza Urejanje.Prilepi/Edit.
+Izberite Orodja.Možnosti/Tools.Options in odprite list Urejanje/Edit.
+Izberite možnost Tipka INS kot ukaz »Prilepi«/Use the Ins key for Paste in kliknite V redu/OK.
+Če pogosto preklapljate z dnevnega na nočno tiskanje, raje namestite še en (enak) tiskalnik, ga preimenujte (denimo v »Nocni«) in mu nastavite časovno omejitev.
+Čas tiskanja lahko nato določite kar z izbiro tiskalnika.
+(bug.tif) Če namestite Netscape Communicator 4.03 v računalniku z Windows 95 na disk, ki ni C:, lahko naletite na težave pri uporabi Netscapove funkcije SmartUpdate.
+Ne le, da ne bo pravilno nadgradila Communicatorja, temveč ga lahko popolnoma pokvari, tako da ga morate vnovič namestiti.
+To se zgodi le, če je imenik z začasnimi datotekami na drugem disku kakor sam program.
+Netscape trdi, da ne gre za napako v modulu SmartUpdate, temveč za napako v Windows 95.
+Popravek je vključen v Communicator 4.04.
+Ko mladenič prvič sede za volan avta, ima občutek, da je kralj sveta.
+Nekateri mladeniči zaradi drugih neizpolnjenih potreb sicer glede avtomobilov nikoli ne odrastejo, drugi pa kmalu spoznajo, da je z avtom veliko dela, stroškov, raznovrstnih preglavic, če se sploh ne menimo za prometne težave ali morebitne nezgode.
+In vendar je velika večina povsem zgubljena, če imajo avto na servisu ali če jim vzamejo vozniško dovoljenje.
+Podobno ali še huje je s televizijo.
+Skoraj ga ni sodobnega človeka, ki televizije ne bi vsaj občasno preklinjal kot »kište«, ki poneumlja in sili v lenarjenje in zapravljanje časa.
+Po drugi strani pa brez nje premnogi ne vedo, kaj početi, ko se vrnejo utrujeni domov in se zleknejo v naslanjač.
+Podobno je tudi z mnogimi drugimi sodobnimi izumi, ki smo se jih navadili do te mere, da so postali vsakdanji, in so preveč splošno prisotni, da bi z njimi lahko koga očarali.
+To se pravkar dogaja z mobilnim telefonom in to se dogaja z elektronsko pošto.
+Naj zadnjo vrednost malce razložimo s stališča zagovornikov vodila AGP.
+Da, čeprav gre za kartico, ki je namenjena izključno igranju iger in delu z velikanskimi teksturami, 3D Blaster deluje na vodilu PCI.
+Zakaj ne uporablja vodila AGP, ki ga Intel predstavlja kot ključni element pri pospeševanju dela z grafiko 3D?
+Zato, ker lahko vse potrebne teksture pretoči v velik lastni pomnilnik, ki za povrh deluje pri frekvenci 100 MHz (ko nastaja ta članek, še prav vsi PC uporabljajo le 66 MHz dostop do pomnilnika če ne štejemo PC hekerjev, ki so si dostop malce pospešili).
+Še več, pri testiranju z igrama Forsaken in Turok, ki imata silno veliko tekstur, se je izkazalo, da vodilo AGP prinese le minimalni pospešek pri igranju iger (testirano z ATI Xpert@Work AGP in PCI).
+Morda bo pri igrah v prihodnosti kaj drugače, ampak sedaj je še tako...
+Najbolj opazna sprememba je popravljen menujski sistem.
+Gumb Start sedaj končno deluje tako kakor v Windows 95 in NT 4.
+Da je bil zagonski menu v Windows CE 1.0 čista neumnost (ob kliku na gumb Start se je namreč odprl le enostaven menu, ki se ni vejil dalje, potem pa smo morali klikati mape, da smo prispeli do prave datoteke), so pri Microsoftu ugotovili zelo kmalu po izidu CE 1.0 in so tudi napisali dodatek, ki je spodoben menu postavil v opravilno vrstico.
+Ta dodatek sedaj na srečo ne bo več potreben.

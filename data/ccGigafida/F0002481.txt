@@ -1,0 +1,492 @@
+Model RADEON X800 XT RADEON X800 PRO
+
+Vertex shading = senčenje točk modela 
+
+Rendering = izrisovanje slike iz preračunanega zornega kota opazovalca
+
+Število ukazov za dostop do tekstur 6 32 brez omejitev brez omejitev
+
+Testi:Ločljivost, globinaSapphire X800 PROGainward GeForce FX 5800 UltraGainward GeForce FX 5600 UltraSapphire
+
+Radeon
+
+Tehnični podatki 
+
+Zelo slikovito. 
+Kaj pa kakovost in zajem podobe z digitalnim fotoaparatom?
+
+Ne ... prej omenjena razstava je sprožila kar precej kritik, ki jih ... recimo nisem najbolje prenesel.
+
+To se mi zdi «drugi del" orodja potrebnega za sodoben fotografski svet. 
+Moram priznati, da marsikatera fotografija «dozori" v Photoshopu. 
+
+Vas je kdaj zamikalo narediti takšne športne posnetke, kot jih vidite v revijah ali časopisih? 
+Mislite, da nimate dovolj dobre opreme, da vas ne bodo spustili na prizorišče? 
+
+Če ste se uspešno dogovorili z organizatorjem, vas sedaj čaka delo. 
+Poizkušajte oceniti, kje so zanimiva mesta za fotografiranje, za kar je najbolje izkoristiti trening. 
+Med tekmovanjem ne stojte le na enem mestu, ampak zamenjajte lokacije, da dobite bolj raznolike posnetke. 
+Če hočete posneti zanimivo reportažo dogajanja, potem ne pozabite na obrobne dogodke. 
+Včasih so tudi gledalci zanimiv fotografski objekt, prihod tekmovalcev pred začetkom tekme in še kaj bi se našlo. 
+Ko pridete domov, vas čaka tako rekoč najtežje delo, izbor fotografij. 
+Za lažje odločanje jih pokažite tudi drugim, tako boste dobili objektivnejšo sliko. 
+Končni izbor naj vsebuje toliko slik, da jih gledalci brez težav "prebavijo" oziroma si ustvarijo vtis o dogajanju. 
+Da vas še malo usmerimo, raje manj kot preveč.
+
+Zgodovina fotografije (5)
+
+Zadeva je z leti seveda dobivala vedno novo obliko, kot so pač izumljali nove in boljše fotografske postopke. 
+Do današnjih dni pa se je obdržala in še vedno razveseljuje otroke in odrasle, največkrat v obliki naprave, ki prikazuje fotografije znamenitih zgradb po svetu. 
+Največ krat jo tržijo kot svojevrsten spominek mimoidočim turistom. 
+
+Slika: Holmes.gif......pripis: Skica prve še ohranjene naprave za ogled stereoskopskih fotografij. 
+
+Slika: stereo.jpg ......pripis: Članek iz revije Amateur Photographer z datumom 27 november 1902 opisuje in prikazuje primer stereoskopske fotografije. 
+
+Marjan Kodelja, marjan.kodelja@mojmikro.si
+
+Tretji opaženi problem, pa je pregovorno slovensko vrtičkanje. 
+Skoraj absurdno je pričakovati, da bi se sorodna majhna podjetja ali samostojni podjetniki povezali in združili vire in sredstva. 
+Skupaj bi lahko veliko lažje in predvsem ceneje izgradili uporabno elektronsko storitev ter poiskali sinergijske učinke. 
+Če pravimo, da je Slovenija v zadnjem času turistično izredno zanimiva, zakaj torej ni osrednjega portala ponudnikov namestitve kmečkega turizma, ki ne bi bila zgolj informacijski portal, temveč bi ponujal tudi storitev rezervacije in nakupa (seveda popolnoma avtomatiziranega po načelu »online«). 
+Če se kaj takega ne morejo dogovoriti sami akterji, pa je po drugi strani to lahko poslovni model za neodvisnega ponudnika, ki bi združil obstoječo ponudbo na enem centralnem mestu. 
+Oglaševanje, prodor na nove trge, popolnjevanje namestitvenih zmogljivosti bi bilo veliko cenejše in uspešnejše. 
+In to je zgolj ena možnost. 
+Jih je pa še veliko! 
+In nenazadnje. 
+Če tega ne bo storilo naše podjetje, se bo hitro našel ponudnik iz tujine, ki bo to z veseljem storil. 
+A kaj, ko smo Slovenci pač Slovenci. 
+Našel se bo nekdo, ki bo rekel, da pa na portalu noče biti, ker je tam njegov sosed in zakaj bi plačeval neko članarino ali kakor koli bi se imenoval prispevek avtorjem in vzdrževalcem portala, če pa ima lahko od tega korist ta sosed. 
+In seveda bomo tam, kjer bomo, torej nikjer.
+
+Moti: Pri obeh aplikacijah nas je še najbolj motilo, da ne dovolita plačevanje vstopnic s znanimi plačilnimi in kreditnimi karticami. 
+Le na ta način bi bila lahko aplikacija uporabna z vse obiskovalce in ne zgolj one, ki se odločijo za predplačniške kartice. 
+Samo pomislite, da ste redni obiskovalec obeh centrov in imate celo dve kartici in pri obeh stalno sledite, koliko denarja je še na računu. 
+Prav tako aplikacije ne omogočata enovitega procesa nakupa vstopnic z več različnih predstav (nič neobičajnega: starši gredo gledat en film, otroci pa drugega). 
+Če želite izvesti to opravilo, morda najprej zaključiti prvi nakup in nato ves proces ponoviti.
+
+Slika trgovina
+
+Nekatere od spletnih trgovin omogočajo tudi določanje cen na podlagi ponudbe in povpraševanja (sistem spletne borze), pri čemer je ta model še najbolj uporaben pri prodaji rabljenega blaga. 
+Predstavnik te oblike je portal Bolha (www.bolha.com), ki se zgleduje po eBayu. 
+Na portalu so srečujejo tako ponudniki, kot potencialni kupci, cene pa se oblikujejo v določenem času, ko potencialni kupci povedo, koliko so pripravljeni plačata. 
+
+POSLOVNO E-BANČNIŠTVO
+
+Vsekakor pa se moramo pri izbiri banke oz. programa najprej odločiti kaj sploh potrebujemo. 
+Če zanemarimo ostale faktorje, kot so lokacija banke, odnos do stranke, itd. moramo pri izbiri rešitev za e-bančništvo upoštevati predvsem naslednje:
+
+- avtomatska povezava informacijskega sistema z banko; večje banke podjetjem nudijo možnost direktne povezave informacijskega sistema z bančnim informacijskim sistemom (B2B, Poslovna vez,...). 
+Za uporabo e-bančništva torej ne potrebujete več posebne bančne aplikacije. 
+Namesto tega je funkcionalnost za posredovanje plačilnih nalogov ter uvoz izpiskov prometa na transakcijskem računu integrirana v informacijski sistem podjetja. 
+Na ta način je možna npr. implementacija avtomatskega spremljanja plačevanja računov brez posredovanja operaterja.
+
+Drugi faktorji pri izbiri programa so seveda še dodelanost programske opreme, hitrost ter enostavnost uporabe. 
+Občutek za to pa dobimo ponavadi šele ob uporabi programa zato se je na podlagi teh faktorjev težko odločiti vnaprej brez preizkusa programov.
+
+Dejstvo je, da je pri manjših ali večjih novostih frekventnost pojavljanja in nadgradenj že tolikšna, da jih glasbeni ustvarjalci (pa tudi ostali računalniški uporabniki) že kar težko dohajamo. 
+Včasih se mi zdi, da bi človek za testiranje te opreme potreboval vsaj še eno vzporedno življenje, ki bi potem prvemu omogočala mirno delo in uporabo v manj stresnem okolju. 
+Dnevi človeškega kloniranja se vsekakor približujejo... 
+
+slika vocaloid_2.jpg: Slika 2: Program Vocaloid
+
+Nevtronska bomba je eno najstrašnejših orožij kdajkoli izmišljenih, ki ubija samo višje življenjske oblike, fizičnega okolja pa ne poškoduje. 
+Kaj pa, če bi se zadeva preobrnila, kot v filmu »Dan, ko se je Zemlja ustavila«, kje robot z žarkom stali orožje, ne pa vojakov? 
+Elektronsko ali informacijsko vojskovanje ali kibervojna (v angleščini Information Warfare, I-War, IW or Cyberwar) udiranje v sovražnikove računalnike, motenje radijskih oddajanj in podobno sodi v tovrstne zamisli. 
+Kibervojna je namreč v stanju uničiti sposobnost vojske, ali pa cele nacije, da sploh deluje, ampak pri tem ne ubija, vsaj ne neposredno. 
+Informacijsko vojskovanje dobiva vse večji pomen z razvojem interneta, še posebej po teroristični napadih v New Yorku in Washingtonu 11. septembra 2001.
+
+(priloga 1)
+
+3uhealth.jpg
+
+Pridobljene podatke je smiselno obravnavati skupaj s podatki, ki jih dobimo z analizo obnašanja obiskovalcev, saj lahko tako dobimo popolnejšo sliko in vpogled na dogajanje na spletni strani. 
+Običajno lahko že na osnovi ogleda neke strani prepoznamo namene, kot so: zbiranje splošnih informacij, zbiranje informacij o izdelku, naročilo izdelkov, iskanje, branje novic, prenos datotek, … 
+Celovit pogled na zbrane podatke nam omogoča možnost ugotavljanja splošnih vzorcev obnašanja obiskovalcev na podlagi katerih lahko ugotovimo ali je obiskovalec našel tisto kar je iskal ali je bil nakup uspešno opravljen ali si je obiskovalec ogledoval strani po zaporedju, ki smo si ga začrtali, ipd.
+
+• Analog http://www.analog.cx
+
+• CH Web analyzer http://www.softngine.com
+
+<Slika2: obisk.gif>Ugotavljanje dolžine posameznih obiskov s programom AWStats
+
+Analiza obiska nam lahko pomaga tudi pri marketinških aktivnostih, saj lahko ugotovimo s katerih spletnih strani prihajajo obiskovalci našo spletno stran, katera spletna mesta nam prinašajo največ obiska, kakšna je razlika v obisku pred oglaševalsko akcijo in po njej, katera stran v sklopu predstavitve je obiskovalcem najbolj zanimiva, katere strani bi bilo potrebno izboljšati, itd. 
+Glede na pridobljene podatke lahko temu primerno tudi prilagajamo marketinške aktivnosti povezane z oglaševanjem na spletnih straneh.
+
+Nekateri programi nam poleg števila prikazov posamezne strani prikažejo tudi njihov odstotek glede na celotno število prikazov in povprečno dolžino posameznega prikaza, kar so zelo koristni podatki za ugotavljanje priljubljenosti posamezne strani (glej sliko 5). 
+
+Za lažje načrtovanje oglaševalskih akcij je pomembno, da vemo od kod prihajajo naši obiskovalci (glej sliko 6), saj lahko tako bolj učinkovito in z manjšimi stroški izvajamo akcije. 
+Če denimo vsak četrti obiskovalec pride na našo stran prek Googla in vsak deseti prek Yahooja, še na pomeni, da je Googlov obiskovalec pomembnejši. 
+Lahko se namreč zgodi, da tisti iz Googla v povprečju veliko hitreje zapustijo našo spletno predstavitev in si tudi ogledajo manj strani kot pa tisti, ki prihajajo prek Yahoo-ja in si npr. v okviru ene uporabniške seje povprečno ogledajo štirikrat več strani. 
+Ta informacija je zelo pomembna saj ima direkten vpliv na načrtovanje oglaševalskih akcij in posledično tudi na sam dohodek. 
+Vsekakor je boljše, da se usmerimo na tiste vire oz. spletne strani od koder prihajajo boljši obiskovalci (tisti ki si ogledajo več strani; v našem primeru tisti, ki prihajajo prek Yahooja), kot pa da poskušamo slabše (tiste ki si ogledajo manj strani) prepričati da si ogledajo več vaših strani. 
+
+In rezultat?! 
+Navdušeni novopečeni vebdizajnerji ustvarijo projekt, zanj dobijo prijetne denarce, naročnik pa je ponosen na svojo spletno podobo, ki je bolj animirana in slikovitejša od konkurentove. 
+Naročnik, ki se praviloma niti ne zaveda, kaj lahko od interneta pričakuje, je zadovoljen z izgledom spletne strani, medtem ko ga učinkovitost ne zanima. 
+Pa bi ga morala! 
+Povprečna spletišča, narejena v Flashu, imajo z učinkovitostjo resne težave: so neuporabna, obiskovalci se na njih izgubljajo, mnogi jih sovražijo in jih v povprečju zapuščajo veliko hitreje kot običajne spletne strani. 
+Po raziskavah naj bi 30% ljudi prekinilo nalaganje strani takoj, ko jih preseneti napis »Počakajte, stran se nalaga«.
+
+Težave z uporabnostjo 
+
+6. 
+Animirajte s pravo mero. 
+Izognite se nepotrebnim animacijam. 
+Animacija naj služi ciljem spletišča, pove naj zgodbo in pomaga boljši navigaciji. 
+Ponavljajoče animacije onemogočajo hkratno branje daljših tekstov, saj pogled od statičnega hitro uide k animiranemu delu strani.
+
+Skratka, razmislite, ko se odločate za postavitev Flash strani! 
+Mnogim obiskovalcem se zdijo moteče in po raziskavah sodeč jih v povprečju zapuščajo hitreje kot HTML strani. 
+Flash je pametno uporabiti za oglasne pasice in za navigacijo spletne strani, saj se ga da do neke mere vpeti tudi v PHP in kombinirati z bazo podatkov. 
+Odlično se obnese pri galerijah slik in za različne nagradne igre. 
+S svojo slikovitostjo Flash popestri podobo strani, ob pretirani in samovšečni rabi pa obiskovalca zbega. 
+Zato nikar ne uporabite Flasha za izdelavo celotnega spletišča ali za prikaz večjih količin teksta. 
+Obiskovalec bo tekst verjetno težje bral, spletni iskalniki pa ga ne bodo niti povohali.
+
+- C2 - Flash oglas kot zavihek spletne strani
+
+Evropa in mi
+
+Kje začeti ?
+
+V okvirnih programih Evropske unije sodelujemo od leta 1999. 
+So vedno mednarodne narave, države pa za sodelovanje v njem plačujejo članarino. 
+Projekti, pri katerih partnerji prihajajo iz ene same države, ne morejo dobiti denarja iz šestega okvirnega programa. 
+Za šesti okvirni program je Slovenija plačala 32 milijonov evrov članarine. 
+Na ministrstvu za gospodarske dejavnosti trdijo, da se bo denar s sofinanciranjem prijavljenih projektov več kot povrnil. 
+Takšne so izkušnje sodelovanja v petem okvirnem programu. 
+Evropska komisija sprejema posamezne prijave in denar deli po lastnem razmisleku. 
+Ko države članarino plačajo, nimajo več nobene možnosti, da bi na izbiro in odločitev komisije kakorkoli vplivale. 
+Pravico odločanja ima samo Bruselj. 
+
+Tabela 2: Koristne internetne povezave
+
+Medtem ko v poslovnem segmentu proizvajalci svoja upanja temeljijo na prehodu uporabnikov na novo generacijo računalnikov zgrajenih na 64-bitnih procesorjih podjetij Intel in AMD, v hišnem segmentu računajo na »selitev« računalnikov iz delovne sobe ali spalnice v dnevno sobo, torej na povezovanje računalnikov z drugimi napravami.
+
+Resnični boj se bo odvijal na področju zabave »v dnevni sobi«. 
+Intel in Microsoft se prizadevata za utemeljitev računalnika kot zabavnega zvezdišča v gospodinjstvu, ki naj bi kontroliral različne zabavne hi-fi, TV in video naprave. 
+Intel se od nedavno trudi vstopiti v digitalno TV areno s čipom, ki naj bi zamenjal skoraj celotno elektroniko današnjih TV aparatov z velikim ekranom, ki bi lahko znatno zmanjšal cene televizorjev. 
+Microsoft je lanske jeseni predstavil najnovejšo različico programske opreme Windows XP Media Center Edition 2004, ki naj bi računalnike spremenila v sisteme za hišno digitalno zabavo. 
+Novi Media Center računalniki, izdelani za novo programsko opremo, ki bodo na trg prišli jeseni, bodo prinesli »vitko oblikovanje«, ki ustreza tradicionalni avdio-video opremi v dnevni sobi. 
+
+Večja prisotnost na trgu potrošniške elektronike: novi »medijski center« podjetja HP
+
+Istega leta so hrvaške oblasti prijele osem moških, zaradi suma, da so na internetu širili otroško pornografijo. 
+Policisti so v okviru operacije, ki je potekala nekaj mesecev, v računalniku enega od osumljenih našli več kot 20.000 pornografskih fotografij otrok. 
+Od začetka operacije je policija zaplenila 27 računalnikov, več kot 1100 zgoščenk, 573 računalniških disket in kakih 300 videokaset.
+
+</okvir>
+
+Umetnost kombiniranja
+
+Ne glede na naše regionalne posebnosti je smiselno razmisliti o poglavitni ugotovitvi omenjene raziskave, po kateri so oglasne akcije preveč enostransko usmerjene, pa naj bodo usmerjene zgolj v organske rezultate ali v sponzorirane povezave. 
+Pri večjih podjetjih je stvar še bolj zapletena. 
+Če se oglaševalec že odloči, da bo sredstva za oglaševanje razporedil med oba načina, (mimogrede - tudi optimizacija rezultatov v iskalnikih je v informacijsko razvitih državah zelo iskana in predvsem plačljiva storitev), to pogosto počnejo ločene agencije, ki si rezultatov medsebojno ne izmenjujejo. 
+S tem naročniki izgubljajo dragocene relacijske podatke, brez katerih ne morejo ustrezno optimizirati svojih oglasnih akcij.
+
+Temelji internetnega bontona
+
+Preden odpošljete e-pismo preverite e-naslov, saj ima lahko sporočilo poslano na napačni e-naslov za pošiljatelja tudi nepredvidljive posledice. 
+Čeprav poslano po pomoti ali napaki prejemniki takšno sporočilo sprejmejo kot neželeno e-pošto, junk, spam.
+
+Predvsem se izogibajte uporabi samih velikih črk, saj je način pisanja in uporabe črk je seveda podoben načinu uporabe črk in kratic v običajnih dopisih. 
+Uporaba velikih črk v e-sporočilih pa od njihovega nastanka predstavlja vpitje in na to pogosto pozabljajo mnogi.
+
+Novica, ki jo je sporočil Lodewijk Asscher z amstredamskega Inštitua za informacijsko zakonodajo ( IViR - Institute for Information Law), je plod ugotovitev v poročilu o raziskavah, ki jih je Asscher izvedel od septembra 2003 do marca 2004 (Regulating Spam, Directive 202/85 and beyond, IViR 2004) . 
+Poročilo je predvsem osredotočeno na evropsko Direktivo o zasebnosti in elektronskih komunikacijah V njem ugotavlja, da bi lahko zaposleni tožili delodajalca, če ta ne bi poskrbel za ustrezno programsko zaščito pred spamom s pornografsko vsebino in zaposlene tudi poučil o naravi in vsebini takšne pošte. 
+Pravna formulacija takšnega stanja bi bila namreč, da je prišlo na delovnem mestu do spolnega nadlegovanja. 
+Zaposleni bi lahko dejali, da so ob prejemu pornografskega spama duševno trpeli, doživeli stres in podobno, delodajalec pa ob tem ni primerno ukrepal. 
+Med vzroke ne bi štele zgolj grafične podobe temveč tudi besede. 
+Zanimivo, kajne?
+
+PRIMARNI KLJUČ
+
+Sestavljen ključ (angl. Compound Key) je ključ, ki je sestavljen iz več ključnih atributov. 
+To pomeni, da lahko primarni ključ vsebuje 2 (ali več) atributa, v primeru ko bi bil samo 1 atribut premalo za enolično identifikacijo dejstva v entiteti (tabeli). 
+Tudi tuji ključi so lahko sestavljeni iz več atributov.
+
+Kaj storiti v tem primeru? 
+Prva izmed rešilnih bilk je mogoče ta, da za primarni ključ označimo že obstoječ atribut A in še atribut B in ugotovimo, da se v skupni kombinaciji ne ponavljata v vhodnih podatkih. 
+Četudi se pojavita dve enaki vrednosti za atribut A, se skupaj z atributom B ne pojavi nobena kombinacija obeh polj več kot enkrat. 
+S tem smo rešili identifikacijo zapisa v tabeli X. Vse lepo in prav, vendar smo nehote pozabili še na nekaj.
+
+In recimo da smo imeli prav; tabela Y ima za svoj tuj ključ L polje A iz tabele X. V tabeli X pa smo že za novega kandidata za primarni ključ razglasili atributa A in B in zagato rešili vsaj videti je tako. 
+Si predstavljate, da preskočimo posledice naše spremembe nad tabelo X in ne vemo, kaj se lahko zgodi na tabeli Y? 
+
+V podatkovnih skladiščih pa je tako ali tako po moje mnenju prava definicija in postavitev ključev eno izmed najbolj pomembnih opravil v postopku izgradnje le tega.
+
+Avtonomija/uporaba: 7 h
+
+Avtonomija/pripravljenost čez 256 h
+
+Levo/desno: da, enostavno
+
+Odzivnost pod 25 ms (10 ms vklop pike)
+
+Informacije Anni d.o.o., Ljubljana
+
+Tehnični podatki
+
+Razmerje cena/kakovost 7
+
+Žal je naprava zgolj računalnik in ne poizkuša iti v vode hi-fi, kot smo to pozdravljali pri MSI. 
+Sicer je vgrajena mrežna kartica, a dandanes bi pričakovali že vgrajenih tudi več načinov brezžične povezave. 
+Sistemski pomnilnik z malce starejšim SIS naborom ne podpira dvokanalnega pomnilnika niti ne več tako najnovejšega DDR400, integrirana grafična kartica ki si pomnilnik deli s sistemskim pa tudi ne bo navdušila entuzistov. 
+Priložene ni nobene posebne programske opreme. 
+Navkljub zmogljivosti je cena dokaj visoka.
+
+MSI MEGACACHE 15
+
+Napajanje Li-Ion 420 mAh
+
+Radijski sprejemnik da
+
+Gonilniki za: MS Windows, MAC OS
+
+Gonilniki za… 
+MS Windows
+
+Informacije: PC Hand d.o.o., Trzin
+
+Priložena programska oprema: da, Nero suite 6
+
+Proizvajalec in ime modelaViewSonic VP211bSkupna ocena9Razmerje cena/kakovost9InformacijeBelarium d.o.o.
+Spletni naslov *www.viewsonic.comCena516.000 SITTehnični podatki Velikost diagonale21.3"Ločljivost1600 x 1200 točkBarvna globina32 bitZorni kot170 /170VmesnikiDVI-D, RGB, USB 2.0 HUBMere in teža476 x 492 x 267mm, 9.3 Kg
+
+ZALMAN RESERATOR-1
+
+Od 20. do 22. maja 2004 je na Osnovni soli Cirila Kosmača v Piranu potekala že deveta mednarodna izobraževalna konferenca MIRK. 
+Letos se jo je udeležilo okrog 220 udeležencev iz Slovenije in 17 držav. 
+Na konferenci, katere vodilna tema je uporaba informacijske in komunikacijske tehnologije (IKT) pri poučevanju in učenju, izobraževanju in usposabljanju, je bilo v treh dneh predstavljenih 80 referatov v obliki predavanj in delavnic, od tega 14 na temo uporabe IKT pri športu. 
+Leto 2004 je namreč Evropsko leto izobraževanja skozi šport
+
+BREZŽIČNI FIREWIRE
+
+Črvi, virusi in ostale nevarne programske kode za svojo hitro širjenje izrabljajo zmogljivosti interneta, ki niso nujno potrebne za normalno delo. 
+Ameriško znanstveniki so prišli do zaključka, da omejitev števila novih zahtev za dostop na spletno stran enega računalnika v nekem časovnem intervalu, ne bi vplivalo na delo, bi pa močno vplivalo na hitrost širjenja škodljivih programov. 
+Natančneje. 
+Če bi bila omejitev zgolj ena nova zahteva na sekundo, bi se Nimda širil 400 krat počasneje.
+
+www.qualcomm.com 
+
+tomaz.kotnik@mojmikro.si
+
+[02 - GoTo_Dialog.
+JPG: Pogovorno okno za označevanje celic oz. njihovih obsegov.]
+
+V primeru, da je delovni list zaščiten, pa je namesto možnosti »Protect Sheet« na voljo možnost za odstranitev zaščite, »Unprotect Sheet« (Odstrani zaščito lista).
+
+Za primer vzemimo, da želimo na delovnem listu označiti obseg celic, ki vsebujejo konstante, torej vtipkane podatke, pri čemer ne želimo označiti celic, ki vsebujejo besedilo. 
+V tem primeru bomo v oknu Go To Special (Pojdi na posebno) izbrali možnost Constants (Konstante), odstranili pa bomo kljukico pri možnosti Text (Besedilo). 
+
+Če pa obseg celic ne bo vezan če želimo na primer označiti posamezne celice to storimo tako, da držimo tipko Ctrl ter klikamo oz. izbiramo celice.
+
+Iz pasjega očesa bi radi odstranili bliskavico, in ker je slika velika, se moramo malo bolj potruditi. 
+Izberimo orodje "Clone stamp" in si izberimo pravo velikost ter mehkobo čopiča. 
+Ne vzemite ostrega čopiča za to delo, ampak z mehkimi robovi. 
+Začnimo s tistimi deli slike, ki so lažji, to je predvsem spodnji del. 
+Sedaj pridejo na vrsto plasti. 
+Izberimo orodje "Polygonal Lasso tool" in označimo del šarenice, ki smo ga lepo zretuširali. 
+Ko ga označimo, pojdimo v meni "Select" in izberimo možnost "Feather", kjer v polje "Radius" vpišimo 10. 
+Za toliko točk bo to orodje zmehčalo robove, kar bo pomembno pri naslednjih operacijah. sedaj označeni del spremenimo v plast, kar lahko naredimo tudi z bližnjico CTRL+J oziroma poiščemo v meniju "Layer->New->Layer via Copy". 
+Novo plast prestavimo na del slike, ki je še nismo zretuširali in jo ustrezno zavrtimo, da se robovi očesa ujamejo. 
+To naredimo na obeh koncih, tako, da vajo ponovimo. 
+Sedaj z ukazom "Flatten image", ki ga najdemo v meniju "Layer" združimo vse plasti in se posvetimo nazaj retuširanju. 
+Preostal nam je le še črni del očesa in popravljanje manjših napak. 
+Ker je črni del očesa ostal malo lisast, ga celega z orodjem "Lasso tool" obkrožimo in z nivoji (CTRL+L) malenkost potemnimo, predvsem srednje tone (Mid tones). 
+Ker so robovi med črnim delom očesa in šarenico sedaj malo preostri, jih lahko z orodjem "Blur tool" malo zmehčamo. 
+Manjka le še končni dotik, to je da zopet naredimo pikico od bliskavice, kajti tako slika zgleda malo bolj realno. 
+Izberimo orodje "Brush tool", med barvami izberimo belo ter v sredini očesa naredimo manjšo belo pikico. 
+Tako, delo je končano. 
+Na ta način se lahko spravite odpravljati tudi težje napake, predvsem pa preizkušajte tudi z ostalimi orodji za retušo. 
+(Alan Orlič)
+
+Sedaj določite velikost nove particije in kasneje izberete še " Create Logical DOS Drive(s) in the Extended DOS Partition" ter tako določite črko novega logičnega pogona. 
+Ves trik je le v puščanju dovolj prostora za dodatne particije. 
+Vedno pa se z brisanjem lahko vrnete na začetek in zadevo opravite bolje. 
+Ker je disk prazen ni nobenega strahu. 
+Ne morete narediti nič takega kar bi disku škodovalo. 
+Le poskušajte različne možnosti. 
+Vse kar boste izgubili je nekaj časa, saj vsaka operacija potrebuje nekaj časa za izvedbo in dokončanje. 
+Prvi particij z izbiro "2" le še določite aktivnost da boste s tega logičnega pogona lahko pognali operacijski sistem in zadeva je končana. 
+Sedaj lahko naložite enega ali več operacijskih sistemov, prvi bo seveda na "disku" C:.
+
+Skupna ocena: 9
+
+Zaslon: TFT, 320 x 320 pik, 65.536 barv
+
+Višja kakor je zapisana vrednost, močneje bo svetila barvna točka v določeni piki. 
+Sistem pogleda najprej v t.i. LUT (look up table), kako bo posamezno točko interpretiral. 
+Za tem analogno digitalni pretvornik na običajni grafični kartici (taki, ki ne kontrolira monitor s pomočjo digitalnega izhoda) pretvori digitalno vrednost v napetost, ki vklopi ali ugaša top za določeno točko. 
+Pri našem opisu bomo zanemarili izgube, ki jih imamo v kablih, čeprav je lahko v primeru slabih kablov ali stikov rezultat izven vseh kalkulacij in možnosti zaznavanja človeškega očesa. 
+Pri analognih monitorjih imamo še notranjo umerjanje razmerja topov, ki nam določa barvno temperaturo monitorja. 
+Nekateri monitorji nimajo možnosti nastavljanja te vrednosti, drugi lahko nastavljajo le določene vrednosti, najboljši pa lahko nastavljajo moč vsakega topa posebej. 
+LCD monitorji možnosti nastavitve te funkcije nimajo in zato so uporabniki omejeni le na eno temperaturo.
+
+Kajti po univerzalnem pravilu dobrega starega Murphyja, bo kaj šlo narobe, če bo le lahko šlo. 
+In ker prej nismo mogli vedeti, če je šlo prav, tudi kasneje ne bomo mogli vedeti, a tisto, kar bi moralo iti prav gre pravzaprav zopet narobe. 
+Enostavno, kaj ne?
+
+ZNASTVENI DOSEŽKI 
+
+Obstajajo plastični materiali (electrochromic polymers), ki v prisotnosti električnega polja odbijajo drugačno valovno dolžino svetlobe (barve), kot takrat, ko električnega polja ni. 
+Do sedaj so že naredili take, ki odbijajo »rdečo« ali »modro«, ne pa tudi zeleno, saj to sestavljata svetlobi dveh valovnih dolžin. 
+Pred kratkim je ta preboj uspel ameriškim znanstvenikom, ki so z združevanjem dve polimerov (vsaka za določeno valovno dolžino) naredili material, ki v prisotnosti električnega polja odbija jasno zeleno svetlobo. 
+S pomočjo teh treh osnovnih barv in pa rešitvijo problema odboje svetlobe pri odsotnosti električnega polja, bi lahko pripeljala do poceni fleksibilnih zaslonov. 
+
+WLAN
+
+Z večjo popularnostjo brezžičnih omrežji, se na žalost pojavljajo posamezniki, ki želijo škodovati. 
+Že dalj časa je jasno, da standardi (802.11) ne zagotavljajo dovolj zanesljivih varnostnih mehanizmov. 
+
+EU
+
+Glede na vse to je težko govoriti, da gre pri Eve zgolj za igralno konzolo, saj so njene tehnične zmogljivosti in vgrajena programska opreme bližje dlančnikom oziroma vsaj osebnim predvajalnikom digitalnih vsebin. 
+Tudi njena predvidena cena bo v teh okvirjih, malce več kot 100 tisočakov. 
+Ima pa eno veliko prednost. 
+Na njem bo mogoče poganjati obstoječe računalniške igre. 
+
+Izgleda, da bo Dell med prvimi resnejšimi proizvajalci računalniške opreme, z novimi modeli dlančnikov opremljenih z operacijskim sistemom Windows Mobile 2003 SE (druga različica) in hitrejšimi Intelovimi procesorji PXA 270. 
+Dlančnih X30 je na voljo v treh modelih. 
+Najcenejši model s ceno okoli 45 tisočaki (199$) nima podpore za brezžična omrežja, procesor deluje v taktu 312 MHz, pomnilnika pa je 32 MB tipa ROM in 32 tipa RAM. 
+Srednje zmogljiv model velja okoli 55 tisočakov (249$) ima podporo za brezžično omrežje (802.11b in Bluetooth) in še enkrat več pomnilnika (64 ROM in 64 RAM). 
+V najdražjem modelu s ceno okoli 75 tisočakov (349$) je procesor v taktu 624 MHz in priključna postaja (cradle). 
+Vsem trem modelom je skupna reža za kartice SD in 3.5 palčni barvni zaslon ločljivosti QVGA (240 x 320 pik). 
+
+Standardni del paketa ob Garminovih sprejemnik je program MapSource. 
+To obenem pomeni, da se NavTalk odlično znajde tudi z zemljevidi iz paketa CroGuide, v katerem so (kljub imenu tudi) zemljevidi slovenskih cest. 
+Ime napravice NavTalk sicer da slutiti, da je lahko uporabimo za govorno vodenje proti izbranem cilju. 
+Ta funkcija bo sicer delovala z zemljevidi iz drugih (bolj zahodnih) predelov Evrope, v naših krajih pa ta funkcija (še) ne deluje. 
+Kljub temu se bo iz slušalke tu pa tam lahko slišil zelo glasen komentar »lost signal reception« kadarkoli bomo z vključenim sprejemnikom vstopili v hišo in bo sprejem signalov iz satelitov zato prekinjen. 
+Cena izdelka je 223 tisočake (z.m.)
+
+Strategija prilagodljivih podjetji je veliko širša in v neki meri odraža vso večjo odvisnost podjetji od informacijske opreme in njihovo ogroženost v primerih napadov virusov, hekerjev, naravnih nesreč in terorizma. 
+Po drugi strani pa omogoča tudi večjo elastičnost informacijskih sistemov oziroma njihovo hitrejše prilagajanje poslovnim odločitvam. 
+Ali če hočete malce drugače. 
+Podjetja so se zavedla, kako pomembna je informacijska infrastruktura za njihovo poslovanja in kako močno je integrirana na vse nivoje podjetja. 
+Hkrati pa niso več pripravljena na visoka in nepotrebna vlaganja. 
+Njihov cilj je optimalni nakup, ki prinese največ prednosti in prihrankov. 
+In na nek način je strategija prilagodljivih podjetji v prvi vrsti odgovor na ta trend. 
+
+SPLET
+
+Slika nec
+
+Javni razpis MID je bil odprt do 31. maja 2004, prijavitelji pa so lahko na javni razpis prijavili le programe, ki so koordinirani, izvajani in zaključeni v času od 1. aprila do 1. oktobra letos. 
+Jeseni bodo univerze torej pokrite s signalom do te mere, da bo možen brezžičen dostop.
+
+POSLOVNA PROGRAMSKA OPREMA
+
+Panaroma
+
+INFO
+
+Slika3: Tipalo preko katerega kontrolna enota prevzame nadzor na kontrolirano napravo. 
+
+Fine Reader Sprint OCR
+
+Tekst pod test:
+
+MultiCash: program vedno namesti bankaE-bank: program se nadgradi avtomatsko,
+
+Čitalnik začitnih kartic - USB 13.500 SIT
+
+Provizija: nalog do 2.000.000 SIT 60 SIT
+
+Smarti iz Slovenije
+
+Sistem Smarti sestavljajo trije elementi. 
+Prvi, imenovan enota za prepoznavanje, je sestavljen iz stenskega računalnika z barvnim zaslonom, občutljivim na dotik, kamere, mikrofona in zvočnikov. 
+Drugi del je podatkovni strežnik, preko katerega se beležijo vsi potrebni parametri ter seveda odjemalski program, ki ga je mogoče namestiti kamor koli v omrežje in ki omogoča delo oziroma nadzor oziroma krmiljenje nadzornega sistema.
+
+Playchess.com ruši rekorde
+
+Short je kot človek, ki želi vedno napredovati, kaj hitro doumel najbolj pomembna nepisana pravila za igranje na strežniku. 
+Strnil jih je v štiri najpomembnejše točke:
+
+POVEJ MI
+
+Samo vezje je sestavljeno na razvojni ploščici EASY_TCP. 
+Uporabljeni so mikrokontroler Atmega162, IP modul IIM7000 ter senzor SHT11 komponent, ki jih je mogoče dobiti v maloprodaji za približno 10.000 SIT. 
+Po avtorjevih besedah je bilo izhodišče pri izboru komponent njihova kvaliteta. 
+Senzor za merjenja vlage in temperature (http://www.sensirion.com) SHT11, sodi med miniaturne senzorje, ki so preprosti za uporabo in jih ni potrebno dodatno kalibrirati ter imajo zagotovljeno dolgoročno stabilno delovanje. 
+Z uporabo tehnogolije CMOSens® je omogočena integracija dveh senzorjev in bralnega vezja na enem integriranem vezju, ki je po velikosti primerljivo z velikostjo glave vžigalice. 
+Vezje zagotavlja +/- 3.5 % natančnost pri merjenju vlage ter +/- 0.5°C natančnost za merjenje temperature. 
+Več podatkov o senzorju lahko najdete na strani (http://www.sensirion.com/en/sensors/humidity/ sensors_devices/sensorSHT11.htm).
+
+Slika1: Karakteristike - gibanje fizikalnih parametrov za različne elemente v odvisnosti od temperature
+
+Slika2: Preprost PC termometer - kondenzator NTC upor in dioda
+
+PIŠE: JERNEJ PEČJAK / jernej.pecjak@mojmikro.si
+
+Vse kar si zapišemo preko programa HandNotes lahko povežemo z določenim datumom. 
+To pomeni, da nas bo dlančnik takrat na dogodek spomnil in prikazal opomnik, ki smo ga vnesli. 
+Dlančnik nas lahko opomni preko zvočnega signala ali pa preko utripanja svetlečih diod na dlančniku. 
+Zapiske lahko sortiramo znotraj obstoječih ali novih map, ki jih preprosto kreiramo na novo. 
+Vse zapiske lahko takoj pošljemo tudi preko elektronske pošte poljubnemu uporabniku. 
+V orodni vrstici imamo namreč poleg različnih ikon za določanje barve debeline in oblike peresa tudi ikono za elektronsko pošto. 
+
+Za: Dobra integracija s sistemom
+
+Kaj: Program za snemanje pogovorov
+
+OŽIVLJENE PREGLEDNICE
+
+Ulead DVD Workshop 2
+
+SLIKA 1: Izdelovanje menijev je omogočeno na tri načine: Z uporabo lastne grafike, priloženih predlog ali pomočjo čarovnika.
+
+Aleš Farkaš
+
+Za: Orodje za samodejno prevajanje odlagališča, različne možnosti prevajanja, prevod je v glavnem razumljiv...
+
+Protivlomni sistemi
+
+Pomemben del uporabe videokamer je tudi v industrijskem okolju. 
+S pomočjo videokamere lahko odkrivamo napake pri proizvodih na tekočem traku. 
+Recimo v podjetju Kolektor Idrija s pomočjo te tehnologije odkrivajo napake na kolektorjih. 
+Pomembno je, da s enapako odkrije dovolj zgodaj v fazi procesa in ne šele na koncu, ko je v izdelek vgrajen že kompletni material, saj je v tem primeru potrebno zavreči vse. 
+V pivovarni Union s pomočjo kamer odkrivajo umazane steklenice pred polnjenjem. 
+Če umazane steklenice ne odkrijemo dovolj zgodaj, potem je tudi vsebina steklenice, v tem primeru piva, izgubljena. 
+V farmacevtskih tovarnah uporabljajo videokamere za nadzor izdelave tabletk, ki morajo biti pravilen oblike. 
+Tabletka mora biti cela, nič je ne sme manjkati, saj le na ta način zagotovimo pravo dozo zdravila. 
+Videokamere uporabljajo tudi pri izdelavi avtomobilskih žarnic, saj mora biti nitka v žarnici obrnjena točno pod določenim kotom glede na kontakte. 
+Na ta način s pomočjo refleksnih ogledal oziroma parabole v žarometu dosežejo največjo svetilnost žarometa. 
+V zadnjem času uporabljajo kamere tudi pri športu. 
+Po eni strani za lažjo vadbo in izboljšanje forme, po drugi strani pa za nadzor dogajanja na tribunah in opazovanje razgrajačev. 
+V tem primeru so nadzorne kamere zelo pomemben faktor pri rekonstrukciji dogajanja. 
+V nekateri državah pa jih lahko uporabijo tudi na sodišču kot dokazno gradivo v raznih postopkih.
+
+Ugotovimo lahko, da je vsekakor potrebno nekaj storiti za varnost premoženja. 
+V nobenem primeru se ne izplača pretiravati in okoli sebe zgraditi sistema, ki ne bo obvladljiv. 
+Poleg tega se moramo zavedati, da nas vsaka dodatna stvar omejuje in obremenjuje. 
+Ne smemo biti sužnji svojega lastnega sistema varovanja. 
+Zdrav razum mora prevladati.
+
+V modernem svetu je vse, kar velja moč. 
+Močnemu igralcu tudi patenti ne pridejo do živega, kar je bilo v zgodovini že večkrat dokazano. 
+Izkazalo se je, da je glavno orožje monopolov, pardon politično korektno je podjetjem z dominantnim tržnim položajem, čas. 
+Dovolj časa, da pravimi lastnikom patenta zmanjka časa, volje in denarja za pravne boje. 
+To je podobno igri pokra, kjer lahko z blefiranjem ali velikim kupčkom cekinov pred seboj, zmaga igralec, ki v rokah nima niti para. 
+Kaj šele kaj več? 
+V začetku prejšnjega stoletja je bilo tako s patennti najprej za radio in nato še za televizor, sedaj se podobno dogaja na področju informacijskih tehnologij a o tem malce kasneje. 
+Ko pa je lastnik patenta veliko in močno podjetje, je zgodba malce drugačne. 
+Ne samo, da lepo služijo na račun licenčnih pravic, s pomočjo svojih patentov že v kali zatrejo vsako prebujanje konkurence na področju, ki ga patent pokriva in če se da, tudi širše.
+
+Vsi sistemi UPS delujejo na istem principu vsem je torej skupno, da so priklopljeni na električno omrežje, ter da imajo na izhodu porabnike, vmes pa se nahaja akumulatorska baterija. 
+Skupno jim je tudi to, da v primeru ko elektrike zmanjka preklopijo na baterijo, razlikujejo pa se v tem kaj delajo z elektriko v normalnem stanju. 
+Glede mehanizmov in načinov povezovanja teh treh komponent sistema, se oprema UPS dali na: linijske, prestrezne ter čakajoče. 
+
+1. naredite kompleten spisek opreme, tako računalniške kot komunikacijske, ki jo želite zavarovati s sistemom UPS. 
+Čeprav je za zaščito podatkov dovolj zavarovati računalnike, ne pa tudi zunanje komponente kot so monitorji, ne pozabite da brez povratne informacije (slike) marsikdo ne bo znal shraniti svojega dela …
+
+KONEC OKVIRA
+
+OKVIR: KAJ SE ZGODI OB MRKU ELEKTRIKE?
+
+OKVIR: ČE ELEKTRIČNE MOTNJE POKVARIJO RAČUNALNIK
+
+Odgovor:
+

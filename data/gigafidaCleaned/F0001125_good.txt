@@ -1,0 +1,16 @@
+H končni oceni pri predmetu na maturi poleg eksternega dela prispeva še interni del ocenjevanja.
+Vsi predmeti na maturi z redkimi izjemami imajo interni del ocenjevanja, ki praviloma k skupni oceni prispeva do 20% oz. 25% točk (Bahovec (ured.) 2000, str. 19 46).
+Ko so zbrane vse točke, eksterne in interne, za vse kandidate v Sloveniji, se določi enotna meja za ocene: zadostno, dobro, prav dobro in odlično.
+Ob ustrezni zanesljivosti izpitnih nalog in objektivnosti zunanjega ocenjevanja je merilo znanja enotno za vse kandidate.
+Nobena sofisticirana tehnologija zunanjega preverjanja ne more nadomestiti dobrega poučevanja.
+Učitelji so tisti, ki usmerjajo proces učenja, ki pri učencih razvijajo pojme, ki z internim preverjanjem in ocenjevanjem dajejo poudarek učnim vsebinam ter učence pripravljajo na eksterne preizkuse, ki oblikujejo in posredujejo povratno informacijo (ki naj bi imela formalno vlogo) učencem in njihovim staršem.
+Zbrani so podatki vseh šestih matur od leta 1995 do leta 2000 (Maturitetna letna poročila in podatki Rica).
+V analizi so v spomladanskih rokih mature zajeti predmeti: slovenski jezik s književnostjo, matematika, angleški in nemški jezik na obeh ravneh, iz izbirnega dela pa naravoslovni predmeti: fizika, biologija in kemija ter družboslovna: sociologija in psihologija.
+Zajeti so vsi predmeti z velikim številom kandidatov, ki so v vseh šestih letih imeli interno ocenjevanje.
+V nadaljevanju so izračunani korelacijski koeficienti med internimi točkovnimi ocenami pri spomladanskih maturah in pisnimi deli spomladanskih matur ter korelacijski koeficienti med ocenami učiteljev predmetov v 4. letniku in ocenami na spomladanskih maturah.
+Vsi korelacijski koeficienti so pri vseh predmetih in v vseh šestih letih na spomladanskih maturah pozitivni.
+Koeficienti so pri vsakem predmetu v vseh letih nižji med interno točkovno oceno in pisnim delom v primerjavi s koeficienti izračunani med oceno učitelja predmeta v 4. letniku in oceno na maturi.
+Računanje korelacijskih koeficientov po mojem mnenju ni najboljše merilo za prikazovanje soodvisnosti internih in eksternih ocen.
+Pri internem ocenjevanju predmetni učitelj lahko svojim učencem zavestno podeli boljše ocene.
+Če bi na primer učitelj vsakemu svojemu učencu pri interni oceni podelil za eno oceno višjo vrednost kot jo bo dosegel na maturi, bo izračunani korelacijski koeficient idealen, +1.
+Visok koeficient bi izražal nepristranskost učitelja do svojih kandidatov, kazal pa bi varljivo sliko in zameglil dejstvo o previsoko ocenjenem znanju pri internem ocenjevanju.
