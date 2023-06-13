@@ -55,6 +55,8 @@ In order to use our synonym method - Thesaurus for paraphrasing, you first need 
 ```
 $ conda create --name <environment_name> --file requirements_mt.yaml
 ```
+You will also need a dataset of synonym that you can find [here](https://www.clarin.si/repository/xmlui/handle/11356/1166).
+
 Afterwards, run the `thesaurus/main.py` script. The results will be visible in file `thesaurus/manual_data_results/results.csv`
 
 ## Metrics usage
